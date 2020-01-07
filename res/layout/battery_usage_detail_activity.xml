@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:tag="layout/battery_usage_detail_activity_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/SMWinset.AppToolBarStyle" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="?winsetLightThemeBgColor" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight" android:paddingHorizontal="@dimen/activity_horizontal_margin">
+                <ImageView android:id="@id/battery_usage_icon" android:layout_width="@dimen/thumb_nail_icon_size" android:layout_height="@dimen/thumb_nail_icon_size" />
+                <TextView android:id="@id/battery_usage_appname" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="?winsetListItemIconMarginEnd" style="@style/SMWinset.ListItemTextViewStyle" />
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/layout" android:tag="binding_1" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="yes">
+                    <TextView android:paddingTop="?winsetListItemTextViewPaddingTop" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/battery_usage_total" android:layout_marginStart="@dimen/activity_horizontal_margin" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+                    <TextView android:id="@id/battery_usage_total_time" android:paddingBottom="?winsetListItemTextViewPaddingBottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/activity_horizontal_margin" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+                    <include layout="@layout/divider_line_layout" />
+                    <TextView android:paddingTop="?winsetListItemTextViewPaddingTop" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/battery_usage_active" android:layout_marginStart="@dimen/activity_horizontal_margin" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+                    <TextView android:id="@id/battery_usage_active_time" android:paddingBottom="?winsetListItemTextViewPaddingBottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/activity_horizontal_margin" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+                    <include layout="@layout/divider_line_layout" />
+                    <TextView android:paddingTop="?winsetListItemTextViewPaddingTop" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/battery_usage_background" android:layout_marginStart="@dimen/activity_horizontal_margin" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+                    <TextView android:id="@id/battery_usage_background_time" android:paddingBottom="?winsetListItemTextViewPaddingBottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/activity_horizontal_margin" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+                    <include layout="@layout/divider_line_layout" />
+                    <TextView android:paddingTop="?winsetListItemTextViewPaddingTop" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/battery_usage" android:layout_marginStart="@dimen/activity_horizontal_margin" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+                    <TextView android:id="@id/battery_usage_percent" android:paddingBottom="?winsetListItemTextViewPaddingBottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/activity_horizontal_margin" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+                </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:listSeparatorTextViewStyle" />
+                <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="horizontal" android:id="@id/battery_usage_sleep_layout" android:focusable="true" android:clickable="true" android:weightSum="10.0" android:layout_centerVertical="true" style="@style/SMWinset.ListItemStyle.2Line">
+                    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/battery_usage_sleep_text_layout" android:focusable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="8.0" style="@style/SMWinset.ListItemTextViewStyle.2Line.TextContainer">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/battery_put_app_to_sleep" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/battery_app_usage_put_app_to_sleep_description" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+                    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+                    <Switch android:gravity="end" android:layout_gravity="center_vertical" android:id="@id/battery_usage_always_sleeping_switch" android:background="@android:color/transparent" android:focusable="false" android:clickable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="2.0" />
+                </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+            </LinearLayout>
+            <View android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/VacantSpaceForCorners" />
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    </ScrollView>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

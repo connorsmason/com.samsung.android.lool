@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/power_share_main_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:id="@id/iv_connection" android:layout_width="fill_parent" android:layout_height="@dimen/power_share_dialog_img_height" android:src="@drawable/ps_image_connected" />
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="@dimen/power_share_dialog_progress_container_height" android:layout_marginTop="@dimen/power_share_dialog_progress_container_margin_top" android:layout_marginBottom="@dimen/power_share_dialog_progress_container_margin_bottom">
+                <TextView android:textSize="@dimen/power_share_dialog_progress_text_size" android:paddingTop="0.0dip" android:paddingBottom="0.0dip" android:layout_width="wrap_content" android:text="@string/power_share_connected" style="@style/SMWinset.DialogBodyTextViewStyle" />
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+            <TextView android:textSize="@dimen/power_share_dialog_search_desc_size" android:id="@id/tv_connected_desc" android:paddingTop="0.0dip" android:paddingBottom="0.0dip" android:layout_width="wrap_content" android:text="@string/power_share_connected_desc" style="@style/SMWinset.DialogBodyTextViewStyle" />
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    </ScrollView>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

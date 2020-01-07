@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Detectáronse %d problemas</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Detectouse %d problema</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Coidado do dispositivo detectou %d aplicacións que poden estar a causar problemas, incluído software malicioso, fallos de aplicacións ou un uso alto da batería.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Coidado do dispositivo detectou %d aplicación que pode estar a causar problemas, incluído software malicioso, fallos de aplicacións ou un uso alto da batería.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d días</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d día</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">A pantalla apagarase despois de %d segundos sen actividade.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">A pantalla apagarase despois de %d segundo sen actividade.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">Colocáronse %d aplicacións en repouso.</item>
+        <item quantity="one">Colocouse 1 aplicación en repouso.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Poñendo %d aplicacións inactivas…</item>
+        <item quantity="one">Poñendo 1 aplicación inactiva…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Detectáronse %1$d ameazas. Pulsa aquí para resolvelas en %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Detectouse %1$d ameaza. Pulsa aquí para resolvela en %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d aplicacións están provocando erros graves no teu teléfono. É moi recomendable desinstalar estas aplicacións.</item>
+        <item quantity="one">Unha aplicación está provocando erros graves no teu teléfono. É moi recomendable desinstalar esta aplicación.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d aplicacións</item>
+        <item quantity="one">1 aplicación</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Pecháronse as aplicacións en segundo plano</item>
+        <item quantity="one">Pechouse a aplicación en segundo plano</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d aplicacións cun uso alto da batería. Ponas en repouso para aforrar enerxía. É posible que non reciban actualizacións nin envíen notificacións ata que as volvas abrir.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplicación cun uso alto da batería. Pona en repouso para aforrar enerxía. É posible que non reciba actualizacións nin envíe notificacións ata que a volvas abrir.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Atopáronse %d aplicacións con fallos. Ponas en repouso para que o teléfono funcione máis rápido. É posible que non reciban actualizacións nin envíen notificacións ata que as volvas abrir.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Atopouse %d aplicación con fallos. Pona en repouso para que o teléfono funcione máis rápido. É posible que non reciba actualizacións nin envíe notificacións ata que a volvas abrir.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Detectáronse %d aplicacións que fallan. Colócaas en repouso para que a tableta funcione con máis rapidez. É posible que non reciban actualizacións nin envíen notificacións ata que as volvas abrir.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Detectouse %d aplicación que falla. Colócaa en repouso para que a tableta funcione con máis rapidez. É posible que non reciba actualizacións nin envíe notificacións ata que a volvas abrir.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Detectáronse %d aplicacións de software malicioso. Desinstálaas para manter o teléfono seguro.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Detectouse %d aplicación de software malicioso. Desinstálaa para manter o teléfono seguro.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Detectáronse %d aplicacións de software malicioso. Desinstálaas para manter a tableta segura.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Detectouse %d aplicación de software malicioso. Desinstálaa para manter a tableta segura.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Detectouse certa actividade sospeitosa. Desinstala estas aplicacións para protexer o teléfono e os datos.</item>
+        <item quantity="one">Detectouse actividade sospeitosa. Desinstala as aplicacións seguintes para protexer o teu teléfono e datos.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Detectouse actividade sospeitosa. Desinstala estas aplicacións para protexer a túa tableta e os datos.</item>
+        <item quantity="one">Detectouse actividade sospeitosa. Desinstala as aplicacións seguintes para protexer a túa tableta e datos.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Detectouse certa actividade sospeitosa. Desinstala estas aplicacións para protexer o teléfono e os datos.</item>
+        <item quantity="one">Detectouse actividade sospeitosa. Desinstala as aplicacións seguintes para protexer o teu teléfono e datos.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Detectouse actividade sospeitosa. Desinstala estas aplicacións para protexer a túa tableta e os datos.</item>
+        <item quantity="one">Detectouse actividade sospeitosa. Desinstala as aplicacións seguintes para protexer a túa tableta e datos.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d ameazas detectadas</item>
+        <item quantity="one">1 ameaza detectada</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d ameazas</item>
+        <item quantity="one">1 ameaza</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">As aplicacións seguintes están provocando erros graves no teu teléfono. É moi recomendable desinstalar estas aplicacións. Unha vez desinstaladas, poderás instalar unha versión nova de cada aplicación desde unha tenda de aplicacións.</item>
+        <item quantity="one">A aplicación seguinte está provocando erros graves no teu teléfono. É moi recomendable desinstalar esta aplicación. Unha vez desinstalada, poderás instalar unha versión nova desde unha tenda de aplicacións.</item>
+    </plurals>
+</resources>

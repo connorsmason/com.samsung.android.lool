@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">ตรวจพบ %d ปัญหา</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">การดูแลอุปกรณ์ ตรวจพบ %d แอพที่อาจก่อให้เกิดปัญหา รวมถึงมัลแวร์ แอพขัดข้อง หรือใช้แแบตเตอรี่มากเกินไป</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d วัน</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">หน้าจอจะปิดหลังจากไม่ได้ใช้งานนาน %d วินาที</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d แอพถูกพักการใช้งานแล้ว</item>
+        <item quantity="one">1 แอพถูกพักการใช้งานแล้ว</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">กำลังพัก %d แอพ…</item>
+        <item quantity="one">กำลังพัก 1 แอพ…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">ตรวจพบ %1$d การคุกคาม แตะที่นี่เพื่อแก้ไขใน %2$s</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d แอพกำลังก่อให้เกิดข้อผิดพลาดร้ายแรงบนโทรศัพท์ของคุณ แนะนำให้ถอนการติดตั้งแอพนี้อย่างยิ่ง</item>
+        <item quantity="one">1 แอพกำลังก่อให้เกิดข้อผิดพลาดร้ายแรงบนโทรศัพท์ของคุณ แนะนำให้ถอนการติดตั้งแอพนี้อย่างยิ่ง</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d แอพ</item>
+        <item quantity="one">1 แอพ</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">ปิดแอพพื้นหลังแล้ว</item>
+        <item quantity="one">ปิดแอพพื้นหลังแล้ว</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">มี %d แอพที่ใช้แบตเตอรี่จำนวนมาก พักการใช้งานแอพเพื่อประหยัดแบตเตอรี่ แอพเหล่านี้จะไม่ได้รับอัพเดทหรือส่งการแจ้งเตือนให้คุณจนกว่าคุณจะเปิดแอพอีกครั้ง</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">พบ %d แอพขัดข้อง พักการใช้งานแอพเพื่อทำให้โทรศัพท์ของคุณทำงานได้เร็วขึ้น แอพเหล่านี้จะไม่ได้รับอัพเดทหรือส่งการแจ้งเตือนให้คุณจนกว่าคุณจะเปิดแอพอีกครั้ง</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">พบ %d แอพขัดข้อง พักการใช้งานแอพเพื่อทำให้แท็บเล็ตของคุณทำงานได้เร็วขึ้น แอพนี้จะไม่ได้รับอัพเดทหรือส่งการแจ้งเตือนให้คุณจนกว่าคุณจะเปิดแอพอีกครั้ง</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">ตรวจพบ %d แอพมัลแวร์ ถอนการติดตั้งเพื่อให้โทรศัพท์ของคุณปลอดภัย</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">ตรวจพบ %d แอพที่เป็นมัลแวร์ ถอนการติดตั้งเพื่อให้แท็บเล็ตของคุณปลอดภัย</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">ตรวจพบกิจกรรมที่น่าสงสัย ถอนการติดตั้งแอพเหล่านี้เพื่อปกป้องโทรศัพท์และข้อมูลของคุณ</item>
+        <item quantity="one">ตรวจพบการดำเนินการที่น่าสงสัย โปรดถอนการติดตั้งแอพด้านล่างนี้เพื่อปกป้องโทรศัพท์และข้อมูลของคุณ</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">ตรวจพบกิจกรรมที่น่าสงสัย ถอนการติดตั้งแอพเหล่านี้เพื่อปกป้องแท็บเล็ตและข้อมูลของคุณ</item>
+        <item quantity="one">ตรวจพบการดำเนินการที่น่าสงสัย โปรดถอนการติดตั้งแอพด้านล่างนี้เพื่อปกป้องแท็บเล็ตและข้อมูลของคุณ</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">ตรวจพบกิจกรรมที่น่าสงสัย ถอนการติดตั้งแอพเหล่านี้เพื่อปกป้องโทรศัพท์และข้อมูลของคุณ</item>
+        <item quantity="one">ตรวจพบการดำเนินการที่น่าสงสัย โปรดถอนการติดตั้งแอพด้านล่างนี้เพื่อปกป้องโทรศัพท์และข้อมูลของคุณ</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">ตรวจพบกิจกรรมที่น่าสงสัย ถอนการติดตั้งแอพเหล่านี้เพื่อปกป้องแท็บเล็ตและข้อมูลของคุณ</item>
+        <item quantity="one">ตรวจพบการดำเนินการที่น่าสงสัย โปรดถอนการติดตั้งแอพด้านล่างนี้เพื่อปกป้องแท็บเล็ตและข้อมูลของคุณ</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">ตรวจพบ %d การคุกคาม</item>
+        <item quantity="one">ตรวจพบ 1 การคุกคาม</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d การคุกคาม</item>
+        <item quantity="one">1 การคุกคาม</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">แอพด้านล่างกำลังทำให้โทรศัพท์ของคุณมีปัญหาร้ายแรง แนะนำให้ถอนการติดตั้งแอพนี้อย่างยิ่ง หลังจากถอนการติดตั้งแล้ว คุณอาจสามารถติดตั้งเวอร์ชันใหม่ของแต่ละแอพได้จากร้านค้าแอพ</item>
+        <item quantity="one">แอพด้านล่างกำลังทำให้โทรศัพท์ของคุณมีปัญหาอย่างร้ายแรง แนะนำให้ถอนการติดตั้งแอพนี้อย่างยิ่ง หลังจากถอนการติดตั้งแล้ว คุณอาจสามารถติดตั้งเวอร์ชันใหม่ของแต่ละแอพได้จากร้านค้าแอพ</item>
+    </plurals>
+</resources>

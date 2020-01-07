@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/SMWinset.AppToolBarStyle" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/storage_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <FrameLayout android:id="@id/storage_status_fragment_container" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <FrameLayout android:id="@id/msg_category_fragment_container" android:clipChildren="false" android:layout="@layout/msg_cleaner_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <ViewStub android:id="@id/memory_saver_fragment_container_stub" android:layout="@layout/memory_saver_fragment_container_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:id="@id/storage_detail_fragment_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <View android:id="@id/bottom_container" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/VacantSpaceForCorners" />
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    </ScrollView>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

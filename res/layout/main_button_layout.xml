@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@id/main_button_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginVertical="@dimen/scoreboard_container_space_vertical"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v4.widget.Space android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.02" />
+    <LinearLayout android:id="@id/main_button_battery" style="@style/ScoreboardShortcutContainerStyle">
+        <LinearLayout android:id="@id/main_button_battery_click_layout" style="@style/ScoreboardShortcutClickLayoutStyle">
+            <com.samsung.android.sm.view.ShortcutImageContainer android:id="@id/main_button_battery_image_container" style="@style/ScoreboardShortcutImageContainerStyle" />
+            <TextView android:id="@id/main_button_battery_text1" android:text="@string/battery" style="@style/ScoreboardShortcutMainTextStyle" />
+        </LinearLayout>
+        <TextView android:id="@id/main_button_battery_text2" style="@style/ScoreboardShortcutSubTextStyle" />
+    </LinearLayout>
+    <android.support.v4.widget.Space android:layout_width="@dimen/scoreboard_shortcut_item_space_horizontal" android:layout_height="wrap_content" />
+    <LinearLayout android:id="@id/main_button_storage" style="@style/ScoreboardShortcutContainerStyle">
+        <LinearLayout android:id="@id/main_button_storage_click_layout" style="@style/ScoreboardShortcutClickLayoutStyle">
+            <com.samsung.android.sm.view.ShortcutImageContainer android:id="@id/main_button_storage_image_container" style="@style/ScoreboardShortcutImageContainerStyle" />
+            <TextView android:id="@id/main_button_storage_text1" android:text="@string/storage" style="@style/ScoreboardShortcutMainTextStyle" />
+        </LinearLayout>
+        <TextView android:id="@id/main_button_storage_text2" style="@style/ScoreboardShortcutSubTextStyle" />
+    </LinearLayout>
+    <android.support.v4.widget.Space android:layout_width="@dimen/scoreboard_shortcut_item_space_horizontal" android:layout_height="wrap_content" />
+    <LinearLayout android:id="@id/main_button_ram" style="@style/ScoreboardShortcutContainerStyle">
+        <LinearLayout android:id="@id/main_button_ram_click_layout" style="@style/ScoreboardShortcutClickLayoutStyle">
+            <com.samsung.android.sm.view.ShortcutImageContainer android:id="@id/main_button_ram_image_container" style="@style/ScoreboardShortcutImageContainerStyle" />
+            <TextView android:id="@id/main_button_ram_text1" android:text="@string/title_ram" style="@style/ScoreboardShortcutMainTextStyle" />
+        </LinearLayout>
+        <TextView android:id="@id/main_button_ram_text2" style="@style/ScoreboardShortcutSubTextStyle" />
+    </LinearLayout>
+    <android.support.v4.widget.Space android:id="@id/security_item_space" android:layout_width="@dimen/scoreboard_shortcut_item_space_horizontal" android:layout_height="wrap_content" />
+    <LinearLayout android:id="@id/main_button_security" style="@style/ScoreboardShortcutContainerStyle">
+        <LinearLayout android:id="@id/main_button_security_click_layout" style="@style/ScoreboardShortcutClickLayoutStyle">
+            <com.samsung.android.sm.view.ShortcutImageContainer android:id="@id/main_button_security_image_container" style="@style/ScoreboardShortcutImageContainerStyle" />
+            <TextView android:id="@id/main_button_security_text1" android:text="@string/title_security" style="@style/ScoreboardShortcutMainTextStyle" />
+        </LinearLayout>
+        <TextView android:id="@id/main_button_security_text2" style="@style/ScoreboardShortcutSubTextStyle" />
+    </LinearLayout>
+    <android.support.v4.widget.Space android:id="@id/uds_item_space" android:visibility="gone" android:layout_width="@dimen/scoreboard_shortcut_item_space_horizontal" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/uds_main_button_layout" android:layout="@layout/uds_main_button_layout" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.23" />
+    <android.support.v4.widget.Space android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.02" />
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d പ്രശ്നങ്ങൾ കണ്ടെത്തി</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d പ്രശ്നം കണ്ടെത്തി</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">മാൽവെയർ, ആപ്പ് പ്രവർത്തനരാഹിത്യങ്ങൾ, അല്ലെങ്കിൽ ഉയർന്ന ബാറ്ററി ഉപയോഗം ഉൾപ്പെടെയുള്ള പ്രശ്നങ്ങൾക്ക് കാരണമായേക്കാവുന്ന %d ആപ്പുകളെ ഉപകരണ പരിപാലനം കണ്ടെത്തി.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">മാൽവെയർ, ആപ്പ് പ്രവർത്തനരാഹിത്യങ്ങൾ, അല്ലെങ്കിൽ ഉയർന്ന ബാറ്ററി ഉപയോഗം ഉൾപ്പെടെയുള്ള പ്രശ്നങ്ങൾക്ക് കാരണമായേക്കാവുന്ന %d ആപ്പിനെ ഉപകരണ പരിപാലനം കണ്ടെത്തി.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d ദിവസം</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ദിവസം</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">%d സെക്കന്‍റ് നിഷ്ക്രിയത്വത്തിന് ശേഷം സ്ക്രീൻ ഓഫാകും.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d സെക്കന്‍റ് നിഷ്ക്രിയത്വത്തിന് ശേഷം സ്ക്രീൻ ഓഫാകും.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d ആപ്ലിക്കേഷനുകൾ സ്ലീപ്പ് മോഡിലാക്കി.</item>
+        <item quantity="one">1 ആപ്ലിക്കേഷനെ സ്ലീപ്പ് മോഡിലാക്കി.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d ആപ്ലിക്കേഷനുകളെ സ്ലീപ്പിലാക്കുന്നു…</item>
+        <item quantity="one">1 ആപ്ലിക്കേഷനെ സ്ലീപ്പിലാക്കുന്നു…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d ഭീഷണികൾ കണ്ടെത്തി. %2$s-ൽ ഇത് പരിഹരിക്കുന്നതിന് ഇവിടെ സ്പർശിക്കുക.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ഭീഷണി കണ്ടെത്തി. %2$s-ൽ ഇത് പരിഹരിക്കുന്നതിന് ഇവിടെ സ്പർശിക്കുക.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d ആപ്പുകൾ നിങ്ങളുടെ ഫോണിൽ ഗുരുതര പിശകുകൾക്ക് കാരണമാകുന്നുണ്ട്. ഈ ആപ്പുകളെ അൺഇൻസ്റ്റാൾ ചെയ്യാൻ ശക്തമായി ശുപാർശ ചെയ്യുന്നു.</item>
+        <item quantity="one">1 ആപ്പ് നിങ്ങളുടെ ഫോണിൽ ഗുരുതര പിശകുകൾക്ക് കാരണമാകുന്നുണ്ട്. ഈ ആപ്പ് അൺഇൻസ്റ്റാൾ ചെയ്യാൻ ശക്തമായി ശുപാർശ ചെയ്യുന്നു.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d ആപ്ലിക്കേഷനുകൾ</item>
+        <item quantity="one">1 ആപ്ലിക്കേഷൻ</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">പശ്ചാത്തല ആപ്പുകൾ അടച്ചു</item>
+        <item quantity="one">പശ്ചാത്തല ആപ്പ് അടച്ചു</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">ഉയർന്ന ബാറ്ററി ഉപയോഗമുള്ള %d ആപ്പുകൾ. പവർ ലാഭിക്കാനായി അവയെ നിഷ്ക്രിയാവസ്ഥയിലാക്കുക. നിങ്ങളവയെ വീണ്ടും തുറക്കുന്നതുവരെ അവ അപ്ഡേറ്റുകൾ സ്വീകരിക്കുകയോ അറിയിപ്പുകൾ അയയ്ക്കുകയോ ചെയ്തേക്കില്ല.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ഉയർന്ന ബാറ്ററി ഉപയോഗമുള്ള %d ആപ്പ്. പവർ ലാഭിക്കാനായി അതിനെ നിഷ്ക്രിയാവസ്ഥയിലാക്കുക. നിങ്ങളതിനെ വീണ്ടും തുറക്കുന്നതുവരെ അത് അപ്ഡേറ്റുകൾ സ്വീകരിക്കുകയോ അറിയിപ്പുകൾ അയയ്ക്കുകയോ ചെയ്തേക്കില്ല.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">പ്രവർത്തനരഹിതമായ %d ആപ്പുകളെ കണ്ടെത്തി. ഫോൺ വേഗത വർദ്ധിപ്പിക്കുന്നതിന് അവയെ നിഷ്ക്രിയാവസ്ഥയിലാക്കുക. നിങ്ങളവയെ വീണ്ടും തുറക്കുന്നതുവരെ അവ അപ്ഡേറ്റുകൾ സ്വീകരിക്കുകയോ അറിയിപ്പുകൾ അയയ്ക്കുകയോ ചെയ്തേക്കില്ല.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">പ്രവർത്തനരഹിതമായ %d ആപ്പിനെ കണ്ടെത്തി. ഫോൺ വേഗത വർദ്ധിപ്പിക്കുന്നതിന് അതിനെ നിഷ്ക്രിയാവസ്ഥയിലാക്കുക. നിങ്ങളതിനെ വീണ്ടും തുറക്കുന്നതുവരെ അത് അപ്ഡേറ്റുകൾ സ്വീകരിക്കുകയോ അറിയിപ്പുകൾ അയയ്ക്കുകയോ ചെയ്തേക്കില്ല.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">പ്രവർത്തനരഹിതമായ %d ആപ്പുകളെ കണ്ടെത്തി. ടാബ്‌ലറ്റ് വേഗത വർദ്ധിപ്പിക്കുന്നതിന് അവയെ നിഷ്ക്രിയാവസ്ഥയിലാക്കുക. നിങ്ങളവയെ വീണ്ടും തുറക്കുന്നതുവരെ അവ അപ്ഡേറ്റുകൾ സ്വീകരിക്കുകയോ അറിയിപ്പുകൾ അയയ്ക്കുകയോ ചെയ്തേക്കില്ല.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">പ്രവർത്തനരഹിതമായ %d ആപ്പിനെ കണ്ടെത്തി. ടാബ്‌ലറ്റ് വേഗത വർദ്ധിപ്പിക്കുന്നതിന് അതിനെ നിഷ്ക്രിയാവസ്ഥയിലാക്കുക. നിങ്ങളതിനെ വീണ്ടും തുറക്കുന്നതുവരെ അത് അപ്ഡേറ്റുകൾ സ്വീകരിക്കുകയോ അറിയിപ്പുകൾ അയയ്ക്കുകയോ ചെയ്തേക്കില്ല.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d മാൽവെയർ ആപ്പുകളെ കണ്ടെത്തി. നിങ്ങളുടെ ഫോൺ സുരക്ഷിതമാക്കുന്നതിന് അവയെ അൺഇൻസ്റ്റാൾ ചെയ്യുക.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d മാൽവെയർ ആപ്പിനെ കണ്ടെത്തി. നിങ്ങളുടെ ഫോൺ സുരക്ഷിതമാക്കുന്നതിന് അത് അൺഇൻസ്റ്റാൾ ചെയ്യുക.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d മാൽവെയർ ആപ്പുകളെ കണ്ടെത്തി. നിങ്ങളുടെ ടാബ്‌ലറ്റിനെ സുരക്ഷിതമാക്കുന്നതിന് അവയെ അൺഇൻസ്റ്റാൾ ചെയ്യുക.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d മാൽവെയർ ആപ്പിനെ കണ്ടെത്തി. നിങ്ങളുടെ ടാബ്‌ലറ്റിനെ സുരക്ഷിതമാക്കുന്നതിന് അതിനെ അൺഇൻസ്റ്റാൾ ചെയ്യുക.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">സംശയകരമായ പ്രവർത്തനം കണ്ടെത്തി. നിങ്ങളുടെ ഫോണും ഡാറ്റയും സംരക്ഷിക്കുന്നതിന് ഈ ആപ്പുകൾ അൺഇൻസ്റ്റാൾ ചെയ്യുക.</item>
+        <item quantity="one">സംശയാസ്പദമായ പ്രവർത്തനം കണ്ടെത്തപ്പെട്ടു. നിങ്ങളുടെ ഫോണിനെയും ഡാറ്റയെയും സംരക്ഷിക്കുന്നതിന് താഴെയുള്ള ആപ്ലിക്കേഷനുകൾ അൺഇൻസ്റ്റാൾ ചെയ്യുക.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">സംശയകരമായ പ്രവർത്തനം കണ്ടെത്തപ്പെട്ടു. നിങ്ങളുടെ ടാബ്‌ലറ്റും ഡാറ്റയും സംരക്ഷിക്കുന്നതിന് ഈ ആപ്പുകൾ അൺഇൻസ്റ്റാൾ ചെയ്യുക.</item>
+        <item quantity="one">സംശയാസ്പദമായ പ്രവർത്തനം കണ്ടെത്തപ്പെട്ടു. നിങ്ങളുടെ ടാബ്‌ലറ്റിനെയും ഡാറ്റയെയും സംരക്ഷിക്കുന്നതിന് താഴെയുള്ള ആപ്ലിക്കേഷനുകൾ അൺഇൻസ്റ്റാൾ ചെയ്യുക.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">സംശയകരമായ പ്രവർത്തനം കണ്ടെത്തി. നിങ്ങളുടെ ഫോണും ഡാറ്റയും സംരക്ഷിക്കുന്നതിന് ഈ ആപ്പുകൾ അൺഇൻസ്റ്റാൾ ചെയ്യുക.</item>
+        <item quantity="one">സംശയാസ്പദമായ പ്രവർത്തനം കണ്ടെത്തപ്പെട്ടു. നിങ്ങളുടെ ഫോണിനെയും ഡാറ്റയെയും സംരക്ഷിക്കുന്നതിന് താഴെയുള്ള ആപ്ലിക്കേഷനുകൾ അൺഇൻസ്റ്റാൾ ചെയ്യുക.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">സംശയകരമായ പ്രവർത്തനം കണ്ടെത്തപ്പെട്ടു. നിങ്ങളുടെ ടാബ്‌ലറ്റും ഡാറ്റയും സംരക്ഷിക്കുന്നതിന് ഈ ആപ്പുകൾ അൺഇൻസ്റ്റാൾ ചെയ്യുക.</item>
+        <item quantity="one">സംശയാസ്പദമായ പ്രവർത്തനം കണ്ടെത്തപ്പെട്ടു. നിങ്ങളുടെ ടാബ്‌ലറ്റിനെയും ഡാറ്റയെയും സംരക്ഷിക്കുന്നതിന് താഴെയുള്ള ആപ്ലിക്കേഷനുകൾ അൺഇൻസ്റ്റാൾ ചെയ്യുക.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d ഭീഷണികൾ കണ്ടെത്തി</item>
+        <item quantity="one">1 ഭീഷണി കണ്ടെത്തി</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d ഭീഷണികൾ</item>
+        <item quantity="one">1 ഭീഷണി</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">താഴെയുള്ള ആപ്പുകൾ നിങ്ങളുടെ ഫോണിൽ ഗുരുതര പിശകുകൾക്ക് കാരണമാകുന്നുണ്ട്. ഈ ആപ്പുകളെ അൺഇൻസ്റ്റാൾ ചെയ്യാൻ ശക്തമായി ശുപാർശ ചെയ്യുന്നു. അൺഇൻസ്റ്റാൾ ചെയ്തുകഴിഞ്ഞാൽ, ഒരു ആപ്പ് സ്റ്റോറിൽ നിന്ന് ഓരോ ആപ്പിന്‍റെയും പുതിയൊരു പതിപ്പ് നിങ്ങൾക്ക് ഇൻസ്റ്റാൾ ചെയ്യാൻ കഴിഞ്ഞേക്കും.</item>
+        <item quantity="one">താഴെയുള്ള ആപ്പ് നിങ്ങളുടെ ഫോണിൽ ഗുരുതര പിശകുകൾക്ക് കാരണമാകുന്നുണ്ട്. ഈ ആപ്പ് അൺഇൻസ്റ്റാൾ ചെയ്യാൻ ശക്തമായി ശുപാർശ ചെയ്യുന്നു. അൺഇൻസ്റ്റാൾ ചെയ്തുകഴിഞ്ഞാൽ, ഒരു ആപ്പ് സ്റ്റോറിൽ നിന്ന് പുതിയൊരു പതിപ്പ് നിങ്ങൾക്ക് ഇൻസ്റ്റാൾ ചെയ്യാൻ കഴിഞ്ഞേക്കും.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d समस्या आढळल्या</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d समस्या आढळली</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">उपकरण देखरेखीने %d अनुप्रयोगांचा शोध लावला आहे ज्यामुळे मालवेअर अनुप्रयोग, अनुप्रयोग क्रॅश किंवा उच्च बॅटरी वापरा सारख्या समस्या उद्भवू शकतात.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">उपकरण देखरेखीने %d अनुप्रयोगाचा शोध लावला आहे ज्यामुळे मालवेअर अनुप्रयोग, अनुप्रयोग क्रॅश किंवा उच्च बॅटरी वापरा सारख्या समस्या उद्भवू शकतात.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d दिवस</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d दिवस</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">%d सेकंदांच्या निष्क्रियते नंतर स्क्रीन बंद होईल.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d सेकंदाच्या निष्क्रियते नंतर स्क्रीन बंद होईल.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d अनुप्रयोग निष्क्रिय केले आहेत.</item>
+        <item quantity="one">1 अनुप्रयोग निष्क्रिय केला आहे.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d अनुप्रयोग निष्क्रिय करत आहे…</item>
+        <item quantity="one">1 अनुप्रयोग निष्क्रिय करत आहे…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d थ्रेट आढळले. %2$s मध्‍ये त्यांचे निराकरण करण्‍या साठी येथे टॅप करा.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d थ्रेट आढळला. %2$s मध्‍ये त्याचे निराकरण करण्‍या साठी येथे टॅप करा.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d अनुप्रयोग आपल्या फोन वर समस्या उद्भवत आहेत. या अनुप्रयोगांना अनइन्‍स्‍टॉल करण्याची जोरदार शिफारस केली आहे.</item>
+        <item quantity="one">आपल्या फोन वर 1 अनुप्रयोग गंभीर समस्या उद्भवत आहे. हा अनुप्रयोग अनइन्‍स्‍टॉल करण्याची जोरदार शिफारस केली आहे.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d अनुप्रयोग</item>
+        <item quantity="one">1 अनुप्रयोग</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">पार्श्वभूमी अनुप्रयोग बंद केले</item>
+        <item quantity="one">पार्श्वभूमी अनुप्रयोग बंद केला</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">उच्च बॅटरी वापरा सह %d अनुप्रयोग. पॉवर बचत करण्या साठी त्यांना निष्क्रिय ठेवा. आपण त्यांना पुन्हा उघडल्या शिवाय ते अद्ययावते प्राप्‍त करू शकणार नाहीत किंवा अधिसूचना पाठवू शकणार नाहीत.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">उच्च बॅटरी वापरा सह %d अनुप्रयोग. पॉवर बचत करण्या साठी त्याला निष्क्रिय ठेवा. आपण त्याला पुन्हा उघडल्या शिवाय तो अद्ययावते प्राप्‍त करू शकणार नाही किंवा अधिसूचना पाठवू शकणार नाही.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d क्रॅश झालेले अनुप्रयोग आढळले. आपल्या फोनची गती वाढवण्या साठी त्यांना निष्क्रिय ठेवा. आपण त्यांना पुन्हा उघडल्या शिवाय ते अद्ययावते प्राप्‍त करू शकणार नाहीत किंवा अधिसूचना पाठवू शकणार नाहीत.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d क्रॅश झालेला अनुप्रयोग आढळला. आपल्या फोनची गती वाढवण्या साठी त्याला निष्क्रिय ठेवा. आपण त्याला पुन्हा उघडल्या शिवाय तो अद्ययावते प्राप्‍त करू शकणार नाही किंवा अधिसूचना पाठवू शकणार नाही.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d क्रॅश झालेले अनुप्रयोग आढळले. आपल्या टॅबलेटची गती वाढवण्या साठी त्यांना निष्क्रिय ठेवा. आपण त्यांना पुन्हा उघडे पर्यंत ते अद्ययावते प्राप्‍त करू शकणार नाहीत किंवा अधिसूचना पाठवू शकणार नाहीत.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d क्रॅश झालेला अनुप्रयोग आढळला. आपल्या टॅबलेटची गती वाढवण्या साठी त्याला निष्क्रिय ठेवा. आपण त्याला पुन्हा उघडे पर्यंत तो अद्ययावते प्राप्‍त करू शकणार नाहीत किंवा अधिसूचना पाठवू शकणार नाहीत.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d मालवेअर अनुप्रयोग आढळले. आपला फोन सुरक्षित ठेवण्या साठी ते अनइन्स्टॉल करा.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d मालवेअर अनुप्रयोग आढळला. आपला फोन सुरक्षित ठेवण्या साठी तो अनइन्स्टॉल करा.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d मालवेअर अनुप्रयोग आढळले. आपला टॅबलेट सुरक्षित ठेवण्या साठी ते अनइन्स्टॉल करा.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d मालवेअर अनुप्रयोग आढळला. आपला टॅबलेट सुरक्षित ठेवण्या साठी तो अनइन्स्टॉल करा.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">संशयास्पद क्रियाकलाप आढळला गेला आहे. आपला फोन आणि डेटा संरक्षित करण्या साठी हे अनुप्रयोग अनइन्स्टॉल करा.</item>
+        <item quantity="one">संशयास्पद क्रिया शोधली गेली आहे. आपला फोन आणि डेटा संरक्षित करण्या साठी खालील अनुप्रयोग अनइनस्टॉल करा.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">संशयास्पद क्रियाकलाप आढळला गेला आहे. आपला टॅबलेट आणि डेटा संरक्षित करण्या साठी हे अनुप्रयोग अनइन्‍स्‍टॉल करा.</item>
+        <item quantity="one">संशयास्पद क्रिया शोधली गेली आहे. आपला टॅबलेट आणि डेटा संरक्षित करण्या साठी खालील अनुप्रयोग अनइनस्टॉल करा.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">संशयास्पद क्रियाकलाप आढळला गेला आहे. आपला फोन आणि डेटा संरक्षित करण्या साठी हे अनुप्रयोग अनइन्स्टॉल करा.</item>
+        <item quantity="one">संशयास्पद क्रिया शोधली गेली आहे. आपला फोन आणि डेटा संरक्षित करण्या साठी खालील अनुप्रयोग अनइनस्टॉल करा.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">संशयास्पद क्रियाकलाप आढळला गेला आहे. आपला टॅबलेट आणि डेटा संरक्षित करण्या साठी हे अनुप्रयोग अनइन्‍स्‍टॉल करा.</item>
+        <item quantity="one">संशयास्पद क्रिया शोधली गेली आहे. आपला टॅबलेट आणि डेटा संरक्षित करण्या साठी खालील अनुप्रयोग अनइनस्टॉल करा.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d थ्रेट्स आढळले</item>
+        <item quantity="one">1 थ्रेट आढळला</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d धोके</item>
+        <item quantity="one">1 धोका</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">खालील अनुप्रयोग आपल्या फोन वर गंभीर समस्या उद्भवत आहेत. या अनुप्रयोगांना अनइन्‍स्‍टॉल करण्याची जोरदार शिफारस केली आहे. अनइन्‍स्‍टॉल केल्या नंतर, आपण अॅप स्टोर वरून प्रत्येक अनुप्रयोगाची नवीन आवृत्‍ती इन्‍स्‍टॉल करण्यास सक्षम होऊ शकता.</item>
+        <item quantity="one">खालील अनुप्रयोग आपल्या फोन वर गंभीर समस्या उद्भवत आहे. हा अनुप्रयोग अनइन्‍स्‍टॉल करण्‍याची जोरदार शिफारस केली आहे. अनइन्‍स्‍टॉल केल्या नंतर, आपण अॅप स्टोर वरून प्रत्येक अनुप्रयोगाची नवीन आवृत्‍ती इन्‍स्‍टॉल करण्यास सक्षम होऊ शकता.</item>
+    </plurals>
+</resources>

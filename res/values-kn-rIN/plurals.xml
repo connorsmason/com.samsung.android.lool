@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d ಸಮಸ್ಯೆಗಳು ಪತ್ತೆಹಚ್ಚಲಾಗಿದೆ</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ಸಮಸ್ಯೆ ಪತ್ತೆಹಚ್ಚಲಾಗಿದೆ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">ಸಾಧನ ಕಾಳಜಿ ಅನ್ವಯಿಸುವಿಕೆಯು ಮಾಲ್ವೇರ್, ಅನ್ವಯಿಸುವಿಕೆ ಕ್ರ್ಯಾಶ್‍ಗಳು ಅಥವಾ ಅಧಿಕ ಬ್ಯಾಟರಿ ಬಳಕೆಯನ್ನು ಒಳಗೊಂಡ ಸಮಸ್ಯೆಗಳಿಗೆ ಕಾರಣವಾಗುವ %d ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಪತ್ತೆಹಚ್ಚಿದೆ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಸಾಧನ ಕಾಳಜಿ ಅನ್ವಯಿಸುವಿಕೆಯು ಮಾಲ್ವೇರ್, ಅನ್ವಯಿಸುವಿಕೆ ಕ್ರ್ಯಾಶ್‍ಗಳು ಅಥವಾ ಅಧಿಕ ಬ್ಯಾಟರಿ ಬಳಕೆಯನ್ನು ಒಳಗೊಂಡ ಸಮಸ್ಯೆಗಳಿಗೆ ಕಾರಣವಾಗುವ %d ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ಪತ್ತೆಹಚ್ಚಿದೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d ದಿನಗಳು</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ದಿನ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">ಚಟುವಟಿಕೆಯಿಲ್ಲದ %d ಸೆಕೆಂಡುಗಳ ನಂತರ ಸ್ಕ್ರೀನ್ ಆಫ್ ಆಗುತ್ತದೆ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಚಟುವಟಿಕೆಯಿಲ್ಲದ %d ಸೆಕೆಂಡಿನ ನಂತರ ಸ್ಕ್ರೀನ್ ಆಫ್ ಆಗುತ್ತದೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಸ್ಲೀಪ್‍ನಲ್ಲಿರಿಸಲಾಗಿದೆ.</item>
+        <item quantity="one">1 ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ಸ್ಲೀಪ್‍ನಲ್ಲಿರಿಸಲಾಗಿದೆ.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಸ್ಲೀಪ್‍ನಲ್ಲಿರಿಸಲಾಗುತ್ತಿದೆ…</item>
+        <item quantity="one">1 ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ಸ್ಲೀಪ್‍ನಲ್ಲಿರಿಸಲಾಗುತ್ತಿದೆ…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d ಅಪಾಯಗಳು ಕಂಡುಬಂದಿವೆ. %2$sನಲ್ಲಿ ಅವುಗಳನ್ನು ಪರಿಹರಿಸಲು ಇಲ್ಲಿ ತಟ್ಟಿ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ಅಪಾಯ ಕಂಡುಬಂದಿದೆ. %2$sನಲ್ಲಿ ಅದನ್ನು ಪರಿಹರಿಸಲು ಇಲ್ಲಿ ತಟ್ಟಿ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">ನಿಮ್ಮ ಫೋನ್‍ನಲ್ಲಿನ ದೋಷಗಳಿಗೆ %d ಅನ್ವಯಿಸುವಿಕೆಗಳು ಕಾರಣವಾಗಿವೆ. ಈ ಅನ್ವಯಿಸುವಿಕೆಗಳ ಅಸ್ಥಾಪಿಸುವಿಕೆಯನ್ನು ಬಲವಾಗಿ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ.</item>
+        <item quantity="one">ನಿಮ್ಮ ಫೋನ್‍ನಲ್ಲಿ 1 ಅನ್ವಯಿಸುವಿಕೆಯು ಗಂಭೀರ ದೋಷಗಳಿಗೆ ಕಾರಣವಾಗಿದೆ. ಈ ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ಅಸ್ಥಾಪಿಸುವಂತೆ ಬಲವಾಗಿ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d ಅನ್ವಯಿಸುವಿಕೆಗಳು</item>
+        <item quantity="one">1 ಅನ್ವಯಿಸುವಿಕೆ</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">ಹಿನ್ನಲೆ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಮುಚ್ಚಲಾಗಿದೆ</item>
+        <item quantity="one">ಹಿನ್ನಲೆ ಅನ್ವಯಿಸುವಿಕೆಯನ್ನು ಮುಚ್ಚಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">ಅಧಿಕ ಬ್ಯಾಟರಿ ಬಳಕೆಯೊಂದಿಗೆ %d ಅನ್ವಯಿಸುವಿಕೆಗಳು ಇವೆ. ಪವರ್ ಉಳಿಸುವ ನಿಟ್ಟಿನಲ್ಲಿ ಅವುಗಳನ್ನು ಸ್ಲೀಪ್‍ನಲ್ಲಿರಿಸಿ. ನೀವು ಅವುಗಳನ್ನು ಮತ್ತೊಮ್ಮೆ ತೆರೆಯುವವರೆಗೆ ಅವು ನವೀಕರಣಗಳನ್ನು ಸ್ವೀಕರಿಸದಿರಬಹುದು ಅಥವಾ ಪ್ರಕಟಣೆಗಳನ್ನು ಕಳುಹಿಸದಿರಬಹುದು.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಅಧಿಕ ಬ್ಯಾಟರಿ ಬಳಕೆಯೊಂದಿಗೆ %d ಅನ್ವಯಿಸುವಿಕೆ ಇದೆ. ಪವರ್ ಉಳಿಸುವ ನಿಟ್ಟಿನಲ್ಲಿ ಅದನ್ನು ಸ್ಲೀಪ್‍ನಲ್ಲಿರಿಸಿ. ನೀವು ಅದನ್ನು ಮತ್ತೊಮ್ಮೆ ತೆರೆಯುವವರೆಗೆ ಅದು ನವೀಕರಣಗಳನ್ನು ಸ್ವೀಕರಿಸದಿರಬಹುದು ಅಥವಾ ಪ್ರಕಟಣೆಗಳನ್ನು ಕಳುಹಿಸದಿರಬಹುದು.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d ಕ್ರ್ಯಾಶ್ ಆಗಿರುವ ಅನ್ವಯಿಸುವಿಕೆಗಳು ಕಂಡುಬಂದಿದೆ. ನಿಮ್ಮ ಫೋನ್ ವೇಗವನ್ನು ಹೆಚ್ಚಿಸಲು ಅವುಗಳನ್ನು ಸ್ಲೀಪ್‍ನಲ್ಲಿರಿಸಿ. ನೀವು ಅವುಗಳನ್ನು ಮತ್ತೊಮ್ಮೆ ತೆರೆಯುವವರೆಗೆ ಅವು ನವೀಕರಣಗಳನ್ನು ಸ್ವೀಕರಿಸದಿರಬಹುದು ಅಥವಾ ಪ್ರಕಟಣೆಗಳನ್ನು ಕಳುಹಿಸದಿರಬಹುದು.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ಕ್ರ್ಯಾಶ್ ಅನ್ವಯಿಸುವಿಕೆ ಕಂಡುಬಂದಿದೆ. ನಿಮ್ಮ ಫೋನ್ ವೇಗವನ್ನು ಹೆಚ್ಚಿಸಲು ಅದನ್ನು ಸ್ಲೀಪ್‍ನಲ್ಲಿರಿಸಿ. ನೀವು ಅದನ್ನು ಮತ್ತೊಮ್ಮೆ ತೆರೆಯುವವರೆಗೆ ಅದು ನವೀಕರಣಗಳನ್ನು ಸ್ವೀಕರಿಸದಿರಬಹುದು ಅಥವಾ ಪ್ರಕಟಣೆಗಳನ್ನು ಕಳುಹಿಸದಿರಬಹುದು.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d ಕ್ರ್ಯಾಶ್ ಆಗಿರುವ ಅನ್ವಯಿಸುವಿಕೆಗಳು ಕಂಡುಬಂದಿವೆ. ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ವೇಗವನ್ನು ಹೆಚ್ಚಿಸಲು ಅವುಗಳನ್ನು ಸ್ಲೀಪ್‍ನಲ್ಲಿರಿಸಿ. ನೀವು ಅವುಗಳನ್ನು ಮತ್ತೊಮ್ಮೆ ತೆರೆಯುವವರೆಗೆ ಅವುಗಳು ನವೀಕರಣಗಳನ್ನು ಸ್ವೀಕರಿಸದಿರಬಹುದು ಅಥವಾ ಪ್ರಕಟಣೆಗಳನ್ನು ಕಳುಹಿಸದಿರಬಹುದು.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ಕ್ರ್ಯಾಶ್ ಆಗಿರುವ ಅನ್ವಯಿಸುವಿಕೆ ಕಂಡುಬಂದಿದೆ. ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ವೇಗವನ್ನು ಹೆಚ್ಚಿಸಲು ಅದನ್ನು ಸ್ಲೀಪ್‍ನಲ್ಲಿರಿಸಿ. ನೀವು ಅದನ್ನು ಮತ್ತೊಮ್ಮೆ ತೆರೆಯುವವರೆಗೆ ಅವುಗಳ ನವೀಕರಣಗಳನ್ನು ಸ್ವೀಕರಿಸದಿರಬಹುದು ಅಥವಾ ಪ್ರಕಟಣೆಗಳನ್ನು ಕಳುಹಿಸದಿರಬಹುದು.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d ಮಾಲ್‌ವೇರ್ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಪತ್ತೆಹಚ್ಚಲಾಗಿದೆ. ನಿಮ್ಮ ಫೋನ್ ಸುರಕ್ಷಿತವಾಗಿರಿಸಲು ಅವುಗಳನ್ನು ಅಸ್ಥಾಪಿಸಿ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ಮಾಲ್‌ವೇರ್ ಅನ್ವಯಿಸುವಿಕೆ ಪತ್ತೆಯಾಗಿದೆ. ನಿಮ್ಮ ಫೋನ್ ಸುರಕ್ಷಿತವಾಗಿರಿಸಲು ಅದನ್ನು ಅಸ್ಥಾಪಿಸಿ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d ಮಾಲ್‌ವೇರ್ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಪತ್ತೆಹಚ್ಚಲಾಗಿದೆ. ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಸುರಕ್ಷಿತವಾಗಿರಿಸಲು ಅವುಗಳನ್ನು ಅಸ್ಥಾಪಿಸಿ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ಮಾಲ್‌ವೇರ್ ಅನ್ವಯಿಸುವಿಕೆ ಪತ್ತೆಯಾಗಿದೆ. ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಸುರಕ್ಷಿತವಾಗಿರಿಸಲು ಅದನ್ನು ಅಸ್ಥಾಪಿಸಿ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">ಅನುಮಾನಾಸ್ಪದ ಚುಟುವಟಿಕೆ ಪತ್ತೆಯಾಗಿದೆ. ನಿಮ್ಮ ಫೋನ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಸುರಕ್ಷಿತವಾಗಿಡಲು ಈ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಅಸ್ಥಾಪಿಸಿ.</item>
+        <item quantity="one">ಅನುಮಾನಾಸ್ಪದ ಚುಟುವಟಿಕೆ ಪತ್ತೆಯಾಗಿದೆ. ನಿಮ್ಮ ಫೋನ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಸುರಕ್ಷಿತವಾಗಿಡಲು ಈ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಅಸ್ಥಾಪಿಸಿ.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">ಅನುಮಾನಾಸ್ಪದ ಚುಟುವಟಿಕೆ ಪತ್ತೆಯಾಗಿದೆ. ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಸುರಕ್ಷಿತವಾಗಿಡಲು ಈ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಅಸ್ಥಾಪಿಸಿ.</item>
+        <item quantity="one">ಅನುಮಾನಾಸ್ಪದ ಚುಟುವಟಿಕೆ ಪತ್ತೆಯಾಗಿದೆ. ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಸುರಕ್ಷಿತವಾಗಿಡಲು ಈ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಅಸ್ಥಾಪಿಸಿ.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">ಅನುಮಾನಾಸ್ಪದ ಚುಟುವಟಿಕೆ ಪತ್ತೆಯಾಗಿದೆ. ನಿಮ್ಮ ಫೋನ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಸುರಕ್ಷಿತವಾಗಿಡಲು ಈ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಅಸ್ಥಾಪಿಸಿ.</item>
+        <item quantity="one">ಅನುಮಾನಾಸ್ಪದ ಚುಟುವಟಿಕೆ ಪತ್ತೆಯಾಗಿದೆ. ನಿಮ್ಮ ಫೋನ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಸುರಕ್ಷಿತವಾಗಿಡಲು ಈ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಅಸ್ಥಾಪಿಸಿ.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">ಅನುಮಾನಾಸ್ಪದ ಚುಟುವಟಿಕೆ ಪತ್ತೆಯಾಗಿದೆ. ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಸುರಕ್ಷಿತವಾಗಿಡಲು ಈ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಅಸ್ಥಾಪಿಸಿ.</item>
+        <item quantity="one">ಅನುಮಾನಾಸ್ಪದ ಚುಟುವಟಿಕೆ ಪತ್ತೆಯಾಗಿದೆ. ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಮತ್ತು ಡೇಟಾವನ್ನು ಸುರಕ್ಷಿತವಾಗಿಡಲು ಈ ಅನ್ವಯಿಸುವಿಕೆಗಳನ್ನು ಅಸ್ಥಾಪಿಸಿ.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d ಅಪಾಯಗಳು ಕಂಡುಬಂದಿವೆ</item>
+        <item quantity="one">1 ಅಪಾಯ ಕಂಡುಬಂದಿದೆ</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d ಬೆದರಿಕೆಗಳು</item>
+        <item quantity="one">1 ಬೆದರಿಕೆ</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">ನಿಮ್ಮ ಫೋನ್‍ನಲ್ಲಿನ ಗಂಭೀರ ದೋಷಗಳಿಗೆ ಕೆಳಗಿರುವ ಅನ್ವಯಿಸುವಿಕೆಗಳು ಕಾರಣವಾಗಿವೆ. ಈ ಅನ್ವಯಿಸುವಿಕೆಗಳ ಅಸ್ಥಾಪಿಸುವಿಕೆಯನ್ನು ಬಲವಾಗಿ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ. ಅಸ್ಥಾಪಿಸುವಿಕೆ ನಂತರ, ಅನ್ವಯಿಸುವಿಕೆ ಸ್ಟೋರ್ ಮೂಲಕ ಪ್ರತಿ ಅನ್ವಯಿಸುವಿಕೆಯ ಹೊಸ ಆವೃತ್ತಿಯನ್ನು ಸ್ಥಾಪಿಸಲು ನೀವು ಶಕ್ತರಾಗಬಹುದು.</item>
+        <item quantity="one">ನಿಮ್ಮ ಫೋನ್‍ನಲ್ಲಿನ ಗಂಭೀರ ದೋಷಗಳಿಗೆ ಕೆಳಗಿರುವ ಅನ್ವಯಿಸುವಿಕೆ ಕಾರಣವಾಗಿದೆ. ಈ ಅನ್ವಯಿಸುವಿಕೆಯ ಅಸ್ಥಾಪಿಸುವಿಕೆಯನ್ನು ಬಲವಾಗಿ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ. ಅಸ್ಥಾಪಿಸುವಿಕೆ ನಂತರ, ಅನ್ವಯಿಸುವಿಕೆ ಸ್ಟೋರ್ ಮೂಲಕ ಹೊಸ ಆವೃತ್ತಿಯನ್ನು ಸ್ಥಾಪಿಸಲು ನೀವು ಶಕ್ತರಾಗಬಹುದು.</item>
+    </plurals>
+</resources>

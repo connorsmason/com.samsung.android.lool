@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-map>
+    <color>
+        <match overlay="dc_winset_sep10_color_primary">
+            <original>score_tip_view_bg_color_theme</original>
+            <original>interval_seek_bar_mark_color_theme</original>
+        </match>
+        <match overlay="dc_winset_sep10_list_item_text_color">
+            <original>score_shortcut_title_text_color_theme</original>
+            <original>scoreboard_detail_auto_item_icon_color_theme</original>
+            <original>auto_restart_toggle_button_textview_text_color_theme</original>
+            <original>sm_other_section_divider_expand_text_color_theme</original>
+            <original>sm_other_section_divider_expand_btn_tint_color_theme</original>
+            <original>dc_winset_sep10_description_textview_web_link_text_color</original>
+        </match>
+        <match overlay="dc_winset_sep10_list_item_secondary_explanation_text_color">
+            <original>dc_winset_sep10_list_sub_header_dot_color</original>
+            <original>dc_winset_sep10_list_sub_header_with_text_color</original>
+            <original>auto_restart_toggle_button_normal_text_color_theme</original>
+            <original>auto_restart_toggle_button_saturday_text_color_theme</original>
+            <original>auto_restart_toggle_button_sunday_text_color_theme</original>
+            <original>dc_winset_sep10_description_textview_text_color</original>
+            <original>dc_winset_sep10_description_subtext_textview_text_color</original>
+            <original>score_shortcut_state_good_text_color_theme</original>
+            <original>scoreboard_guide_text_color_theme</original>
+            <original>loading_icon_color_theme</original>
+            <original>score_dash_text_color_theme</original>
+            <original>second_depth_powered_by_text_color_theme</original>
+            <original>second_depth_circle_detail_text_color_theme</original>
+            <original>second_depth_fix_now_desc_text_color_theme</original>
+            <original>second_depth_circle_cleaning_description_text_color_theme</original>
+            <original>second_depth_in_circle_total_text_color_theme</original>
+            <original>battery_custom_spinner_item_text_color_theme</original>
+            <original>score_shortcut_icon_container_tint_color_theme</original>
+        </match>
+        <match overlay="dc_winset_sep10_color_primary_dark">
+            <original>auto_restart_repeat_toggle_btn_text_color_select_theme</original>
+            <original>score_state_good_color_theme</original>
+            <original>score_state_warning_color_theme</original>
+            <original>score_state_bad_color_theme</original>
+            <original>score_shortcut_state_warning_text_color_theme</original>
+            <original>score_shortcut_state_bad_text_color_theme</original>
+            <original>shortcut_icon_bad_tint_color_theme</original>
+            <original>dc_winset_sep10_update_button_bg_color</original>
+        </match>
+        <match overlay="dc_winset_sep10_dialog_description_text_color">
+            <original>dc_winset_sep10_dialog_description_sub_text_color</original>
+            <original>dialog_seekbar_guide_text_color_theme</original>
+        </match>
+        <match overlay="dc_winset_sep10_sub_app_bar_unselected_text_color">
+            <original>dc_winset_sep10_sub_app_bar_spinner_icon_color_theme</original>
+        </match>
+        <match overlay="storage_icon_color_document_theme">
+            <original>storage_icon_color_app_theme</original>
+        </match>
+        <match overlay="storage_icon_color_image_theme">
+            <original>storage_icon_color_wallpaper_theme</original>
+            <original>menu_setting_device_care_color_theme</original>
+        </match>
+        <match overlay="storage_icon_color_audio_theme">
+            <original>storage_icon_color_sdcard_theme</original>
+        </match>
+        <match overlay="dc_winset_sep10_about_page_background_color">
+            <original>dc_winset_sep10_about_page_app_bar_background_color</original>
+        </match>
+        <match overlay="dc_winset_sep10_about_page_app_version_text_color">
+            <original>dc_winset_sep10_about_page_app_version_status_text_color</original>
+        </match>
+    </color>
+</resource-map>

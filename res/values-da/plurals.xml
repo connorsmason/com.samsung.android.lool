@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Der blev fundet %d problemer</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Der blev fundet %d problem</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Enhedspleje har registreret %d apps, der muligvis skaber problemer. Det kan f.eks. dreje sig om malware, applukninger eller stort batteriforbrug.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Enhedspleje har registreret %d app, der muligvis skaber problemer. Det kan f.eks. dreje sig om malware, applukninger eller stort batteriforbrug.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dage</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d dag</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Skærmen vil blive deaktiveret efter %d sekunders inaktivitet.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Skærmen vil blive deaktiveret efter %d sekunds inaktivitet.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d apps er sat i søvntilstand.</item>
+        <item quantity="one">1 app er sat i søvntilstand.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Sætter %d apps i søvntilstand …</item>
+        <item quantity="one">Sætter 1 app i søvntilstand …</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Der er registreret %1$d trusler. Tryk her for at løse dem i %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Der er registreret %1$d trussel. Tryk her for at løse den i %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d apps forårsager kritiske fejl på din telefon. Det anbefales kraftigt, at du afinstallerer disse apps.</item>
+        <item quantity="one">1 app forårsager kritiske fejl på din telefon. Det anbefales kraftigt, at du afinstallerer denne app.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">1 app</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Baggrundsapps er blevet lukket</item>
+        <item quantity="one">Baggrundsappen er blevet lukket</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d apps med stort batteriforbrug. Sæt dem i søvntilstand for at spare strøm. De vil muligvis ikke modtage opdateringer eller sende meddelelser, før du åbner dem igen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d app med stort batteriforbrug. Sæt den i søvntilstand for at spare strøm. Den vil muligvis ikke modtage opdateringer eller sende meddelelser, før du åbner den igen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Der blev fundet %d apps, som er gået ned. Sæt dem i søvntilstand for at gøre din telefon hurtigere. De vil muligvis ikke modtage opdateringer eller sende meddelelser, før du åbner dem igen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Der blev fundet %d app, som er gået ned. Sæt den i søvntilstand for at gøre din telefon hurtigere. Den vil muligvis ikke modtage opdateringer eller sende meddelelser, før du åbner den igen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Der blev fundet %d apps, som er gået ned. Sæt dem i søvntilstand for at gøre din tablet hurtigere. De vil muligvis ikke modtage opdateringer eller sende meddelelser, før du åbner dem igen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Der blev fundet %d app, som er gået ned. Sæt den i søvntilstand for at gøre din tablet hurtigere. Den vil muligvis ikke modtage opdateringer eller sende meddelelser, før du åbner den igen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Der blev fundet %d malwareapps. Afinstaller dem for at beskytte din telefon.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Der blev fundet %d malwareapp. Afinstaller den for at beskytte din telefon.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Der blev fundet %d malwareapps. Afinstaller dem for at beskytte din tablet.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Der blev fundet %d malwareapp. Afinstaller den for at beskytte din tablet.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Der er blevet registreret mistænkelig aktivitet. Afinstaller disse apps for at beskytte din telefon og dine data.</item>
+        <item quantity="one">Der er blevet registreret mistænkelig aktivitet. Afinstaller nedenstående apps for at beskytte din telefon og dine data.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Der er blevet registreret mistænkelig aktivitet. Afinstaller disse apps for at beskytte din tablet og dine data.</item>
+        <item quantity="one">Der er blevet registreret mistænkelig aktivitet. Afinstaller nedenstående apps for at beskytte din tablet og dine data.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Der er blevet registreret mistænkelig aktivitet. Afinstaller disse apps for at beskytte din telefon og dine data.</item>
+        <item quantity="one">Der er blevet registreret mistænkelig aktivitet. Afinstaller nedenstående apps for at beskytte din telefon og dine data.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Der er blevet registreret mistænkelig aktivitet. Afinstaller disse apps for at beskytte din tablet og dine data.</item>
+        <item quantity="one">Der er blevet registreret mistænkelig aktivitet. Afinstaller nedenstående apps for at beskytte din tablet og dine data.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d trusler registreret</item>
+        <item quantity="one">1 trussel registreret</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d trusler</item>
+        <item quantity="one">1 trussel</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Nedenstående apps forårsager kritiske fejl på din telefon. Det anbefales kraftigt, at du afinstallerer disse apps. Når du har afinstalleret dem, kan du muligvis installere en ny version af hver enkelt app fra en appbutik.</item>
+        <item quantity="one">Nedenstående app forårsager kritiske fejl på din telefon. Det anbefales kraftigt, at du afinstallerer denne app. Når du har afinstalleret den, kan du muligvis installere en ny version fra en appbutik.</item>
+    </plurals>
+</resources>

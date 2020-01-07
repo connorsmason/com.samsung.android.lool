@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/SMWinset.AppToolBarStyle" />
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/scoreboard_fragment_container" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/score_detail_circle_layout" />
+        <include layout="@layout/scoreboard_detail_list_layout" />
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</LinearLayout>

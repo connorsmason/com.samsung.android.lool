@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:id="@id/app_layout" android:tag="layout/ram_list_item_0" android:background="?android:selectableItemBackground" android:focusable="true" android:clickable="true" android:paddingEnd="@dimen/zero_dp_width" style="@style/SMWinset.ListItemStyle.2Line.Controller"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:id="@id/checkbox" android:background="@android:color/transparent" android:focusable="false" android:visibility="gone" android:clickable="false" android:checkable="true" android:importantForAccessibility="no" android:layout_marginEnd="@dimen/zero_dp_width" style="@style/SMWinset.ListItemControllerStyle" />
+    <com.samsung.android.sm.view.RoundedCornerRelativeLayout android:background="@android:color/transparent" style="@style/SMWinset.ListItemStyle.2Line">
+        <ImageView android:id="@id/app_icon" android:layout_width="@dimen/list_item_multi_line_icon_size" android:layout_height="@dimen/list_item_multi_line_icon_size" android:layout_centerVertical="true" style="@style/SMWinset.ListItemIconStyle" />
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignWithParentIfMissing="true" android:layout_toEndOf="@id/app_icon" style="@style/SMWinset.ListItemTextViewStyle.2Line.TextContainer">
+            <TextView android:textSize="@dimen/ram_list_item_textview_primary_text_size" android:ellipsize="end" android:gravity="start" android:id="@id/app_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+            <TextView android:textSize="@dimen/ram_list_item_textview_secondary_text_size" android:ellipsize="end" android:gravity="start" android:id="@id/app_detail" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+        <ImageView android:id="@id/divider_line" android:layout_alignParentBottom="true" android:layout_toEndOf="@id/app_icon" style="@style/SMWinset.DividerStyle.TextAlignStart" />
+    </com.samsung.android.sm.view.RoundedCornerRelativeLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

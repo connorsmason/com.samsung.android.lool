@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="@integer/fix_button_gradient_duration" android:drawable="@drawable/fix_now_button_gradient_bg_0" />
+    <item android:duration="@integer/fix_button_gradient_duration" android:drawable="@drawable/fix_now_button_gradient_bg_1" />
+    <item android:duration="@integer/fix_button_gradient_duration" android:drawable="@drawable/fix_now_button_gradient_bg_2" />
+    <item android:duration="@integer/fix_button_gradient_duration" android:drawable="@drawable/fix_now_button_gradient_bg_3" />
+    <item android:duration="@integer/fix_button_gradient_duration" android:drawable="@drawable/fix_now_button_gradient_bg_4" />
+</animation-list>

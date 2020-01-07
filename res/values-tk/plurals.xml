@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d mesele anyklanyldy</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d mesele anyklanyldy</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Enjam idegi zyýanly goýma, goýma çökmeleri ýa-da ýokary batareýa ulanylyşy ýaly meselelere sebäp bolup bilýän %d goýma tapdy.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Enjam idegi zyýanly goýma, goýma çökmeleri ýa-da ýokary batareýa ulanylyşy ýaly meselelere sebäp bolup bilýän %d goýma tapdy.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d gün</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d gün</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">%d sekuntlyk işjeňsizlikden soň ekran ýapylar.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sekuntlyk işjeňsizlikden soň ekran ýapylar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d goýma ukladyldy.</item>
+        <item quantity="one">1 goýma ukladyldy.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d goýma ukladylýar…</item>
+        <item quantity="one">1 goýma ukladylýar…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d howpsuzlyk tapyldy. Olary %2$s-da çözmek üçin, şu ýere basyň.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d howpsuzlyk tapyldy. Ony %2$s-da çözmek üçin, şu ýere basyň.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d goýmalar telefonyňyzda wajyp ýalňyşlyklara sebäp bolýar. Şu goýmalaryň gurnawdan aýrylyşy pugta maslahat berilýär.</item>
+        <item quantity="one">1 goýma telefonyňyzda wajyp ýalňyşlyklara sebäp bolýar. Şu goýmanyň gurnawdan aýrylyşy pugta maslahat berilýär.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d goýma</item>
+        <item quantity="one">1 goýma</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Fondaky goýmalar ýapyldy</item>
+        <item quantity="one">Fondaky goýma ýapyldy</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">Ýokary zarýad sarpy bilen %d goýma. Zarýad tygşytlamak üçin, olary ukladyň. Olar ýene açýançaňyz olar täzelemeleri alman ýa-da habarnamalary ibermän biler.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ýokary zarýad sarpy bilen %d goýma. Zarýad tygşytlamak üçin, ony ukladyň. Ony ýene açýançaňyz ol täzelemeleri alman ýa-da habarnamalary ibermän biler.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d çöken goýma tapyldy. Telefonyňyzy tizlendirmek üçin, olary ukladyň. Olar ýene açýançaňyz olar täzelemeleri alman ýa-da habarnamalary ibermän biler.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d çöken goýma tapyldy. Telefonyňyzy tizlendirmek üçin, ony ukladyň. Ony ýene açýançaňyz ol täzelemeleri alman ýa-da habarnamalary ibermän biler.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d çöken goýma tapyldy. Planşetiňizi tizleşdirmek üçin, olary ukladyň. Olar ýene açýançaňyz olar täzelemeleri alman ýa-da habarnamalary ibermän biler.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d çöken goýma tapyldy. Planşetiňizi tizleşdirmek üçin, oňy ukladyň. Ol ýene açýançaňyz ol täzelemeleri alman ýa-da habarnamalary ibermän biler.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d zyýanly goýma tapyldy. Telefonyňyzy howpsuz saklamak üçin, olary aýryň.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d zyýanly goýma tapyldy. Telefonyňyzy howpsuz saklamak üçin, ony aýryň.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d zyýanly goýma tapyldy. Planşetiňizi howpsuz saklamak üçin, olary aýryň.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d zyýanly goýma tapyldy. Planşetiňizi howpsuz saklamak üçin, oňy aýryň.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Şübheli işjeňlik tapyldy. Telefondyr maglumatyňyzy goramak üçin, şu goýmalary aýryň.</item>
+        <item quantity="one">Şübheli işjeňlik tapyldy. Telefondyr maglumatyňyzy goramak üçin, aşakdaky goýmalary aýryň.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Şübheli işjeňlik tapyldy. Planşetdir maglumatyňyzy goramak üçin, şu goýmalary aýryň.</item>
+        <item quantity="one">Şübheli işjeňlik tapyldy. Planşetdir maglumatyňyzy goramak üçin, aşakdaky goýmalary aýryň.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Şübheli işjeňlik tapyldy. Telefondyr maglumatyňyzy goramak üçin, şu goýmalary aýryň.</item>
+        <item quantity="one">Şübheli işjeňlik tapyldy. Telefondyr maglumatyňyzy goramak üçin, aşakdaky goýmalary aýryň.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Şübheli işjeňlik tapyldy. Planşetdir maglumatyňyzy goramak üçin, şu goýmalary aýryň.</item>
+        <item quantity="one">Şübheli işjeňlik tapyldy. Planşetdir maglumatyňyzy goramak üçin, aşakdaky goýmalary aýryň.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d howp tapyldy</item>
+        <item quantity="one">1 howp tapyldy</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d howp</item>
+        <item quantity="one">1 howp</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Aşakdaky goýmalary telefonyňyzda wajyp ýalňyşlyklara sebäp bolýar. Şu goýmalaryň gurnawdan aýrylyşy pugta maslahat berilýär. Gurnawdan aýrylansoň, siz goýma dükandan her goýma üçin täze wersiýa alyp bilmegiňiz mümkin.</item>
+        <item quantity="one">Aşakdaky goýma telefonyňyzda wajyp ýalňyşlyklara sebäp bolýar. Şu goýmanyň gurnawdan aýrylyşy pugta maslahat berilýär. Gurnawdan aýrylansoň, siz goýma dükandan täze wersiýa alyp bilmegiňiz mümkin.</item>
+    </plurals>
+</resources>

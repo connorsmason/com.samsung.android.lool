@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen android:key="key_preferencescreen_battery_advanced_setting"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.preference.PreferenceCategory android:title="@string/battery_settings_app_power_category_title" android:key="key_category_app_power_management_settings">
+        <android.support.v7.preference.SwitchPreferenceCompat android:persistent="false" android:title="@string/battery_advanced_settings_notification" android:key="key_noti_setting" android:summary="@string/battery_settings_app_using_power_description" />
+        <android.support.v7.preference.SwitchPreferenceCompat android:persistent="false" android:title="@string/battery_adaptive_battery_title" android:key="key_adaptive_battery" android:summary="@string/battery_adaptive_battery_summary" />
+        <android.support.v7.preference.SeslSwitchPreferenceScreen android:persistent="false" android:title="@string/battery_settings_app_power_management" android:key="key_advanced_setting_app_power" android:summary="@string/battery_settings_app_power_management_description" />
+        <android.support.v7.preference.Preference android:persistent="false" android:title="@string/battery_settings_sleeping_apps" android:key="key_sleeping_apps" android:summary="@string/battery_settings_sleeping_apps_description" />
+        <android.support.v7.preference.SwitchPreferenceCompat android:persistent="false" android:title="@string/battery_settings_auto_app_disabler" android:key="key_auto_app_disabler" />
+        <android.support.v7.preference.Preference android:persistent="false" android:title="@string/battery_settings_disabled_apps" android:key="key_disabled_apps" />
+    </android.support.v7.preference.PreferenceCategory>
+    <android.support.v7.preference.PreferenceCategory android:title="@string/battery_settings_optimization_category_title" android:key="key_category_optimization_settings">
+        <android.support.v7.preference.SeslSwitchPreferenceScreen android:persistent="false" android:title="@string/battery_optimize_settings_title" android:key="key_battery_optimize_settings" android:summary="@string/battery_optimize_settings_summary" />
+    </android.support.v7.preference.PreferenceCategory>
+    <android.support.v7.preference.PreferenceCategory android:title="@string/charging" android:key="key_category_charging">
+        <android.support.v7.preference.SwitchPreferenceCompat android:persistent="false" android:title="@string/fast_cable_charging" android:key="key_advanced_fast_cable_charging" android:summary="@string/fast_cable_charging_description" />
+        <android.support.v7.preference.SwitchPreferenceCompat android:persistent="false" android:title="@string/fast_wireless_charging" android:key="key_advanced_fast_wireless_charging" android:summary="@string/fast_wireless_charging_description" />
+        <android.support.v7.preference.SeslSwitchPreferenceScreen android:persistent="false" android:title="@string/protect_battery" android:key="key_advanced_protect_battery" android:summary="@string/protect_battery_description" />
+    </android.support.v7.preference.PreferenceCategory>
+</android.support.v7.preference.PreferenceScreen>

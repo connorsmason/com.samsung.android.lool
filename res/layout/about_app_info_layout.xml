@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentRelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.percent.PercentRelativeLayout android:id="@id/app_infos_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="?winsetActivityMarginHorizontal" android:layout_marginEnd="?winsetActivityMarginHorizontal">
+        <TextView android:id="@id/about_app_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_name" style="@style/SMWinset.AboutPageAppNameStyle" />
+        <TextView android:id="@id/about_app_version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/about_app_name" style="@style/SMWinset.AboutPageAppVersionStyle" />
+        <TextView android:id="@id/about_security_app_version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/about_app_version" style="@style/SMWinset.AboutPageSecondAppVersionStyle" />
+    </android.support.percent.PercentRelativeLayout>
+    <TextView android:id="@id/about_version_status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/app_infos_container" style="@style/SMWinset.AboutPageAppVersionStatusStyle" />
+    <ProgressBar android:id="@id/about_version_loading" android:visibility="gone" android:layout_width="@dimen/about_progress_size" android:layout_height="@dimen/about_progress_size" android:indeterminate="true" android:layout_below="@id/app_infos_container" android:layout_centerHorizontal="true" />
+    <Button android:id="@id/about_update_button" android:focusable="true" android:visibility="gone" android:layout_marginTop="?winsetAboutPageUpdateButtonMarginTop" android:text="@string/device_security_update" android:layout_below="@id/about_version_status" android:layout_centerHorizontal="true" app:layout_widthPercent="@fraction/dc_winset_sep10_update_button_max_width_ratio" style="@style/SMWinset.Button.Update" />
+</android.support.percent.PercentRelativeLayout>

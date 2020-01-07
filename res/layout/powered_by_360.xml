@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="end" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:importantForAccessibility="yes" style="@style/PowerdByStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/powered_by" style="@style/PoweredByTextStyle" />
+    <ImageView android:id="@id/powered_by_logo" android:src="@drawable/storage_junk_solution_brand_logo" android:contentDescription="@string/storage_junk_solution_brand_name" android:layout_toEndOf="@id/powered_by" style="@style/PoweredByLogoStyle" />
+</RelativeLayout>

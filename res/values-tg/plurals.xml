@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d мушкилӣ ёфт шуд</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d мушкилӣ ёфт шуд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Нигоҳубини дастгоҳ %d барномаеро муайян кардааст, ки метавонанд мушкилиҳои ба мисли нармафзори зиёновар, вайроншавии барномаҳо ва истеъмоли бошиддати барқи батареяро ба миён оранд.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Нигоҳубини дастгоҳ %d барномаеро муайян кардааст, ки метавонад мушкилиҳои ба мисли нармафзори зиёновар, вайроншавии барномаҳо ва истеъмоли бошиддати барқи батареяро ба миён орад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d рӯз</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d рӯз</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Экран баъди %d сонияи ғайрифаъолӣ хомӯш карда мешавад.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Экран баъди %d сонияи ғайрифаъолӣ хомӯш карда мешавад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d барнома хобонда шуд.</item>
+        <item quantity="one">1 барнома хобонда шуд.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d барнома ба хоб андохта мешавад…</item>
+        <item quantity="one">1 барнома ба хоб андохта мешавад…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d таҳдид муайян карда шуд. Барои онҳоро дар %2$s бартараф кардан, инҷо зарба занед.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d таҳдид муайян карда шуд. Барои онро дар %2$s бартараф кардан, инҷо зарба занед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d барнома дар телефони шумо хатогӣ ба миён меорад. Суботкорона тавсия дода мешавад, ки ин барномаҳоро нест кунед.</item>
+        <item quantity="one">1 барнома дар телефони шумо хатогӣ ба миён меорад. Суботкорона тавсия дода мешавад, ки ин барномаро нест кунед.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d барнома</item>
+        <item quantity="one">1 барнома</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Барномаҳои пасзамина пӯшида шуданд</item>
+        <item quantity="one">Барномаи пасзамина пӯшида шуд</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d барнома бо истеъмоли бошиддати барқи батарея. Барои барқро сарфа кардан, онҳоро хобонед. Онҳо то дубора кушода шуданашон метавонанд навсозӣ ва огоҳӣ нагиранд.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d барнома бо истеъмоли бошиддати барқи батарея. Барои барқро сарфа кардан, онро хобонед. Он то дубора кушода шуданаш метавонанд навсозӣ ва огоҳӣ нагирад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d барномаи вайроншуда ёфт шуд. Барои суръати кори телефонро беҳтар кардан, онҳоро хобонед. Онҳо то дубора кушода шуданашон метавонанд навсозӣ ва огоҳӣ нагиранд.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d барномаи вайроншуда ёфт шуд. Барои суръати кори телефонро беҳтар кардан, онро хобонед. Он то дубора кушода шуданаш метавонанд навсозӣ ва огоҳӣ нагирад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d барномаи вайроншуда ёфт шуд. Барои суръати кори планшетро беҳтар кардан, онҳоро хобонед. Онҳо то дубора кушода шуданашон метавонанд навсозӣ ва огоҳӣ нагиранд.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d барномаи вайроншуда ёфт шуд. Барои суръати кори планшетро беҳтар кардан, онро хобонед. Он то дубора кушода шуданаш метавонад навсозӣ ва огоҳӣ нагирад.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d барномаи зиёновар ошкор карда шуд. Барои телефони худро эмин нигоҳ доштан, онҳоро нест кунед.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d барномаи зиёновар муайян карда шуд. Барои телефони худро эмин нигоҳ доштан, онро нест кунед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d барномаи зиёновар ошкор карда шуд. Барои планшети худро эмин нигоҳ доштан, онҳоро нест кунед.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d барномаи зиёновар ошкор карда шуд. Барои планшети худро эмин нигоҳ доштан, онро нест кунед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Фаъолияти шубҳанок ошкор карда шуд. Барои телефон ва иттилооти худро муҳофизат кардан, ин барномаҳоро нест кунед.</item>
+        <item quantity="one">Фаъолияти шубҳанок ошкор карда шуд. Барои телефон ва иттилоотро муҳофизат кардан, барномаҳои зеринро нест кунед.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Фаъолияти шубҳанок ошкор карда шуд. Барои планшет ва иттилооти худро муҳофизат кардан, ин барномаҳоро нест кунед.</item>
+        <item quantity="one">Фаъолияти шубҳанок ошкор карда шуд. Барои планшет ва иттилоотро муҳофизат кардан, барномаҳои зеринро нест кунед.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Фаъолияти шубҳанок ошкор карда шуд. Барои телефон ва иттилооти худро муҳофизат кардан, ин барномаҳоро нест кунед.</item>
+        <item quantity="one">Фаъолияти шубҳанок ошкор карда шуд. Барои телефон ва иттилоотро муҳофизат кардан, барномаҳои зеринро нест кунед.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Фаъолияти шубҳанок ошкор карда шуд. Барои планшет ва иттилооти худро муҳофизат кардан, ин барномаҳоро нест кунед.</item>
+        <item quantity="one">Фаъолияти шубҳанок ошкор карда шуд. Барои планшет ва иттилоотро муҳофизат кардан, барномаҳои зеринро нест кунед.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d хатарҳо ошкор шуданд</item>
+        <item quantity="one">1 таҳдид ошкор шуд</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d таҳдид</item>
+        <item quantity="one">1 таҳдид</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Барномаҳои зерин дар телефони шумо хатогиҳои ҷиддӣ ба миён меоранд. Суботкорона тавсия дода мешавад, ки ин барномаҳоро нест кунед. Баъди нест кардан, метавонед версияи навтари ҳар як барномаро аз дӯкони барномаҳо боргирӣ кунед.</item>
+        <item quantity="one">Барномаи зерин дар телефони шумо хатогиҳои ҷиддӣ ба миён меорад. Суботкорона тавсия дода мешавад, ки ин барномаро нест кунед. Баъди нест кардан, метавонед версияи навтарро аз дӯкони барномаҳо боргирӣ кунед.</item>
+    </plurals>
+</resources>

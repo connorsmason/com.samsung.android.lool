@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/app_history_detail_layout" android:background="?winsetLightThemeBgColor" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/w_list_multi_line_height" style="@style/SMWinset.ListItemTextViewStyle.2Line.TextContainer">
+            <ImageView android:id="@id/app_history_detail_icon" android:layout_width="@dimen/list_item_icon_size" android:layout_height="@dimen/list_item_icon_size" android:scaleType="fitXY" android:layout_centerVertical="true" android:layout_marginStart="@dimen/app_issue_history_horizontal_margin_start" />
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/app_issue_history_horizontal_margin_start" android:layout_toEndOf="@id/app_history_detail_icon">
+                <TextView android:ellipsize="end" android:id="@id/app_history_detail_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+        </RelativeLayout>
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/summary_layout" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/app_history_detail_count_layout_0" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+                    <TextView android:id="@id/app_history_detail_count_title_0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_history_detail_list_total" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+                    <View android:layout_width="@dimen/zero_dp_width" android:layout_height="@dimen/zero_dp_height" android:layout_weight="0.5" />
+                    <TextView android:ellipsize="end" android:gravity="end|center" android:id="@id/app_history_detail_count_number_0" android:layout_width="@dimen/zero_dp_width" android:layout_height="wrap_content" android:maxLines="2" android:layout_weight="1.0" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+                </LinearLayout>
+                <include android:id="@id/app_history_divider_line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/divider_line_layout" />
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/app_history_detail_count_layout_1" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+                    <TextView android:id="@id/app_history_detail_count_title_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_history_detail_list_malware" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+                    <View android:layout_width="@dimen/zero_dp_width" android:layout_height="@dimen/zero_dp_height" android:layout_weight="0.5" />
+                    <TextView android:ellipsize="end" android:gravity="end|center" android:id="@id/app_history_detail_count_number_1" android:layout_width="@dimen/zero_dp_width" android:layout_height="wrap_content" android:maxLines="2" android:layout_weight="1.0" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+                </LinearLayout>
+                <include android:id="@id/app_history_divider_line_1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/divider_line_layout" />
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/app_history_detail_count_layout_2" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+                    <TextView android:id="@id/app_history_detail_count_title_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_history_detail_list_crashes" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+                    <View android:layout_width="@dimen/zero_dp_width" android:layout_height="@dimen/zero_dp_height" android:layout_weight="0.5" />
+                    <TextView android:ellipsize="end" android:gravity="end|center" android:id="@id/app_history_detail_count_number_2" android:layout_width="@dimen/zero_dp_width" android:layout_height="wrap_content" android:maxLines="2" android:layout_weight="1.0" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+                </LinearLayout>
+                <include android:id="@id/app_history_divider_line_2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/divider_line_layout" />
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/app_history_detail_count_layout_3" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+                    <TextView android:id="@id/app_history_detail_count_title_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_history_detail_list_batterydraining" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+                    <View android:layout_width="@dimen/zero_dp_width" android:layout_height="@dimen/zero_dp_height" android:layout_weight="0.5" />
+                    <TextView android:ellipsize="end" android:gravity="end|center" android:id="@id/app_history_detail_count_number_3" android:layout_width="@dimen/zero_dp_width" android:layout_height="wrap_content" android:maxLines="2" android:layout_weight="1.0" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+                </LinearLayout>
+                <include android:id="@id/app_history_divider_line_3" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/divider_line_layout" />
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/app_history_detail_count_layout_4" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+                    <TextView android:id="@id/app_history_detail_count_title_4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_history_detail_list_memoryleak" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+                    <View android:layout_width="@dimen/zero_dp_width" android:layout_height="@dimen/zero_dp_height" android:layout_weight="0.5" />
+                    <TextView android:ellipsize="end" android:gravity="end|center" android:id="@id/app_history_detail_count_number_4" android:layout_width="@dimen/zero_dp_width" android:layout_height="wrap_content" android:maxLines="2" android:layout_weight="1.0" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+                </LinearLayout>
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+            <TextView android:id="@id/app_history_detail_list_header" android:focusable="false" android:visibility="visible" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/app_history_detail_list_header" style="?android:listSeparatorTextViewStyle" />
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/listCorner" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="yes">
+                <com.samsung.android.sm.view.RoundedCornerRecyclerView android:id="@id/app_history_detail_listview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@null" android:importantForAccessibility="no" />
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+        <View android:background="?winsetLightThemeBgColor" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</com.samsung.android.sm.view.RoundedCornerScrollView>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Havaittu %d ongelmaa</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Havaittu %d ongelma</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Laitteen ylläpito on havainnut, että %d sovellusta voivat aiheuttaa ongelmia, joihin kuuluvat muun muassa haittaohjelmat, sovellusten kaatumiset tai suuri akkuvirran käyttö.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Laitteen ylläpito on havainnut, että %d sovellus voi aiheuttaa ongelmia, joihin kuuluvat muun muassa haittaohjelmat, sovellusten kaatumiset tai suuri akkuvirran käyttö.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d päivää</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d päivä</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Näyttö sammutetaan, kun se on ollut käyttämättä %d sekuntia.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Näyttö sammutetaan, kun se on ollut käyttämättä %d sekunnin.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d sovellusta on siirretty lepotilaan.</item>
+        <item quantity="one">1 sovellus on siirretty lepotilaan.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Siirretään %d sovellusta lepotilaan…</item>
+        <item quantity="one">Siirretään 1 sovellus lepotilaan…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d uhkaa havaittu. Ratkaise ne sovelluksella %2$s napauttamalla tätä.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d uhka havaittu. Ratkaise se sovelluksella %2$s napauttamalla tätä.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d sovellusta aiheuttaa vakavia virheitä puhelimessa. Suosittelemme näiden sovellusten asennuksen poistamista.</item>
+        <item quantity="one">1 sovellus aiheuttaa vakavia virheitä puhelimessa. Suosittelemme tämän sovelluksen asennuksen poistamista.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d sovellusta</item>
+        <item quantity="one">1 sovellus</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Taustasovellukset on suljettu</item>
+        <item quantity="one">Taustasovellus on suljettu</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d sovellusta käyttää paljon akkuvirtaa. Siirrä ne virran säästämiseksi lepotilaan. Ne eivät ehkä saa päivityksiä tai voi lähettää ilmoituksia, kunnes avaat ne uudelleen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sovellus käyttää paljon akkuvirtaa. Siirrä se virran säästämiseksi lepotilaan. Se ei ehkä saa päivityksiä tai voi lähettää ilmoituksia, kunnes avaat sen uudelleen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Löydetty %d kaatunutta sovellusta. Siirrä ne puhelimen nopeuttamiseksi lepotilaan. Ne eivät ehkä saa päivityksiä tai voi lähettää ilmoituksia, kunnes avaat ne uudelleen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Löydetty %d kaatunut sovellus. Siirrä se puhelimen nopeuttamiseksi lepotilaan. Se ei ehkä saa päivityksiä tai voi lähettää ilmoituksia, kunnes avaat sen uudelleen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Löydetty %d kaatunutta sovellusta. Siirrä ne tablet-laitteen nopeuttamiseksi lepotilaan. Ne eivät ehkä saa päivityksiä tai voi lähettää ilmoituksia, kunnes avaat ne uudelleen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Löydetty %d kaatunut sovellus. Siirrä se tablet-laitteen nopeuttamiseksi lepotilaan. Se ei ehkä saa päivityksiä tai voi lähettää ilmoituksia, kunnes avaat sen uudelleen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Havaittu %d haittaohjelmaa. Poista niiden asennus puhelimen suojaamiseksi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Havaittu %d haittaohjelma. Poista sen asennus puhelimen suojaamiseksi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Havaittu %d haittaohjelmaa. Poista niiden asennus tablet-laitteen suojaamiseksi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Havaittu %d haittaohjelma. Poista sen asennus tablet-laitteen suojaamiseksi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Havaittu epäilyttävää toimintaa. Voit suojata puhelimen ja siinä olevat tiedot poistamalla näiden sovellusten asennuksen.</item>
+        <item quantity="one">Havaittu epäilyttävää toimintaa. Voit suojata puhelimen ja siinä olevat tiedot poistamalla alla olevien sovellusten asennuksen.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Havaittu epäilyttävää toimintaa. Voit suojata tablet-laitteen ja siinä olevat tiedot poistamalla näiden sovellusten asennuksen.</item>
+        <item quantity="one">Havaittu epäilyttävää toimintaa. Voit suojata tablet-laitteen ja siinä olevat tiedot poistamalla alla olevien sovellusten asennuksen.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Havaittu epäilyttävää toimintaa. Voit suojata puhelimen ja siinä olevat tiedot poistamalla näiden sovellusten asennuksen.</item>
+        <item quantity="one">Havaittu epäilyttävää toimintaa. Voit suojata puhelimen ja siinä olevat tiedot poistamalla alla olevien sovellusten asennuksen.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Havaittu epäilyttävää toimintaa. Voit suojata tablet-laitteen ja siinä olevat tiedot poistamalla näiden sovellusten asennuksen.</item>
+        <item quantity="one">Havaittu epäilyttävää toimintaa. Voit suojata tablet-laitteen ja siinä olevat tiedot poistamalla alla olevien sovellusten asennuksen.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d uhkaa havaittu</item>
+        <item quantity="one">1 uhka havaittu</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d uhkaa</item>
+        <item quantity="one">1 uhka</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Alla olevat sovellukset aiheuttavat puhelimessasi vakavia virheitä. Suosittelemme näiden sovellusten asennuksen poistamista. Asennuksen poistamisen jälkeen pystyt ehkä asentamaan kustakin sovelluksesta uuden version sovelluskaupasta.</item>
+        <item quantity="one">Alla oleva sovellus aiheuttaa puhelimessasi vakavia virheitä. Suosittelemme tämän sovelluksen asennuksen poistamista. Asennuksen poistamisen jälkeen pystyt ehkä asentamaan sovelluksesta uuden version sovelluskaupasta.</item>
+    </plurals>
+</resources>

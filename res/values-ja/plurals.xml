@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d件の問題を検出</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">マルウェア、アプリの停止、大量のバッテリー消費などの問題を引き起こす可能性のある%d件のアプリをデバイスケアで検出しました。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d日</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">%d秒間操作がない場合、画面がOFFになります。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d件のアプリをスリープ状態にしました。</item>
+        <item quantity="one">1件のアプリをスリープ状態にしました。</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d件のアプリをスリープ中…</item>
+        <item quantity="one">1件のアプリをスリープ中…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d件のセキュリティ脅威が検出されました。%2$sで問題を解決するには、ここをタップしてください。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">端末の%d件のアプリで重大なエラーが発生しています。これらのアプリをアンインストールすることを強くお勧めします。</item>
+        <item quantity="one">端末の1件のアプリで重大なエラーが発生しています。このアプリをアンインストールすることを強くお勧めします。</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d件のアプリ</item>
+        <item quantity="one">1件のアプリ</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">バックグラウンドアプリを終了</item>
+        <item quantity="one">バックグラウンドアプリを終了</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">バッテリーを大量に消費しているアプリが%d件あります。バッテリーを節約するために、それらのアプリをスリープ状態に設定してください。スリープ状態のアプリは、次回起動するまで更新や通知を受信できなくなる場合があります。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d件の停止したアプリが検出されました。端末の動作速度を向上させるため、それらのアプリをスリープ状態に設定してください。スリープ状態のアプリは、次回起動するまで更新や通知を受信できなくなる場合があります。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d件の停止したアプリが検出されました。タブレットの動作速度を向上させるため、それらのアプリをスリープ状態に設定してください。スリープ状態のアプリは、次回起動するまで更新や通知を受信できなくなる場合があります。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d件のマルウェアアプリが検出されました。端末の安全を保つために、それらのアプリをアンインストールしてください。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d件のマルウェアアプリが検出されました。タブレットの安全を保つために、それらのアプリをアンインストールしてください。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">不審な動作が検出されました。端末およびデータを保護するには、これらのアプリをアンインストールしてください。</item>
+        <item quantity="one">不審な動作が検出されました。端末およびデータを保護するには、以下のアプリをアンインストールしてください。</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">不審な動作が検出されました。タブレットおよびデータを保護するには、これらのアプリをアンインストールしてください。</item>
+        <item quantity="one">不審な動作が検出されました。タブレットおよびデータを保護するには、以下のアプリをアンインストールしてください。</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">不審な動作が検出されました。端末およびデータを保護するには、これらのアプリをアンインストールしてください。</item>
+        <item quantity="one">不審な動作が検出されました。端末およびデータを保護するには、以下のアプリをアンインストールしてください。</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">不審な動作が検出されました。タブレットおよびデータを保護するには、これらのアプリをアンインストールしてください。</item>
+        <item quantity="one">不審な動作が検出されました。タブレットおよびデータを保護するには、以下のアプリをアンインストールしてください。</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d件のセキュリティ脅威を検出</item>
+        <item quantity="one">1件のセキュリティ脅威を検出</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d件のセキュリティ脅威</item>
+        <item quantity="one">1件のセキュリティ脅威</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">端末の以下のアプリで重大なエラーが発生しています。これらのアプリをアンインストールすることを強くお勧めします。アンインストールした後、アプリストアから各アプリの新しいバージョンをインストールできる場合があります。</item>
+        <item quantity="one">端末の以下のアプリで重大なエラーが発生しています。このアプリをアンインストールすることを強くお勧めします。アンインストールした後、アプリストアから新しいバージョンをインストールできる場合があります。</item>
+    </plurals>
+</resources>

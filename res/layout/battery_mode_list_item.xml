@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:id="@id/layout" android:tag="layout/battery_mode_list_item_0" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle.Controller"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RadioButton android:id="@id/btn" android:background="@android:color/transparent" android:focusable="false" android:clickable="false" android:layout_width="@dimen/list_item_icon_size" android:layout_height="wrap_content" android:layout_centerVertical="true" style="@style/SMWinset.ListItemControllerStyle" />
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/btn" style="@style/SMWinset.ListItemTextViewStyle.2Line.TextContainer">
+        <TextView android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+        <TextView android:id="@id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    <ImageView android:id="@id/divider" android:layout_alignParentBottom="true" android:layout_toEndOf="@id/btn" style="@style/SMWinset.DividerStyle.TextAlignStart" />
+</RelativeLayout>

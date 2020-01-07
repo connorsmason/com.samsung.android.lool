@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="dc_winset_sep10_about_app_info_layout_height_ratio">7.0000052%</fraction>
+    <fraction name="dc_winset_sep10_about_layout_bottom_ratio">4.999995%</fraction>
+    <fraction name="dc_winset_sep10_update_button_max_width_ratio">61.0%</fraction>
+    <fraction name="scoreboard_fragment_margin_horizontal_percent">0.0%</fraction>
+</resources>

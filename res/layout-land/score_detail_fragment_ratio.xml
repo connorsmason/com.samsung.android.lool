@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/SMWinset.AppToolBarStyle" />
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="horizontal" android:id="@id/scoreboard_fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <FrameLayout android:layout_gravity="center_vertical" android:clipChildren="false" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@dimen/scoreboard_circle_land_layout_ratio">
+            <include layout="@layout/score_detail_circle_layout" />
+        </FrameLayout>
+        <include layout="@layout/screen_vertical_divider_layout" />
+        <ScrollView android:layout_width="0.0dip" android:layout_height="fill_parent" android:fillViewport="true" android:layout_weight="@dimen/scoreboard_desc_land_layout_ratio">
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <include layout="@layout/scoreboard_detail_list_layout" />
+            </RelativeLayout>
+        </ScrollView>
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</LinearLayout>

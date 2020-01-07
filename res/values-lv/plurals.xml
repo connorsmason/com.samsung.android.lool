@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Noteiktas %d problēmas</item>
+        <item quantity="zero">Noteiktas %d problēmas</item>
+        <item quantity="one">Noteikta %d problēma</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Ierīces apkopes programma ir noteikusi %d programmas, kas, iespējams, rada problēmas, tostarp ļaunprogrammatūru, programmu avārijas vai augstu akumulatora enerģijas patēriņu.</item>
+        <item quantity="zero">Ierīces apkopes programma ir noteikusi %d programmas, kas, iespējams, rada problēmas, tostarp ļaunprogrammatūru, programmu avārijas vai augstu akumulatora enerģijas patēriņu.</item>
+        <item quantity="one">Ierīces apkopes programma ir noteikusi %d programmu, kas, iespējams, rada problēmas, tostarp ļaunprogrammatūru, programmu avārijas vai augstu akumulatora enerģijas patēriņu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dienas</item>
+        <item quantity="zero">%d dienas</item>
+        <item quantity="one">%d diena</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Ekrāns tiks izslēgts pēc %d sekunžu ilgas bezdarbības.</item>
+        <item quantity="zero">Ekrāns tiks izslēgts pēc %d sekunžu ilgas bezdarbības.</item>
+        <item quantity="one">Ekrāns tiks izslēgts pēc %d sekundes ilgas bezdarbības.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">Deaktivizētas %d programmas.</item>
+        <item quantity="one">Deaktivizēta 1 programma.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Deaktivizē %d programmas…</item>
+        <item quantity="one">Deaktivizē 1 programmu…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Noteikti %1$d apdraudējumi. Pieskarieties šeit, lai tos novērstu programmā %2$s.</item>
+        <item quantity="zero">Noteikti %1$d apdraudējumi. Pieskarieties šeit, lai tos novērstu programmā %2$s.</item>
+        <item quantity="one">Noteikts %1$d apdraudējums. Pieskarieties šeit, lai to novērstu programmā %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d programmas izraisa kritiskas tālruņa kļūdas. Ļoti ieteicams atinstalēt šīs programmas.</item>
+        <item quantity="one">1 programma izraisa kritiskas tālruņa kļūdas. Ļoti ieteicams atinstalēt šo programmu.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d programmas</item>
+        <item quantity="one">1 programma</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Fona programmas ir aizvērtas</item>
+        <item quantity="one">Fona programma ir aizvērta</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d programmas, kas patērē daudz akumulatora enerģijas. Deaktivizējiet tās, lai ietaupītu akumulatora enerģiju. Tās nesaņems atjauninājumus un nesūtīs paziņojumus, līdz tās atkal neatvērsit.</item>
+        <item quantity="zero">%d programmas, kas patērē daudz akumulatora enerģijas. Deaktivizējiet tās, lai ietaupītu akumulatora enerģiju. Tās nesaņems atjauninājumus un nesūtīs paziņojumus, līdz tās atkal neatvērsit.</item>
+        <item quantity="one">%d programma, kas patērē daudz akumulatora enerģijas. Deaktivizējiet to, lai ietaupītu akumulatora enerģiju. Tā nesaņems atjauninājumus un nesūtīs paziņojumus, līdz to atkal neatvērsit.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Noteiktas %d avarējušas programmas. Deaktivizējiet tās, lai paātrinātu tālruņa darbību. Tās nesaņems atjauninājumus un nesūtīs paziņojumus, līdz tās atkal neatvērsit.</item>
+        <item quantity="zero">Noteiktas %d avarējušas programmas. Deaktivizējiet tās, lai paātrinātu tālruņa darbību. Tās nesaņems atjauninājumus un nesūtīs paziņojumus, līdz tās atkal neatvērsit.</item>
+        <item quantity="one">Noteikta %d avarējusi programma. Deaktivizējiet to, lai paātrinātu tālruņa darbību. Tā nesaņems atjauninājumus un nesūtīs paziņojumus, līdz to atkal neatvērsit.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Noteiktas %d avarējušas programmas. Deaktivizējiet tās, lai paātrinātu planšetdatora darbību. Tās nesaņems atjauninājumus un nesūtīs paziņojumus, līdz tās atkal neatvērsit.</item>
+        <item quantity="zero">Noteiktas %d avarējušas programmas. Deaktivizējiet tās, lai paātrinātu planšetdatora darbību. Tās nesaņems atjauninājumus un nesūtīs paziņojumus, līdz tās atkal neatvērsit.</item>
+        <item quantity="one">Noteikta %d avarējusi programma. Deaktivizējiet to, lai paātrinātu planšetdatora darbību. Tā nesaņems atjauninājumus un nesūtīs paziņojumus, līdz to atkal neatvērsit.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Noteiktas %d ļaunprogrammatūras programmas. Atinstalējiet tās, lai saglabātu tālruņa drošību.</item>
+        <item quantity="zero">Noteiktas %d ļaunprogrammatūras programmas. Atinstalējiet tās, lai saglabātu tālruņa drošību.</item>
+        <item quantity="one">Noteikta %d ļaunprogrammatūras programma. Atinstalējiet to, lai saglabātu tālruņa drošību.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Noteiktas %d ļaunatūras programmas. Atinstalējiet tās, lai saglabātu planšetdatora drošību.</item>
+        <item quantity="zero">Noteiktas %d ļaunatūras programmas. Atinstalējiet tās, lai saglabātu planšetdatora drošību.</item>
+        <item quantity="one">Noteikta %d ļaunatūras programma. Atinstalējiet to, lai saglabātu planšetdatora drošību.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Noteikta aizdomīga darbība. Atinstalējiet šīs programmas, lai aizsargātu savu tālruni un datus.</item>
+        <item quantity="one">Noteikta aizdomīga darbība. Atinstalējiet šīs programmas, lai aizsargātu savu tālruni un datus.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Noteikta aizdomīga darbība. Atinstalējiet šīs programmas, lai aizsargātu savu planšetdatoru un datus.</item>
+        <item quantity="one">Noteikta aizdomīga darbība. Atinstalējiet šīs programmas, lai aizsargātu savu planšetdatoru un datus.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Noteikta aizdomīga darbība. Atinstalējiet šīs programmas, lai aizsargātu savu tālruni un datus.</item>
+        <item quantity="one">Noteikta aizdomīga darbība. Atinstalējiet šīs programmas, lai aizsargātu savu tālruni un datus.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Noteikta aizdomīga darbība. Atinstalējiet šīs programmas, lai aizsargātu savu planšetdatoru un datus.</item>
+        <item quantity="one">Noteikta aizdomīga darbība. Atinstalējiet šīs programmas, lai aizsargātu savu planšetdatoru un datus.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Noteikti %d apdraudējumi</item>
+        <item quantity="one">Noteikts 1 apdraudējums</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d apdraudējumi</item>
+        <item quantity="one">1 apdraudējums</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Tālāk minētās programmas izraisa kritiskas tālruņa kļūdas. Ļoti ieteicams atinstalēt šīs programmas. Pēc atinstalēšanas no programmu veikala varēsit instalēt jaunu katras programmas versiju.</item>
+        <item quantity="one">Tālāk minētā programma izraisa kritiskas tālruņa kļūdas. Ļoti ieteicams atinstalēt šo programmu. Pēc atinstalēšanas no programmu veikala varēsit instalēt jaunu programmas versiju.</item>
+    </plurals>
+</resources>

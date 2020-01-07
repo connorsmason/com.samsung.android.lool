@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/score_detail_category_0" style="@style/SMWinset.DescriptionStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/divider" android:layout_height="@dimen/scoreboard_detail_category_divider_height" android:layout_alignParentTop="true" style="@style/SMWinset.DividerStyle" />
+    <TextView android:textSize="@dimen/sb_detail_list_manual_category_text_size" android:textColor="?winsetListItemTextViewSecondaryExplanationTextColor" android:id="@id/item_description" android:layout_centerVertical="true" android:paddingVertical="@dimen/scoreboard_detail_category_text_padding_vertical" style="@style/SMWinset.DescriptionTextStyle" />
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/app_detail_layout" android:background="@android:color/transparent" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/list_item_multi_line_height" style="@style/SMWinset.ListItemStyle.2Line.Controller"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:id="@id/cb" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:layout_centerVertical="true" style="@style/SMWinset.ListItemControllerStyle" />
+    <RelativeLayout android:id="@id/content" android:background="?android:selectableItemBackground" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="@dimen/list_item_multi_line_height" android:layout_toEndOf="@id/cb">
+        <RelativeLayout android:id="@id/icon" android:layout_width="@dimen/user_list_item_icon_size" android:layout_height="@dimen/user_list_item_icon_size" android:layout_centerVertical="true" style="@style/SMWinset.ListItemIconStyle">
+            <ImageView android:id="@id/thumbnail" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            <ImageView android:id="@id/icon_overlay" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/myfiles_list_play" android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerVertical="true" android:layout_toEndOf="@id/icon" style="@style/SMWinset.ListItemTextViewStyle.2Line.TextContainer">
+            <TextView android:id="@id/label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignParentStart="true" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+            <TextView android:id="@id/label_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_below="@id/label" android:layout_alignStart="@id/label" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+            <TextView android:ellipsize="end" android:id="@id/last_played" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_below="@id/label" android:layout_marginStart="@dimen/storage_detail_button_padding" android:layout_toEndOf="@id/label_size" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+        </RelativeLayout>
+        <ImageView android:id="@id/divider_line_child" android:layout_alignParentBottom="true" android:layout_toEndOf="@id/icon" style="@style/SMWinset.DividerStyle" />
+    </RelativeLayout>
+</RelativeLayout>

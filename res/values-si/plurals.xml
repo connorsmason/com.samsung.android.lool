@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">ගැටලු %dක් අනාවරණය විය</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ගැටලු %dක් අනාවරණය විය</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">උපාංග සත්කාරය මගින් අනිෂ්ට මෘදුකාංග, යෙදුම් බිඳ වැටීම්, හෝ ඉහළ බැටරි භාවිතය ඇතුළුව, ගැටලුවලට හේතු විය හැකි යෙදුම් %dක් අනාවරණය කර ඇත.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">උපාංග සත්කාරය මගින් අනිෂ්ට මෘදුකාංග, යෙදුම් බිඳ වැටීම්, හෝ ඉහළ බැටරි භාවිතය ඇතුළුව, ගැටලුවලට හේතු විය හැකි යෙදුම් %dක් අනාවරණය කර ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">දින %dක්</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">දින %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">තිරය අකර්මන්‍යතාවයෙන් තත්පර %dකට පසුව ක්‍රියා විරහිත වනු ඇත.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">තිරය අකර්මන්‍යතාවයෙන් තත්පර %dකට පසුව ක්‍රියා විරහිත වනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">යෙදුම් %d ක් නින්දට දැමිණි.</item>
+        <item quantity="one">යෙදුම් 1 ක් නින්දට දැමිණි.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">යෙදුම් %d ක් නින්දට යවමින්…</item>
+        <item quantity="one">යෙදුම් 1 ක් නින්දට යවමින්…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">තර්ජන %1$dක් අනාවරණය විය. ඒවා %2$s තුළ විසඳීමට මෙතැන තට්ටු කරන්න.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">තර්ජන %1$dක් අනාවරණය විය. එය %2$s තුළ විසඳීමට මෙතැන තට්ටු කරන්න.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">යෙදුම් %dක් ඔබේ දුරකථනයේ තීරණාත්මක දෝෂවලට හේතු වේ. මෙම යෙදුම් අස්ථාපනය දැඩි ලෙසින් නිර්දේශිතයි.</item>
+        <item quantity="one">යෙදුම් 1ක් ඔබේ දුරකථනයේ තීරණාත්මක දෝෂවලට හේතු වේ. මෙම යෙදුම අස්ථාපනය දැඩි ලෙසින් නිර්දේශිතයි.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">යෙදුම් %d</item>
+        <item quantity="one">යෙදුම් 1</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">පසුබිම් යෙදුම් වැසිණි</item>
+        <item quantity="one">පසුබිම් යෙදුම වැසිණි</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">ඉහළ බැටරි භාවිතය සහිත යෙදුම් %dක්. බලය සුරැකීමට ඒවා නින්දට දමන්න. ඔබ ඒවා නැවත විවෘත කරන තෙක් ඒවාට යාවත්කාලීන නොලැබෙනු ඇති හෝ දැනුම්දීම් එවීමට නොහැකි වනු ඇත.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඉහළ බැටරි භාවිතය සහිත යෙදුම් %dක්. බලය සුරැකීමට එය නින්දට දමන්න. ඔබ එය නැවත විවෘත කරන තෙක් එයට යාවත්කාලීන නොලැබෙනු ඇති හෝ දැනුම්දීම් එවීමට නොහැකි වනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">බිඳ වැටුණු යෙදුම් %dක් හමු විය. ඔබේ දුරකථනය වේගවත් කිරීමට ඒවා නින්දට දමන්න. ඔබ ඒවා නැවත විවෘත කරන තෙක් ඒවාට යාවත්කාලීන නොලැබෙනු ඇති හෝ දැනුම්දීම් එවීමට නොහැකි වනු ඇත.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">බිඳ වැටුණු යෙදුම් %dක් හමු විය. ඔබේ දුරකථනය වේගවත් කිරීමට එය නින්දට දමන්න. ඔබ එය නැවත විවෘත කරන තෙක් එයට යාවත්කාලීන නොලැබෙනු ඇති හෝ දැනුම්දීම් එවීමට නොහැකි වනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">බිඳ වැටුණු යෙදුම් %dක් හමු විය. ඔබේ ටැබ්ලටය වේගවත් කිරීමට ඒවා නින්දට දමන්න. ඔබ ඒවා නැවත විවෘත කරන තෙක් ඒවාට යාවත්කාලීන නොලැබෙනු ඇති හෝ දැනුම්දීම් එවීමට නොහැකි වනු ඇත.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">බිඳ වැටුණු යෙදුම් %dක් හමු විය. ඔබේ ටැබ්ලටය වේගවත් කිරීමට එය නින්දට දමන්න. ඔබ එය නැවත විවෘත කරන තෙක් එයට යාවත්කාලීන නොලැබෙනු ඇති හෝ දැනුම්දීම් එවීමට නොහැකි වනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">අනිෂ්ට යෙදුම් %dක් අනාවරණය විය. ඔබේ දුරකථනය සුරක්ෂිතව තබා ගැනීමට ඒවා අස්ථාපනය කරන්න.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">අනිෂ්ට යෙදුම් %dක් අනාවරණය විය. ඔබේ දුරකථනය සුරක්ෂිතව තබා ගැනීමට එය අස්ථාපනය කරන්න.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">අනිෂ්ට යෙදුම් %dක් අනාවරණය විය. ඔබේ ටැබ්ලටය සුරක්ෂිතව තබා ගැනීමට ඒවා අස්ථාපනය කරන්න.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">අනිෂ්ට යෙදුම් %dක් අනාවරණය විය. ඔබේ ටැබ්ලටය සුරක්ෂිතව තබා ගැනීමට එය අස්ථාපනය කරන්න.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">සැක සහිත ක්‍රියාකාරකමක් අනාවරණය විය. ඔබේ දුරකථනය සහ දත්ත ආරක්ෂා කිරීමට මෙම යෙදුම් අස්ථාපනය කරන්න.</item>
+        <item quantity="one">සැක සහිත ක්‍රියාකාරකමක් අනාවරණය කර ගෙන ඇත. ඔබේ දුරකථනය සහ දත්ත ආරක්ෂා කිරීමට පහත යෙදුම් අස්ථාපනය කරන්න.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">සැක සහිත ක්‍රියාකාරකමක් අනාවරණය විය. ඔබේ ටැබ්ලටය සහ දත්ත ආරක්ෂා කිරීමට මෙම යෙදුම් අස්ථාපනය කරන්න.</item>
+        <item quantity="one">සැක සහිත ක්‍රියාකාරකමක් අනාවරණය කර ගෙන ඇත. ඔබේ ටැබ්ලටය සහ දත්ත ආරක්ෂා කිරීමට පහත යෙදුම් අස්ථාපනය කරන්න.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">සැක සහිත ක්‍රියාකාරකමක් අනාවරණය විය. ඔබේ දුරකථනය සහ දත්ත ආරක්ෂා කිරීමට මෙම යෙදුම් අස්ථාපනය කරන්න.</item>
+        <item quantity="one">සැක සහිත ක්‍රියාකාරකමක් අනාවරණය කර ගෙන ඇත. ඔබේ දුරකථනය සහ දත්ත ආරක්ෂා කිරීමට පහත යෙදුම් අස්ථාපනය කරන්න.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">සැක සහිත ක්‍රියාකාරකමක් අනාවරණය විය. ඔබේ ටැබ්ලටය සහ දත්ත ආරක්ෂා කිරීමට මෙම යෙදුම් අස්ථාපනය කරන්න.</item>
+        <item quantity="one">සැක සහිත ක්‍රියාකාරකමක් අනාවරණය කර ගෙන ඇත. ඔබේ ටැබ්ලටය සහ දත්ත ආරක්ෂා කිරීමට පහත යෙදුම් අස්ථාපනය කරන්න.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">තර්ජන %d ක් අනාවරණය විණි</item>
+        <item quantity="one">තර්ජන 1 ක් අනාවරණය විණි</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">තර්ජන %dක්</item>
+        <item quantity="one">තර්ජන 1ක්</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">පහත යෙදුම් ඔබේ දුරකථනයේ තීරණාත්මක දෝෂවලට හේතු වේ. මෙම යෙදුම් අස්ථාපනය දැඩි ලෙසින් නිර්දේශිතයි. අස්ථාපනයෙන් පසුව, ඔබට යෙදුම් අලෙවිසැලකින් සෑම යෙදුමකම නව අනුවාදයක් ස්ථාපනය කිරීමට හැකි වනු ඇත.</item>
+        <item quantity="one">පහත යෙදුම ඔබේ දුරකථනයේ තීරණාත්මක දෝෂවලට හේතු වේ. මෙම යෙදුම අස්ථාපනය දැඩි ලෙසින් නිර්දේශිතයි. අස්ථාපනයෙන් පසුව, ඔබට යෙදුම් අලෙවිසැලකින් නව අනුවාදයක් ස්ථාපනය කිරීමට හැකි වනු ඇත.</item>
+    </plurals>
+</resources>

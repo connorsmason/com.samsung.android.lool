@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">ამოცნობილია %d პრობლემა</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ამოცნობილია %d პრობლემა</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">მოწყობილობამ ამოიცნო %d აპლიკაცია, რომლებმაც შეიძლება გამოიწვიოს პრობლემები, მათ შორის, შეიძლება შეიცავდეს მავნე კოდს, აპლიკაციის ქეშებს, ან ინტენსიურად დახარჯოს ენერგია.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">მოწყობილობამ ამოიცნო %d აპლიკაცია, რომელმაც შეიძლება გამოიწვიოს პრობლემები, მათ შორის, შეიძლება შეიცავდეს მავნე კოდს, აპლიკაციის ქეშებს, ან ინტენსიურად დახარჯოს ენერგია.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d დღე</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d დღე</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">ეკრანი გამოირთვება %d წამიანი უმოქმედობის შემდეგ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ეკრანი გამოირთვება %d წამიანი უმოქმედობის შემდეგ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d აპლიკაციას სძინავს.</item>
+        <item quantity="one">1 აპლიკაციას სძინავს.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">იძინებს %d აპლიკაცია…</item>
+        <item quantity="one">იძინებს 1 აპლიკაცია…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">ნაპოვნია %1$d საფრთხე. შეეხეთ აქ, რომ აღმოფხვრათ საფრთხეები %2$s-ში.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ნაპოვნია %1$d საფრთხე. შეეხეთ აქ, რომ აღმოფხვრათ საფრთხე %2$s-ში.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d აპებს თქვენი ტელეფონი მწყობრიდან გამოჰყავს. რეკომენდებულია ამ აპების დეინსტალაცია.</item>
+        <item quantity="one">1 აპს თქვენი ტელეფონი მწყობრიდან გამოჰყავს. რეკომენდებულია ამ აპის დეინსტალაცია.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d აპლიკაცია</item>
+        <item quantity="one">1 აპლიკაცია</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">ფონური აპლიკაციები დაიხურა</item>
+        <item quantity="one">ფონური აპლიკაცია დაიხურა</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d აპლიკაცია ინტენსიურად ხარჯავს ენერგიას. დააძინეთ ისინი, რომ დაზოგოთ ენერგია. მათ მიერ შეიძლება არ მოხდეს განახლებების მიღება და შეტყობინებების გაგზავნა, სანამ ისევ არ გახსნით მათ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d აპლიკაცია ინტენსიურად ხარჯავს ენერგიას. დააძინეთ იგი, რომ დაზოგოთ ენერგია. მან შეიძლება არ მიიღოს განახლებები და ვერ გაგზავნოს შეტყობინებები, სანამ ისევ არ გახსნით.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">მოიძებნა %d ხარვეზიანი აპლიკაცია. დააძინეთ ისინი, რომ გაზარდოთ ტელეფონის მუშაობის სიჩქარე. მათ მიერ შეიძლება არ მოხდეს განახლებების მიღება და შეტყობინებების გაგზავნა, სანამ ისევ არ გახსნით მათ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">მოიძებნა %d ხარვეზიანი აპლიკაცია. დააძინეთ იგი, რომ გაზარდოთ ტელეფონის მუშაობის სიჩქარე. მან შეიძლება არ მიიღოს განახლებები და ვერ გაგზავნოს შეტყობინებები, სანამ ისევ არ გახსნით.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">მოიძებნა %d ხარვეზიანი აპლიკაცია. დააძინეთ ისინი, რომ გაზარდოთ პლანშეტის მუშაობის სიჩქარე. მათ მიერ შეიძლება არ მოხდეს განახლებების მიღება და შეტყობინებების გაგზავნა, სანამ ისევ არ გახსნით მათ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">მოიძებნა %d ხარვეზიანი აპლიკაცია. დააძინეთ იგი, რომ გაზარდოთ პლანშეტის მუშაობის სიჩქარე. მის მიერ შეიძლება არ მოხდეს განახლებების მიღება და შეტყობინებების გაგზავნა, სანამ ისევ არ გახსნით მას.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">მოიძებნა %d საზიანო აპლიკაცია. გააუქმეთ მათი ინსტალაცია, ტელეფონის უსაფრთხოების დასაცავად.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ნაპოვნია %d საზიანო აპლიკაცია. გააუქმეთ მისი ინსტალაცია, ტელეფონის უსაფრთხოების დასაცავად.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">მოიძებნა %d საზიანო აპლიკაცია. გააუქმეთ მათი ინსტალაცია, პლანშეტის უსაფრთხოების დასაცავად.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ნაპოვნია %d საზიანო აპლიკაცია. გააუქმეთ მისი ინსტალაცია, პლანშეტის უსაფრთხოების დასაცავად.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">შეინიშნა საეჭვო მოქმედება. თქვენი ტელეფონისა და მონაცემების დასაცავად, გააუქმეთ ამ აპლიკაციების ინსტალაცია.</item>
+        <item quantity="one">შეინიშნა საეჭვო მოქმედება. თქვენი ტელეფონისა და მონაცემთა დასაცავად, გააუქმეთ ქვემოთ მოცემული აპლიკაციების ინსტალაცია.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">შეინიშნა საეჭვო მოქმედება. თქვენი პლანშეტისა და მონაცემების დასაცავად, გააუქმეთ ამ აპლიკაციების ინსტალაცია.</item>
+        <item quantity="one">შეინიშნა საეჭვო მოქმედება. თქვენი პლანშეტისა და მონაცემთა დასაცავად, გააუქმეთ ქვემოთ მოცემული აპლიკაციების ინსტალაცია.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">შეინიშნა საეჭვო მოქმედება. თქვენი ტელეფონისა და მონაცემების დასაცავად, გააუქმეთ ამ აპლიკაციების ინსტალაცია.</item>
+        <item quantity="one">შეინიშნა საეჭვო მოქმედება. თქვენი ტელეფონისა და მონაცემთა დასაცავად, გააუქმეთ ქვემოთ მოცემული აპლიკაციების ინსტალაცია.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">შეინიშნა საეჭვო მოქმედება. თქვენი პლანშეტისა და მონაცემების დასაცავად, გააუქმეთ ამ აპლიკაციების ინსტალაცია.</item>
+        <item quantity="one">შეინიშნა საეჭვო მოქმედება. თქვენი პლანშეტისა და მონაცემთა დასაცავად, გააუქმეთ ქვემოთ მოცემული აპლიკაციების ინსტალაცია.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">ამოცნობილია %d საფრთხე</item>
+        <item quantity="one">წაიშალა 1 საფრთხე</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d საფრთხე</item>
+        <item quantity="one">1 საფრთხე</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">აღნიშნულ აპებს თქვენი ტელეფონი მწყობრიდან გამოჰყავს. რეკომენდებულია ამ აპების დეინსტალაცია. დეინსტალაციის შემდეგ, თქვენ შეგეძლებათ დააინსტალიროთ თითოეული აპის ახალი ვერსია აპლიკაციების მაღაზიიდან.</item>
+        <item quantity="one">აღნიშნულ აპს თქვენი ტელეფონი მწყობრიდან გამოჰყავს. რეკომენდებულია ამ აპის დეინსტალაცია. დეინსტალაციის შემდეგ, თქვენ შეგეძლებათ დააინსტალიროთ ახალი ვერსია აპლიკაციების მაღაზიიდან.</item>
+    </plurals>
+</resources>

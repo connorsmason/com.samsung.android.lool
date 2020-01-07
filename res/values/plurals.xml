@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d issues detected</item>
+        <item quantity="zero">%d issues detected</item>
+        <item quantity="one">%d issue detected</item>
+        <item quantity="two">%d issues detected</item>
+        <item quantity="few">%d issues detected</item>
+        <item quantity="many">%d issues detected</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Device care has detected %d apps that may be causing issues, including malware, app crashes, or high battery usage.</item>
+        <item quantity="zero">Device care has detected %d apps that may be causing issues, including malware, app crashes, or high battery usage.</item>
+        <item quantity="one">Device care has detected %d app that may be causing issues, including malware, app crashes, or high battery usage.</item>
+        <item quantity="two">Device care has detected %d apps that may be causing issues, including malware, app crashes, or high battery usage.</item>
+        <item quantity="few">Device care has detected %d apps that may be causing issues, including malware, app crashes, or high battery usage.</item>
+        <item quantity="many">Device care has detected %d apps that may be causing issues, including malware, app crashes, or high battery usage.</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d days</item>
+        <item quantity="zero">%d days</item>
+        <item quantity="one">%d day</item>
+        <item quantity="two">%d days</item>
+        <item quantity="few">%d days</item>
+        <item quantity="many">%d days</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Screen will turn off after %d seconds of inactivity.</item>
+        <item quantity="zero">Screen will turn off after %d seconds of inactivity.</item>
+        <item quantity="one">Screen will turn off after %d second of inactivity.</item>
+        <item quantity="two">Screen will turn off after %d seconds of inactivity.</item>
+        <item quantity="few">Screen will turn off after %d seconds of inactivity.</item>
+        <item quantity="many">Screen will turn off after %d seconds of inactivity.</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d apps have been put to sleep.</item>
+        <item quantity="one">1 app has been put to sleep.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Putting %d apps to sleep…</item>
+        <item quantity="one">Putting 1 app to sleep...</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d threats detected. Tap here to resolve them in %2$s.</item>
+        <item quantity="zero">%1$d threats detected. Tap here to resolve them in %2$s.</item>
+        <item quantity="one">%1$d threat detected. Tap here to resolve it in %2$s.</item>
+        <item quantity="two">%1$d threats detected. Tap here to resolve them in %2$s.</item>
+        <item quantity="few">%1$d threats detected. Tap here to resolve them in %2$s.</item>
+        <item quantity="many">%1$d threats detected. Tap here to resolve them in %2$s.</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d apps are causing critical errors on your phone. Uninstalling these apps is strongly recommended.</item>
+        <item quantity="one">1 app is causing critical errors on your phone. Uninstalling this app is strongly recommended.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">1 apps</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Background apps closed</item>
+        <item quantity="one">Background app closed</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d apps with high battery usage. Put them to sleep to save power. They may not receive updates or send notifications until you open them again.</item>
+        <item quantity="zero">%d apps with high battery usage. Put them to sleep to save power. They may not receive updates or send notifications until you open them again.</item>
+        <item quantity="one">%d app with high battery usage. Put it to sleep to save power. It may not receive updates or send notifications until you open it again.</item>
+        <item quantity="two">%d apps with high battery usage. Put them to sleep to save power. They may not receive updates or send notifications until you open them again.</item>
+        <item quantity="few">%d apps with high battery usage. Put them to sleep to save power. They may not receive updates or send notifications until you open them again.</item>
+        <item quantity="many">%d apps with high battery usage. Put them to sleep to save power. They may not receive updates or send notifications until you open them again.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d crashed apps found. Put them sleep to speed up your phone. They may not receive updates or send notifications until you open them again.</item>
+        <item quantity="zero">%d crashed apps found. Put them sleep to speed up your phone. They may not receive updates or send notifications until you open them again.</item>
+        <item quantity="one">%d crashed app found. Put it to sleep to speed up your phone. It may not receive updates or send notifications until you open it again.</item>
+        <item quantity="two">%d crashed apps found. Put them sleep to speed up your phone. They may not receive updates or send notifications until you open them again.</item>
+        <item quantity="few">%d crashed apps found. Put them sleep to speed up your phone. They may not receive updates or send notifications until you open them again.</item>
+        <item quantity="many">%d crashed apps found. Put them sleep to speed up your phone. They may not receive updates or send notifications until you open them again.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d crashed apps found. Put them to sleep to speed up your tablet. They may not receive updates or send notifications until you open them again.</item>
+        <item quantity="zero">%d crashed apps found. Put them to sleep to speed up your tablet. They may not receive updates or send notifications until you open them again.</item>
+        <item quantity="one">%d crashed app found. Put it to sleep to speed up your tablet. It may not receive updates or send notifications until you open it again.</item>
+        <item quantity="two">%d crashed apps found. Put them to sleep to speed up your tablet. They may not receive updates or send notifications until you open them again.</item>
+        <item quantity="few">%d crashed apps found. Put them to sleep to speed up your tablet. They may not receive updates or send notifications until you open them again.</item>
+        <item quantity="many">%d crashed apps found. Put them to sleep to speed up your tablet. They may not receive updates or send notifications until you open them again.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d malware apps detected. Uninstall them to keep your phone safe.</item>
+        <item quantity="zero">%d malware apps detected. Uninstall them to keep your phone safe.</item>
+        <item quantity="one">%d malware app detected. Uninstall it to keep your phone safe.</item>
+        <item quantity="two">%d malware apps detected. Uninstall them to keep your phone safe.</item>
+        <item quantity="few">%d malware apps detected. Uninstall them to keep your phone safe.</item>
+        <item quantity="many">%d malware apps detected. Uninstall them to keep your phone safe.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d malware apps detected. Uninstall them to keep your tablet safe.</item>
+        <item quantity="zero">%d malware apps detected. Uninstall them to keep your tablet safe.</item>
+        <item quantity="one">%d malware app detected. Uninstall it to keep your tablet safe.</item>
+        <item quantity="two">%d malware apps detected. Uninstall them to keep your tablet safe.</item>
+        <item quantity="few">%d malware apps detected. Uninstall them to keep your tablet safe.</item>
+        <item quantity="many">%d malware apps detected. Uninstall them to keep your tablet safe.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Suspicious activity has been detected. Uninstall these apps to protect your phone and data.</item>
+        <item quantity="one">Suspicious activity has been detected. Uninstall the apps below to protect your phone and data.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Suspicious activity has been detected. Uninstall these apps to protect your tablet and data.</item>
+        <item quantity="one">Suspicious activity has been detected. Uninstall the apps below to protect your tablet and data.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Suspicious activity has been detected. Uninstall these apps to protect your phone and data.</item>
+        <item quantity="one">Suspicious activity has been detected. Uninstall the apps below to protect your phone and data.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Suspicious activity has been detected. Uninstall these apps to protect your tablet and data.</item>
+        <item quantity="one">Suspicious activity has been detected. Uninstall the apps below to protect your tablet and data.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d threats detected</item>
+        <item quantity="one">1 threat detected</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d threats</item>
+        <item quantity="one">1 threat</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">The apps below are causing critical errors on your phone. Uninstalling these apps is strongly recommended. After uninstalling, you may be able to install a new version of each app from an app store.</item>
+        <item quantity="one">The app below is causing critical errors on your phone. Uninstalling this app is strongly recommended. After uninstalling, you may be able to install a new version from an app store.</item>
+    </plurals>
+</resources>

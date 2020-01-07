@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <transitionSet android:transitionOrdering="together">
+        <targets>
+            <target android:targetId="@id/score_status_text" />
+        </targets>
+        <transition android:duration="300" app:slideDirection="top" app:slideFraction="@dimen/scoreboard_status_text_slide_factor" class="com.samsung.android.sm.visualeffect.transition.StatusTextSlideTransition" />
+    </transitionSet>
+    <transitionSet android:transitionOrdering="together">
+        <targets>
+            <target android:targetId="@id/id_inner_circle" />
+        </targets>
+        <changeBounds android:interpolator="@anim/sine_in_out_90_interpolator" android:duration="500" />
+        <changeTransform android:interpolator="@anim/sine_in_out_90_interpolator" android:duration="500" android:reparentWithOverlay="false" />
+    </transitionSet>
+    <transitionSet android:transitionOrdering="together">
+        <targets>
+            <target android:targetId="@id/score_text" />
+            <target android:targetId="@id/score_dash_100" />
+        </targets>
+        <transition android:interpolator="@anim/sine_in_out_90_interpolator" android:duration="500" class="com.samsung.android.sm.visualeffect.transition.TextTransition" />
+        <changeBounds android:interpolator="@anim/sine_in_out_90_interpolator" android:duration="500" />
+        <changeTransform android:interpolator="@anim/sine_in_out_90_interpolator" android:duration="500" />
+    </transitionSet>
+</transitionSet>

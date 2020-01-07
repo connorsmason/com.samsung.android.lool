@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/clean_desc_container" android:tag="layout/second_depth_clean_anim_description_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/second_depth_circle_cleaning_description_container_margin_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/second_depth_circle_cleaning_description_text_size" android:textColor="@color/second_depth_circle_cleaning_description_text_color_theme" android:gravity="center" android:id="@id/first_desc" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <TextView android:textSize="@dimen/second_depth_circle_cleaning_description_secondary_text_size" android:textColor="@color/second_depth_circle_cleaning_description_text_color_theme" android:gravity="center" android:id="@id/second_desc" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

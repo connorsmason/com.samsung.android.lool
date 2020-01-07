@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d problemen gedetecteerd</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d probleem gedetecteerd</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Apparaatonderhoud heeft %d apps gedetecteerd die problemen kan veroorzaken, zoals malware, app-crashes of hoog batterijverbruik.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Apparaatonderhoud heeft %d app gedetecteerd die problemen kan veroorzaken, zoals malware, app-crashes of hoog batterijverbruik.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dagen</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d dag</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Het scherm wordt uitgeschakeld na %d seconden van inactiviteit.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Het scherm wordt uitgeschakeld na %d seconde van inactiviteit.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d apps zijn in de sluimerstand geplaatst.</item>
+        <item quantity="one">1 app is in sluimerstand geplaatst.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d apps laten sluimeren…</item>
+        <item quantity="one">1 app laten sluimeren…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d bedreigingen gedetecteerd. Tik hier om dit op te lossen in %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d bedreiging gedetecteerd. Tik hier om dit op te lossen in %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d apps veroorzaken kritieke fouten op uw telefoon. Het wordt sterk aangeraden om deze apps te verwijderen.</item>
+        <item quantity="one">1 app veroorzaakt kritieke fouten op uw telefoon. Het wordt sterk aangeraden om deze app te verwijderen.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">1 app</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Achtergrond-apps gesloten</item>
+        <item quantity="one">Achtergrond-app gesloten</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d apps met hoog batterijverbruik. Zet deze in sluimerstand om voeding te besparen. De apps ontvangen mogelijk geen updates of meldingen tot u ze opnieuw opent.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d app met hoog batterijverbruik. Zet deze in sluimerstand om voeding te besparen. De app ontvangt mogelijk geen updates of meldingen tot u deze opnieuw opent.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d gecrashte apps gevonden. Zet deze in sluimerstand om uw telefoon te versnellen. De apps ontvangen mogelijk geen updates of meldingen tot u ze opnieuw opent.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d gecrashte app gevonden. Zet deze in sluimerstand om uw telefoon te versnellen. De app ontvangt mogelijk geen updates of meldingen tot u deze opnieuw opent.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d gecrashte apps gevonden. Zet deze in de sluimerstand om uw tablet te versnellen. De apps ontvangen mogelijk geen updates of meldingen tot u ze opnieuw opent.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d gecrashte app gevonden. Zet deze in de sluimerstand om uw tablet te versnellen. De app ontvangt mogelijk geen updates of meldingen tot u deze opnieuw opent.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d malware-apps gedetecteerd. Verwijder ze om uw telefoon veilig te houden.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d malware-app gedetecteerd. Verwijder deze om uw telefoon veilig te houden.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d malware-apps gedetecteerd. Verwijder ze om uw tablet veilig te houden.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d malware-app gedetecteerd. Verwijder deze om uw tablet veilig te houden.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Er is verdachte activiteit gedetecteerd. Verwijder deze apps om uw telefoon en gegevens te beveiligen.</item>
+        <item quantity="one">Er is verdachte activiteit gedetecteerd. Verwijder de apps hieronder om uw telefoon en gegevens te beveiligen.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Er is verdachte activiteit gedetecteerd. Verwijder deze apps om uw tablet en gegevens te beveiligen.</item>
+        <item quantity="one">Er is verdachte activiteit gedetecteerd. Verwijder de apps hieronder om uw tablet en gegevens te beveiligen.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Er is verdachte activiteit gedetecteerd. Verwijder deze apps om uw telefoon en gegevens te beveiligen.</item>
+        <item quantity="one">Er is verdachte activiteit gedetecteerd. Verwijder de apps hieronder om uw telefoon en gegevens te beveiligen.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Er is verdachte activiteit gedetecteerd. Verwijder deze apps om uw tablet en gegevens te beveiligen.</item>
+        <item quantity="one">Er is verdachte activiteit gedetecteerd. Verwijder de apps hieronder om uw tablet en gegevens te beveiligen.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d bedreigingen gedetecteerd</item>
+        <item quantity="one">1 bedreiging gedetecteerd</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d bedreigingen</item>
+        <item quantity="one">1 bedreiging</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">De apps hieronder veroorzaken kritieke fouten op uw telefoon. Het wordt sterk aangeraden om deze apps te verwijderen. Na het verwijderen kunt u een nieuwe versie van elke app installeren via een app store.</item>
+        <item quantity="one">De app hieronder veroorzaakt kritieke fouten op uw telefoon. Het wordt sterk aangeraden om deze app te verwijderen. Na het verwijderen kunt u een nieuwe versie installeren via een app store.</item>
+    </plurals>
+</resources>

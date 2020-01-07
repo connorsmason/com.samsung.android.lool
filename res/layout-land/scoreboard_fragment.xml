@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/SMWinset.AppToolBarStyle" />
+    <com.samsung.android.sm.view.RoundedCornerScrollView android:id="@id/score_scrollview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/scoreboard_fragment_container" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:animateLayoutChanges="true">
+            <include layout="@layout/scoreboard_main_tip_view_layout" />
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="horizontal" android:id="@id/scoreboard_main_views" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <FrameLayout android:layout_gravity="center_vertical" android:clipChildren="false" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@dimen/scoreboard_circle_land_layout_ratio">
+                    <include layout="@layout/scoreboard_main_circle_layout" />
+                </FrameLayout>
+                <include layout="@layout/screen_vertical_divider_layout" />
+                <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@dimen/scoreboard_desc_land_layout_ratio">
+                    <include layout="@layout/scoreboard_main_desc_layout" />
+                    <include layout="@layout/main_button_layout" />
+                </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    </com.samsung.android.sm.view.RoundedCornerScrollView>
+</LinearLayout>

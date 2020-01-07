@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen android:key="key_preferencescreen_battery_optimize_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.preference.Preference android:persistent="false" android:title="@string/battery_optimize_settings_description" android:selectable="false" android:key="battery_optimize_settings_description" />
+    <android.support.v7.preference.SeslSwitchPreferenceScreen android:persistent="false" android:title="@string/battery_mode_dialog_brightness_title" android:key="key_screen_brightness" />
+    <android.support.v7.preference.SeslSwitchPreferenceScreen android:persistent="false" android:title="@string/battery_optimize_settings_screen_timeout" android:key="key_screen_timeout" />
+    <android.support.v7.preference.SeslSwitchPreferenceScreen android:persistent="false" android:title="@string/battery_optimize_settings_screen_media_volume" android:key="key_sound_volume" />
+</android.support.v7.preference.PreferenceScreen>

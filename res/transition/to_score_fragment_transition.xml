@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet android:duration="500" android:transitionOrdering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fade>
+        <targets>
+            <target android:targetId="@id/scoreboard_tip_layout" />
+            <target android:targetId="@id/score_description_container" />
+            <target android:targetId="@id/main_button_layout" />
+            <target android:targetId="@id/score_status_text" />
+        </targets>
+    </fade>
+</transitionSet>

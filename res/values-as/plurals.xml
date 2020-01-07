@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d টা সমস্যা চিনাক্ত হৈছে</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d টা সমস্যা চিনাক্ত হৈছে</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">ডিভাইচৰ যত্নই মালৱেৰ, এপ ক্ৰেশ্ব বা অধিক বেটাৰীৰ ব্যৱহাৰক অন্তৰ্ভুক্ত কৰি সমস্যাসমূহ কৰিব পৰা %d টা এপ চিনাক্ত কৰিছে।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ডিভাইচৰ যত্নই মালৱেৰ, এপ ক্ৰেশ্ব বা অধিক বেটাৰীৰ ব্যৱহাৰক অন্তৰ্ভুক্ত কৰি সমস্যাসমূহ কৰিব পৰা %d টা এপ চিনাক্ত কৰিছে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d দিন</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d দিন</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">"%d ছেকেণ্ড নিষ্ক্ৰিয়তাৰ পিছত স্ক্ৰীণ অফ হ'ব।"</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"%d ছেকেণ্ড নিষ্ক্ৰিয়তাৰ পিছত স্ক্ৰীণ অফ হ'ব।"</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d টা এপ নিদ্ৰাৰ বাবে ৰখা হৈছে।</item>
+        <item quantity="one">1 টা এপ নিদ্ৰাৰ বাবে ৰখা হৈছে।</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">নিদ্ৰাৰ বাবে %d টা এপ ৰাখি আছে…</item>
+        <item quantity="one">নিদ্ৰাৰ বাবে 1 টা এপ ৰাখি আছে…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d টা ভাবুকি চিনাক্ত হৈছে। সেইবোৰ %2$s-ত সমাধান কৰিবলৈ ইয়াত টিপক।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d টা ভাবুকি চিনাক্ত হৈছে। ইয়াক %2$sত সমাধান কৰিবলৈ ইয়াত টিপক।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d এপৰ কাৰণে আপোনাৰ ফোনত সংকটপূৰ্ণ ত্ৰুটি ঘটিছে। এই এপ্প্‌সমূহ আনষ্টল কৰাটো শক্তিশালীভাৱে অনুমোদিত।</item>
+        <item quantity="one">1 টা এপৰ কাৰণে আপোনাৰ ফোনত সংকটপূৰ্ণ ত্ৰুটি ঘটিছে। এই এপ আনষ্টল কৰাটো শক্তিশালীভাৱে অনুমোদিত।</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d টা এপ</item>
+        <item quantity="one">1 টা এপ</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">পৃষ্ঠভূমি এপ্প্‌সমূহ বন্ধ হৈছে</item>
+        <item quantity="one">পৃষ্ঠভূমি এপ বন্ধ হৈছে</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">অধিক বেটাৰীৰ ব্যৱহাৰ কৰা %d টা এপ। পাৱাৰ সংৰক্ষণ কৰিবলৈ সেইবোৰ নিস্ক্ৰিয় কৰি ৰাখক। সেইবোৰে আপুনি সেইবোৰ নোখোলালৈকে আপডেটসমূহ প্ৰাপ্ত বা অধিসূচনাসমূহ প্ৰেৰণ নকৰিব পাৰে।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">অধিক বেটাৰীৰ ব্যৱহাৰ কৰা %d টা এপ। পাৱাৰ সংৰক্ষণ কৰিবলৈ ইয়াক নিস্ক্ৰিয় কৰি ৰাখক। এইটোৱে আপুনি ইয়াক নোখোলালৈকে আপডেটসমূহ প্ৰাপ্ত বা অধিসূচনাসমূহ প্ৰেৰণ নকৰিব পাৰে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d টা ক্ৰেছ হোৱা এপ পোৱা গৈছে। আপোনাৰ ফোনৰ গতি বঢ়াবলৈ সেইবোৰ নিষ্ক্ৰিয় কৰি ৰাখক। সেইবোৰে আপুনি সেইবোৰ নোখোলালৈকে আপডেটসমূহ প্ৰাপ্ত বা অধিসূচনাসমূহ প্ৰেৰণ নকৰিব পাৰে।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d টা ক্ৰেছ হোৱা এপ পোৱা গৈছে। আপোনাৰ ফোনৰ গতি বঢ়াবলৈ ইয়াক নিষ্ক্ৰিয় কৰি ৰাখক। এইটোৱে আপুনি ইয়াক নোখোলালৈকে আপডেটসমূহ প্ৰাপ্ত বা অধিসূচনাসমূহ প্ৰেৰণ নকৰিব পাৰে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d টা ক্ৰেছ হোৱা এপ পোৱা গৈছে। আপোনাৰ টেবলেটৰ গতি বঢ়াবলৈ সেইবোৰক নিষ্ক্ৰিয় কৰি ৰাখক। সেইবোৰে আপুনি সেইবোৰ নোখোলালৈকে আপডেটসমূহ প্ৰাপ্ত বা অধিসূচনাসমূহ প্ৰেৰণ নকৰিব পাৰে।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d টা ক্ৰেছ হোৱা এপ পোৱা গৈছে। আপোনাৰ টেবলেটৰ গতি বঢ়াবলৈ ইয়াক নিষ্ক্ৰিয় কৰি ৰাখক। এইটোৱে আপুনি ইয়াক নোখোলালৈকে আপডেটসমূহ প্ৰাপ্ত বা অধিসূচনাসমূহ প্ৰেৰণ নকৰিব পাৰে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d টা মালৱেৰ এপ চিনাক্ত হৈছে। আপোনাৰ ফোন সুৰক্ষিত কৰি ৰাখিবলৈ সেইবোৰ আনইনষ্টল কৰক।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d টা মালৱেৰ এপ চিনাক্ত হৈছে। আপোনাৰ ফোন সুৰক্ষিত কৰি ৰাখিবলৈ ইয়াক আনইনষ্টল কৰক।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d টা মালৱেৰ এপ চিনাক্ত হৈছে। আপোনাৰ টেবলেট সুৰক্ষিত কৰি ৰাখিবলৈ সেইবোৰ আনইনষ্টল কৰক।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d টা মালৱেৰ এপ চিনাক্ত হৈছে। আপোনাৰ টেবলেট সুৰক্ষিত কৰি ৰাখিবলৈ ইয়াক আনইনষ্টল কৰক।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">সন্দেহজনক কাৰ্যকলাপ চিনাক্ত হৈছে। আপোনাৰ ফোন আৰু ডাটা সুৰক্ষিত কৰিবলৈ এই এপ্প্‌সমূহ আনইনষ্টল কৰক।</item>
+        <item quantity="one">সন্দেহজনক কাৰ্যকলাপ চিনাক্ত হৈছে। আপোনাৰ ফোন আৰু ডাটা সুৰক্ষিত কৰিবলৈ তলৰ এপ্প্‌সমূহ আনইনষ্টল কৰক।</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">সন্দেহজনক কাৰ্যকলাপ চিনাক্ত হৈছে। আপোনাৰ টেবলেট আৰু ডাটা সুৰক্ষিত কৰিবলৈ এই এপ্প্‌সমূহ আনইনষ্টল কৰক।</item>
+        <item quantity="one">সন্দেহজনক কাৰ্যকলাপ চিনাক্ত হৈছে। আপোনাৰ টেবলেট আৰু ডাটা সুৰক্ষিত কৰিবলৈ তলৰ এপ্প্‌সমূহ আনইনষ্টল কৰক।</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">সন্দেহজনক কাৰ্যকলাপ চিনাক্ত হৈছে। আপোনাৰ ফোন আৰু ডাটা সুৰক্ষিত কৰিবলৈ এই এপ্প্‌সমূহ আনইনষ্টল কৰক।</item>
+        <item quantity="one">সন্দেহজনক কাৰ্যকলাপ চিনাক্ত হৈছে। আপোনাৰ ফোন আৰু ডাটা সুৰক্ষিত কৰিবলৈ তলৰ এপ্প্‌সমূহ আনইনষ্টল কৰক।</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">সন্দেহজনক কাৰ্যকলাপ চিনাক্ত হৈছে। আপোনাৰ টেবলেট আৰু ডাটা সুৰক্ষিত কৰিবলৈ এই এপ্প্‌সমূহ আনইনষ্টল কৰক।</item>
+        <item quantity="one">সন্দেহজনক কাৰ্যকলাপ চিনাক্ত হৈছে। আপোনাৰ টেবলেট আৰু ডাটা সুৰক্ষিত কৰিবলৈ তলৰ এপ্প্‌সমূহ আনইনষ্টল কৰক।</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d টা ভাবুকি চিনাক্ত হৈছে</item>
+        <item quantity="one">1 টা ভাবুকি চিনাক্ত হৈছে</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d টা থ্ৰেড</item>
+        <item quantity="one">1 টা থ্ৰেড</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">"তলৰ এপ্প্‌সমূহৰ কাৰণে আপোনাৰ ফোনত সংকটপূৰ্ণ ত্ৰুটি ঘটিছে। এই এপ্প্‌সমূহ আনষ্টল কৰাটো শক্তিশালীভাৱে অনুমোদিত। আনইনষ্টল কৰাৰ পিছত, আপুনি এটা এপ ষ্ট'ৰৰ পৰা প্ৰতিটো এপৰ এটা নতুন সংস্কৰণ ইনষ্টল কৰিবলৈ সক্ষম হ'বও পাৰে।"</item>
+        <item quantity="one">"তলৰ এপটোৰ কাৰণে আপোনাৰ ফোনত সংকটপূৰ্ণ ত্ৰুটি ঘটিছে। এই এপ আনইনষ্টল কৰাটো শক্তিশালীভাৱে অনুমোদিত। আনইনষ্টল কৰাৰ পিছত, আপুনি এটা এপ ষ্ট'ৰৰ পৰা এটা নতুন সংস্কৰণ ইনষ্টল কৰিবলৈ সক্ষম হ'বও পাৰে।"</item>
+    </plurals>
+</resources>

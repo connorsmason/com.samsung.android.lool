@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d vandamál greindust</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d vandamál greindist</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Umhirða tækisins hefur greint %d forrit sem kunna að valda vandamálum, þar á meðal spilliforritum, hruni í forritum eða mikilli rafhlöðunotkun.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Umhirða tækisins hefur greint %d forrit sem kann að valda vandamálum, þar á meðal spilliforritum, hruni í forritum eða mikilli rafhlöðunotkun.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dagar</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d dagur</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Skjárinn slekkur á sér eftir %d sekúndur af aðgerðaleysi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Skjárinn slekkur á sér eftir %d sekúndu af aðgerðaleysi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d forrit voru sett í hvíldarstöðu.</item>
+        <item quantity="one">1 forrit var sett í hvíldarstöðu.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Set %d forrit í hvíldarstöðu…</item>
+        <item quantity="one">Set 1 forrit í hvíldarstöðu…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d ógnir greindust. Pikka hér til að leysa úr þeim í %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ógn greindist. Pikkaðu hér til að leysa úr henni í %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d forrit valda alvarlegum villum í símanum þínum. Eindregið er mælt með því að þessi forrit séu fjarlægð.</item>
+        <item quantity="one">1 forrit veldur alvarlegum villum í símanum þínum. Eindregið er mælt með því að þetta forrit sé fjarlægt.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d forrit</item>
+        <item quantity="one">1 forrit</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Bakgrunnsforritum lokað</item>
+        <item quantity="one">Bakgrunnsforriti lokað</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d forrit sem nota mikla rafhlöðuorku. Settu þau í hvíldarstöðu til að spara orku. Ekki er víst að þau fái uppfærslur eða sendi tilkynningar fyrr en þau eru opnuð aftur.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d forrit sem notar mikla rafhlöðuorku. Settu það í hvíldarstöðu til að spara orku. Ekki er víst að það fái uppfærslur eða sendi tilkynningar fyrr en það er opnað aftur.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d forrit sem hrundu fundust. Settu þau í hvíldarstöðu til að auka afköst símans. Ekki er víst að þau fái uppfærslur eða sendi tilkynningar fyrr en þau eru opnuð aftur.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d forrit sem hrundi fannst. Settu það í hvíldarstöðu til að auka afköst símans. Ekki er víst að það fái uppfærslur eða sendi tilkynningar fyrr en það er opnað aftur.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d forrit sem hrundu fundust. Settu þau í hvíldarstöðu til að auka afköst spjaldtölvunnar. Ekki er víst að þau fái uppfærslur eða sendi tilkynningar fyrr en þau eru opnuð aftur.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d forrit sem hrundi fannst. Settu það í hvíldarstöðu til að auka afköst spjaldtölvunnar. Ekki er víst að það fái uppfærslur eða sendi tilkynningar fyrr en það er opnað aftur.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d spilliforrit fundust. Fjarlægðu þau til að halda símanum öruggum.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d spilliforrit fannst. Fjarlægðu það til að halda símanum öruggum.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d spilliforrit fundust. Fjarlægðu þau til að halda spjaldtölvunni öruggri.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d spilliforrit fannst. Fjarlægðu það til að halda spjaldtölvunni öruggri.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Grunsamlegar aðgerðir voru greindar. Fjarlægðu þessi forrit til að vernda símann og gögnin þín.</item>
+        <item quantity="one">Grunsamlegar aðgerðir voru greindar. Fjarlægðu forritin hér að neðan til að vernda símann og gögnin þín.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Grunsamlegar aðgerðir voru greindar. Fjarlægðu þessi forrit til að vernda spjaldtölvuna og gögnin þín.</item>
+        <item quantity="one">Grunsamlegar aðgerðir voru greindar. Fjarlægðu forritin hér að neðan til að vernda spjaldtölvuna og gögnin þín.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Grunsamlegar aðgerðir voru greindar. Fjarlægðu þessi forrit til að vernda símann og gögnin þín.</item>
+        <item quantity="one">Grunsamlegar aðgerðir voru greindar. Fjarlægðu forritin hér að neðan til að vernda símann og gögnin þín.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Grunsamlegar aðgerðir voru greindar. Fjarlægðu þessi forrit til að vernda spjaldtölvuna og gögnin þín.</item>
+        <item quantity="one">Grunsamlegar aðgerðir voru greindar. Fjarlægðu forritin hér að neðan til að vernda spjaldtölvuna og gögnin þín.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d ógnir greindust</item>
+        <item quantity="one">1 ógn greindist</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d ógnir</item>
+        <item quantity="one">1 ógn</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Forritin hér fyrir neðan valda alvarlegum villum í símanum þínum. Eindregið er mælt með því að þessi forrit séu fjarlægð. Eftir að þau eru fjarlægð getur þú hugsanlega sett upp nýja útgáfu af hverju forriti úr forritaverslun.</item>
+        <item quantity="one">Forritið hér fyrir neðan veldur alvarlegum villum í símanum þínum. Eindregið er mælt með því að þetta forrit sé fjarlægt. Eftir að það er fjarlægt getur þú hugsanlega sett upp nýja útgáfu af því úr forritaverslun.</item>
+    </plurals>
+</resources>

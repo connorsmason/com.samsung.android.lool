@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d problemes detectats</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d problema detectat</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">"L'aplicació d'assistència del dispositiu ha detectat %d aplicacions que poden estar causant problemes, com ara malware, errors d'aplicacions o un ús de bateria alt."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"L'aplicació d'assistència del dispositiu ha detectat %d aplicació que pot estar causant problemes, com ara malware, errors d'aplicacions o un ús de bateria alt."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dies</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d dia</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">"La pantalla es desactivarà després de %d segons d'inactivitat."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"La pantalla es desactivarà després de %d segon d'inactivitat."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">"S'han posat %d apps en repòs."</item>
+        <item quantity="one">"S'ha posat 1 app en repòs."</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">"S'estan posant %d apps en repòs…"</item>
+        <item quantity="one">"S'està posant 1 app en repòs…"</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">"S'han detectat %1$d amenaces. Si us plau, toca aquí per resoldre-les a %2$s."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"S'ha detectat %1$d amenaça. Si us plau, toca aquí per resoldre-la a %2$s."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d aplicacions estan provocant errors crítics al telèfon. Es recomana desinstal·lar-les.</item>
+        <item quantity="one">1 aplicació està provocant errors crítics al telèfon. Es recomana desinstal·lar-la.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d aplicacions</item>
+        <item quantity="one">1 aplicació</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">"S'han tancat apps en segon pla"</item>
+        <item quantity="one">"S'ha tancat una app en segon pla"</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d aplicacions amb ús de bateria alt. Si us plau, posa-les en repòs per estalviar bateria. És possible que no rebin les actualitzacions ni enviïn notificacions fins que no les tornis a obrir.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplicació amb ús de bateria alt. Si us plau, posa-la en repòs per estalviar bateria. És possible que no rebi les actualitzacions ni enviï notificacions fins que no la tornis a obrir.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">"S'han trobat %d errors d'aplicació. Si us plau, posa les aplicacions en repòs per accelerar el telèfon. És possible que no rebin les actualitzacions ni enviïn notificacions fins que no les tornis a obrir."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"S'ha trobat %d error d'aplicació. Si us plau, posa l'aplicació en repòs per accelerar el telèfon. És possible que no rebi les actualitzacions ni enviï notificacions fins que no la tornis a obrir."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">"S'han trobat %d errors d'aplicació. Si us plau, posa les aplicacions en repòs per accelerar la tablet. És possible que no rebin les actualitzacions ni enviïn notificacions fins que no les tornis a obrir."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"S'ha trobat %d error d'aplicació. Si us plau, posa l'aplicació en repòs per accelerar la tablet. És possible que no rebi les actualitzacions ni enviï notificacions fins que no la tornis a obrir."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">"S'han detectat %d aplicacions de malware. Si us plau, desinstal·la-les per mantenir el telèfon segur."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"S'ha detectat %d aplicació de malware. Si us plau, desinstal·la-la per mantenir el telèfon segur."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">"S'han detectat %d aplicacions de malware. Si us plau, desinstal·la-les per mantenir la tablet segura."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"S'ha detectat %d aplicació de malware. Si us plau, desinstal·la-la per mantenir la tablet segura."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">"S'ha detectat activitat sospitosa. Desinstal·la aquestes aplicacions per protegir el telèfon i les dades."</item>
+        <item quantity="one">"S'ha detectat una activitat sospitosa. Desinstal·la les aplicacions següents per protegir el telèfon i les dades."</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">"S'ha detectat activitat sospitosa. Si us plau, desinstal·la aquestes aplicacions per protegir la tablet i les dades."</item>
+        <item quantity="one">"S'ha detectat una activitat sospitosa. Desinstal·la les aplicacions següents per protegir la tablet i les dades."</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">"S'ha detectat activitat sospitosa. Desinstal·la aquestes aplicacions per protegir el telèfon i les dades."</item>
+        <item quantity="one">"S'ha detectat una activitat sospitosa. Desinstal·la les aplicacions següents per protegir el telèfon i les dades."</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">"S'ha detectat activitat sospitosa. Si us plau, desinstal·la aquestes aplicacions per protegir la tablet i les dades."</item>
+        <item quantity="one">"S'ha detectat una activitat sospitosa. Desinstal·la les aplicacions següents per protegir la tablet i les dades."</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">"S'han detectat %d amenaces"</item>
+        <item quantity="one">1 amenaça detectada</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d amenaces</item>
+        <item quantity="one">1 amenaça</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">"Les aplicacions següents estan provocant errors crítics al telèfon. Es recomana desinstal·lar-les. Un cop desinstal·lades, podràs instal·lar una nova versió de cada aplicació des d'una botiga d'aplicacions."</item>
+        <item quantity="one">"L'aplicació següent està provocant errors crítics al telèfon. Es recomana desinstal·lar-la. Un cop desinstal·lada, podràs instal·lar-ne una nova versió des d'una botiga d'aplicacions."</item>
+    </plurals>
+</resources>

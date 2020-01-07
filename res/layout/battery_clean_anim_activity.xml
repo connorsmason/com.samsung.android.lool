@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:tag="layout/battery_clean_anim_activity_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/SMWinset.AppToolBarStyle" />
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/battery_clean_anim" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:tag="binding_1" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/second_depth_circle_cleaning_screen_layout_margin_top">
+            <include android:id="@id/circle_container" layout="@layout/battery_clean_anim_circle" />
+            <include android:id="@id/description" layout="@layout/battery_clean_anim_description" />
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+        <com.samsung.android.sm.view.RoundedCornerRecyclerView android:id="@id/recycler_view" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" />
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

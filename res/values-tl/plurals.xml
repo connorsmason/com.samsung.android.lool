@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d problemang nadetekta</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d problemang nadetekta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Nadetekta ng Device care ang %d app na maaaring sanhi ng mga problema,kabilang ang malware, pag-crash ng app o malakas na paggamit ng baterya.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nadetekta ng Device care ang %d app na maaaring sanhi ng mga problema, kabilang ang malware, pag-crash ng app o malakas na paggamit ng baterya.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d araw</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d araw</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Mag-o-off ang screen matapos ang %d segundo na hindi aktibo.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Mag-o-off ang screen matapos ang %d segundo na hindi aktibo.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d app ang pinatulog.</item>
+        <item quantity="one">1 app ang pinatulog.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Pinatutulog ang %d app…</item>
+        <item quantity="one">Pinatutulog ang 1 app…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d banta ang nadetekta. I-tap dito para resolbahin ang mga ito sa %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d banta ang nadetekta. I-tap dito para resolbahin ito sa %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d app ang nagdudulot ng mga critical error sa telepono mo. Mariing inirerekomenda na i-uninstall ang mga app na ito.</item>
+        <item quantity="one">1 app ang nagdudulot ng mga critical error sa telepono mo. Mariing inirerekomenda na i-uninstall ang app na ito.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d app</item>
+        <item quantity="one">1 app</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Isinara ang mga background app</item>
+        <item quantity="one">Isinara ang background app</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d app ang malakas gumamit ng baterya. Patulugin ang mga ito para makatipid ng enerhiya. Maaaring makatanggap ang mga ito ng mga update o magpadala ng mga notification hanggang buksan mo ang mga ito muli.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d app ang malakas gumamit ng baterya. Patulugin ito para makatipid ng enerhiya. Maaaring hindi ito makatanggap ng mga update o magpadala ng mga notification hanggang buksan mo ito muli.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d nag-crash na app ang nakita. Patulugin ang mga ito para pabilisin ang telepono mo. Maaaring hindi ito makatanggap ng mga update o magpadala ng mga notification hanggang buksan mo ang mga ito muli.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nag-crash na app ang nakita. Patulugin ito para pabilisin ang telepono mo. Maaaring hindi ito makatanggap ng mga update o magpadala ng mga notification hanggang buksan mo ito muli.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d nag-crash na app ang nakita. Patulugin ang mga ito para pabilisin ang tablet mo. Maaaring hindi makatanggap ang mga ito ng mga update o magpadala ng mga notification hanggang buksan mo ang mga ito muli.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nag-crash na app ang nakita. Patulugin ito para pabilisin ang tablet mo. Maaaring hindi ito makatanggap ng mga update o magpadala ng mga notification hanggang buksan mo ito muli.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d malware app ang nadetekta. I-uninstall ang mga ito para panatilihing ligtas ang telepono mo.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d malware app ang nadetekta. I-uninstall ito para panatilihing ligtas ang telepono mo.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d malware app ang nadetekta. I-uninstall ang mga ito para panatilihing ligtas ang tablet mo.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d malware app ang nadetekta. I-uninstall ito para panatilihing ligtas ang tablet mo.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">May nadetektang kahina-hinalang aktibidad. I-uninstall ang mga app na ito para protektahan ang telepono at data mo.</item>
+        <item quantity="one">May nadetektang kahina-hinalang aktibidad. I-uninstall ang mga app sa ibaba para protektahan ang telepono at data mo.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">May nadetektang kahina-hinalang aktibidad. I-uninstall ang mga app para protektahan ang tablet at data mo.</item>
+        <item quantity="one">May nadetektang kahina-hinalang aktibidad. I-uninstall ang mga app sa ibaba para protektahan ang tablet at data mo.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">May nadetektang kahina-hinalang aktibidad. I-uninstall ang mga app na ito para protektahan ang telepono at data mo.</item>
+        <item quantity="one">May nadetektang kahina-hinalang aktibidad. I-uninstall ang mga app sa ibaba para protektahan ang telepono at data mo.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">May nadetektang kahina-hinalang aktibidad. I-uninstall ang mga app para protektahan ang tablet at data mo.</item>
+        <item quantity="one">May nadetektang kahina-hinalang aktibidad. I-uninstall ang mga app sa ibaba para protektahan ang tablet at data mo.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Na-detect ang %d (na) banta</item>
+        <item quantity="one">Na-detect ang 1 banta</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d banta</item>
+        <item quantity="one">1 banta</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Nagdudulot ng mga critical error sa telepono mo ang mga app sa ibaba. Mariing inirerekomenda na i-uninstall ang mga app na ito. Pagkatapos i-uninstall, maaari kang mag-install ng bagong bersiyon ng bawat app mula sa isang app store.</item>
+        <item quantity="one">Nagdudulot ng mga critical error sa telepono mo ang app sa ibaba. Mariing inirerekomenda na i-uninstall ang app na ito. Pagkatapos i-uninstall, maaari kang mag-install ng bagong bersiyon mula sa isang app store.</item>
+    </plurals>
+</resources>

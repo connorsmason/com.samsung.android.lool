@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet android:transitionOrdering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <targets>
+        <target android:targetId="@id/id_inner_circle" />
+        <target android:targetId="@id/id_animated_done_view" />
+    </targets>
+    <changeBounds android:interpolator="@anim/sine_in_out_90_interpolator" android:duration="500" />
+    <changeTransform android:interpolator="@anim/sine_in_out_90_interpolator" android:duration="500" />
+</transitionSet>

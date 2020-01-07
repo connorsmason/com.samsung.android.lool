@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="@dimen/button_background_margin_start" android:insetRight="@dimen/button_background_margin_start" android:insetTop="@dimen/button_background_margin_top" android:insetBottom="@dimen/button_background_margin_top"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shape android:shape="rectangle"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <corners android:radius="?winsetActionBarShowButtonRadius" />
+        <solid android:color="?winsetActionBarShowButtonBgColor" />
+        <stroke android:width="?winsetActionBarShowButtonStroke" android:color="?winsetActionBarShowButtonStrokeColor" />
+    </shape>
+</inset>

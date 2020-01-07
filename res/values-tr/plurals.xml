@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d sorun algılandı</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sorun algılandı</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Cihaz bakımı kötü amaçlı uygulama, uygulama çökmesi veya yüksek pil kullanımı dahil olmak üzere sorun yaratabilecek %d uygulama buldu.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Cihaz bakımı kötü amaçlı uygulama, uygulama çökmesi veya yüksek pil kullanımı dahil olmak üzere sorun yaratabilecek %d uygulama buldu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d gün</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d gün</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Ekran %d saniye hareketsizliğin ardından kapatılır.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ekran %d saniye hareketsizliğin ardından kapatılır.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d uygulama uyku moduna alındı.</item>
+        <item quantity="one">1 uygulama uyku moduna alındı.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d uygulama uyku moduna alınıyor…</item>
+        <item quantity="one">1 uygulama uyku moduna alınıyor…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d tehdit algılandı. Bunları %2$s içinde çözmek için buraya dokunun.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d tehdit algılandı. Bunu %2$s içinde çözmek için buraya dokunun.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d uygulama telefonunuzda kritik hatalara neden oluyor. Bu uygulamaları kaldırmanız kesinlikle önerilir.</item>
+        <item quantity="one">1 uygulama telefonunuzda kritik hatalara neden oluyor. Bu uygulamayı kaldırmanız kesinlikle önerilir.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d uygulama</item>
+        <item quantity="one">1 uygulama</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Arka plan uygulamaları kapatıldı</item>
+        <item quantity="one">Arka plan uygulaması kapatıldı</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d uygulama, fazla pil kullanıyor. Güç tasarrufu yapmak için bunları uyku moduna alın. Uygulamalar, tekrar açılana kadar güncelleme almayabilir veya bildirim göndermeyebilir.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d uygulama, fazla pil kullanıyor. Güç tasarrufu yapmak için bunu uyku moduna alın. Uygulama, tekrar açılana kadar güncelleme almayabilir veya bildirim göndermeyebilir.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d çöken uygulama bulundu. Telefonunuzu hızlandırmak için bunları uyku moduna alın. Uygulamalar, tekrar açılana kadar güncelleme almayabilir veya bildirim göndermeyebilir.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d çöken uygulama bulundu. Telefonunuzu hızlandırmak için bunu uyku moduna alın. Uygulama, tekrar açılana kadar güncelleme almayabilir veya bildirim göndermeyebilir.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d çöken uygulama bulundu. Tabletinizi hızlandırmak için bunları uyku moduna alın. Uygulamalar, tekrar açılana kadar güncelleme almayabilir veya bildirim göndermeyebilir.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d çöken uygulama bulundu. Tabletinizi hızlandırmak için bunu uyku moduna alın. Uygulamalar, tekrar açılana kadar güncelleme almayabilir veya bildirim göndermeyebilir.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d kötü amaçlı uygulama algılandı. Telefonunuzu güvende tutmak için bunları kaldırın.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d kötü amaçlı uygulama algılandı. Telefonunuzu güvende tutmak için bunu kaldırın.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d kötü amaçlı uygulama algılandı. Tabletinizi güvende tutmak için bunları kaldırın.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d kötü amaçlı uygulama algılandı. Tabletinizi güvende tutmak için bunu kaldırın.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Şüpheli etkinlik algılandı. Telefonunuzu ve verilerinizi korumak için bu uygulamaları kaldırın.</item>
+        <item quantity="one">Şüpheli etkinlik algılandı. Telefonunuzu ve verilerinizi korumak için aşağıdaki uygulamaları kaldırın.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Şüpheli etkinlik algılandı. Tabletinizi ve verilerinizi korumak için bu uygulamaları kaldırın.</item>
+        <item quantity="one">Şüpheli etkinlik algılandı. Tabletinizi ve verilerinizi korumak için aşağıdaki uygulamaları kaldırın.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Şüpheli etkinlik algılandı. Telefonunuzu ve verilerinizi korumak için bu uygulamaları kaldırın.</item>
+        <item quantity="one">Şüpheli etkinlik algılandı. Telefonunuzu ve verilerinizi korumak için aşağıdaki uygulamaları kaldırın.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Şüpheli etkinlik algılandı. Tabletinizi ve verilerinizi korumak için bu uygulamaları kaldırın.</item>
+        <item quantity="one">Şüpheli etkinlik algılandı. Tabletinizi ve verilerinizi korumak için aşağıdaki uygulamaları kaldırın.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d tehdit algılandı</item>
+        <item quantity="one">1 tehdit algılandı</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d tehdit</item>
+        <item quantity="one">1 tehdit</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Aşağıdaki uygulamalar telefonunuzda kritik hatalara neden oluyor. Bu uygulamaları kaldırmanız kesinlikle önerilir. Kaldırdıktan sonra her bir uygulamanın yeni bir sürümünü uygulama mağazasından yükleyebilirsiniz.</item>
+        <item quantity="one">Aşağıdaki uygulama telefonunuzda kritik hatalara neden oluyor. Bu uygulamayı kaldırmanız kesinlikle önerilir. Kaldırdıktan sonra yeni bir sürümü uygulama mağazasından yükleyebilirsiniz.</item>
+    </plurals>
+</resources>

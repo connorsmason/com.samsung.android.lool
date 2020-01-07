@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/ab_ic_delete_mtrl" android:id="@id/menu_delete" android:orderInCategory="101" android:title="@string/battery_settings_remove" app:iconTint="?winsetActionBarTextColor" />
+</menu>

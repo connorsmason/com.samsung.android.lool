@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d arazo hauteman dira</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d arazo hauteman da</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Arazoak (hala nola malwarea, aplikazio hutsegiteak edo bateriaren gehiegizko erabilera) sortzen ari den %d aplikazio hauteman ditu gailuak.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Arazoak (hala nola malwarea, aplikazio hutsegiteak edo bateriaren gehiegizko erabilera) sortzen ari den %d aplikazio hauteman du gailuak.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d egun</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d egun</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Jarduerarik gabe %d segundo igaro ondoren itzaliko da pantaila.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jarduerarik gabe %d segundo igaro ondoren itzaliko da pantaila.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d aplikazio inaktibo gisa ezarri dira.</item>
+        <item quantity="one">1 aplikazio inaktibo gisa ezarri da.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d aplikazio inaktibo gisa ezartzen…</item>
+        <item quantity="one">1 aplikazio inaktibo gisa ezartzen…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d mehatxu hauteman dira. Ukitu hau %2$s atalean konpontzeko.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d mehatxu hauteman da. Ukitu hau %2$s atalean konpontzeko.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d aplikaziok errore larriak eragiten ari dira telefonoan. Aplikazio horiek desinstalatzea komeni da.</item>
+        <item quantity="one">1 aplikazio errore larriak eragiten ari da telefonoan. Aplikazio hori desinstalatzea komeni da.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d aplikazio</item>
+        <item quantity="one">1 aplikazio</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Itxi dira atzealdeko aplikazioak</item>
+        <item quantity="one">Itxi da atzealdeko aplikazioa</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">Gehiegizko bateria erabiltzen duten %d aplikazio daude. Jar itzazu inaktibo gisa bateria aurrezteko. Baliteke eguneraketarik ez jasotzea edo jakinarazpenik ez bidaltzea haiek berriz irekitzen dituzun arte.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Gehiegizko bateria erabiltzen duen %d aplikazio dago. Jar ezazu inaktibo gisa bateria aurrezteko. Baliteke eguneraketarik ez jasotzea edo jakinarazpenik ez bidaltzea hura berriz irekitzen duzun arte.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Huts egindako %d aplikazio aurkitu dira. Jar itzazu inaktibo gisa telefonoaren errendimendua bizkortzeko. Baliteke eguneraketarik ez jasotzea edo jakinarazpenik ez bidaltzea haiek berriz irekitzen dituzun arte.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Huts egindako %d aplikazio aurkitu da. Jar ezazu inaktibo gisa telefonoaren errendimendua bizkortzeko. Baliteke eguneraketarik ez jasotzea edo jakinarazpenik ez bidaltzea hura berriz irekitzen duzun arte.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Huts egindako %d aplikazio aurkitu dira. Jar itzazu inaktibo gisa tabletaren errendimendua bizkortzeko. Baliteke eguneraketarik ez jasotzea edo jakinarazpenik ez bidaltzea haiek berriz irekitzen dituzun arte.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Huts egindako %d aplikazio aurkitu da. Jar ezazu inaktibo gisa tabletaren errendimendua bizkortzeko. Baliteke eguneraketarik ez jasotzea edo jakinarazpenik ez bidaltzea hura berriz irekitzen duzun arte.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d malware aplikazio hauteman dira. Telefonoa babestuta izateko, desinstala itzazu.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d malware aplikazio hauteman da. Telefonoa babestuta izateko, desinstala ezazu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d malware aplikazio hauteman dira. Tableta babestuta izateko, desinstala itzazu.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d malware aplikazio hauteman da. Tableta babestuta izateko, desinstala ezazu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Jarduera susmagarriak hauteman dira. Desinstalatu aplikazio hauek telefonoa eta datuak babesteko.</item>
+        <item quantity="one">Jarduera susmagarriak hauteman dira. Desinstalatu beheko aplikazioak telefonoa eta datuak babesteko.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Jarduera susmagarriak hauteman dira. Desinstalatu aplikazio hauek tableta eta datuak babesteko.</item>
+        <item quantity="one">Jarduera susmagarriak hauteman dira. Desinstalatu beheko aplikazioak tableta eta datuak babesteko.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Jarduera susmagarriak hauteman dira. Desinstalatu aplikazio hauek telefonoa eta datuak babesteko.</item>
+        <item quantity="one">Jarduera susmagarriak hauteman dira. Desinstalatu beheko aplikazioak telefonoa eta datuak babesteko.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Jarduera susmagarriak hauteman dira. Desinstalatu aplikazio hauek tableta eta datuak babesteko.</item>
+        <item quantity="one">Jarduera susmagarriak hauteman dira. Desinstalatu beheko aplikazioak tableta eta datuak babesteko.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d mehatxu detektatu dira</item>
+        <item quantity="one">1 mehatxu detektatu da</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">1 hari</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Beheko aplikazioak errore larriak eragiten ari dira telefonoan. Aplikazio horiek desinstalatzea komeni da. Haiek desinstalatutakoan, aplikazio bakoitzaren bertsio berri bat instalatzeko aukera izango duzu aplikazio dendaren batean.</item>
+        <item quantity="one">Beheko aplikazioa errore larriak eragiten ari da telefonoan. Aplikazio hori desinstalatzea komeni da. Hura desinstalatutakoan, aplikazioaren bertsio berri bat instalatzeko aukera izango duzu aplikazio dendaren batean.</item>
+    </plurals>
+</resources>

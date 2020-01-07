@@ -1,0 +1,43 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: com.samsung.android.lool.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- assets/o_c_a_k.dat
+- assets/o_c_a_k.dat.timestamp
+- assets/o_c_adp.dat.en_WW.timestamp
+- assets/o_c_adp.dat.timestamp
+- assets/o_c_cus.dat.timestamp
+- assets/o_c_m_db1.dat
+- assets/o_c_m_db1.dat.en_WW
+- assets/o_c_m_db1.dat.en_WW.timestamp
+- assets/o_c_m_db1.dat.timestamp
+- assets/o_c_p_l.dat
+- assets/o_c_p_l.dat.timestamp
+- assets/o_c_pdc.dat.timestamp
+- assets/o_c_prfl.dat.en_WW.timestamp
+- assets/o_c_prfl.dat.timestamp
+- assets/o_c_spf.dat.timestamp
+- assets/o_c_tcw.dat.timestamp
+- assets/o_c_vdo.dat.timestamp
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '28'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  SEC-INF/buildConfirm.crt: '8'
+  SEC-INF/buildinfo.xml: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.1
+versionInfo:
+  versionCode: '1000200015'
+  versionName: 10.0.02.15

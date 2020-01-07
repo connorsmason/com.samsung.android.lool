@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/repeat_btn_group" android:layout_width="fill_parent" android:layout_height="@dimen/auto_restart_repeat_layout_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ToggleButton android:id="@id/repeat_0" android:layout_marginStart="@dimen/auto_restart_repeat_btn_layout_margin_horizontal" style="@style/AutoRestartDayRepeatButtonStyle" />
+    <View android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <ToggleButton android:id="@id/repeat_1" style="@style/AutoRestartDayRepeatButtonStyle" />
+    <View android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <ToggleButton android:id="@id/repeat_2" style="@style/AutoRestartDayRepeatButtonStyle" />
+    <View android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <ToggleButton android:id="@id/repeat_3" style="@style/AutoRestartDayRepeatButtonStyle" />
+    <View android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <ToggleButton android:id="@id/repeat_4" style="@style/AutoRestartDayRepeatButtonStyle" />
+    <View android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <ToggleButton android:id="@id/repeat_5" style="@style/AutoRestartDayRepeatButtonStyle" />
+    <View android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <ToggleButton android:id="@id/repeat_6" android:layout_marginEnd="@dimen/auto_restart_repeat_btn_layout_margin_horizontal" style="@style/AutoRestartDayRepeatButtonStyle" />
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

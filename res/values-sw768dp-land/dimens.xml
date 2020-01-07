@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_body_margin_start">22.0dip</dimen>
+    <dimen name="widget_icon_margin_end">9.0dip</dimen>
+    <dimen name="widget_icon_margin_start">-6.0dip</dimen>
+    <dimen name="widget_inner_image_dimension">32.0dip</dimen>
+    <dimen name="widget_optimize_layout_width">241.0dip</dimen>
+    <dimen name="widget_body_margin_bottom">23.0dip</dimen>
+    <dimen name="widget_body_margin_top">23.0dip</dimen>
+    <dimen name="widget_optimize_text_margin">6.0dip</dimen>
+    <dimen name="widget_used_total_text_margin">5.0dip</dimen>
+</resources>

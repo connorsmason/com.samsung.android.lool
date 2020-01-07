@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="scoreboard_score_layout_margin_top">0.0dip</dimen>
+    <dimen name="widget_body_margin_start">10.0dip</dimen>
+    <dimen name="widget_body_text_size">11.0dip</dimen>
+    <dimen name="widget_icon_height">22.0dip</dimen>
+    <dimen name="widget_icon_margin_end">6.0dip</dimen>
+    <dimen name="widget_icon_margin_start">-4.0dip</dimen>
+    <dimen name="widget_icon_width">22.0dip</dimen>
+    <dimen name="widget_inner_image_dimension">28.0dip</dimen>
+    <dimen name="widget_optimize_layout_width">150.0dip</dimen>
+    <dimen name="widget_body_margin_bottom">15.0dip</dimen>
+    <dimen name="widget_body_margin_top">15.0dip</dimen>
+    <dimen name="widget_optimize_layout_margin_end">0.0dip</dimen>
+    <dimen name="widget_optimize_text_margin">4.0dip</dimen>
+    <dimen name="widget_used_total_text_margin">3.0dip</dimen>
+</resources>

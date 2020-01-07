@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Открити са %d проблема</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Открит е %d проблем</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">„Грижа за устройството“ откри %d приложения, които може да създават проблеми, включително злонамерен софтуер, блокирания на приложения или повишено използване на батерията.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">„Грижа за устройството“ откри %d приложение, което може да създава проблеми, включително злонамерен софтуер, блокирания на приложения или повишено използване на батерията.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d дни</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ден</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Екранът ще се изключи след %d секунди неактивност.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Екранът ще се изключи след %d секунда неактивност.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d приложения са поставени в спящ режим.</item>
+        <item quantity="one">1 приложение в поставено в спящ режим.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Поставяне на %d приложения в спящ режим…</item>
+        <item quantity="one">Поставяне на 1 приложение в спящ режим…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d заплахи са открити. Докоснете тук, за да се разрешат в %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d заплаха е открита. Докоснете тук, за да се разреши в %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d приложения създават критични грешки в телефона. Препоръчително е да деинсталирате тези приложения.</item>
+        <item quantity="one">1 приложение създава критични грешки в телефона. Препоръчително е да деинсталирате това приложение.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d приложения</item>
+        <item quantity="one">1 приложение</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Приложенията във фонов режим са затворени</item>
+        <item quantity="one">Приложението във фонов режим е затворено</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d приложения с повишено използване на батерията. Поставете ги в спящ режим, за да спестите енергия. Те няма да могат да получават актуализации или да изпращат уведомления, докато не ги отворите отново.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d приложение с повишено използване на батерията. Поставете го в спящ режим, за да спестите енергия. То няма да може да получава актуализации или да изпраща уведомления, докато не го отворите отново.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Открити са %d блокирали приложения. Поставете ги в спящ режим, за да ускорите телефона. Те няма да могат да получават актуализации или да изпращат уведомления, докато не ги отворите отново.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Открито е %d блокирало приложение. Поставете го в спящ режим, за да ускорите телефона. То няма да може да получава актуализации или да изпраща уведомления, докато не го отворите отново.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Открити са %d блокирали приложения. Поставете ги в спящ режим, за да ускорите таблета. Те няма да могат да получават актуализации или да изпращат уведомления, докато не ги отворите отново.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Открито е %d блокирало приложение. Поставете го в спящ режим, за да ускорите таблета. То няма да може да получава актуализации или да изпраща уведомления, докато не го отворите отново.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Открити са %d злонамерени приложения. Деинсталирайте ги, за да защитите телефона.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Открито е %d злонамерено приложение. Деинсталирайте го, за да защитите телефона.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Открити са %d злонамерени приложения. Деинсталирайте ги, за да защитите таблета.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Открито е %d злонамерено приложение. Деинсталирайте го, за да защитите таблета.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Открита е подозрителна активност. Деинсталирайте тези приложения, за да защитите телефона и данните.</item>
+        <item quantity="one">Открита е подозрителна активност. Деинсталирайте приложенията по-долу, за да защитите телефона и данните.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Открита е подозрителна активност. Деинсталирайте тези приложения, за да защитите таблета и данните.</item>
+        <item quantity="one">Открита е подозрителна активност. Деинсталирайте приложенията по-долу, за да защитите таблета и данните.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Открита е подозрителна активност. Деинсталирайте тези приложения, за да защитите телефона и данните.</item>
+        <item quantity="one">Открита е подозрителна активност. Деинсталирайте приложенията по-долу, за да защитите телефона и данните.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Открита е подозрителна активност. Деинсталирайте тези приложения, за да защитите таблета и данните.</item>
+        <item quantity="one">Открита е подозрителна активност. Деинсталирайте приложенията по-долу, за да защитите таблета и данните.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d заплахи са открити</item>
+        <item quantity="one">1 заплаха е открита</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d заплахи</item>
+        <item quantity="one">1 заплаха</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Приложенията по-долу създават критични грешки в телефона. Препоръчително е да деинсталирате тези приложения. След като ги деинсталирате, ще може да инсталирате нова версия на всяко приложение от магазин за приложения.</item>
+        <item quantity="one">Приложението по-долу създава критични грешки в телефона. Препоръчително е да деинсталирате това приложение. След като го деинсталирате, ще може да инсталирате нова версия от магазин за приложения.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sesl_config_prefDialogWidth">580.0dip</dimen>
+    <dimen name="sesl_date_picker_dialog_min_width">608.0dip</dimen>
+    <dimen name="sesl_search_view_preferred_height">56.0dip</dimen>
+    <dimen name="sesl_time_picker_dialog_min_width">608.0dip</dimen>
+    <dimen name="widget_body_margin_start">13.0dip</dimen>
+    <dimen name="widget_body_text_size">14.0dip</dimen>
+    <dimen name="widget_icon_height">25.0dip</dimen>
+    <dimen name="widget_icon_margin_start">-4.0dip</dimen>
+    <dimen name="widget_icon_width">25.0dip</dimen>
+    <dimen name="widget_image_bottom_padding">11.0dip</dimen>
+    <dimen name="widget_inner_image_dimension">48.0dip</dimen>
+    <dimen name="widget_optimize_layout_width">91.0dip</dimen>
+    <dimen name="widget_optimize_text_size">14.0dip</dimen>
+    <dimen name="widget_title_text_size">17.0dip</dimen>
+</resources>

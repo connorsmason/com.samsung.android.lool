@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.SubHeaderDotLineView android:id="@id/battery_issue_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/battery_app_using_power" style="@style/SMWinset.ListSubHeader" />
+    <TextView android:textSize="@dimen/battery_app_using_power_description_text_size" android:textColor="?winsetDescriptionSubTextColor" android:id="@id/battery_issue_subtext" android:paddingTop="@dimen/battery_issue_description_padding_top" android:text="@string/battery_app_using_power_description" android:layout_marginStart="@dimen/activity_horizontal_margin" android:layout_marginEnd="@dimen/activity_horizontal_margin" style="@style/SMWinset.DescriptionTextStyle" />
+    <com.samsung.android.sm.battery.ui.issue.BatteryIssueListView android:id="@id/battery_issue_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@null" />
+    <com.samsung.android.sm.view.FixButtonView android:layout_gravity="center_horizontal" android:id="@id/bt_fix_now" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/second_depth_fix_now_button_margin_vertical" android:layout_marginBottom="@dimen/second_depth_fix_now_button_margin_vertical" android:text="@string/battery_put_apps_to_sleep" android:textAllCaps="false" style="@style/FixNowButtonTextStyle" />
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

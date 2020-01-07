@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/battery_issue_fix_list_item_layout" android:tag="layout/battery_issue_fix_list_item_0" android:focusable="true" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle.2Line"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/battery_issue_image" android:layout_width="@dimen/list_item_icon_size" android:layout_height="@dimen/list_item_icon_size" android:scaleType="fitXY" android:layout_centerVertical="true" android:layout_alignParentStart="true" style="@style/SMWinset.ListItemIconStyle" />
+    <LinearLayout android:orientation="vertical" android:layout_centerVertical="true" android:layout_toEndOf="@id/battery_issue_image" style="@style/SMWinset.ListItemTextViewStyle.2Line.TextContainer">
+        <TextView android:ellipsize="end" android:id="@id/battery_issue_app_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+        <TextView android:textColor="@color/score_state_bad_color_theme" android:id="@id/battery_issue_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+    </LinearLayout>
+    <ImageView android:id="@id/divider_line" android:layout_alignParentBottom="true" android:layout_toEndOf="@id/battery_issue_image" style="@style/SMWinset.DividerStyle.TextAlignStart" />
+</RelativeLayout>

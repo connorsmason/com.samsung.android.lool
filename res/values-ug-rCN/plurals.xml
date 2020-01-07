@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d مەسىلە بايقالدى</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مەسىلە بايقالدى</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">ئۈسكۈنە ئاسرىغۇچ %d ئەپنىڭ مەسىلە پەيدا قىلىش ئېھتىماللىقىنى بايقىدى، زىيانداشلار، ئەپ يىمىرىلىشى ياكى توك خورىتىشلارمۇ شۇنىڭ ئىچىدە.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ئۈسكۈنە ئاسرىغۇچ %d ئەپنىڭ مەسىلە پەيدا قىلىش ئېھتىماللىقىنى بايقىدى، زىيانداشلار، ئەپ يىمىرىلىشى ياكى توك خورىتىشلارمۇ شۇنىڭ ئىچىدە.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d كۈن</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">‏%d كۈن</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">‏%d سېكۇنت مەشغۇلاتسىز تۇرسا ئېكران ئېتىلىدۇ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">‏%d سېكۇنت مەشغۇلاتسىز تۇرسا ئېكران ئېتىلىدۇ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d ئەپ ئۇخلىتىلدى.</item>
+        <item quantity="one">1 ئەپ ئۇخلىتىلدى.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d ئەپنى ئۇخلىتىۋاتىدۇ…</item>
+        <item quantity="one">1 ئەپنى ئۇخلىتىۋاتىدۇ…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">‏%1$d تەھدىت بايقالدى. بۇ يەرنى چېكىپ %2$s دە ئۇلارنى ئوڭشاڭ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">‏%1$d تەھدىت بايقالدى. بۇ يەرنى چېكىپ %2$s دە ئۇنى ئوڭشاڭ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">تېلېفونىڭىزدىكى %d ئەپ ئېغىر خاتالىق پەيدا قىلدى. بۇ ئەپلەرنى ئۆچۈرۈش كۈچلۈك تەۋسىيە قىلىنىدۇ.</item>
+        <item quantity="one">تېلېفونىڭىزدىكى 1 ئەپ ئېغىر خاتالىق پەيدا قىلدى. بۇ ئەپنى ئۆچۈرۈش كۈچلۈك تەۋسىيە قىلىنىدۇ.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">‏%d ئەپ</item>
+        <item quantity="one">1 ئەپ</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">ئارقا سۇپى ئەپلىرى يېپىلدى</item>
+        <item quantity="one">ئارقا سۇپا ئەپى يېپىلدى</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">‏%d ئەپنىڭ توك سەرپىياتى يۇقىرى. ئۇخلىتىپ توك تېجەڭ. ئۇلارنى ئاچمىسىڭىز، ئۇقتۇرۇش ياكى يېڭىلانما كەلمەسلىكى مۇمكىن.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">‏%d ئەپنىڭ توك سەرپىياتى يۇقىرى. ئۇخلىتىپ توك تېجەڭ. ئۇنى ئاچمىسىڭىز، ئۇقتۇرۇش ياكى يېڭىلانما كەلمەسلىكى مۇمكىن.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">يىمىرىلگەن %d ئەپ بايقالدى. ئۇخلىتىپ، تېلېفوننى تېزلىتىڭ. ئۇلارنى ئاچمىسىڭىز، ئۇقتۇرۇش ياكى يېڭىلانما كەلمەسلىكى مۇمكىن.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">يىمىرىلگەن %d ئەپ بايقالدى. ئۇخلىتىپ، تېلېفوننى تېزلىتىڭ. ئۇنى ئاچمىسىڭىز، ئۇقتۇرۇش ياكى يېڭىلانما كەلمەسلىكى مۇمكىن.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">يىمىرىلگەن %d ئەپ بايقالدى. ئۇخلىتىپ، تاختا كومپيۇتېرنى تېزلىتىڭ. ئۇلارنى ئاچمىسىڭىز، ئۇقتۇرۇش ياكى يېڭىلانما كەلمەسلىكى مۇمكىن.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">يىمىرىلگەن %d ئەپ بايقالدى. ئۇخلىتىپ، تاختا كومپيۇتېرنى تېزلىتىڭ. ئۇنى ئاچمىسىڭىز، ئۇقتۇرۇش ياكى يېڭىلانما كەلمەسلىكى مۇمكىن.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">‏%d زىيانداش ئەپ بايقالدى. ئۇلارنى ئۆچۈرۈپ تېلېفوننى بىخەتەر قىلىڭ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">‏%d زىيانداش ئەپ بايقالدى. ئۇنى ئۆچۈرۈپ تېلېفوننى بىخەتەر قىلىڭ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">‏%d زىيانداش ئەپ بايقالدى. ئۇلارنى ئۆچۈرۈپ تاختا كومپيۇتېرنى بىخەتەر قىلىڭ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">‏%d زىيانداش ئەپ بايقالدى. ئۇنى ئۆچۈرۈپ تاختا كومپيۇتېرنى بىخەتەر قىلىڭ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">گۇمانلىق مەشغۇلات بايقالدى. بۇ ئەپلەرنى ئۆچۈرۈپ، تېلېفون ۋە ئۇچۇرلىرىڭىزنى قوغداڭ.</item>
+        <item quantity="one">گۇمانلىق مەشغۇلات بايقالدى. تۆۋەندىكى ئەپلەرنى ئۆچۈرۈپ، تېلېفون ۋە ئۇچۇرلىرىڭىزنى قوغداڭ.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">گۇمانلىق مەشغۇلات بايقالدى. بۇ ئەپلەرنى ئۆچۈرۈپ، تاختا كومپيۇتېر ۋە ئۇچۇرلىرىڭىزنى قوغداڭ.</item>
+        <item quantity="one">گۇمانلىق مەشغۇلات بايقالدى. تۆۋەندىكى ئەپلەرنى ئۆچۈرۈپ، تاختا كومپيۇتېر ۋە ئۇچۇرلىرىڭىزنى قوغداڭ.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">گۇمانلىق مەشغۇلات بايقالدى. بۇ ئەپلەرنى ئۆچۈرۈپ، تېلېفون ۋە ئۇچۇرلىرىڭىزنى قوغداڭ.</item>
+        <item quantity="one">گۇمانلىق مەشغۇلات بايقالدى. تۆۋەندىكى ئەپلەرنى ئۆچۈرۈپ، تېلېفون ۋە ئۇچۇرلىرىڭىزنى قوغداڭ.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">گۇمانلىق مەشغۇلات بايقالدى. بۇ ئەپلەرنى ئۆچۈرۈپ، تاختا كومپيۇتېر ۋە ئۇچۇرلىرىڭىزنى قوغداڭ.</item>
+        <item quantity="one">گۇمانلىق مەشغۇلات بايقالدى. تۆۋەندىكى ئەپلەرنى ئۆچۈرۈپ، تاختا كومپيۇتېر ۋە ئۇچۇرلىرىڭىزنى قوغداڭ.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d تەھدىت بايقالدى</item>
+        <item quantity="one">1 تەھدىت بايقالدى</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">‏%d تەھدىت</item>
+        <item quantity="one">1 تەھدىت</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">تۆۋەندىكى ئەپلەر تېلېفوندا ئېغىر خاتالىق پەيدا قىلدى. بۇ ئەپلەرنى ئۆچۈرۈش كۈچلۈك تەۋسىيە قىلىنىدۇ. ئۆچۈرگەندىن كېيىن ئەپ دۇكىنىدىن شۇ ئەپلەرنىڭ يېڭى نەشرىنى قاچىلىيالايسىز.</item>
+        <item quantity="one">تۆۋەندىكى ئەپ تېلېفوندا ئېغىر خاتالىق پەيدا قىلدى. بۇ ئەپنى ئۆچۈرۈش كۈچلۈك تەۋسىيە قىلىنىدۇ. ئۆچۈرگەندىن كېيىن ئەپ دۇكىنىدىن شۇ ئەپنىڭ يېڭى نەشرىنى قاچىلىيالايسىز.</item>
+    </plurals>
+</resources>

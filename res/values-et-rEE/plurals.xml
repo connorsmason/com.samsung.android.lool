@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Tuvastati %d probleemi</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tuvastati %d probleem</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Seadmehooldus tuvastas %d rakendust, mis võivad põhjustada probleeme, sh installida ründevara, põhjustada rakenduste hangumist või koormata tugevalt akut.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Seadmehooldus tuvastas %d rakenduse, mis võib põhjustada probleeme, sh installida ründevara, põhjustada rakenduste hangumist või koormata tugevalt akut.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d päeva</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d päev</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Ekraan lülitub välja pärast %d-sekundilist passiivust.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ekraan lülitub välja pärast %d-sekundilist passiivust.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d rakendust on pandud ooterežiimile.</item>
+        <item quantity="one">1 rakendus pandi ooterežiimile.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d rakenduse unerežiimile seadmine…</item>
+        <item quantity="one">1 rakenduse unerežiimile seadmine…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Tuvastati %1$d ohtu. Toksake siia, et lahendada need rakenduses %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tuvastati %1$d oht. Toksake siia, et lahendada see rakenduses %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d rakendust põhjustavad teie telefonis kriitilisi tõrkeid. Nende rakenduste desinstallimine on tungivalt soovitatud.</item>
+        <item quantity="one">1 rakendus põhjustan teie telefonis kriitilisi vigu. Soovitame tungivalt selle rakenduse desinstallida.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d rakendust</item>
+        <item quantity="one">1 rakendus</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Taustarakendused suleti</item>
+        <item quantity="one">Taustarakendus suleti</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d suure akukasutusega rakendust. Pange need unerežiimile, et säästa energiat. On võimalik, et need ei saa enne taasavamist värskendusi ega saada teavitusi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d suure akukasutusega rakendus. Pange see unerežiimile, et säästa energiat. On võimalik, et see ei saa enne taasavamist värskendusi ega saada teavitusi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Leiti %d hangunud rakendust. Pange need telefoni kiirendamiseks unerežiimile. On võimalik, et need ei saa enne taasavamist värskendusi ega saada teavitusi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Leiti %d hangunud rakendus. Pange see telefoni kiirendamiseks unerežiimile. On võimalik, et see ei saa enne taasavamist värskendusi ega saada teavitusi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Leiti %d hangunud rakendust. Pange need tahvelseadme kiirendamiseks unerežiimile. On võimalik, et need ei saa enne taasavamist värskendusi ega saada teavitusi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Leiti %d hangunud rakendus. Pange see tahvelseadme kiirendamiseks unerežiimile. On võimalik, et see ei saa enne taasavamist värskendusi ega saada teavitusi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Leiti %d ründevararakendust. Desinstallige need, et kaitsta oma telefoni.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Leiti %d ründevararakendus. Desinstallige see, et kaitsta oma telefoni.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Leiti %d ründevararakendust. Desinstallige need, et kaitsta oma tahvelseadet.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Leiti %d ründevararakendus. Desinstallige see, et kaitsta oma tahvelseadet.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Tuvastati kahtlane tegevus. Desinstallige need rakendused, et kaitsta oma telefoni ja andmeid.</item>
+        <item quantity="one">Tuvastatud on kahtlane tegevus. Desinstallige allolevad rakendused, et kaitsta oma telefoni ja andmeid.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Tuvastatud on kahtlane tegevus. Desinstallige need rakendused, et kaitsta oma tahvelarvutit ja andmeid.</item>
+        <item quantity="one">Tuvastatud on kahtlane tegevus. Desinstallige allolevad rakendused, et kaitsta oma tahvelarvutit ja andmeid.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Tuvastati kahtlane tegevus. Desinstallige need rakendused, et kaitsta oma telefoni ja andmeid.</item>
+        <item quantity="one">Tuvastatud on kahtlane tegevus. Desinstallige allolevad rakendused, et kaitsta oma telefoni ja andmeid.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Tuvastatud on kahtlane tegevus. Desinstallige need rakendused, et kaitsta oma tahvelarvutit ja andmeid.</item>
+        <item quantity="one">Tuvastatud on kahtlane tegevus. Desinstallige allolevad rakendused, et kaitsta oma tahvelarvutit ja andmeid.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Tuvastati %d ohtu</item>
+        <item quantity="one">Tuvastati 1 oht</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d ohtu</item>
+        <item quantity="one">1 oht</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Allolevad rakendused põhjustavad teie telefonis kriitilisi tõrkeid. Nende rakenduste desinstallimine on tungivalt soovitatud. Pärast desinstallimist on võimalik, et saate installida iga rakenduse puhul rakenduste poest uue versiooni.</item>
+        <item quantity="one">Allolev rakendus põhjustab teie telefonis kriitilisi vigu. Soovitame tungivalt selle rakenduse desinstallida. Pärast desinstallimist on võimalik, et saate installida rakenduste poest uue versiooni.</item>
+    </plurals>
+</resources>

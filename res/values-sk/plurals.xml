@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Zistilo sa %d problémov</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zistil sa %d problém</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zistili sa %d problémy</item>
+        <item quantity="many">Zistilo sa %d problému</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Služba Starostlivosť o zariadenie zistila %d aplikácií, ktoré môžu spôsobovať problémy, vrátane škodlivého softvéru, zlyhaní aplikácií alebo vysokej spotreby energie batérie.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Služba Starostlivosť o zariadenie zistila %d aplikáciu, ktorá môže spôsobovať problémy, vrátane škodlivého softvéru, zlyhaní aplikácií alebo vysokej spotreby energie batérie.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Služba Starostlivosť o zariadenie zistila %d aplikácie, ktoré môžu spôsobovať problémy, vrátane škodlivého softvéru, zlyhaní aplikácií alebo vysokej spotreby energie batérie.</item>
+        <item quantity="many">Služba Starostlivosť o zariadenie zistila %d aplikácie, ktoré môžu spôsobovať problémy, vrátane škodlivého softvéru, zlyhaní aplikácií alebo vysokej spotreby energie batérie.</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dní</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d deň</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dňa</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Obrazovka sa po %d sekundách nečinnosti vypne.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Obrazovka sa po %d sekunde nečinnosti vypne.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Obrazovka sa po %d sekundách nečinnosti vypne.</item>
+        <item quantity="many">Obrazovka sa po %d sekunde nečinnosti vypne.</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">Vykonalo sa prepnutie %d aplikácií do režimu spánku.</item>
+        <item quantity="one">1 aplikácia sa prepla do režimu spánku.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Vykonáva sa prepínanie %d aplikácií do režimu spánku…</item>
+        <item quantity="one">1 aplikácia sa prepína do režimu spánku…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Zistilo sa %1$d hrozieb. Ťuknutím sem ich môžete vyriešiť cez %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zistila sa %1$d hrozba. Ťuknutím sem ju môžete vyriešiť cez %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zistili sa %1$d hrozby. Ťuknutím sem ich môžete vyriešiť cez %2$s.</item>
+        <item quantity="many">Zistilo sa %1$d hrozby. Ťuknutím sem ich môžete vyriešiť cez %2$s.</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">Niektoré aplikácie (%d) spôsobujú v telefóne kritické chyby. Dôrazne odporúčame odinštalovať tieto aplikácie.</item>
+        <item quantity="one">1 aplikácia spôsobuje v telefóne kritické chyby. Dôrazne odporúčame odinštalovať túto aplikáciu.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">Aplikácie: %d</item>
+        <item quantity="one">1 aplikácia</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Aplikácie spustené na pozadí sa zavreli</item>
+        <item quantity="one">Aplikácia spustená na pozadí sa zavrela</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d aplikácií spôsobuje vysokú spotrebu energie batérie. Prepnite ich do režimu spánku, aby sa šetrila energia. Nebudú môcť nebude prijímať aktualizácie ani odosielať oznámenia, kým ich znova neotvoríte.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikácia spôsobuje vysokú spotrebu energie batérie. Prepnite ju do režimu spánku, aby sa šetrila energia. Aplikácia nebude môcť prijímať aktualizácie ani odosielať oznámenia, kým ju znova neotvoríte.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplikácie spôsobujú vysokú spotrebu energie batérie. Prepnite ich do režimu spánku, aby sa šetrila energia. Nebudú môcť nebude prijímať aktualizácie ani odosielať oznámenia, kým ich znova neotvoríte.</item>
+        <item quantity="many">%d aplikácie spôsobuje vysokú spotrebu energie batérie. Prepnite ich do režimu spánku, aby sa šetrila energia. Nebudú môcť nebude prijímať aktualizácie ani odosielať oznámenia, kým ich znova neotvoríte.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Zistilo sa %d zlyhaných aplikácií. Ich prepnutím do režimu spánku môžete zrýchliť telefón. Nebudú môcť nebude prijímať aktualizácie ani odosielať oznámenia, kým ich znova neotvoríte.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zistila sa %d zlyhaná aplikácia. Jej prepnutím do režimu spánku môžete zrýchliť telefón. Aplikácia nebude môcť prijímať aktualizácie ani odosielať oznámenia, kým ju znova neotvoríte.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zistili sa %d zlyhané aplikácie. Ich prepnutím do režimu spánku môžete zrýchliť telefón. Nebudú môcť nebude prijímať aktualizácie ani odosielať oznámenia, kým ich znova neotvoríte.</item>
+        <item quantity="many">Zistilo sa %d zlyhanej aplikácie. Ich prepnutím do režimu spánku môžete zrýchliť telefón. Nebudú môcť nebude prijímať aktualizácie ani odosielať oznámenia, kým ich znova neotvoríte.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Zistilo sa %d zlyhaných aplikácií. Ich prepnutím do režimu spánku môžete zrýchliť tablet. Nebudú môcť nebude prijímať aktualizácie ani odosielať oznámenia, kým ich znova neotvoríte.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zistila sa %d zlyhaná aplikácia. Jej prepnutím do režimu spánku môžete zrýchliť tablet. Aplikácia nebude môcť prijímať aktualizácie ani odosielať oznámenia, kým ju znova neotvoríte.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zistili sa %d zlyhané aplikácie. Ich prepnutím do režimu spánku môžete zrýchliť tablet. Nebudú môcť nebude prijímať aktualizácie ani odosielať oznámenia, kým ich znova neotvoríte.</item>
+        <item quantity="many">Zistilo sa %d zlyhanej aplikácie. Ich prepnutím do režimu spánku môžete zrýchliť tablet. Nebudú môcť nebude prijímať aktualizácie ani odosielať oznámenia, kým ich znova neotvoríte.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Zistilo sa %d škodlivých aplikácií. Odinštalujte ich, aby bol telefón v bezpečí.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zistila sa %d škodlivá aplikácia. Odinštalujte ju, aby bol telefón v bezpečí.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zistili sa %d škodlivé aplikácie. Odinštalujte ich, aby bol telefón v bezpečí.</item>
+        <item quantity="many">Zistilo sa %d škodlivej aplikácie. Odinštalujte ich, aby bol telefón v bezpečí.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Zistilo sa %d škodlivých aplikácií. Odinštalujte ich, aby bol tablet v bezpečí.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zistila sa %d škodlivá aplikácia. Odinštalujte ju, aby bol tablet v bezpečí.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zistili sa %d škodlivé aplikácie. Odinštalujte ich, aby bol tablet v bezpečí.</item>
+        <item quantity="many">Zistilo sa %d škodlivej aplikácie. Odinštalujte ich, aby bol tablet v bezpečí.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Zistila sa podozrivá aktivita. Z dôvodu ochrany telefónu a údajov odinštalujte tieto aplikácie.</item>
+        <item quantity="one">Zistila sa podozrivá aktivita. Z dôvodu ochrany telefónu a údajov odinštalujte aplikácie uvedené nižšie.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Zistila sa podozrivá aktivita. Z dôvodu ochrany tabletu a údajov odinštalujte tieto aplikácie.</item>
+        <item quantity="one">Zistila sa podozrivá aktivita. Z dôvodu ochrany tabletu a údajov odinštalujte aplikácie uvedené nižšie.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Zistila sa podozrivá aktivita. Z dôvodu ochrany telefónu a údajov odinštalujte tieto aplikácie.</item>
+        <item quantity="one">Zistila sa podozrivá aktivita. Z dôvodu ochrany telefónu a údajov odinštalujte aplikácie uvedené nižšie.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Zistila sa podozrivá aktivita. Z dôvodu ochrany tabletu a údajov odinštalujte tieto aplikácie.</item>
+        <item quantity="one">Zistila sa podozrivá aktivita. Z dôvodu ochrany tabletu a údajov odinštalujte aplikácie uvedené nižšie.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Zistené hrozby: %d</item>
+        <item quantity="one">Zistila sa 1 hrozba</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d hrozby/hrozieb</item>
+        <item quantity="one">1 hrozba</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Aplikácie uvedené nižšie spôsobujú v telefóne kritické chyby. Dôrazne odporúčame odinštalovať tieto aplikácie. Po odinštalovaní môžete nainštalovať novú verziu každej z týchto aplikácií z obchodu s aplikáciami.</item>
+        <item quantity="one">Aplikácia uvedená nižšie spôsobuje v telefóne kritické chyby. Dôrazne odporúčame odinštalovať túto aplikáciu. Po odinštalovaní môžete nainštalovať novú verziu z obchodu s aplikáciami.</item>
+    </plurals>
+</resources>

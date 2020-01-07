@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/seekbar_layout" android:tag="layout/seekbar_dialog_layout_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/guild_text_container" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/dialog_seek_guide_text_container_height" android:importantForAccessibility="noHideDescendants">
+        <TextView android:textSize="@dimen/dialog_seek_guide_text_size" android:textColor="@color/dialog_seekbar_guide_text_color_theme" android:id="@id/startTv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+        <TextView android:textSize="@dimen/dialog_seek_guide_text_size" android:textColor="@color/dialog_seekbar_guide_text_color_theme" android:id="@id/endTv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <SeekBar android:id="@id/seekbar" android:focusable="true" android:layout_width="fill_parent" android:layout_height="@dimen/dialog_seek_height" android:layout_below="@id/guild_text_container" style="@style/BatteryIntervalSeekBarStyle" />
+    <TextView android:textSize="@dimen/dialog_seek_guide_text_size" android:textColor="@color/dialog_seekbar_guide_text_color_theme" android:id="@id/floatingTv" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/seekbar" android:importantForAccessibility="no" />
+</RelativeLayout>

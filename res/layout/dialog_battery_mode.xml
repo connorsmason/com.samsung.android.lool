@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:tag="layout/dialog_battery_mode_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/activity_vertical_margin">
+        <TextView android:id="@id/description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/activity_horizontal_margin" android:layout_marginEnd="@dimen/activity_horizontal_margin" style="@style/SMWinset.DialogDescriptionTextViewStyle" />
+        <Button android:textSize="?winsetDialogBodyTextSize" android:textColor="?colorPrimaryDark" android:layout_gravity="end" android:id="@id/reset" android:background="@drawable/tw_btn_ripple_material" android:paddingTop="@dimen/battery_mode_dialog_button_padding_top_bottom" android:paddingBottom="@dimen/battery_mode_dialog_button_padding_top_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/activity_vertical_margin" android:text="@string/battery_mode_dialog_reset" android:paddingStart="@dimen/battery_mode_dialog_button_padding_left_right" android:paddingEnd="@dimen/battery_mode_dialog_button_padding_left_right" android:layout_marginHorizontal="@dimen/activity_horizontal_margin" style="?positiveButtonText" />
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="@dimen/battery_mode_dialog_checkbox_margin_start" android:layout_marginEnd="@dimen/activity_horizontal_margin">
+            <RelativeLayout android:id="@id/restrict_bg_network_layout" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <CheckBox android:id="@id/restrict_bg_network_cb" style="@style/BatteryModeDialog.CheckBoxStyle" />
+                <TextView android:textColor="@color/dc_winset_sep10_list_item_text_color" android:id="@id/restrict_bg_network_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/battery_mode_dialog_restrict_bg_network_title" android:layout_toEndOf="@id/restrict_bg_network_cb" style="@style/SMWinset.Dialog2LineListItemPrimaryTextViewStyle" />
+                <TextView android:textColor="@color/dc_winset_sep10_list_item_text_color" android:id="@id/restrict_bg_network_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/battery_mode_dialog_restrict_bg_network_descr" android:maxLines="2" android:layout_below="@id/restrict_bg_network_title" android:layout_alignStart="@id/restrict_bg_network_title" style="@style/SMWinset.Dialog2LineListItemSecondaryTextViewStyle" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/aod_layout" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <CheckBox android:id="@id/aod_cb" style="@style/BatteryModeDialog.CheckBoxStyle" />
+                <TextView android:textColor="@color/dc_winset_sep10_list_item_text_color" android:id="@id/aod_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/battery_mode_dialog_aod_title" android:layout_centerVertical="true" android:layout_toEndOf="@id/aod_cb" style="@style/SMWinset.DialogListItemTextViewStyle" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/limit_cpu_layout" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <CheckBox android:id="@id/limit_cpu_cb" style="@style/BatteryModeDialog.CheckBoxStyle" />
+                <TextView android:textColor="@color/dc_winset_sep10_list_item_text_color" android:id="@id/limit_cpu_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/battery_mode_dialog_limit_cpu_title" android:layout_toEndOf="@id/limit_cpu_cb" style="@style/SMWinset.Dialog2LineListItemPrimaryTextViewStyle" />
+                <TextView android:textColor="@color/dc_winset_sep10_list_item_text_color" android:id="@id/limit_cpu_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/battery_mode_dialog_limit_cpu_descr" android:maxLines="2" android:layout_below="@id/limit_cpu_title" android:layout_alignStart="@id/limit_cpu_title" style="@style/SMWinset.Dialog2LineListItemSecondaryTextViewStyle" />
+            </RelativeLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/brightness_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0">
+                <TextView android:textColor="@color/dc_winset_sep10_list_item_text_color" android:ellipsize="end" android:id="@id/brightness_title" android:layout_width="@dimen/zero_dp_width" android:layout_height="wrap_content" android:text="@string/battery_mode_dialog_brightness_title" android:layout_weight="0.5" style="@style/SMWinset.DialogListItemTextViewStyle" />
+                <RelativeLayout android:layout_width="@dimen/zero_dp_width" android:layout_height="fill_parent" android:layout_weight="0.5">
+                    <Spinner android:ellipsize="end" android:id="@id/brightness_spinner" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+                </RelativeLayout>
+            </LinearLayout>
+            <RelativeLayout android:id="@id/resolution_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/activity_vertical_margin">
+                <Spinner android:id="@id/resolution_spinner" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+                <TextView android:textColor="@color/dc_winset_sep10_list_item_text_color" android:ellipsize="end" android:id="@id/resolution_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/battery_mode_dialog_screen_resolution_title" android:layout_centerVertical="true" android:layout_toStartOf="@id/resolution_spinner" android:layout_alignParentStart="true" style="@style/SMWinset.DialogListItemTextViewStyle" />
+            </RelativeLayout>
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</ScrollView>

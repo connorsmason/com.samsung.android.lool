@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d fadhb braite</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d fhadhb braite</item>
+        <item quantity="two">%d fhadhb braite</item>
+        <item quantity="few">%d fhadhb braite</item>
+        <item quantity="many">%d bhfadhb braite</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">"Tá Cúram gléis tar éis %d feidhmchlár a bhrath ar féidir leo bheith ina gcúis le fadhbanna ar d'fhón, lena n-áirítear bogearraí mailíseacha, clistí feidhmchláir, nó úsáid ard ceallra."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Tá Cúram gléis tar éis %d fheidhmchlár a bhrath ar féidir leis bheith ina chúis le fadhbanna ar d'fhón, lena n-áirítear bogearraí mailíseacha, clistí feidhmchláir, nó úsáid ard ceallra."</item>
+        <item quantity="two">"Tá Cúram gléis tar éis %d fheidhmchlár a bhrath ar féidir leo bheith ina gcúis le fadhbanna ar d'fhón, lena n-áirítear bogearraí mailíseacha, clistí feidhmchláir, nó úsáid ard ceallra."</item>
+        <item quantity="few">"Tá Cúram gléis tar éis %d fheidhmchlár a bhrath ar féidir leo bheith ina gcúis le fadhbanna ar d'fhón, lena n-áirítear bogearraí mailíseacha, clistí feidhmchláir, nó úsáid ard ceallra."</item>
+        <item quantity="many">"Tá Cúram gléis tar éis %d bhfeidhmchlár a bhrath ar féidir leo bheith ina gcúis le fadhbanna ar d'fhón, lena n-áirítear bogearraí mailíseacha, clistí feidhmchláir, nó úsáid ard ceallra."</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d lá</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d lá</item>
+        <item quantity="two">%d lá</item>
+        <item quantity="few">%d lá</item>
+        <item quantity="many">%d lá</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Casfar as an scáileán tar éis %d soicind neamhghníomhaíochta.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Casfar as an scáileán tar éis %d soicind neamhghníomhaíochta.</item>
+        <item quantity="two">%d shoic</item>
+        <item quantity="few">Casfar as an scáileán tar éis %d shoicind neamhghníomhaíochta.</item>
+        <item quantity="many">Casfar as an scáileán tar éis %d soicind neamhghníomhaíochta.</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d feidhmchlár curtha chun suain.</item>
+        <item quantity="one">1 fheidhmchlár curtha chun suain.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d feidhmchlár á gcur chun suain…</item>
+        <item quantity="one">1 fheidhmchlár á chur chun suain…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d bagairt braite. Tapáil anseo lena réiteach in %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d bhagairt braite. Tapáil anseo lena réiteach in %2$s.</item>
+        <item quantity="two">%1$d bhagairt braite. Tapáil anseo lena réiteach in %2$s.</item>
+        <item quantity="few">%1$d bhagairt braite. Tapáil anseo lena réiteach in %2$s.</item>
+        <item quantity="many">%1$d mbagairt braite. Tapáil anseo lena réiteach in %2$s.</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">"Tá %d feidhmchlár ina gcúis le hearráidí criticiúla ar d'fhón. Moltar go láidir duit na feidhmchláir seo a dhíshuiteáil."</item>
+        <item quantity="one">"Tá 1 fheidhmchlár ina chúis le hearráidí criticiúla ar d'fhón. Moltar go láidir duit an feidhmchlár seo a dhíshuiteáil."</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d feidhmchlár</item>
+        <item quantity="one">1 fheidhmchlár</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Feidhmchláir chúlra dúnta</item>
+        <item quantity="one">Feidhmchlár cúlra dúnta</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">Úsáid ard ceallra ag %d feidhmchlár. Cuir chun suain iad le cumhacht a choigilt. Is féidir nach bhfaighidh siad nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís iad.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Úsáid ard ceallra ag %d fheidhmchlár. Cuir chun suain é le cumhacht a choigilt. Is féidir nach bhfaighidh sé nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís é.</item>
+        <item quantity="two">Úsáid ard ceallra ag %d fheidhmchlár. Cuir chun suain iad le cumhacht a choigilt. Is féidir nach bhfaighidh siad nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís iad.</item>
+        <item quantity="few">Úsáid ard ceallra ag %d fheidhmchlár. Cuir chun suain iad le cumhacht a choigilt. Is féidir nach bhfaighidh siad nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís iad.</item>
+        <item quantity="many">Úsáid ard ceallra ag %d bhfeidhmchlár. Cuir chun suain iad le cumhacht a choigilt. Is féidir nach bhfaighidh siad nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís iad.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">"Tá %d feidhmchlár a chlis aimsithe. Cuir chun suain iad le luas a chur faoi d'fhón. Is féidir nach bhfaighidh siad nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís iad."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Tá %d fheidhmchlár a chlis aimsithe. Cuir chun suain é le luas a chur faoi d'fhón. Is féidir nach bhfaighidh sé nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís é."</item>
+        <item quantity="two">"Tá %d fheidhmchlár a chlis aimsithe. Cuir chun suain iad le luas a chur faoi d'fhón. Is féidir nach bhfaighidh siad nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís iad."</item>
+        <item quantity="few">"Tá %d fheidhmchlár a chlis aimsithe. Cuir chun suain iad le luas a chur faoi d'fhón. Is féidir nach bhfaighidh siad nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís iad."</item>
+        <item quantity="many">"Tá %d bhfeidhmchlár a chlis aimsithe. Cuir chun suain iad le luas a chur faoi d'fhón. Is féidir nach bhfaighidh siad nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís iad."</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Tá %d feidhmchlár a chlis aimsithe. Cuir a chodladh iad le luas a chur faoi do tháibléad. Is féidir nach bhfaighidh siad nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís iad.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tá %d fheidhmchlár a chlis aimsithe. Cuir a chodladh é le luas a chur faoi do tháibléad. Is féidir nach bhfaighidh sé nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís é.</item>
+        <item quantity="two">Tá %d fheidhmchlár a chlis aimsithe. Cuir a chodladh iad le luas a chur faoi do tháibléad. Is féidir nach bhfaighidh siad nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís iad.</item>
+        <item quantity="few">Tá %d fheidhmchlár a chlis aimsithe. Cuir a chodladh iad le luas a chur faoi do tháibléad. Is féidir nach bhfaighidh siad nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís iad.</item>
+        <item quantity="many">Tá %d bhfeidhmchlár a chlis aimsithe. Cuir a chodladh iad le luas a chur faoi do tháibléad. Is féidir nach bhfaighidh siad nuashonruithe nó nach seolfaidh fógraí chugat go dtí go n-osclóidh tú arís iad.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">"Tá %d feidhmchlár mailíseach braite. Díshuiteáil iad le d'fhón a choinneáil slán."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Tá %d fheidhmchlár mailíseach braite. Díshuiteáil é le d'fhón a choinneáil slán."</item>
+        <item quantity="two">"Tá %d fheidhmchlár mhailíseacha braite. Díshuiteáil iad le d'fhón a choinneáil slán."</item>
+        <item quantity="few">"Tá %d fheidhmchlár mhailíseacha braite. Díshuiteáil iad le d'fhón a choinneáil slán."</item>
+        <item quantity="many">"Tá %d bhfeidhmchlár mhailíseacha braite. Díshuiteáil iad le d'fhón a choinneáil slán."</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Tá %d feidhmchlár mailíseach braite. Díshuiteáil iad le do tháibléad a choinneáil slán.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tá %d fheidhmchlár mailíseach braite. Díshuiteáil é le do tháibléad a choinneáil slán.</item>
+        <item quantity="two">Tá %d fheidhmchlár mhailíseacha braite. Díshuiteáil iad le do tháibléad a choinneáil slán.</item>
+        <item quantity="few">Tá %d fheidhmchlár mhailíseacha braite. Díshuiteáil iad le do tháibléad a choinneáil slán.</item>
+        <item quantity="many">Tá %d bhfeidhmchlár mhailíseacha braite. Díshuiteáil iad le do tháibléad a choinneáil slán.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">"Gníomhaíocht amhrasach braite. Díshuiteáil na feidhmchláir seo le d'fhón agus do chuid sonraí a chosaint."</item>
+        <item quantity="one">"Gníomhaíocht amhrasach braite. Díshuiteáil na feidhmchláir thíos le d'fhón agus do chuid sonraí a chosaint."</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Tá gníomhaíocht amhrasach braite. Díshuiteáil na feidhmchláir sin le do tháibléad agus do chuid sonraí a chosaint.</item>
+        <item quantity="one">Gníomhaíocht amhrasach braite. Díshuiteáil na feidhmchláir thíos le do tháibléad agus do chuid sonraí a chosaint.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">"Gníomhaíocht amhrasach braite. Díshuiteáil na feidhmchláir seo le d'fhón agus do chuid sonraí a chosaint."</item>
+        <item quantity="one">"Gníomhaíocht amhrasach braite. Díshuiteáil na feidhmchláir thíos le d'fhón agus do chuid sonraí a chosaint."</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Tá gníomhaíocht amhrasach braite. Díshuiteáil na feidhmchláir sin le do tháibléad agus do chuid sonraí a chosaint.</item>
+        <item quantity="one">Gníomhaíocht amhrasach braite. Díshuiteáil na feidhmchláir thíos le do tháibléad agus do chuid sonraí a chosaint.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d bagairt braite</item>
+        <item quantity="one">1 bhagairt braite</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d bagairt</item>
+        <item quantity="one">1 bhagairt</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">"Tá na feidhmchláir thíos ina gcúis le hearráidí criticiúla ar d'fhón. Moltar go láidir duit na feidhmchláir seo a dhíshuiteáil. Tar éis iad a dhíshuiteáil, is féidir go mbeidh tú in ann leagan nua de gach feidhmchlár a shuiteáil ón siopa feidhmchlár."</item>
+        <item quantity="one">"Tá an feidhmchlár thíos ina chúis le hearráidí criticiúla ar d'fhón. Moltar go láidir duit an feidhmchlár seo a dhíshuiteáil. Tar éis é a dhíshuiteáil, is féidir go mbeidh tú in ann leagan nua a shuiteáil ón siopa feidhmchlár."</item>
+    </plurals>
+</resources>

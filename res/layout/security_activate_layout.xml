@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.samsung.android.sm.view.SubHeaderDotLineView android:id="@id/tv_eula_activate_sub_header" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/title_security" style="@style/SMWinset.ListSubHeader" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/activity_horizontal_margin" android:layout_marginEnd="@dimen/activity_horizontal_margin">
+        <TextView android:textSize="@dimen/second_depth_fix_now_desc_text_size" android:textColor="@color/second_depth_fix_now_desc_text_color_theme" android:id="@id/tv_eula_activation_required" android:paddingBottom="?winsetDescriptionTextPaddingBottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/security_eula_scloud_activation_required_phone" />
+        <com.samsung.android.sm.view.FixButtonView android:textColor="@color/security_activate_btn_text_color" android:id="@id/bt_eula_activate" android:layout_marginBottom="@dimen/security_activate_button_margin_bottom" android:text="@string/security_eula_activate" style="@style/SecurityActivateButtonStyle" />
+    </LinearLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

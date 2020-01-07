@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/msg_category_list_item" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/category_icon" android:background="@drawable/myfiles_ic_apps" android:backgroundTint="@color/storage_icon_color_app_theme" style="@style/SMWinset.ListItemIconStyle" />
+    <RelativeLayout android:id="@id/container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/category_icon">
+        <TextView android:id="@id/msg_category_item_memory_size" android:textDirection="locale" style="@style/StorageCategoryMemorySizeTextStyle" />
+        <TextView android:id="@id/msg_category_name" android:text="@string/applications" android:textDirection="locale" android:layout_toStartOf="@id/msg_category_item_memory_size" style="@style/StorageCategoryTitleTextStyle" />
+    </RelativeLayout>
+    <ImageView android:id="@id/divider_line_child" android:layout_alignBottom="@id/container" style="@style/SMWinset.DividerStyle.TextAlignStart" />
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/storage_junk_list_item_0" android:focusable="false" android:clickable="false" style="@style/SMWinset.ListItemStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/junk_item_app_icon" android:scaleType="fitXY" style="@style/SMWinset.ListItemIconStyle" />
+    <TextView android:id="@id/junk_item_app_name" android:layout_toEndOf="@id/junk_item_app_icon" style="@style/SMWinset.ListItemTextViewStyle" />
+    <ImageView android:id="@id/divider_line" android:layout_alignParentBottom="true" android:layout_toEndOf="@id/junk_item_app_icon" style="@style/SMWinset.DividerStyle.TextAlignStart" />
+</RelativeLayout>

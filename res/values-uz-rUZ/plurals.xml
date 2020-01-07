@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d ta muammo aniqlandi</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ta muammo aniqlandi</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Qurilma kartasi zararli dasturlar, %d ta ilova nosozliklari yoki ko‘p batareya quvvat sarfi kabi muammolarga sabab bo‘lishi mumkin.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Qurilma kartasi zararli dasturlar, %d ta ilova nosozliklari yoki ko‘p batareya quvvat sarfi kabi muammolarga sabab bo‘lishi mumkin.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d kun</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d kun</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">%d soniya amal bajarilmaganda ekran o‘chiriladi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d soniya amal bajarilmaganda ekran o‘chiriladi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d ta ilova uyqu rejimiga qo‘yildi.</item>
+        <item quantity="one">1 ta ilova uyqu rejimiga qo‘yildi.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d ilovasi uyqu rejimiga qo‘yilmoqda…</item>
+        <item quantity="one">1 ilovasi uyqu rejimiga qo‘yilmoqda…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d ta tahdid aniqlandi. %2$s’da uni bartaraf etish uchun bu yerga teging.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d tahdid aniqlandi. %2$s’da uni bartaraf etish uchun bu yerga teging.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d ta ilova telefoningizda kritik xatolarga sabab bo‘lmoqda. Bu ilovalarni olib tashlash qat’iy tavsiya etiladi.</item>
+        <item quantity="one">1 ta ilova telefoningizda kritik xatolarga sabab bo‘lmoqda. Bu ilovani olib tashlash qat’iy tavsiya etiladi.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d ta ilova</item>
+        <item quantity="one">1 ta ilova</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Fondagi ilovalar yopildi</item>
+        <item quantity="one">Fondagi ilova yopildi</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">Ko‘p batareya quvvatini sarflaydigan %d ta ilova. Quvvat tejash uchun uni uyqu rejimiga qo‘ying. Uni yana ochguningizga qadar u yangilanishlarni olmasligi yoki bildirishnomalarni yubormasligi mumkin.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ko‘p batareya quvvatini sarflaydigan %d ta ilova. Quvvat tejash uchun uni uyqu rejimiga qo‘ying. Uni yana ochguningizga qadar u yangilanishlarni olmasligi yoki bildirishnomalarni yubormasligi mumkin.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d ta nosozlikka ega ilova topildi. Telefoningizni tezlashtirish uchun uni uyqu rejimiga qo‘ying. Uni yana ochguningizga qadar u yangilanishlarni olmasligi yoki bildirishnomalarni yubormasligi mumkin.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ta nosozlikka ega ilova topildi. Telefoningizni tezlashtirish uchun uni uyqu rejimiga qo‘ying. Uni yana ochguningizga qadar u yangilanishlarni olmasligi yoki bildirishnomalarni yubormasligi mumkin.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d ta nosozlikka ega ilova topildi. Planshet ishlashini tezlashtirish uchun ularni uyqu rejimiga qo‘ying. Ularni yana ochguningizga qadar ular yangilanishlarni olmasligi yoki bildirishnomalarni yubormasligi mumkin.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ta nosozlikka ega ilova topildi. Planshet ishlashini tezlashtirish uchun uni uyqu rejimiga qo‘ying. Uni yana ochguningizga qadar u yangilanishlarni olmasligi yoki bildirishnomalarni yubormasligi mumkin.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d ta zararli dastur aniqlandi. Telefoningzni xavfsiz saqlash uchun uni olib tashlang.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ta zararli dastur aniqlandi. Telefoningzni xavfsiz saqlash uchun uni olib tashlang.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d ta zararli dastur aniqlandi. Planshetingizni xavfsiz saqlash uchun ularni olib tashlang.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ta zararli dastur aniqlandi. Planshetingizni xavfsiz saqlash uchun uni olib tashlang.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Shubhali harakat aniqlandi. Telefon va ma’lumotlaringizni himoya qilish uchun bu ilovalarni olib tashlang.</item>
+        <item quantity="one">Shubhali harakat aniqlandi. Telefon va ma’lumotlarni himoya qilish uchun quyidagi ilovalarni olib tashlang.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Shubhali harakat aniqlandi. Planshet va ma’lumotlaringizni himoya qilish uchun bu ilovalarni olib tashlang.</item>
+        <item quantity="one">Shubhali harakat aniqlandi. Planshet va ma’lumotlarni himoya qilish uchun quyidagi ilovalarni olib tashlang.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Shubhali harakat aniqlandi. Telefon va ma’lumotlaringizni himoya qilish uchun bu ilovalarni olib tashlang.</item>
+        <item quantity="one">Shubhali harakat aniqlandi. Telefon va ma’lumotlarni himoya qilish uchun quyidagi ilovalarni olib tashlang.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Shubhali harakat aniqlandi. Planshet va ma’lumotlaringizni himoya qilish uchun bu ilovalarni olib tashlang.</item>
+        <item quantity="one">Shubhali harakat aniqlandi. Planshet va ma’lumotlarni himoya qilish uchun quyidagi ilovalarni olib tashlang.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d ta tahdid aniqlandi</item>
+        <item quantity="one">1 ta tahdid aniqlandi</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d ta tahdid</item>
+        <item quantity="one">1 ta tahdid</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Quyidagi ilovalar telefoningizda kritik xatoliklarga sabab bo‘lmoqda. Bu ilovalarni olib tashlash qat’iy tavsiya etiladi. Olib tashlaganingizdan so‘ng, ilovalar do‘konidan har bir ilovaning yangi versiyasini o‘rnatish imkoniga ega bo‘lishingiz mumkin.</item>
+        <item quantity="one">Quyidagi ilova telefoningizda kritik xatoliklarga sabab bo‘lmoqda. Bu ilovani olib tashlash qat’iy tavsiya etiladi. Olib tashlaganingizdan so‘ng, ilovalar do‘konidan yangi versiyani o‘rnatish imkoniga ega bo‘lishingiz mumkin.</item>
+    </plurals>
+</resources>

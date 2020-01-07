@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d асуудал илэрсэн</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d асуудал илэрсэн</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Төхөөрөмжийн тусламж нь хортон, хэрэглүүрийн гэмтэл эсвэл зайн цэнэг их ашиглах зэрэг асуудлуудыг %d хэрэглүүрт илрүүлсэн.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Төхөөрөмжийн тусламж нь хортон, хэрэглүүрийн гэмтэл эсвэл зайн цэнэг их ашиглах зэрэг асуудлуудыг %d хэрэглүүрт илрүүлсэн.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d хоног</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d хоног</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">%d секунд идэвхгүй байсны дараа дэлгэц унтарна.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d секунд идэвхгүй байсны дараа дэлгэц унтарна.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d хэрэглүүрийг амраасан.</item>
+        <item quantity="one">1 хэрэглүүрийг амраасан.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d хэрэглүүрийг амрааж байна…</item>
+        <item quantity="one">1 хэрэглүүрийг амрааж байна…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d аюул илэрсэн. Энд товшоод %2$s дээр тэдгээрийг шийднэ үү.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d аюул илэрсэн. Энд товшоод %2$s дээр үүнийг шийднэ үү.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d хэрэглүүрүүд таны утсанд ноцтой алдааг учруулж байна. Эдгээр хэрэглүүрүүдийг устгахыг чанд санал болгож байна.</item>
+        <item quantity="one">1 хэрэглүүр таны утсанд ноцтой алдаа учруулж байна. Энэ хэрэглүүрийг устгахыг чанд санал болгож байна.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d хэрэглүүр</item>
+        <item quantity="one">1 хэрэглүүр</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Далд явагдаж буй хэрэглүүрүүдийг хаасан</item>
+        <item quantity="one">Далд явагдаж буй хэрэглүүрийг хаасан</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">Зайн цэнэг их ашигладаг %d хэрэглүүр. Тэжээл хэмнэхийн тулд тэдгээрийг унтуулна уу. Та дахин нээх хүртэл тэд шинэчлэл хүлээн авахгүй эсвэл мэдэгдлүүд илгээхгүй.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Зайн цэнэг их ашигладаг %d хэрэглүүр. Тэжээл хэмнэхийн тулд түүнийг унтуулна уу. Та дахин нээх хүртэл тэр шинэчлэл хүлээн авахгүй эсвэл мэдэглүүд илгээхгүй.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d гэмтсэн хэрэглүүр олдсон. Утсаа хурдасгахын тулд тэдгээрийг унтуулна уу. Та дахин нээх хүртэл тэд шинэчлэл хүлээн авахгүй эсвэл мэдэгдлүүд илгээхгүй.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d гэмтсэн хэрэглүүр илэрсэн. Утсаа хурдасгахын тулд түүнийг унтуулна уу. Та дахин нээх хүртэл тэр шинэчлэл хүлээн авахгүй эсвэл мэдэглүүд илгээхгүй.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d гэмтсэн хэрэглүүр олдсон. Тэдгээрийг унтуулаад таблетээ хурдасга. Та тэдгээрийг ахин нээх хүртэл шинэчлэл хүлээн авахгүй эсвэл мэдэгдлүүд илгээхгүй болно.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d гэмтсэн хэрэглүүр олдсон. Үүнийг унтуулаад таблетээ хурдасга. Та үүнийг ахин нээх хүртэл шинэчлэл хүлээн авахгүй эсвэл мэдэгдлүүд илгээхгүй болно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d хортон хэрэглүүр илэрсэн. Утсаа аюулгүй байлгахын тулд тэдгээрийг устгана уу.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d хортон хэрэглүүр илэрсэн. Утсаа аюулгүй байлгахын тулд түүнийг устгана уу.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d хортон хэрэглүүрүүд илэрлээ. Тэдгээрийг устгаж таблетаа аюулгүй байлга.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d хортон хэрэглүүр олдсон. Үүнийг устгаж таблетаа аюулгүй байлга.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Сэжигтэй үйлдэл илэрлээ. Утас болон өгөгдлөө хамгаалахын тулд эдгээр хэрэглүүрүүдийг устгана уу.</item>
+        <item quantity="one">Сэжигтэй үйлдэл илэрлээ. Утас болон өгөгдлөө хамгаалахын тулд доорх хэрэглүүрүүдийг устгана уу.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Сэжигтэй үйлдэл илэрлээ. Таблет болон өгөгдлөө хамгаалахын тулд тэдгээр хэрэглүүрүүдийг устгана уу.</item>
+        <item quantity="one">Сэжигтэй үйлдэл илэрлээ. Таблет болон өгөгдлөө хамгаалахын тулд доорх хэрэглүүрүүдийг устгана уу.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Сэжигтэй үйлдэл илэрлээ. Утас болон өгөгдлөө хамгаалахын тулд эдгээр хэрэглүүрүүдийг устгана уу.</item>
+        <item quantity="one">Сэжигтэй үйлдэл илэрлээ. Утас болон өгөгдлөө хамгаалахын тулд доорх хэрэглүүрүүдийг устгана уу.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Сэжигтэй үйлдэл илэрлээ. Таблет болон өгөгдлөө хамгаалахын тулд тэдгээр хэрэглүүрүүдийг устгана уу.</item>
+        <item quantity="one">Сэжигтэй үйлдэл илэрлээ. Таблет болон өгөгдлөө хамгаалахын тулд доорх хэрэглүүрүүдийг устгана уу.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d аюул илэрлээ</item>
+        <item quantity="one">1 аюул илэрлээ</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d аюул</item>
+        <item quantity="one">1 аюул</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Доорх хэрэглүүрүүд таны утсанд ноцтой алдааг учруулж байна. Эдгээр хэрэглүүрүүдийг устгахыг чанд санал болгож байна. Устгасны дараа та хэрэглүүрийн дэлгүүрээс хэрэглүүр бүрийн шинэ хувилбарыг суурилуулах боломжгүй байж болно.</item>
+        <item quantity="one">Доорх хэрэглүүр таны утсанд ноцтой алдааг учруулж байна. Энэ хэрэглүүрийг устгахыг чанд санал болгож байна. Устгасны дараа та хэрэглүүрийн дэлгүүрээс хэрэглүүрийн шинэ хувилбарыг суурилуулах боломжгүй байж болно.</item>
+    </plurals>
+</resources>

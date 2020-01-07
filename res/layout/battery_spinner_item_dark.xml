@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:textAlignment="inherit" android:paddingHorizontal="@dimen/battery_spinner_item_padding_horizontal" android:paddingVertical="@dimen/battery_spinner_item_padding_vertical" style="@style/SMWinset.SpinnerItemStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

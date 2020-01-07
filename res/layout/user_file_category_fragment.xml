@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/user_file_container_deep" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.SubHeaderDotLineView android:id="@id/user_data_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/title_User_File" style="@style/SMWinset.ListSubHeader" />
+    <RelativeLayout android:id="@id/user_category_list_documents" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+        <ImageView android:id="@id/category_icon_doc" android:background="@drawable/myfiles_ic_document" android:backgroundTint="@color/storage_icon_color_document_theme" style="@style/SMWinset.ListItemIconStyle" />
+        <RelativeLayout android:id="@id/doc_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/category_icon_doc">
+            <TextView android:id="@id/category_memory_size_doc" style="@style/StorageCategoryMemorySizeTextStyle" />
+            <TextView android:id="@id/category_name_doc" android:text="@string/documents" android:layout_toStartOf="@id/category_memory_size_doc" style="@style/StorageCategoryTitleTextStyle" />
+        </RelativeLayout>
+        <ImageView android:layout_alignBottom="@id/doc_container" android:layout_toEndOf="@id/category_icon_doc" style="@style/SMWinset.DividerStyle.TextAlignStart" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/user_category_list_images" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+        <ImageView android:id="@id/category_icon_img" android:background="@drawable/myfiles_ic_image" android:backgroundTint="@color/storage_icon_color_image_theme" style="@style/SMWinset.ListItemIconStyle" />
+        <RelativeLayout android:id="@id/img_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/category_icon_img">
+            <TextView android:id="@id/category_memory_size_img" style="@style/StorageCategoryMemorySizeTextStyle" />
+            <TextView android:text="@string/images" android:layout_toStartOf="@id/category_memory_size_img" style="@style/StorageCategoryTitleTextStyle" />
+        </RelativeLayout>
+        <ImageView android:layout_alignBottom="@id/img_container" android:layout_toEndOf="@id/category_icon_img" style="@style/SMWinset.DividerStyle.TextAlignStart" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/user_category_list_video" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+        <ImageView android:id="@id/category_icon_video" android:background="@drawable/myfiles_ic_video" android:backgroundTint="@color/storage_icon_color_video_theme" style="@style/SMWinset.ListItemIconStyle" />
+        <RelativeLayout android:id="@id/video_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/category_icon_video">
+            <TextView android:id="@id/category_memory_size_video" style="@style/StorageCategoryMemorySizeTextStyle" />
+            <TextView android:text="@string/videos" android:layout_toStartOf="@id/category_memory_size_video" style="@style/StorageCategoryTitleTextStyle" />
+        </RelativeLayout>
+        <ImageView android:layout_alignBottom="@id/video_container" android:layout_toEndOf="@id/category_icon_video" style="@style/SMWinset.DividerStyle.TextAlignStart" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/user_category_list_audio" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+        <ImageView android:id="@id/category_icon_audio" android:background="@drawable/myfiles_ic_music" android:backgroundTint="@color/storage_icon_color_audio_theme" style="@style/SMWinset.ListItemIconStyle" />
+        <RelativeLayout android:id="@id/audio_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/category_icon_audio">
+            <TextView android:id="@id/category_memory_size_audio" style="@style/StorageCategoryMemorySizeTextStyle" />
+            <TextView android:text="@string/audio" android:layout_toStartOf="@id/category_memory_size_audio" style="@style/StorageCategoryTitleTextStyle" />
+        </RelativeLayout>
+        <ImageView android:layout_alignBottom="@id/audio_container" android:layout_toEndOf="@id/category_icon_audio" style="@style/SMWinset.DividerStyle.TextAlignStart" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/user_category_list_applications" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+        <ImageView android:id="@id/category_icon_applications" android:background="@drawable/myfiles_ic_apps" android:backgroundTint="@color/storage_icon_color_app_theme" style="@style/SMWinset.ListItemIconStyle" />
+        <RelativeLayout android:id="@id/app_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/category_icon_applications">
+            <TextView android:id="@id/category_memory_size_applications" style="@style/StorageCategoryMemorySizeTextStyle" />
+            <TextView android:text="@string/applications" android:layout_toStartOf="@id/category_memory_size_applications" style="@style/StorageCategoryTitleTextStyle" />
+        </RelativeLayout>
+        <ImageView android:id="@id/divider_application_below" android:visibility="gone" android:layout_alignBottom="@id/app_container" android:layout_toEndOf="@id/category_icon_applications" style="@style/SMWinset.DividerStyle.TextAlignStart" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/user_category_list_themes" android:focusable="true" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+        <ImageView android:id="@id/category_icon_themes" android:background="@drawable/myfiles_ic_wallpaper" android:backgroundTint="@color/storage_icon_color_wallpaper_theme" style="@style/SMWinset.ListItemIconStyle" />
+        <RelativeLayout android:id="@id/theme_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/category_icon_themes">
+            <TextView android:id="@id/category_memory_size_themes" style="@style/StorageCategoryMemorySizeTextStyle" />
+            <TextView android:id="@id/category_name_themes" android:text="@string/themes" android:layout_toStartOf="@id/category_memory_size_themes" style="@style/StorageCategoryTitleTextStyle" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <ViewStub android:id="@id/storage_residual_apk_layout_stub" android:layout="@layout/storage_residual_apk_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <include android:id="@id/sd_card_ln_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/sd_card_space" />
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

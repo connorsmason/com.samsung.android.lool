@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false" android:windowEnableSplitTouch="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/tile_high_performance" style="@style/TileListLayoutStyle">
+        <RadioButton android:id="@id/tile_high_performance_rb" style="@style/TileListRadioButtonStyle" />
+        <TextView android:id="@id/title_high_performance" android:text="@string/battery_mode_high_performance" style="@style/TileListTextStyle" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/tile_optimized" style="@style/TileListLayoutStyle">
+        <RadioButton android:id="@id/tile_optimized_rb" style="@style/TileListRadioButtonStyle" />
+        <TextView android:id="@id/title_optimized" android:text="@string/battery_mode_optimized" style="@style/TileListTextStyle" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/tile_mid" style="@style/TileListLayoutStyle">
+        <RadioButton android:id="@id/tile_mid_rb" style="@style/TileListRadioButtonStyle" />
+        <TextView android:id="@id/title_mid" android:text="@string/battery_mode_mid" style="@style/TileListTextStyle" />
+    </LinearLayout>
+    <LinearLayout android:id="@id/tile_max" style="@style/TileListLayoutStyle">
+        <RadioButton android:id="@id/tile_max_rb" style="@style/TileListRadioButtonStyle" />
+        <TextView android:id="@id/title_max" android:text="@string/battery_mode_max" style="@style/TileListTextStyle" />
+    </LinearLayout>
+    <ImageView android:id="@id/divider_line" android:background="@color/dc_winset_sep10_listview_divider_color" android:layout_width="fill_parent" android:layout_height="@dimen/dc_winset_sep10_divider_height" android:layout_marginHorizontal="@dimen/activity_horizontal_margin" android:layout_marginVertical="@dimen/activity_vertical_margin" />
+    <RelativeLayout android:id="@id/tile_adaptive_power_saving" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginHorizontal="@dimen/activity_horizontal_margin">
+        <Switch android:theme="@android:style/Theme.DeviceDefault.Light" android:enabled="true" android:id="@id/adaptive_power_saving_switch" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/dc_winset_sep10_switch_margin_start" android:layout_alignParentEnd="true" />
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toStartOf="@id/adaptive_power_saving_switch" android:layout_alignParentStart="true">
+            <TextView android:id="@id/title_adaptive_power_saving" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/battery_mode_adaptive_power_saving_title" android:paddingStart="@dimen/zero_dp_width" style="@style/TileListTextStyle" />
+            <TextView android:id="@id/subtext_adaptive_power_saving" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/battery_mode_adaptive_power_saving_description" android:paddingStart="@dimen/zero_dp_width" style="@style/TileListSubtextStyle" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

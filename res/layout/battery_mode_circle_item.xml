@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:tag="layout/battery_mode_circle_item_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?winsetListItem2LineMinHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/config_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginHorizontal="@dimen/activity_horizontal_margin" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+    <TextView android:textColor="?winsetColorPrimary" android:id="@id/config_status" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginHorizontal="@dimen/activity_horizontal_margin" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextSetting" />
+</LinearLayout>

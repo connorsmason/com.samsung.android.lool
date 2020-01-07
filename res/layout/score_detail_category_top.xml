@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/score_detail_category_top_0" style="@style/SMWinset.DescriptionStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/divider" android:layout_height="@dimen/scoreboard_detail_category_divider_height" android:layout_alignParentTop="true" style="@style/SMWinset.DividerStyle" />
+</RelativeLayout>

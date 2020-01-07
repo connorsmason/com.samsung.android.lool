@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true">
+        <layer-list>
+            <item>
+                <shape>
+                    <padding android:top="@dimen/auto_restart_repeat_btn_padding_vertical" android:bottom="@dimen/auto_restart_repeat_btn_padding_vertical" />
+                </shape>
+            </item>
+            <item>
+                <shape android:shape="oval">
+                    <solid android:color="?android:colorControlHighlight" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

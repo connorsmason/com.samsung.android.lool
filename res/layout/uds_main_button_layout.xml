@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:gravity="bottom|center" android:layout_gravity="bottom" android:orientation="horizontal" android:id="@id/uds_main_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:id="@id/uds_icon_details" style="@style/ScoreboardShortcutContainerStyle">
+        <LinearLayout android:id="@id/main_button_uds_click_layout" style="@style/ScoreboardShortcutClickLayoutStyle">
+            <com.samsung.android.sm.view.ShortcutImageContainer android:id="@id/main_button_uds_image_container" style="@style/ScoreboardShortcutImageContainerStyle" />
+            <TextView android:id="@id/main_button_uds_text1" android:text="@string/title_datausage" style="@style/ScoreboardShortcutMainTextStyle" />
+        </LinearLayout>
+        <TextView android:id="@id/main_button_uds_text2" style="@style/ScoreboardShortcutSubTextStyle" />
+    </LinearLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

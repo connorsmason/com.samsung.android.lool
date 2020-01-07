@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%dଟି ସମସ୍ୟା ଚିହ୍ନଟ ହୋଇଛି</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି ସମସ୍ୟା ଚିହ୍ନଟ ହୋଇଛି</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">ଡିଭାଇସ୍ ଯତ୍ନ %dଟି ଆପ୍ଲିକେସନ୍ ଚିହ୍ନଟ କରିଛି ଯେପରିକି ମାଲୱେୟାର୍, ଆପ୍ଲିକେସନ୍‌, କ୍ରାସ୍, କିମ୍ୱା ଅଧିକ ବ୍ୟାଟେରୀ ବ୍ୟବହାର ଯାହା ସମସ୍ୟା ଉତ୍ପନ୍ନ କରିବାର କାରଣ ହୋଇପାରେ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଡିଭାଇସ୍ ଯତ୍ନ %dଟି ଆପ୍ଲିକେସନ୍ ଚିହ୍ନଟ କରିଛି ଯେପରିକି ମାଲୱେୟାର୍, ଆପ୍ଲିକେସନ୍‌, କ୍ରାସ୍, କିମ୍ୱା ଅଧିକ ବ୍ୟାଟେରୀ ବ୍ୟବହାର ଯାହା ସମସ୍ୟା ଉତ୍ପନ୍ନ କରିବାର କାରଣ ହୋଇପାରେ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d ଦିନ</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ଦିନ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">ନିଷ୍କ୍ରିୟତାର %d ସେକେଣ୍ତ ପରେ ସ୍କ୍ରିନ୍ ଟର୍ନ୍ ଅଫ୍ ହେବ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ନିଷ୍କ୍ରିୟତାର %d ସେକେଣ୍ତ ପରେ ସ୍କ୍ରିନ୍ ଟର୍ନ୍ ଅଫ୍ ହେବ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%dଟି ଆପ୍ଲିକେସନ୍ ନିଷ୍କ୍ରିୟ ହୋଇଛି।</item>
+        <item quantity="one">1 ଆପ୍ଲିକେସନ୍‌ ନିଷ୍କ୍ରିୟ ହୋଇଛି।</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%dଟି ଆପ୍ଲିକେସନ୍‌ ନିଷ୍କ୍ରିୟ ହେଉଛି…</item>
+        <item quantity="one">1 ଆପ୍ଲିକେସନ୍‌ ନିଷ୍କ୍ରିୟ ହେଉଛି…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$dଟି ବିପଦ ଚିହ୍ନଟ ହୋଇଛି। %2$sରେ ସେଗୁଡିକ ସମାଧାନ କରିବାକୁ ଏଠାରେ ଟ୍ୟାପ୍।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$dଟି ବିପଦ ଚିହ୍ନଟ ହୋଇଛି। ଏହାକୁ ସମାଧାନ କରିବାକୁ %2$sରେ ଟ୍ୟାପ୍।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">ଆପଣଙ୍କ ଫୋନରେ %dଟି ଆପ୍ଲିକେସନ୍ ଜଟିଳ ତ୍ରୁଟି ଉତ୍ପନ୍ନ କରୁଛି। ଏହି ଆପସ୍ ଅଣସଂସ୍ଥାପନ କରିବାକୁ ଦୃଢ ଭାବେ ସୁପାରିଶ କରାଯାଇଛି।</item>
+        <item quantity="one">ଆପଣଙ୍କ ଫୋନରେ 1 ଆପ୍ଲିକେସନରେ ଜଟିଳ ତ୍ରୁଟି ଘଟିଛି। ଏହି ଆପ୍ଲିକେସନ୍‌ ଅଣସଂସ୍ଥାପନ କରିବାକୁ ଦୃଢ ଭାବେ ସୁପାରିଶ କରାଯାଇଛି।</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%dଟି ଆପ୍ଲିକେସନ୍</item>
+        <item quantity="one">1 ଆପ୍ଲିକେସନ୍‌</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">ପୃଷ୍ଠପଟ ଆପସ୍ ବନ୍ଦ ହୋଇଛି</item>
+        <item quantity="one">ପୃଷ୍ଠପଟ ଆପ୍ଲିକେସନ୍ ବନ୍ଦ ହୋଇଛି</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%dଟି ଆପ୍ଲିକେସନ୍ ସହ ଅଧିକ ବ୍ୟାଟେରୀ ବ୍ୟବହାର। ପାୱାର୍ ସଞ୍ଚୟ କରିବାକୁ ସେଗୁଡିକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ। ଆପଣ ସେଗୁଡିକୁ ପୁନଃ ନଖୋଲିବା ପର୍ଯ୍ୟନ୍ତ ସେଗୁଡିକ ଅପଡେଟ୍ ପ୍ରାପ୍ତ କିମ୍ୱା ବିଜ୍ଞପ୍ତି ପ୍ରେରଣ କରିନପାରେ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି ଆପ୍ଲିକେସନ୍ ସହ ଅଧିକ ବ୍ୟାଟେରୀ ବ୍ୟବହାର। ପାୱାର୍ ସଞ୍ଚୟ କରିବାକୁ ଏହାକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ। ଆପଣ ଏହାକୁ ପୁନଃ ନଖୋଲିବା ପର୍ଯ୍ୟନ୍ତ ଏହା ଅପଡେଟ୍ ପ୍ରାପ୍ତ କିମ୍ୱା ବିଜ୍ଞପ୍ତି ପ୍ରେରଣ କରିନପାରେ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%dଟି କ୍ରାସ୍‌ ହୋଇଥିବା ଆପ୍ଲିକେସନ୍ ମିଳିଲା। ଆପଣଙ୍କ ଫୋନର ଗତି ବଢାଇବାକୁ ସେଗୁଡିକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ। ଆପଣ ସେଗୁଡିକୁ ପୁନଃ ନଖୋଲିବା ପର୍ଯ୍ୟନ୍ତ ସେଗୁଡିକ ଅପଡେଟ୍ ପ୍ରାପ୍ତ କିମ୍ୱା ବିଜ୍ଞପ୍ତି ପ୍ରେରଣ କରିନପାରେ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି କ୍ରାସ୍‌ ହୋଇଥିବା ଆପ୍ଲିକେସନ୍ ମିଳିଲା। ଆପଣଙ୍କ ଫୋନର ଗତି ବଢାଇବାକୁ ଏହାକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ। ଆପଣ ଏହାକୁ ପୁନଃ ନଖୋଲିବା ପର୍ଯ୍ୟନ୍ତ ଏହା ଅପଡେଟ୍ ପ୍ରାପ୍ତ କିମ୍ୱା ବିଜ୍ଞପ୍ତି ପ୍ରେରଣ କରିନପାରେ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%dଟି କ୍ରାସ୍‌ ହୋଇଥିବା ଆପ୍ଲିକେସନ୍ ମିଳିଲା। ଆପଣଙ୍କ ଟ୍ୟାବଲେଟର ଗତି ବଢାଇବାକୁ ସେଗୁଡିକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ। ଆପଣ ସେଗୁଡିକୁ ପୁନଃ ନଖୋଲିବା ପର୍ଯ୍ୟନ୍ତ ସେଗୁଡିକ ଅପଡେଟ୍ ପ୍ରାପ୍ତ କିମ୍ୱା ବିଜ୍ଞପ୍ତି ପ୍ରେରଣ କରିନପାରେ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି କ୍ରାସ୍‌ ହୋଇଥିବା ଆପ୍ଲିକେସନ୍ ମିଳିଲା। ଆପଣଙ୍କ ଟ୍ୟାବଲେଟର ଗତି ବଢାଇବାକୁ ଏହାକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ। ଆପଣ ଏହାକୁ ପୁନଃ ନଖୋଲିବା ପର୍ଯ୍ୟନ୍ତ ଏହା ଅପଡେଟ୍ ପ୍ରାପ୍ତ କିମ୍ୱା ବିଜ୍ଞପ୍ତି ପ୍ରେରଣ କରିନପାରେ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%dଟି ମାଲୱେୟାର୍ ଆପ୍ଲିକେସନ୍ ଚିହ୍ନଟ ହୋଇଛି। ଆପଣଙ୍କ ଫୋନ୍ ସୁରକ୍ଷିତ ରଖିବାକୁ ଏହା ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି ମାଲୱେୟାର୍ ଆପ୍ଲିକେସନ୍ ଚିହ୍ନଟ ହୋଇଛି। ଆପଣଙ୍କ ଫୋନ୍ ସୁରକ୍ଷିତ ରଖିବାକୁ ଏହା ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%dଟି ମାଲୱେୟାର୍ ଆପ୍ଲିକେସନ୍ ଚିହ୍ନଟ ହୋଇଛି। ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ସୁରକ୍ଷିତ ରଖିବାକୁ ଏହା ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି ମାଲୱେୟାର୍ ଆପ୍ଲିକେସନ୍ ଚିହ୍ନଟ ହୋଇଛି। ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ସୁରକ୍ଷିତ ରଖିବାକୁ ଏହା ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">ସନ୍ଦେହଜନକ କାର୍ଯ୍ୟକଳାପ ଚିହ୍ନଟ ହୋଇଛି। ଆପଣଙ୍କ ଫୋନ୍ ଏବଂ ଡାଟା ସୁରକ୍ଷିତ କରିବାକୁ ଏହିସବୁ ଆପସ୍ ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ।</item>
+        <item quantity="one">ସନ୍ଦେହଜନକ କାର୍ଯ୍ୟକଳାପ ଚିହ୍ନଟ ହୋଇଛି। ଆପଣଙ୍କ ଫୋନ୍ ଏବଂ ଡାଟା ସୁରକ୍ଷିତ କରିବାକୁ ନିମ୍ନ ଆପସ୍ ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">ସନ୍ଦେହଜନକ କାର୍ଯ୍ୟକଳାପ ଚିହ୍ନଟ ହୋଇଛି। ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ଏବଂ ଡାଟା ସୁରକ୍ଷିତ କରିବାକୁ ଏହିସବୁ ଆପସ୍ ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ।</item>
+        <item quantity="one">ସନ୍ଦେହଜନକ କାର୍ଯ୍ୟକଳାପ ଚିହ୍ନଟ ହୋଇଛି। ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ଏବଂ ଡାଟା ସୁରକ୍ଷିତ କରିବାକୁ ନିମ୍ନ ଆପସ୍ ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">ସନ୍ଦେହଜନକ କାର୍ଯ୍ୟକଳାପ ଚିହ୍ନଟ ହୋଇଛି। ଆପଣଙ୍କ ଫୋନ୍ ଏବଂ ଡାଟା ସୁରକ୍ଷିତ କରିବାକୁ ଏହିସବୁ ଆପସ୍ ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ।</item>
+        <item quantity="one">ସନ୍ଦେହଜନକ କାର୍ଯ୍ୟକଳାପ ଚିହ୍ନଟ ହୋଇଛି। ଆପଣଙ୍କ ଫୋନ୍ ଏବଂ ଡାଟା ସୁରକ୍ଷିତ କରିବାକୁ ନିମ୍ନ ଆପସ୍ ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">ସନ୍ଦେହଜନକ କାର୍ଯ୍ୟକଳାପ ଚିହ୍ନଟ ହୋଇଛି। ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ଏବଂ ଡାଟା ସୁରକ୍ଷିତ କରିବାକୁ ଏହିସବୁ ଆପସ୍ ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ।</item>
+        <item quantity="one">ସନ୍ଦେହଜନକ କାର୍ଯ୍ୟକଳାପ ଚିହ୍ନଟ ହୋଇଛି। ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ଏବଂ ଡାଟା ସୁରକ୍ଷିତ କରିବାକୁ ନିମ୍ନ ଆପସ୍ ଅଣସଂସ୍ଥାପନ କରନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d ବିପଦ ଚିହ୍ନଟ ହୋଇଛି</item>
+        <item quantity="one">1 ବିପଦତା ଚିହ୍ନଟ ହୋଇଛି</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%dଟି ବିପଦ</item>
+        <item quantity="one">1 ବିପଦ</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">ନିମ୍ନର ଆପ୍ଲିକେସନ୍ ଆପଣଙ୍କ ଫୋନରେ ଜଟିଳ ତ୍ରୁଟି ଉତ୍ପନ୍ନ କରୁଛି। ଏହି ଆପସ୍ ଅଣସଂସ୍ଥାପନ କରିବାକୁ ଦୃଢ ଭାବେ ସୁପାରିଶ କରାଯାଇଛି। ଅଣସଂସ୍ଥାପନ ପରେ, ଆପଣ ଏକ ଆପ୍ଲିକେସନ୍‌ ଷ୍ଟୋରରୁ ପ୍ରତି ଆପ୍ଲିକେସନର ଏକ ନୂତନ ସଂସ୍କରଣ ସଂସ୍ଥାପନ କରିବାକୁ ସମର୍ଥ ହୋଇପାରେ।</item>
+        <item quantity="one">ନିମ୍ନର ଆପ୍ଲିକେସନ୍ ଆପଣଙ୍କ ଫୋନରେ ଜଟିଳ ତ୍ରୁଟି ଉତ୍ପନ୍ନ କରୁଛି। ଏହି ଆପ୍ଲିକେସନ୍‌ ଅଣସଂସ୍ଥାପନ କରିବାକୁ ଦୃଢ ଭାବେ ସୁପାରିଶ କରାଯାଇଛି। ଅଣସଂସ୍ଥାପନ ପରେ, ଆପଣ ଏକ ଆପ୍ଲିକେସନ୍‌ ଷ୍ଟୋରରୁ ଏକ ନୂତନ ସଂସ୍କରଣ ସଂସ୍ଥାପନ କରିବାକୁ ସମର୍ଥ ହୋଇପାରେ।</item>
+    </plurals>
+</resources>

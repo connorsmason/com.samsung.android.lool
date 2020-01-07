@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_image_item_height">101.0dip</dimen>
+    <dimen name="grid_image_item_padding">3.0dip</dimen>
+    <dimen name="grid_text_item_height">29.0dip</dimen>
+    <dimen name="widget_body_margin_start">17.0dip</dimen>
+    <dimen name="widget_body_text_size">19.0dip</dimen>
+    <dimen name="widget_icon_height">33.0dip</dimen>
+    <dimen name="widget_icon_margin_start">-5.0dip</dimen>
+    <dimen name="widget_icon_width">33.0dip</dimen>
+    <dimen name="widget_image_bottom_padding">15.0dip</dimen>
+    <dimen name="widget_inner_image_dimension">63.0dip</dimen>
+    <dimen name="widget_optimize_layout_width">120.0dip</dimen>
+    <dimen name="widget_optimize_text_size">19.0dip</dimen>
+    <dimen name="widget_title_text_size">22.0dip</dimen>
+</resources>

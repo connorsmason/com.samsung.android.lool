@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Se han detectado %d problemas</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Se ha detectado %d problema</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Mantenimiento del dispositivo ha detectado %d aplicaciones que pueden estar causando problemas, incluidos software malicioso, errores de aplicación o uso elevado de batería.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Mantenimiento del dispositivo ha detectado %d aplicación que puede estar causando problemas, incluidos software malicioso, errores de aplicación o uso elevado de batería.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d días</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d día</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">La pantalla se desactivará después de %d segundos de inactividad.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">La pantalla se desactivará después de %d segundo de inactividad.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d aplicaciones puestas en modo inactivo.</item>
+        <item quantity="one">1 aplicación se ha puesto en modo inactivo.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Poniendo %d aplicaciones en modo inactivo…</item>
+        <item quantity="one">Poniendo 1 aplicación en modo inactivo…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Se han detectado %1$d amenazas. Pulsa aquí para solucionarlas en %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Se ha detectado %1$d amenaza. Pulsa aquí para solucionarla en %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d aplicaciones están provocando errores graves en el teléfono. Te recomendamos encarecidamente que las desinstales.</item>
+        <item quantity="one">1 aplicación está provocando errores graves en el teléfono. Te recomendamos encarecidamente que la desinstales.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d aplicaciones</item>
+        <item quantity="one">1 aplicación</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Aplicaciones en segundo plano cerradas</item>
+        <item quantity="one">Aplicación en segundo plano cerrada</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">Hay %d aplicaciones con uso elevado de batería. Ponlas en modo inactivo para ahorrar energía. Es posible que dichas aplicaciones no reciban actualizaciones ni envíen notificaciones hasta que las abras de nuevo.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Hay %d aplicación con uso elevado de batería. Ponla en modo inactivo para ahorrar energía. Es posible que dicha aplicación no reciba actualizaciones ni envíe notificaciones hasta que la abras de nuevo.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Se han encontrado %d aplicaciones con errores. Ponlas en modo inactivo para hacer que el teléfono funcione más rápido. Es posible que dichas aplicaciones no reciban actualizaciones ni envíen notificaciones hasta que las abras de nuevo.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Se ha encontrado %d aplicación con errores. Ponla en modo inactivo para hacer que el teléfono funcione más rápido. Es posible que dicha aplicación no reciba actualizaciones ni envíe notificaciones hasta que la abras de nuevo.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Se han encontrado %d aplicaciones con errores. Ponlas en modo inactivo para hacer que la tableta funcione más rápido. Es posible que dichas aplicaciones no reciban actualizaciones ni envíen notificaciones hasta que las abras de nuevo.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Se ha encontrado %d aplicación con errores. Ponla en modo inactivo para hacer que la tableta funcione más rápido. Es posible que dicha aplicación no reciba actualizaciones ni envíe notificaciones hasta que la abras de nuevo.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Se han detectado %d aplicaciones de software malicioso. Desinstálalas para mantener seguro el teléfono.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Se ha detectado %d aplicación de software malicioso. Desinstálala para mantener seguro el teléfono.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Se han detectado %d aplicaciones de software malicioso. Desinstálalas para mantener segura la tableta.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Se ha detectado %d aplicación de software malicioso. Desinstálala para mantener segura la tableta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Se ha detectado actividad sospechosa. Desinstala estas aplicaciones para proteger el teléfono y tus datos.</item>
+        <item quantity="one">Se ha detectado actividad sospechosa. Desinstala las siguientes aplicaciones para proteger el teléfono y tus datos.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Se ha detectado actividad sospechosa. Desinstala estas aplicaciones para proteger la tableta y tus datos.</item>
+        <item quantity="one">Se ha detectado actividad sospechosa. Desinstala las siguientes aplicaciones para proteger la tableta y tus datos.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Se ha detectado actividad sospechosa. Desinstala estas aplicaciones para proteger el teléfono y tus datos.</item>
+        <item quantity="one">Se ha detectado actividad sospechosa. Desinstala las siguientes aplicaciones para proteger el teléfono y tus datos.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Se ha detectado actividad sospechosa. Desinstala estas aplicaciones para proteger la tableta y tus datos.</item>
+        <item quantity="one">Se ha detectado actividad sospechosa. Desinstala las siguientes aplicaciones para proteger la tableta y tus datos.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Se han detectado %d amenazas</item>
+        <item quantity="one">Se ha detectado 1 amenaza</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d amenazas</item>
+        <item quantity="one">1 amenaza</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Las siguientes aplicaciones están provocando errores graves en el teléfono. Te recomendamos encarecidamente que las desinstales. Una vez desinstaladas, podrás instalar una nueva versión de cada una de las aplicaciones desde una tienda de aplicaciones.</item>
+        <item quantity="one">La siguiente aplicación está provocando errores graves en el teléfono. Te recomendamos encarecidamente que la desinstales. Una vez desinstalada, podrás instalar una nueva versión desde una tienda de aplicaciones.</item>
+    </plurals>
+</resources>

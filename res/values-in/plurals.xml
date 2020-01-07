@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d masalah terdeteksi</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Perawatan perangkat telah mendeteksi %d aplikasi yang dapat menyebabkan masalah, termasuk malware, aplikasi rusak, atau penggunaan baterai tinggi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d hari</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Layar akan mati setelah %d detik tidak aktif.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d aplikasi telah dinonaktifkan.</item>
+        <item quantity="one">1 aplikasi telah dinonaktifkan.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Menonaktifkan %d aplikasi…</item>
+        <item quantity="one">Menonaktifkan 1 aplikasi…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d ancaman terdeteksi. Ketuk di sini untuk mengatasinya di %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d aplikasi menyebabkan kesalahan kritis pada ponsel Anda. Sangat disarankan untuk menghapus instalasi aplikasi ini.</item>
+        <item quantity="one">1 aplikasi menyebabkan kesalahan kritis pada ponsel Anda. Sangat disarankan untuk menghapus instalasi aplikasi ini.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d aplikasi</item>
+        <item quantity="one">1 aplikasi</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Aplikasi latar belakang ditutup</item>
+        <item quantity="one">Aplikasi latar belakang ditutup</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d aplikasi dengan penggunaan baterai tinggi. Nonaktifkan aplikasi untuk menghemat daya. Aplikasi mungkin tidak akan dapat menerima pembaruan atau mengirim notifikasi hingga dibuka lagi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d aplikasi rusak ditemukan. Nonaktifkan aplikasi untuk mempercepat ponsel. Aplikasi tidak akan dapat menerima pembaruan atau mengirim notifikasi hingga dibuka lagi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d aplikasi rusak ditemukan. Nonaktifkan aplikasi untuk mempercepat tablet. Aplikasi tidak dapat menerima pembaruan atau mengirim notifikasi hingga dibuka lagi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d aplikasi malware terdeteksi. Hapus instalasinya agar ponsel tetap aman.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d aplikasi malware terdeteksi. Hapus instalasinya agar tablet tetap aman.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Aktivitas mencurigakan terdeteksi. Hapus instalasi aplikasi ini untuk melindungi ponsel dan data.</item>
+        <item quantity="one">Aktivitas mencurigakan terdeteksi. Hapus instalasi aplikasi di bawah untuk melindungi ponsel dan data.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Aktivitas mencurigakan terdeteksi. Hapus instalasi aplikasi ini untuk melindungi tablet dan data.</item>
+        <item quantity="one">Aktivitas mencurigakan terdeteksi. Hapus instalasi aplikasi di bawah ini untuk melindungi tablet dan data.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Aktivitas mencurigakan terdeteksi. Hapus instalasi aplikasi ini untuk melindungi ponsel dan data.</item>
+        <item quantity="one">Aktivitas mencurigakan terdeteksi. Hapus instalasi aplikasi di bawah untuk melindungi ponsel dan data.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Aktivitas mencurigakan terdeteksi. Hapus instalasi aplikasi ini untuk melindungi tablet dan data.</item>
+        <item quantity="one">Aktivitas mencurigakan terdeteksi. Hapus instalasi aplikasi di bawah ini untuk melindungi tablet dan data.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d ancaman terdeteksi</item>
+        <item quantity="one">1 ancaman terdeteksi</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d ancaman</item>
+        <item quantity="one">1 ancaman</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Aplikasi di bawah ini menyebabkan kesalahan kritis pada ponsel Anda. Sangat disarankan untuk menghapus instalasi aplikasi ini. Setelah menghapus instalasi, Anda dapat menginstal versi baru tiap aplikasi dari toko aplikasi.</item>
+        <item quantity="one">Aplikasi di bawah ini menyebabkan kesalahan kritis pada ponsel Anda. Sangat disarankan untuk menghapus instalasi aplikasi ini. Setelah menghapus instalasi, Anda dapat menginstal versi baru dari toko aplikasi.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Wysznupano %d problymōw</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wysznupano %d problym</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wysznupano %d problymy</item>
+        <item quantity="many">Wysznupano %d problymōw</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Ôchrōna masziny wysznupała %d aplikacyji, kere poradzōm sprŏwiać problymy, w tym sorōńske ôprogramowanie, awarie aplikacyji abo fest użycie baterji.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ôchrōna masziny wysznupała %d aplikacyjo, kero poradzi sprŏwiać problymy, w tym sorōńske ôprogramowanie, awarie aplikacyji abo fest użycie baterji.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ôchrōna masziny wysznupała %d aplikacyje, kere poradzōm sprŏwiać problymy, w tym sorōńske ôprogramowanie, awarie aplikacyji abo fest użycie baterji.</item>
+        <item quantity="many">Ôchrōna masziny wysznupała %d aplikacyji, kere poradzōm sprŏwiać problymy, w tym sorōńske ôprogramowanie, awarie aplikacyji abo fest użycie baterji.</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dni</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d dziyń</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dni</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Ekran wyłōnczy sie po %d sekundach niyaktywności.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ekran wyłōnczy sie po %d sekundzie niyaktywności.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ekran wyłōnczy sie po %d sekundach niyaktywności.</item>
+        <item quantity="many">Ekran wyłōnczy sie po %d sekundach niyaktywności.</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">Wkludzōno w tryb spanio aplikacyji: %d.</item>
+        <item quantity="one">Wkludzōno w tryb spanio 1 aplikacyjo.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Wkludzanie %d aplikacyji w tryb spanio…</item>
+        <item quantity="one">Wkludzanie 1 aplikacyji w tryb spanio…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Wysznupano %1$d zagrożyń. Tyknij sam, coby przed ônymi ôchrōnić w aplikacyji %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wysznupano %1$d zagrożynie. Tyknij sam, coby przed ônym ôchrōnić w aplikacyji %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wysznupano %1$d zagrożynia. Tyknij sam, coby przed ônymi ôchrōnić w aplikacyji %2$s.</item>
+        <item quantity="many">Wysznupano %1$d zagrożyń. Tyknij sam, coby przed ônymi ôchrōnić w aplikacyji %2$s.</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">Aplikacyjōw: %d sprŏwiŏ krytyczne felery w telefōnie. Ôdinsztalowanie tych aplikacyjōw je fest rekōmandowane.</item>
+        <item quantity="one">1 aplikacyjŏ sprŏwiŏ krytyczne felery w telefōnie. Ôdinsztalowanie tyj aplikacyje je fest rekōmandowane.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">Aplikacyji: %d</item>
+        <item quantity="one">1 aplikacyjo</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Zawarto aplikacyje we tle</item>
+        <item quantity="one">Zawarto aplikacyjo we tle</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d aplikacyji z fest użyciym baterji. Wkludź ône w tryb uspanio, coby uszporować ynergjo. Poradzōm ône niy przijmować uaktualniynio ani niy posyłać nowin do czasu drugigo ôdewrzynio.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikacyjo z fest użyciym baterji. Wkludź ôna w tryb uspanio, coby uszporować ynergjo. Poradzi ôna niy przijmować uaktualniynio ani niy posyłać nowin do czasu drugigo ôdewrzynio.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplikacyje z fest użyciym baterji. Wkludź ône w tryb uspanio, coby uszporować ynergjo. Poradzōm ône niy przijmować uaktualniynio ani niy posyłać nowin do czasu drugigo ôdewrzynio.</item>
+        <item quantity="many">%d aplikacyji z fest użyciym baterji. Wkludź ône w tryb uspanio, coby uszporować ynergjo. Poradzōm ône niy przijmować uaktualniynio ani niy posyłać nowin do czasu drugigo ôdewrzynio.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Wysznupano %d felernych aplikacyji. Wkludź ône w tryb uspanio, coby mobilniŏk gibcij fōngowoł. Poradzōm ône niy przijmować uaktualniynio ani niy posyłać nowin do czasu drugigo ôdewrzynio.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wysznupano %d felerno aplikacyjo. Wkludź ôna w tryb uspanio, coby mobilniŏk gibcij fōngowoł. Poradzi ôna niy przijmować uaktualniynio ani niy posyłać nowin do czasu drugigo ôdewrzynio.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wysznupano %d felerne aplikacyje. Wkludź ône w tryb uspanio, coby mobilniŏk gibcij fōngowoł. Poradzōm ône niy przijmować uaktualniynio ani niy posyłać nowin do czasu drugigo ôdewrzynio.</item>
+        <item quantity="many">Wysznupano %d felernych aplikacyji. Wkludź ône w tryb uspanio, coby mobilniŏk gibcij fōngowoł. Poradzōm ône niy przijmować uaktualniynio ani niy posyłać nowin do czasu drugigo ôdewrzynio.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Wysznupano %d felernych aplikacyji. Wkludź ône w tryb uspanio, coby dać gibcij fōngowanie tabletu. Poradzōm ône niy przijmować uaktualniynio ani niy posyłać nowin do czasu drugigo ôdewrzynio.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wysznupano %d felerno aplikacyjo. Wkludź ôna w tryb uspanio, coby dać gibcij fōngowanie tabletu. Poradzi ôna niy przijmować uaktualniynio ani niy posyłać nowin do czasu drugigo ôdewrzynio.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wysznupano %d felerne aplikacyje. Wkludź ône w tryb uspanio, coby dać gibcij fōngowanie tabletu. Poradzōm ône niy przijmować uaktualniynio ani niy posyłać nowin do czasu drugigo ôdewrzynio.</item>
+        <item quantity="many">Wysznupano %d felernych aplikacyji. Wkludź ône w tryb uspanio, coby dać gibcij fōngowanie tabletu. Poradzōm ône niy przijmować uaktualniynio ani niy posyłać nowin do czasu drugigo ôdewrzynio.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Wysznupano %d sorōńskich aplikacyji. Ôdinsztaluj ône, coby zachować bezpieczyństwo mobilniŏka.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wysznupano %d sorōńsko aplikacyjo. Ôdinsztaluj ôna, coby zachować bezpieczyństwo mobilniŏka.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wysznupano %d sorōńske aplikacyje. Ôdinsztaluj ône, coby zachować bezpieczyństwo mobilniŏka.</item>
+        <item quantity="many">Wysznupano %d sorōńskich aplikacyji. Ôdinsztaluj ône, coby zachować bezpieczyństwo mobilniŏka.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Wysznupano %d sorōńskich aplikacyji. Ôdinsztaluj ône, coby zachować bezpieczyństwo tabletu.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wysznupano %d sorōńsko aplikacyjo. Ôdinsztaluj ôna, coby mieć bezpieczyństwo tabletu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wysznupano %d sorōńske aplikacyje. Ôdinsztaluj ône, coby zachować bezpieczyństwo tabletu.</item>
+        <item quantity="many">Wysznupano %d sorōńskich aplikacyji. Ôdinsztaluj ône, coby zachować bezpieczyństwo tabletu.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Wysznupano podpadajōnco aktywnoś. Ôdinsztaluj te aplikacyje, coby chrōnić mobilniŏk i dane.</item>
+        <item quantity="one">Znŏdło podyjzdrzane dziŏłanie. Ôdinsztaluj niżyj pokŏzane aplikacyje, coby chrōnić telefōn i dane.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Wysznupano podpadajōnco aktywnoś. Ôdinsztaluj te aplikacyje, coby chrōnić tablet i dane.</item>
+        <item quantity="one">Znŏdło podyjzdrzane dziŏłanie. Ôdinsztaluj niżyj pokŏzane aplikacyje, coby chrōnić tablet i dane.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Wysznupano podpadajōnco aktywnoś. Ôdinsztaluj te aplikacyje, coby chrōnić mobilniŏk i dane.</item>
+        <item quantity="one">Znŏdło podyjzdrzane dziŏłanie. Ôdinsztaluj niżyj pokŏzane aplikacyje, coby chrōnić telefōn i dane.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Wysznupano podpadajōnco aktywnoś. Ôdinsztaluj te aplikacyje, coby chrōnić tablet i dane.</item>
+        <item quantity="one">Znŏdło podyjzdrzane dziŏłanie. Ôdinsztaluj niżyj pokŏzane aplikacyje, coby chrōnić tablet i dane.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Rozpoznano zagrożyń: %d</item>
+        <item quantity="one">Rozpoznano 1 zagrożynie</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">zagrożyń: %d</item>
+        <item quantity="one">1 zagrożynie</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Niżyj pokŏzane aplikacyje sprŏwiōm krytyczne felery w telefōnie. Ôdinsztalowanie tych aplikacyjōw je fest rekōmandowane. Po ôdinsztalowaniu możesz zainsztalować nowe wersyje kōnkretnych aplikacyjōw ze sklepu ze aplikacyjami.</item>
+        <item quantity="one">Niżyj pokŏzanŏ aplikacyjŏ sprŏwi krytyczne felery w telefōnie. Ôdinsztalowanie tyj aplikacyje je fest rekōmandowane. Po ôdinsztalowaniu możesz zainsztalować nowŏ wersyjŏ ze sklepu ze aplikacyjami.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/SMWinset.AppToolBarStyle" />
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:id="@id/corner_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <android.support.v4.widget.NestedScrollView android:id="@id/battery_scroll_container" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+            <com.samsung.android.sm.view.RoundedCornerRelativeLayout android:orientation="vertical" android:id="@id/battery_main_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/battery_info_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" />
+                <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/battery_issue_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/battery_info_container" />
+                <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/power_planning_mode_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/battery_issue_container" />
+                <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/battery_mode_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/power_planning_mode_container" />
+                <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/battery_applist_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/battery_mode_container" />
+            </com.samsung.android.sm.view.RoundedCornerRelativeLayout>
+        </android.support.v4.widget.NestedScrollView>
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

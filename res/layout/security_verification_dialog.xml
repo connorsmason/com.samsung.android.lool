@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView style="@style/SMWinset.DialogBodyStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:gravity="center_vertical" android:id="@id/relativelayout_security_about" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/iv_app_icon" style="@style/SMWinset.DialogListItemImageViewStyle" />
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toEndOf="@id/iv_app_icon">
+                <TextView android:id="@id/tv_app_name" android:paddingStart="@dimen/zero_dp_width" style="@style/SMWinset.Dialog2LineListItemPrimaryTextViewStyle" />
+                <TextView android:id="@id/tv_app_version" android:paddingBottom="@dimen/zero_dp_width" android:paddingStart="@dimen/zero_dp_width" style="@style/SMWinset.Dialog2LineListItemSecondaryTextViewStyle" />
+                <TextView android:id="@id/tv_app_detected" android:paddingStart="@dimen/zero_dp_width" style="@style/SMWinset.Dialog2LineListItemSecondaryTextViewStyle" />
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+        </RelativeLayout>
+        <TextView android:id="@id/tv_description" android:layout_marginTop="@dimen/security_dialog_description_margin_top" android:layout_marginBottom="@dimen/zero_dp_width" style="@style/SMWinset.DialogDescriptionTextViewStyle" />
+        <TextView android:textColor="@color/dc_winset_sep10_description_textview_web_link_text_color" android:id="@id/tv_more_information" android:background="?android:selectableItemBackground" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_marginTop="@dimen/security_dialog_information_text_margin_top" android:layout_marginBottom="@dimen/security_dialog_description_margin_bottom" android:text="@string/security_link_learn_info" style="@style/SMWinset.DialogDescriptionTextViewStyle" />
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</ScrollView>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" app:background="?winsetAboutPageAppBarColor" style="@style/SMWinset.AppToolBarStyle" />
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="?winsetAboutPageBgColor" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5">
+            <View android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <include android:id="@id/about_app_info" android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/about_app_info_layout" />
+            </ScrollView>
+            <View android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        </LinearLayout>
+        <android.support.percent.PercentRelativeLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5">
+            <Button android:id="@id/about_open_source_license" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/open_source_licenses" android:layout_centerInParent="true" app:layout_widthPercent="@fraction/dc_winset_sep10_update_button_max_width_ratio" style="@style/SMWinset.AboutPageOpenSourceButtonStyle" />
+        </android.support.percent.PercentRelativeLayout>
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

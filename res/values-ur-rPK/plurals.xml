@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d مسائل کا پتہ چل گيا</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مسئلہ کا پتہ چل گيا</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">آلہ کیئر کو %d ایپلیکیشنز کا پتہ چل گیا ہے جن کی وجہ سے مسائل پیدا ہوسکتے ہیں اور ان میں مالویئر، ایپلیکیشن کرشیز، یا زیادہ بیٹری کا استعمال شامل ہے۔</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">آلہ کیئر کو %d ایپلیکیشن کا پتہ چل گیا ہے جس کی وجہ مسائل پیدا ہوسکتے ہیں اور ان میں مالویئر، ایپلیکیشن کرشیز، یا زیادہ بیٹری کا استعمال شامل ہے۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d دن</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d دن</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">اسکرین غیر فعالیت کے %d سیکنڈز بعد آف ہوجائے گی۔</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">اسکرین غیر فعالیت کے %d سیکنڈ بعد آف ہوجائے گی۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d ایپلیکیشنز سلیپ میں ڈال دیا گیا ہے۔</item>
+        <item quantity="one">1 ایپلیکیشن سلیپ میں ڈال دیا گیا ہے۔</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d ایپلیکیشنز سلیپ میں ڈال رہا ہے…</item>
+        <item quantity="one">1 ایپلیکیشن سلیپ میں ڈال رہا ہے…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d خطرات کا پتہ چل گيا۔ %2$s میں اسے حل کرنے کے لیے یہاں تھپکی دیں۔</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d خطرے کا پتہ چل گیا۔ %2$s میں اسے حل کرنے کے لیے یہاں تھپکی دیں۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d ایپلیکیشنز کی وجہ سے آپ کے فون پر مسائل پیدا ہورہے ہیں۔ ان ایپلیکیشنز کو نا تنصیب کرنے پر بھرپور سفارش کی جاتی ہے۔</item>
+        <item quantity="one">1 ایپلیکیشن کی وجہ سے آپ کے فون میں مسائل پیدا ہورہے ہیں۔ اس ایپلیکیشن کو نا تنصیب کرنے پر پرزور سفارش کی جاتی ہے۔</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d ایپلیکیشنز</item>
+        <item quantity="one">1 ایپلیکیشن</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">پس منظر ایپلیکیشنز بند کیا گيا</item>
+        <item quantity="one">پس منظر ایپلیکیشن بند کیا گیا</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">زیادہ بیٹری کا استعمال والی %d ایپلیکیشنز۔ پاور محفوظ کرنے کے لیے انہیں سلیپ میں ڈال دیں۔ جب تک آپ انہیں دوبارہ کھول نہ لیں تب تک یہ اپ ڈیٹس وصول نہیں کرسکتیں یا نوٹیفکیشنز نہیں بھیج سکتیں۔</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">زیادہ بیٹری کا استعمال والی %d ایپلیکیشن۔ پاور محفوظ کرنے کے لیے اسے سلیپ میں ڈال دیں۔ جب تک آپ اسے دوبارہ کھول نہ لیں تب تک یہ اپ ڈیٹس وصول نہیں کرسکتی یا نوٹیفکیشنز نہیں بھیج سکتی۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d کرش کردہ ایپلیکیشنز مل گیا ہے۔ اپنے فون کی رفتار بڑھانے کے لیے اسے سلیپ میں ڈال دیں۔ جب تک آپ انہیں دوبارہ کھول نہ لیں تب تک یہ اپ ڈیٹس وصول نہیں کرسکتیں یا نوٹیفکیشنز نہیں بھیج سکتیں۔</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d کرش کردہ ایپلیکیشن مل گیا ہے۔ اپنے فون کی رفتار بڑھانے کے لیے اسے سلیپ میں ڈال دیں۔ جب تک آپ اسے دوبارہ کھول نہ لیں تب تک یہ اپ ڈیٹس وصول نہیں کرسکتی یا نوٹیفکیشنز نہیں بھیج سکتی۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d کریش شدہ ایپلیکیشنز ملے ہیں۔ اپنے ٹیبلیٹ کی رفتار بڑھانے کے لیے انہیں سلیپ میں ڈالیں۔ جب تک آپ انہیں دوبارہ نہیں کھولتے تب تک ان سے اپ ڈیٹس وصول نہیں کرسکتے یا نوٹیفکیشنز نہیں بھیج سکتے۔</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d کریش شدہ ایپلیکیشن ملا ہے۔ اپنے ٹیبلیٹ کی رفتار بڑھانے کے لیے اسے سلیپ میں ڈالیں۔ جب تک آپ اسے دوبارہ نہیں کھولتے تب تک اس سے اپ ڈیٹس وصول نہیں کرسکتے یا نوٹیفکیشنز نہیں بھیج سکتے۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d مالویئر ایپلیکیشنز کا پتہ چل گيا ہے۔ انہیں اپنے فون میں محفوظ رکھنے کے لیے نا تنصیب کریں۔</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مالویئر ایپلیکیشن کا پتہ چل گيا ہے۔ اسے اپنے فون میں محفوظ رکھنے کے لیے نا تنصیب کریں۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d مالویئر ایپلیکیشنز کا پتہ چل گيا ہے۔ اپنے ٹیبلیٹ کو محفوظ رکھنے کے لیے نا تنصیب کریں۔</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مالویئر ایپلیکیشن کا پتہ چلا ہے۔ اپنا ٹیبلیٹ محفوظ رکھنے کے لیے اسے نا تنصیب کریں۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">مشتبہ سرگرمی کا پتہ چل گیا۔ اپنا فون اور ڈیٹا کی حفاظت کے لیے ان ایپلیکیشنز کو نا تنصیب کریں۔</item>
+        <item quantity="one">مشتبہ سرگرمی پائی گئی ہے۔ اپنا فون اور ڈیٹا کی حفاظت کے لیے مندرجہ ذیل ایپلیکیشنز نا تنصیب کریں۔</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">مشکوک سرگرمی کا پتہ چل گیا۔ اپنا ٹیبلیٹ اور ڈیٹا کی حفاظت کے لیے یہ ایپلیکیشنز نا تنصیب کریں۔</item>
+        <item quantity="one">مشتبہ سرگرمی پائی گئی ہے۔ اپنا ٹیبلیٹ اور ڈیٹا کی حفاظت کے لیے مندرجہ ذیل ایپلیکیشنز نا تنصیب کریں۔</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">مشتبہ سرگرمی کا پتہ چل گیا۔ اپنا فون اور ڈیٹا کی حفاظت کے لیے ان ایپلیکیشنز کو نا تنصیب کریں۔</item>
+        <item quantity="one">مشتبہ سرگرمی پائی گئی ہے۔ اپنا فون اور ڈیٹا کی حفاظت کے لیے مندرجہ ذیل ایپلیکیشنز نا تنصیب کریں۔</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">مشکوک سرگرمی کا پتہ چل گیا۔ اپنا ٹیبلیٹ اور ڈیٹا کی حفاظت کے لیے یہ ایپلیکیشنز نا تنصیب کریں۔</item>
+        <item quantity="one">مشتبہ سرگرمی پائی گئی ہے۔ اپنا ٹیبلیٹ اور ڈیٹا کی حفاظت کے لیے مندرجہ ذیل ایپلیکیشنز نا تنصیب کریں۔</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d خطرات کا پتہ چلا</item>
+        <item quantity="one">1 خطرے کا پتہ لگا</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d دھمکیاں</item>
+        <item quantity="one">1 دھمکی</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">مندرجہ ذیل ایپلیکیشنز کی وجہ سے آپ کے فون پر مسائل پیدا ہورہے ہیں۔ ان ایپلیکیشنز کو نا تنصیب کرنے پر بھرپور سفارش کی جاتی ہے۔ نا تنصیب کرنے کے بعد، آپ کسی ایپلیکیشن اسٹور سے ہر ایپلیکیشن کے لیے ایک نیا ورژن تنصیب کرسکتے ہیں۔</item>
+        <item quantity="one">مندرجہ ذیل ایپلیکیشنز کی وجہ سے آپ کے فون پر مسائل پیدا ہورہے ہیں۔ اس ایپلیکیشن کو نا تنصیب کرنے پر بھرپور سفارش کی جاتی ہے۔ نا تنصیب کرنے کے بعد، آپ کسی ایپلیکیشن اسٹور سے ایک نیا ورژن تنصیب کرسکتے ہیں۔</item>
+    </plurals>
+</resources>

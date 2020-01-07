@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:tag="layout/activity_power_mode_settings_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/SMWinset.AppToolBarStyle" />
+    <TextView android:id="@id/mode_description" android:background="?winsetLightThemeBgColor" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="?winsetDescriptionTextPaddingStart" android:paddingEnd="?winsetDescriptionTextPaddingEnd" style="@style/SMWinset.DescriptionTextStyle" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/power_mode_settings_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.samsung.android.sm.battery.ui.mode.BatteryModeListView android:orientation="vertical" android:id="@id/list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@null" android:choiceMode="singleChoice" android:splitMotionEvents="false" android:windowEnableSplitTouch="false" />
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+            <TextView android:background="?winsetLightThemeBgColor" android:layout_width="fill_parent" android:layout_height="?winsetListSubHeaderNoTextMinHeight" style="?android:listSeparatorTextViewStyle" />
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.samsung.android.sm.view.RoundedCornerRelativeLayout android:id="@id/adaptive_power_saving_container" android:background="?android:selectableItemBackground" android:focusable="true" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle.2Line">
+                    <Switch android:id="@id/adaptive_power_saving_switch" android:background="@android:color/transparent" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/dc_winset_sep10_switch_margin_start" android:layout_alignParentEnd="true" />
+                    <LinearLayout android:orientation="vertical" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:paddingStart="@dimen/zero_dp_width" android:paddingEnd="@dimen/zero_dp_width" android:layout_toStartOf="@id/adaptive_power_saving_switch" style="@style/SMWinset.ListItemTextViewStyle.2Line.TextContainer">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/battery_mode_adaptive_power_saving_title" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+                        <TextView android:id="@id/adaptive_power_saving_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/battery_mode_adaptive_power_saving_description" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+                    </LinearLayout>
+                </com.samsung.android.sm.view.RoundedCornerRelativeLayout>
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    </ScrollView>
+    <ImageView android:id="@id/bottom_container" android:background="?winsetLightThemeBgColor" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/power_share_dialog_search_layout_height"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ScrollView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/power_share_main_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.airbnb.lottie.LottieAnimationView android:id="@id/lottie_search" android:layout_width="fill_parent" android:layout_height="@dimen/power_share_dialog_img_height" app:lottie_autoPlay="true" app:lottie_fileName="power_share_help_lottie.json" app:lottie_loop="true" />
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/power_share_dialog_progress_container_height" android:layout_marginTop="@dimen/power_share_dialog_progress_container_margin_top" android:layout_marginBottom="@dimen/power_share_dialog_progress_container_margin_bottom">
+                <TextView android:textSize="@dimen/power_share_dialog_progress_text_size" android:paddingTop="0.0dip" android:paddingBottom="0.0dip" android:layout_width="wrap_content" android:text="@string/power_share_progress_text" style="@style/SMWinset.DialogBodyTextViewStyle" />
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+            <TextView android:textSize="@dimen/power_share_dialog_search_desc_size" android:id="@id/tv_search_desc" android:paddingTop="0.0dip" android:paddingBottom="0.0dip" android:layout_width="wrap_content" android:layout_marginBottom="@dimen/power_share_dialog_desc_margin_bottom" style="@style/SMWinset.DialogBodyTextViewStyle" />
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    </ScrollView>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

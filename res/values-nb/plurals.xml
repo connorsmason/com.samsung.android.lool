@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d problemer ble oppdaget</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d problem ble oppdaget</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Enhetsvedlikehold har oppdaget %d apper som kan forårsake problemer, inkludert ondsinnet programvare, appkrasj eller høy batteribruk.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Enhetsvedlikehold har oppdaget %d app som kan forårsake problemer, inkludert ondsinnet programvare, appkrasj eller høy batteribruk.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dager</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d dag</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Skjermen slås av etter %d sekunder med inaktivitet.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Skjermen slås av etter %d sekund med inaktivitet.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d apper er satt i dvalemodus.</item>
+        <item quantity="one">1 app er satt i dvalemodus.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Setter %d apper i dvalemodus …</item>
+        <item quantity="one">Setter 1 app i dvalemodus …</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d trusler er oppdaget. Trykk her for å løse dem i %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d trussel oppdaget. Trykk her for å løse den i %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d apper fører til kritiske feil på telefonen. Det anbefales at du avinstallerer disse appene.</item>
+        <item quantity="one">1 app fører til kritiske feil på telefonen. Det anbefales at du avinstallerer denne appen.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d apper</item>
+        <item quantity="one">1 app</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Bakgrunnsapper er lukket</item>
+        <item quantity="one">Bakgrunnsapp er lukket</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d apper med høyt batteribruk. Sett dem i dvalemodus for å spare strøm. Det kan hende at de ikke kan motta oppdateringer eller sende varsler før du åpner dem igjen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d app med høyt batteribruk. Sett den i dvalemodus for å spare strøm. Det kan hende at den ikke kan motta oppdateringer eller sende varsler før du åpner den igjen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Fant %d krasjede apper. Sett dem i dvalemodus for gjøre telefonen raskere. Det kan hende at de ikke kan motta oppdateringer eller sende varsler før du åpner dem igjen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Fant %d krasjet app. Sett den i dvalemodus for gjøre telefonen raskere. Det kan hende at den ikke kan motta oppdateringer eller sende varsler før du åpner den igjen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Fant %d krasjede apper. Sett dem i dvalemodus for å gjøre nettbrettet raskere. Det kan hende at de ikke kan motta oppdateringer eller sende varsler før du åpner dem igjen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Fant %d krasjet app. Sett den i dvalemodus for å gjøre nettbrettet raskere. Det kan hende at den ikke kan motta oppdateringer eller sende varsler før du åpner den igjen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d ondsinnede apper er oppdaget. Avinstaller dem for å holde telefonen trygg.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ondsinnet app er oppdaget. Avinstaller den for å holde telefonen trygg.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d ondsinnede apper er oppdaget. Avinstaller dem for å holde nettbrettet trygt.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ondsinnet app er oppdaget. Avinstaller den for å holde nettbrettet trygt.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Det er oppdaget mistenkelig aktivitet. Avinstaller disse appene for å beskytte telefonen og dataene.</item>
+        <item quantity="one">Det er oppdaget mistenkelig aktivitet. Avinstaller appene nedenfor for å beskytte telefonen og dataene.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Det er oppdaget mistenkelig aktivitet. Avinstaller disse appene for å beskytte nettbrettet og dataene.</item>
+        <item quantity="one">Det er oppdaget mistenkelig aktivitet. Avinstaller appene nedenfor for å beskytte nettbrettet og dataene.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Det er oppdaget mistenkelig aktivitet. Avinstaller disse appene for å beskytte telefonen og dataene.</item>
+        <item quantity="one">Det er oppdaget mistenkelig aktivitet. Avinstaller appene nedenfor for å beskytte telefonen og dataene.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Det er oppdaget mistenkelig aktivitet. Avinstaller disse appene for å beskytte nettbrettet og dataene.</item>
+        <item quantity="one">Det er oppdaget mistenkelig aktivitet. Avinstaller appene nedenfor for å beskytte nettbrettet og dataene.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d trusler er oppdaget</item>
+        <item quantity="one">1 trussel er oppdaget</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d trusler</item>
+        <item quantity="one">1 trussel</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Appene nedenfor fører til kritiske feil på telefonen. Det anbefales at du avinstallerer disse appene. Når du har avinstallert, kan du installere en ny versjon av hver app fra en appbutikk.</item>
+        <item quantity="one">Appen nedenfor fører til kritiske feil på telefonen. Det anbefales at du avinstallerer denne appen. Når du har avinstallert, kan du installere en ny versjon fra en appbutikk.</item>
+    </plurals>
+</resources>

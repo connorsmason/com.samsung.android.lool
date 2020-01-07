@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:tag="layout/fragment_battery_app_list_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:id="@id/layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <android.support.v7.widget.AppCompatSpinner android:id="@id/period_spinner" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:paddingStart="@dimen/zero_dp_width" android:layout_marginEnd="@dimen/activity_horizontal_margin" android:layout_alignParentEnd="true" />
+        <TextView android:ellipsize="end" android:id="@id/sub_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/battery_fragment_battery_app_list_sub_header_max_width" android:text="@string/battery_usage_by_apps" android:maxLines="2" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/zero_dp_width" android:layout_alignParentStart="true" style="@style/SMWinset.ListSubHeader" />
+        <com.samsung.android.sm.view.SubHeaderDotLineView android:gravity="center" android:layout_width="fill_parent" android:layout_height="@dimen/battery_fragment_battery_app_list_dot_height_no_text" android:layout_centerVertical="true" android:layout_marginStart="@dimen/battery_fragment_battery_app_list_dot_margin_start" android:layout_toStartOf="@id/period_spinner" android:layout_toEndOf="@id/sub_header" />
+    </RelativeLayout>
+    <FrameLayout android:id="@id/usage_background_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="?listPreferredItemHeight">
+        <android.support.v7.widget.RecyclerView android:id="@id/list" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" android:nestedScrollingEnabled="false" />
+        <TextView android:textSize="@dimen/battery_no_apps_text_size" android:ellipsize="end" android:gravity="center" android:layout_gravity="center" android:id="@id/no_apps" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/no_app_usage" android:maxLines="1" android:layout_marginHorizontal="@dimen/activity_horizontal_margin" />
+    </FrameLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView style="@style/SMWinset.DialogBodyStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:text="@string/policy_in_china_on_dialog_content_1" style="@style/SMWinset.DialogDescriptionTextViewStyle" />
+    </LinearLayout>
+</ScrollView>

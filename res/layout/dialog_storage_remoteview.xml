@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:paddingTop="@dimen/headup_battery_storage_top_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/dialog_margin" android:paddingEnd="@dimen/dialog_margin" android:elevation="@dimen/dialog_elevation">
+        <TextView android:id="@id/content_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/storage_full_notification_text" style="@style/SMWinset.DialogTitleTextViewStyle" />
+        <RelativeLayout android:orientation="vertical" android:id="@id/body" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/headup_app_icon_margin" android:layout_below="@id/content_text">
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="horizontal" android:id="@id/cache_data" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textColor="@color/dc_winset_sep10_list_item_text_color" android:layout_gravity="center_vertical" android:id="@id/cache_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bullet_icon" android:layout_marginEnd="@dimen/headup_app_icon_margin" />
+                <TextView android:id="@id/tv_cache_data" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/headup_storage_summary_height" android:maxLines="2" style="@style/DialogSecondaryTextStyle" />
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="horizontal" android:id="@id/system_and_used" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textColor="@color/dc_winset_sep10_list_item_text_color" android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bullet_icon" android:layout_marginEnd="@dimen/headup_app_icon_margin" />
+                <TextView android:id="@id/tv_user_data" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/headup_storage_summary_height" android:maxLines="2" style="@style/DialogSecondaryTextStyle" />
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dialog_margin" android:layout_below="@id/body">
+            <Button android:textAppearance="@style/HeadUpButtonTextStyle" android:ellipsize="end" android:id="@id/btn_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/dialog_stacked_button_size" android:maxLines="1" android:paddingStart="@dimen/clean_txt_bottom_margin" android:paddingEnd="@dimen/clean_txt_bottom_margin" android:layout_alignParentEnd="true" style="?android:buttonBarButtonStyle" />
+            <Button android:textAppearance="@style/HeadUpButtonTextStyle" android:ellipsize="end" android:id="@id/btn_left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/clean_txt_margin_top" android:minHeight="@dimen/dialog_stacked_button_size" android:text="@string/app_name" android:maxLines="1" android:layout_below="@id/btn_right" android:paddingStart="@dimen/clean_txt_bottom_margin" android:paddingEnd="@dimen/clean_txt_bottom_margin" android:layout_alignParentEnd="true" style="?android:buttonBarButtonStyle" />
+        </RelativeLayout>
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/power_share_dialog_expandable_group_margin_bottom" android:paddingStart="@dimen/dc_winset_sep10_dialog_list_item_padding_start" android:paddingEnd="@dimen/dc_winset_sep10_dialog_list_item_padding_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/power_share_dialog_expandable_group_text_size" android:layout_gravity="center_vertical" android:id="@id/tv_content" android:paddingTop="0.0dip" android:paddingBottom="0.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/power_share_list_group" style="@style/SMWinset.DialogBodyTextViewStyle" />
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/img_button" android:layout_width="@dimen/power_share_dialog_expandable_group_img_size" android:layout_height="@dimen/power_share_dialog_expandable_group_img_size" android:src="@drawable/st_expand" android:tint="@color/dc_winset_sep10_dialog_body_text_color" android:layout_marginStart="@dimen/power_share_dialog_expandable_group_img_margin_start" />
+</LinearLayout>

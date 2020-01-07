@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet android:duration="500" android:transitionOrdering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <targets>
+        <target android:targetId="@id/id_inner_circle" />
+        <target android:targetId="@id/score_text" />
+        <target android:targetId="@id/score_dash_100" />
+    </targets>
+    <changeBounds android:interpolator="@anim/sine_in_out_80_interpolator" />
+    <changeTransform android:interpolator="@anim/sine_in_out_80_interpolator" android:reparentWithOverlay="true" />
+</transitionSet>

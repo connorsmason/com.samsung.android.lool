@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/sm_widget_complex_layout" android:background="@drawable/widget_rect_shape_dark" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/widget2_storage_layout" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginStart="@dimen/widget_body_margin_start">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:id="@id/widget2_storage_icon" android:layout_width="@dimen/widget_icon_width" android:layout_height="@dimen/widget_icon_height" android:src="@drawable/widget_sm_ic_storage" android:layout_marginStart="@dimen/widget_icon_margin_start" android:layout_marginEnd="@dimen/widget_icon_margin_end" />
+            <TextView android:id="@id/widget2_storage_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/title_storage" android:maxLines="2" style="@style/widget_title_text_type" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/widget_used_text_margin_top">
+            <TextView android:id="@id/widget2_storage_used" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/widget_used_string" style="@style/widget_body_text_type" />
+            <TextView android:id="@id/widget2_storage_total" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/widget_used_string" style="@style/widget_body_text_type" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/widget2_ram_layout" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:layout_marginStart="@dimen/widget_body_margin_start">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:id="@id/widget2_ram_icon" android:layout_width="@dimen/widget_icon_width" android:layout_height="@dimen/widget_icon_height" android:src="@drawable/widget_sm_ic_ram" android:layout_marginStart="@dimen/widget_icon_margin_start" android:layout_marginEnd="@dimen/widget_icon_margin_end" />
+            <TextView android:id="@id/widget2_ram_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/title_ram" android:maxLines="2" style="@style/widget_title_text_type" />
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/widget_used_text_margin_top">
+            <TextView android:id="@id/widget2_ram_used" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/widget_used_string" style="@style/widget_body_text_type" />
+            <TextView android:id="@id/widget2_ram_total" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/widget_used_string" style="@style/widget_body_text_type" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:background="@color/widget_divider_color" android:layout_width="@dimen/widget_divider_width" android:layout_height="fill_parent" android:layout_marginVertical="@dimen/widget_divider_margin" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/widget2_one_click_clean_all_layout" android:layout_width="@dimen/widget_optimize_layout_width" android:layout_height="fill_parent">
+        <ViewFlipper android:id="@id/widget2_view_flipper_done" android:paddingBottom="@dimen/widget_image_bottom_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:loopViews="true">
+            <ViewFlipper android:id="@id/widget2_view_flipper_progress" android:layout_width="@dimen/widget_inner_image_dimension" android:layout_height="@dimen/widget_inner_image_dimension" android:loopViews="true">
+                <ImageView android:id="@id/widget2_one_click_image" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/widget_sm_ic_maintenance" android:layout_alignParentBottom="true" android:contentDescription="@string/widget_optimize" />
+                <ProgressBar android:layout_gravity="center" android:id="@id/widget2_one_click_clean_all_progress" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:indeterminateDrawable="@drawable/widget_progress_drawable" android:interpolator="@anim/widget_scanning_interpolator" />
+            </ViewFlipper>
+            <ImageView android:id="@id/widget2_done_image" android:layout_width="@dimen/widget_inner_image_dimension" android:layout_height="@dimen/widget_inner_image_dimension" android:src="@drawable/widget_ic_done" android:layout_alignParentBottom="true" />
+        </ViewFlipper>
+        <TextView android:id="@id/widget2_optimize_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/widget_optimize" android:textAlignment="center" style="@style/widget_optimize_text_type" />
+    </LinearLayout>
+</LinearLayout>

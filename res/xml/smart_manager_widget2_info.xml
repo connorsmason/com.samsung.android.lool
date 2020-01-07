@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider android:minWidth="@dimen/widget2_layout_min_width" android:minHeight="@dimen/widget_layout_min_height" android:updatePeriodMillis="0" android:initialLayout="@layout/smart_manager_widget_initializing" android:previewImage="@drawable/smart_manager_preview2" android:resizeMode="@integer/widget_resize_mode" android:initialKeyguardLayout="@layout/smart_manager_widget_complex" android:widgetCategory="home_screen"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

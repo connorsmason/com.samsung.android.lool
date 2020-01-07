@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d problem har hittats</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d problem har hittats</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Enhetsunderhållet har upptäckt %d appar som kan orsaka problem, som skadliga program, appkrascher och hög batterianvändning.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Enhetsunderhållet har upptäckt %d app som kan orsaka problem, som skadliga program, appkrascher och hög batterianvändning.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dagar</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d dag</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Skärmen stängs av när den har varit inaktiv i %d sekunder.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Skärmen stängs av när den har varit inaktiv i %d sekund.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d appar har försatts i viloläge.</item>
+        <item quantity="one">En app har försatts i viloläge.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Försätter %d appar i viloläge …</item>
+        <item quantity="one">Försätter en app i viloläge …</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d hot har upptäckts. Tryck här om du vill åtgärda detta i %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d hot har upptäckts. Tryck här om du vill åtgärda detta i %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d appar orsakar allvarliga fel på telefonen. Vi rekommenderar att du avinstallerar apparna.</item>
+        <item quantity="one">En app orsakar allvarliga fel på telefonen. Vi rekommenderar att du avinstallerar appen.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d appar</item>
+        <item quantity="one">En app</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Bakgrundsappar har stängts</item>
+        <item quantity="one">Bakgrundsapp har stängts</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d appar med hög batterianvändning. Spara på batteriet genom att försätta apparna i viloläge. Apparna får inte uppdateringar och skickar inte aviseringar förrän du öppnar dem igen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d app med hög batterianvändning. Spara på batteriet genom att försätta appen i viloläge. Appen får inte uppdateringar och skickar inte aviseringar förrän du öppnar den igen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d kraschade appar har hittats. Gör telefonen snabbare genom att försätta apparna i viloläge. Apparna får inte uppdateringar och skickar inte aviseringar förrän du öppnar dem igen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d kraschad app har hittats. Gör telefonen snabbare genom att försätta appen i viloläge. Appen får inte uppdateringar och skickar inte aviseringar förrän du öppnar den igen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d kraschade appar har hittats. Gör surfplattan snabbare genom att försätta dem i viloläge. Apparna får inte uppdateringar och skickar inte aviseringar förrän du öppnar dem igen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d kraschad app har hittats. Gör surfplattan snabbare genom att försätta appen i viloläge. Appen får inte uppdateringar och skickar inte aviseringar förrän du öppnar den igen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d skadliga appar har identifierats. Avinstallera dem för att skydda telefonen.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d skadlig app har hittats. Avinstallera den för att skydda telefonen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d skadliga appar har identifierats. Avinstallera dem för att skydda surfplattan.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d skadlig app har hittats. Avinstallera den för att skydda surfplattan.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Misstänkt aktivitet har identifierats. Avinstallera dessa appar för att skydda telefonen och dina uppgifter.</item>
+        <item quantity="one">Misstänkt aktivitet har identifierats. Avinstallera apparna nedan för att skydda telefonen och dina uppgifter.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Misstänkt aktivitet har identifierats. Avinstallera dessa appar för att skydda surfplattan och dina uppgifter.</item>
+        <item quantity="one">Misstänkt aktivitet har identifierats. Avinstallera apparna nedan för att skydda surfplattan och dina uppgifter.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Misstänkt aktivitet har identifierats. Avinstallera dessa appar för att skydda telefonen och dina uppgifter.</item>
+        <item quantity="one">Misstänkt aktivitet har identifierats. Avinstallera apparna nedan för att skydda telefonen och dina uppgifter.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Misstänkt aktivitet har identifierats. Avinstallera dessa appar för att skydda surfplattan och dina uppgifter.</item>
+        <item quantity="one">Misstänkt aktivitet har identifierats. Avinstallera apparna nedan för att skydda surfplattan och dina uppgifter.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d hot hittades</item>
+        <item quantity="one">1 hot hittades</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d hot</item>
+        <item quantity="one">Ett hot</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Apparna nedan orsakar allvariga fel på telefonen. Vi rekommenderar att du avinstallerar apparna. När du har avinstallerat dem kan du installera nya versioner från en appbutik.</item>
+        <item quantity="one">Appen nedan orsakar allvariga fel på telefonen. Vi rekommenderar att du avinstallerar appen. När du har avinstallerat den kan du installera en ny version från en appbutik.</item>
+    </plurals>
+</resources>

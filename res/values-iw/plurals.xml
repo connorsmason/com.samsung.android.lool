@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">זוהו %d בעיות</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">זוהתה %d בעיה</item>
+        <item quantity="two">זוהו %d בעיות</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">זוהו %d בעיות</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">"התכונה 'תחזוקת המכשיר' זיהתה %d יישומים העלולים לגרום בעיות, כולל תוכנות מזיקות, קריסת יישומים או זלילת מתח מהסוללה."</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"התכונה 'תחזוקת המכשיר' זיהתה %d יישום העלול לגרום בעיות, כולל תוכנות מזיקות, קריסת יישומים או זלילת מתח מהסוללה."</item>
+        <item quantity="two">"התכונה 'תחזוקת המכשיר' זיהתה %d יישומים העלולים לגרום בעיות, כולל תוכנות מזיקות, קריסת יישומים או זלילת מתח מהסוללה."</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">"התכונה 'תחזוקת המכשיר' זיהתה %d יישומים העלולים לגרום בעיות, כולל תוכנות מזיקות, קריסת יישומים או זלילת מתח מהסוללה."</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d ימים</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d יום</item>
+        <item quantity="two">%d ימים</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d ימים</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">המסך יכבה לאחר %d שניות של חוסר פעילות.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">המסך יכבה לאחר %d שנייה של חוסר פעילות.</item>
+        <item quantity="two">"%d שנ'"</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">המסך יכבה לאחר %d שניות של חוסר פעילות.</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d יישומים הועברו למצב שינה.</item>
+        <item quantity="one">יישום אחד הועבר למצב שינה.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">מעביר %d יישומים למצב שינה…</item>
+        <item quantity="one">מעביר יישום אחד למצב שינה…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">זוהו %1$d איומים. הקש כאן כדי לטפל בהם באמצעות %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">זוהה %1$d איום. הקש כאן כדי לטפל בו באמצעות %2$s.</item>
+        <item quantity="two">זוהו %1$d איומים. הקש כאן כדי לטפל בהם באמצעות %2$s.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">זוהו %1$d איומים. הקש כאן כדי לטפל בהם באמצעות %2$s.</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d יישומים גורמים לשגיאות חמורות בטלפון שלך. מומלץ מאוד להסיר יישומים אלה.</item>
+        <item quantity="one">יישום אחד גורם לשגיאות חמורות בטלפון שלך. מומלץ מאוד להסיר יישום זה.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d יישומים</item>
+        <item quantity="one">יישום אחד</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">נסגרו יישומים שפעלו ברקע</item>
+        <item quantity="one">נסגר יישום שפעל ברקע</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d יישומים זוללים מתח מהסוללה. העבר אותם למצב שינה כדי לחסוך במתח. ייתכן שיישומים אלה לא יקבלו עדכונים ולא ישלחו התראות עד שתפתח אותם מחדש.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d יישום זולל מתח מהסוללה. העבר אותו למצב שינה כדי לחסוך במתח. ייתכן שאותו יישום לא יקבל עדכונים ולא ישלחו התראות עד שתפתח אותו מחדש.</item>
+        <item quantity="two">%d יישומים זוללים מתח מהסוללה. העבר אותם למצב שינה כדי לחסוך במתח. ייתכן שיישומים אלה לא יקבלו עדכונים ולא ישלחו התראות עד שתפתח אותם מחדש.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d יישומים זוללים מתח מהסוללה. העבר אותם למצב שינה כדי לחסוך במתח. ייתכן שיישומים אלה לא יקבלו עדכונים ולא ישלחו התראות עד שתפתח אותם מחדש.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">נמצאו %d יישומים שקרסו. העבר אותם למצב שינה כדי להאיץ את פעולת הטלפון. ייתכן שיישומים אלה לא יקבלו עדכונים ולא ישלחו התראות עד שתפתח אותם מחדש.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">זוהה %d יישום שקרס. העבר אותו למצב שינה כדי להאיץ את פעולת הטלפון. ייתכן שאותו יישום לא יקבל עדכונים ולא ישלחו התראות עד שתפתח אותו מחדש.</item>
+        <item quantity="two">נמצאו %d יישומים שקרסו. העבר אותם למצב שינה כדי להאיץ את פעולת הטלפון. ייתכן שיישומים אלה לא יקבלו עדכונים ולא ישלחו התראות עד שתפתח אותם מחדש.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">נמצאו %d יישומים שקרסו. העבר אותם למצב שינה כדי להאיץ את פעולת הטלפון. ייתכן שיישומים אלה לא יקבלו עדכונים ולא ישלחו התראות עד שתפתח אותם מחדש.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">זוהו %d יישומים שקרסו. העבר אותם למצב שינה כדי להאיץ את פעולת הטאבלט. ייתכן שאותם יישומים לא יקבלו עדכונים ולא ישלחו התראות עד שתפתח אותם מחדש.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">זוהה %d יישום שקרס. העבר אותו למצב שינה כדי להאיץ את פעולת הטאבלט. ייתכן שאותו יישום לא יקבל עדכונים ולא ישלח התראות עד שתפתח אותו מחדש.</item>
+        <item quantity="two">זוהו %d יישומים שקרסו. העבר אותם למצב שינה כדי להאיץ את פעולת הטאבלט. ייתכן שאותם יישומים לא יקבלו עדכונים ולא ישלחו התראות עד שתפתח אותם מחדש.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">זוהו %d יישומים שקרסו. העבר אותם למצב שינה כדי להאיץ את פעולת הטאבלט. ייתכן שאותם יישומים לא יקבלו עדכונים ולא ישלחו התראות עד שתפתח אותם מחדש.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">זוהו %d יישומים מזיקים. הסר אותם כדי לשמור על אבטחת הטלפון.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">זוהה %d יישום מזיק. הסר אותו כדי לשמור על אבטחת הטלפון.</item>
+        <item quantity="two">זוהו %d יישומים מזיקים. הסר אותם כדי לשמור על אבטחת הטלפון.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">זוהו %d יישומים מזיקים. הסר אותם כדי לשמור על אבטחת הטלפון.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">זוהו %d יישומים מזיקים. הסר אותם כדי לשמור על אבטחת הטאבלט.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">זוהה %d יישום מזיק. הסר אותו כדי לשמור על אבטחת הטאבלט.</item>
+        <item quantity="two">זוהו %d יישומים מזיקים. הסר אותם כדי לשמור על אבטחת הטאבלט.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">זוהו %d יישומים מזיקים. הסר אותם כדי לשמור על אבטחת הטאבלט.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">זוהתה פעילות חשודה. הסר את היישומים הללו כדי להגן על הטלפון ועל הנתונים שלך.</item>
+        <item quantity="one">זוהתה פעילות חשודה. הסר את היישומים שלהלן כדי להגן על הטלפון ועל הנתונים שלך.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">זוהתה פעילות חשודה. הסר את היישומים הללו כדי להגן על הטאבלט ועל הנתונים שלך.</item>
+        <item quantity="one">זוהתה פעילות חשודה. הסר את היישומים שלהלן כדי להגן על הטאבלט ועל הנתונים שלך.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">זוהתה פעילות חשודה. הסר את היישומים הללו כדי להגן על הטלפון ועל הנתונים שלך.</item>
+        <item quantity="one">זוהתה פעילות חשודה. הסר את היישומים שלהלן כדי להגן על הטלפון ועל הנתונים שלך.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">זוהתה פעילות חשודה. הסר את היישומים הללו כדי להגן על הטאבלט ועל הנתונים שלך.</item>
+        <item quantity="one">זוהתה פעילות חשודה. הסר את היישומים שלהלן כדי להגן על הטאבלט ועל הנתונים שלך.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d איומים זוהו</item>
+        <item quantity="one">זוהה איום אחד</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d איומים</item>
+        <item quantity="one">איום אחד</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">היישומים הבאים גורמים לשגיאות חמורות בטלפון שלך. מומלץ מאוד להסיר יישומים אלה. לאחר ההסרה, ייתכן שתוכל להתקין גרסה חדשה של כל יישום דרך אחת מחנויות היישומים.</item>
+        <item quantity="one">היישום הבא גורם לשגיאות חמורות בטלפון שלך. מומלץ מאוד להסיר יישום זה. לאחר ההסרה, ייתכן שתוכל להתקין גרסה חדשה דרך אחת מחנויות היישומים.</item>
+    </plurals>
+</resources>

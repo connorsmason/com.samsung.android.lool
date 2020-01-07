@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%dটি সমস্যা শনাক্ত হয়েছে</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dটি সমস্যা শনাক্ত হয়েছে</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">ডিভাইস কেয়ার %dটি অ্যাপ শনাক্ত করেছে যা ম্যালওয়্যার, অ্যাপ ক্র্যাশ বা ব্যাটারির উচ্চ ব্যবহার সহ সমস্যার কারণ হতে পারে।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ডিভাইস কেয়ার %dটি অ্যাপ শনাক্ত করেছে যা ম্যালওয়্যার, অ্যাপ ক্র্যাশ বা ব্যাটারির উচ্চ ব্যবহার সহ সমস্যার কারণ হতে পারে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d দিন</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d দিন</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">%d সেকেন্ডের নিষ্ক্রিয়তার পরে স্ক্রিন বন্ধ হবে।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d সেকেন্ডের নিষ্ক্রিয়তার পরে স্ক্রিন বন্ধ হবে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%dটি অ্যাপ নিদ্রাতে রাখা হয়েছে।</item>
+        <item quantity="one">1টি অ্যাপ নিদ্রাতে রাখা হয়েছে।</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%dটি অ্যাপকে নিদ্রাতে নিয়ে যাওয়া…</item>
+        <item quantity="one">1টি অ্যাপকে নিদ্রাতে নিয়ে যাওয়া…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$dটি হুমকি শনাক্ত হয়েছে। %2$s-এ সেগুলি সমাধান করতে এখানে ট্যাপ করুন।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$dটি হুমকি শনাক্ত হয়েছে। %2$s-এ এটির সমাধান করতে এখানে ট্যাপ করুন।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">আপনার ফোনে %dটি অ্যাপ গুরুতর ত্রুটি ঘটাচ্ছে। এই অ্যাপগুলি আনইনস্টল করা প্রবলভাবে সুপারিশকৃত।</item>
+        <item quantity="one">আপনার ফোনে 1টি অ্যাপ গুরুতর ত্রুটি ঘটাচ্ছে। এই অ্যাপটি আনইনস্টল করা প্রবলভাবে সুপারিশকৃত।</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%dটি অ্যাপ</item>
+        <item quantity="one">1টি অ্যাপ</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">ব্যাকগ্রাউন্ড অ্যাপগুলি বন্ধ হয়েছে</item>
+        <item quantity="one">ব্যাকগ্রাউন্ড অ্যাপ বন্ধ হয়েছে</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">ব্যাটারির উচ্চ ব্যবহার যুক্ত %dটি অ্যাপ। পাওয়ার সাশ্রয় করতে সেগুলি নিদ্রায় রাখুন। আপনি এগুলি না খোলা অবধি সেগুলি আপডেট নাও পেতে বা বিজ্ঞপ্তিগুলি নাও পাঠাতে পারে।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">উচ্চ ব্যাটারি ব্যবহার সহ %dটি অ্যাপ। পাওয়ার সাশ্রয় করতে এটিকে নিদ্রায় রাখুন। আপনি এটি আবার না খোলা অবধি কোনও আপডেট নাও পেতে পারে বা বিজ্ঞপ্তি নাও পাঠাতে পারে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%dটি ক্র্যাশ হওয়া অ্যাপ খুঁজে পাওয়া গেছে। আপনার ফোনের গতি বাড়াতে সেগুলি নিদ্রায় রাখুন। আপনি এগুলি না খোলা অবধি সেগুলি আপডেট নাও পেতে বা বিজ্ঞপ্তিগুলি নাও পাঠাতে পারে।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dটি ক্র্যাশ হওয়া অ্যাপ খুঁজে পাওয়া গেছে। আপনার ফোনের গতি বাড়াতে এটিকে নিদ্রায় রাখুন। আপনি এটি আবার না খোলা অবধি কোনও আপডেট নাও পেতে পারে বা বিজ্ঞপ্তি নাও পাঠাতে পারে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%dটি ক্র্যাশ হওয়া অ্যাপ খুঁজে পাওয়া গেছে। আপনার ট্যাবলেটের গতি বাড়াতে সেগুলি নিদ্রায় রাখুন। আপনি সেগুলি আবার না খোলা অবধি সেগুলি আপডেট নাও পেতে বা বিজ্ঞপ্তিগুলি নাও পাঠাতে পারে।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dটি ক্র্যাশ হওয়া অ্যাপ খুঁজে পাওয়া গেছে। আপনার ট্যাবলেটের গতি বাড়াতে এটিকে নিদ্রায় রাখুন। আপনি এটি আবার না খোলা অবধি এটি কোনও আপডেট নাও পেতে পারে বা বিজ্ঞপ্তি নাও পাঠাতে পারে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%dটি ম্যালওয়্যার অ্যাপ শনাক্ত হয়েছে। আপনার ফোন নিরাপদ রাখতে সেগুলি আনইনস্টল করুন।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dটি ম্যালওয়্যার অ্যাপ শনাক্ত হয়েছে। আপনার ফোনকে নিরাপদে রাখতে এটি আনইনস্টল করুন।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%dটি ম্যালওয়্যার অ্যাপ শনাক্ত হয়েছে। আপনার ট্যাবলেট নিরাপদে রাখতে সেগুলি আনইনস্টল করুন।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dটি ম্যালওয়্যার অ্যাপ শনাক্ত হয়েছে। আপনার ট্যাবলেটকে নিরাপদে রাখতে এটি আনইনস্টল করুন।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">সন্দেহজনক ক্রিয়াকলাপ শনাক্ত হয়েছে। আপনার ফোন ও তথ্য সুরক্ষিত রাখতে এই অ্যাপগুলি আনইনস্টল করুন।</item>
+        <item quantity="one">সন্দেহজনক ক্রিয়াকলাপ শনাক্ত হয়েছে। আপনার ফোন ও তথ্য সুরক্ষিত রাখতে নীচের অ্যাপগুলি আনইনস্টল করুন।</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">সন্দেহজনক ক্রিয়াকলাপ শনাক্ত হয়েছে। আপনার ট্যাবলেট এবং তথ্য সুরক্ষিত রাখতে এই অ্যাপগুলি আনইনস্টল করুন।</item>
+        <item quantity="one">সন্দেহজনক ক্রিয়াকলাপ শনাক্ত হয়েছে। আপনার ট্যাবলেট এবং তথ্য সুরক্ষিত রাখতে নীচের অ্যাপগুলি আনইনস্টল করুন।</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">সন্দেহজনক ক্রিয়াকলাপ শনাক্ত হয়েছে। আপনার ফোন ও তথ্য সুরক্ষিত রাখতে এই অ্যাপগুলি আনইনস্টল করুন।</item>
+        <item quantity="one">সন্দেহজনক ক্রিয়াকলাপ শনাক্ত হয়েছে। আপনার ফোন ও তথ্য সুরক্ষিত রাখতে নীচের অ্যাপগুলি আনইনস্টল করুন।</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">সন্দেহজনক ক্রিয়াকলাপ শনাক্ত হয়েছে। আপনার ট্যাবলেট এবং তথ্য সুরক্ষিত রাখতে এই অ্যাপগুলি আনইনস্টল করুন।</item>
+        <item quantity="one">সন্দেহজনক ক্রিয়াকলাপ শনাক্ত হয়েছে। আপনার ট্যাবলেট এবং তথ্য সুরক্ষিত রাখতে নীচের অ্যাপগুলি আনইনস্টল করুন।</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%dটি হুমকী শনাক্ত হয়েছে</item>
+        <item quantity="one">1টি হুমকী শনাক্ত করেছে</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%dটি হুমকি</item>
+        <item quantity="one">1টি হুমকি</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">নীচের অ্যাপগুলি আপনার ফোনে গুরুতর ত্রুটি ঘটাচ্ছে। এই অ্যাপগুলি আনইনস্টল করা প্রবলভাবে সুপারিশকৃত। আনইনস্টল করার পরে, আপনি কোনও অ্যাপ স্টোর থেকে প্রতিটি অ্যাপের একটি নতুন সংস্করণ ইনস্টল করতে সক্ষম হতে পারেন।</item>
+        <item quantity="one">নীচের অ্যাপটি আপনার ফোনে গুরুতর ত্রুটি ঘটাচ্ছে। এই অ্যাপটি আনইনস্টল করা প্রবলভাবে সুপারিশকৃত। আনইনস্টল করার পরে, আপনি কোনও অ্যাপ স্টোর থেকে একটি নতুন সংস্করণ ইনস্টল করতে সক্ষম হতে পারেন।</item>
+    </plurals>
+</resources>

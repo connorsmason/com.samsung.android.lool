@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/sm_widget_onebutton_layout" android:background="@drawable/widget_rect_shape_dark" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewFlipper android:gravity="center" android:id="@id/widget_view_flipper_done" android:layout_width="wrap_content" android:layout_height="wrap_content" android:loopViews="true">
+        <ViewFlipper android:id="@id/widget_view_flipper_progress" android:layout_width="@dimen/widget_inner_image_dimension" android:layout_height="@dimen/widget_inner_image_dimension" android:loopViews="true">
+            <ImageView android:layout_gravity="center" android:id="@id/widget_one_click_image" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/widget_ic_maintenance" android:layout_alignParentBottom="true" android:contentDescription="@string/widget_optimize" android:alpha="1.0" />
+            <ProgressBar android:layout_gravity="center" android:id="@id/widget_one_click_clean_all_progress" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:indeterminateDrawable="@drawable/widget_progress_drawable" android:interpolator="@anim/widget_scanning_interpolator" />
+        </ViewFlipper>
+        <ImageView android:id="@id/widget_done_image" android:layout_width="@dimen/widget_inner_image_dimension" android:layout_height="@dimen/widget_inner_image_dimension" android:src="@drawable/widget_ic_done" />
+    </ViewFlipper>
+    <TextView android:ellipsize="end" android:gravity="center" android:id="@id/widget_optimize_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/widget_optimize" android:maxLines="@integer/widget_one_button_text_max_line" android:layout_marginHorizontal="@dimen/widget_optimize_text_margin" style="@style/widget_optimize_text_type" />
+</LinearLayout>

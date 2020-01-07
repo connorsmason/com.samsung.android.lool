@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:background="?winsetLightThemeBgColor" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="horizontal" android:id="@id/categorySubHeader" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/categoryTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/images" android:importantForAccessibility="no" android:paddingStart="@dimen/user_category_sub_padding_start" android:paddingEnd="@dimen/user_category_sub_padding_end" style="?android:listSeparatorTextViewStyle" />
+            <TextView android:id="@id/categoryArrow" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableEnd="@drawable/myfiles_list_subtitle_tab_arrow" android:importantForAccessibility="no" android:paddingStart="@dimen/user_category_arrow_padding" android:paddingEnd="@dimen/user_category_arrow_padding" style="?android:listSeparatorTextViewStyle" />
+            <TextView android:id="@id/categoryDetail" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:importantForAccessibility="no" android:paddingStart="@dimen/user_category_sub_padding_end" android:paddingEnd="@dimen/user_category_sub_padding_start" style="?android:listSeparatorTextViewStyle" />
+        </LinearLayout>
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:layout_gravity="center_horizontal" android:id="@android:id/empty" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/user_file_empty_text_margin_bottom" android:text="@string/empty_list_files" android:accessibilityTraversalAfter="@id/categoryTitle" style="@style/SMWinset.NoItemTextViewStyle" />
+            <TextView android:layout_gravity="center_horizontal" android:id="@id/empty_category_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:layout_below="@android:id/empty" style="@style/SMWinset.NoItemSubTextViewStyle" />
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/loadingContainer" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ProgressBar android:layout_width="wrap_content" android:layout_height="wrap_content" style="?android:progressBarStyleLarge" />
+            <TextView android:textAppearance="?android:textAppearanceSmall" android:paddingTop="@dimen/loading_txt_top_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/loading_txt" android:maxLines="1" />
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:id="@id/corner_layout_user_file_detail" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ListView android:id="@id/list" android:background="?android:windowBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@null" android:layout_below="@id/categorySubHeader" />
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    </RelativeLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

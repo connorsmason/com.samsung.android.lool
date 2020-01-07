@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">បាន​រក​ឃើញ​បញ្ហា %d</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">ការថែទាំ​ឧបករណ៍​ចាប់​បាន​កម្មវិធី %d ដែល​អាច​បង្ក​បញ្ហា រួមទាំង​សុហ្វវែរ​ព្យាបាទ កម្មវិធី​ខូច ឬ​ការប្រើប្រាស់​ថ្ម​ច្រើន។</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d ថ្ងៃ</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">អេក្រង់​នឹង​បិទ​បន្ទាប់​ពី​អសកម្មភាព %d វិនាទី។</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">បាន​ដាក់​កម្មវិធី %d ឲ្យ​គេង។</item>
+        <item quantity="one">បាន​ដាក់​កម្មវិធី 1 ឲ្យ​គេង។</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">កំពុង​ដាក់​កម្មវិធី %d ឲ្យ​គេង…</item>
+        <item quantity="one">កំពុង​ដាក់​កម្មវិធី 1 ឲ្យ​គេង…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">ចាប់​បាន​ការគំរាមកំហែង %1$d។ ប៉ះ​ទីនេះ ដើម្បី​ដោះស្រាយ​ពួកវា​ក្នុង %2$s។</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">កម្មវិធី %d កំពុង​បង្ក​កំហុស​ធ្ងន់ធ្ងរ​លើ​ទូរសព្ទ​របស់​អ្នក។ ការលុប​កម្មវិធី​ទាំងនេះ​ត្រូវ​បាន​ឲ្យ​យោបល់​យ៉ាង​ខ្លាំង។</item>
+        <item quantity="one">កម្មវិធី 1 កំពុង​បង្ក​កំហុស​ធ្ងន់ធ្ងរ​លើ​ទូរសព្ទ​របស់​អ្នក។ ការលុប​កម្មវិធី​នេះ​ត្រូវ​បាន​ឲ្យ​យោបល់​យ៉ាង​ខ្លាំង។</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">កម្មវិធី %d</item>
+        <item quantity="one">កម្មវិធី 1</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">បាន​បិទ​កម្មវិធី​ផ្ទៃខាងក្រោយ</item>
+        <item quantity="one">បាន​បិទ​កម្មវិធី​ផ្ទៃខាងក្រោយ</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">កម្មវិធី %d មាន​ការប្រើប្រាស់​ថ្ម​ច្រើន។ ដាក់​ពួកវា​ឲ្យ​គេង ដើម្បី​សំចៃ​ថាមពល។ ពួកវា​អាច​មិន​ទទួល​អាប់ដេត ឬ​ក៏​ផ្ញើ​ការជូនដំណឹង ទាល់តែ​អ្នក​បើក​ពួកវា​ម្ដងទៀត។</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">បាន​រក​ឃើញ​កម្មវិធី​ខូច %d។ ដាក់​ពួកវា​ឲ្យ​គេង ដើម្បី​បង្កើន​ល្បឿន​ទូរសព្ទ​របស់​អ្នក។ ពួកវា​អាច​មិន​ទទួល​អាប់ដេត ឬ​ក៏​ផ្ញើ​ការជូនដំណឹង ទាល់តែ​អ្នក​បើក​ពួកវា​ម្ដងទៀត។</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">បាន​រក​ឃើញ​កម្មវិធី​ខូច %d។ ដាក់​ពួកវា​ឲ្យ​គេង ដើម្បី​បង្កើន​ល្បឿន​ថេប្លិត​របស់​អ្នក។ ពួកវា​អាច​មិន​ទទួល​អាប់ដេត ឬ​ក៏​ផ្ញើ​ការជូនដំណឹង ទាល់តែ​អ្នក​បើក​ពួកវា​ម្ដងទៀត។</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">ចាប់បាន​កម្មវិធី​ព្យាបាទ %d។ លុប​ពួកវា ដើម្បី​រក្សា​សុវត្ថិភាព​ទូរសព្ទ​របស់​អ្នក។</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">ចាប់បាន​កម្មវិធី​ព្យាបាទ %d។ លុប​ពួកវា ដើម្បី​រក្សា​សុវត្ថិភាព​ថេប្លិត​របស់​អ្នក។</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">ចាប់បាន​សកម្មភាព​សង្ស័យ។ លុប​កម្មវិធី​ទាំងនេះ ដើម្បី​ការពារ​ទូរសព្ទ​និង​ទិន្នន័យ​របស់​អ្នក។</item>
+        <item quantity="one">ចាប់បាន​សកម្មភាព​សង្ស័យ។ លុប​កម្មវិធី​ខាងក្រោម ដើម្បី​ការពារ​ទូរសព្ទ​និង​ទិន្នន័យ​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">ចាប់បាន​សកម្មភាព​សង្ស័យ។ លុប​កម្មវិធី​ទាំងនេះ ដើម្បី​ការពារ​ថេប្លិត​និង​ទិន្នន័យ​របស់​អ្នក។</item>
+        <item quantity="one">ចាប់បាន​សកម្មភាព​សង្ស័យ។ លុប​កម្មវិធី​ខាងក្រោម ដើម្បី​ការពារ​ថេប្លិត​និង​ទិន្នន័យ​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">ចាប់បាន​សកម្មភាព​សង្ស័យ។ លុប​កម្មវិធី​ទាំងនេះ ដើម្បី​ការពារ​ទូរសព្ទ​និង​ទិន្នន័យ​របស់​អ្នក។</item>
+        <item quantity="one">ចាប់បាន​សកម្មភាព​សង្ស័យ។ លុប​កម្មវិធី​ខាងក្រោម ដើម្បី​ការពារ​ទូរសព្ទ​និង​ទិន្នន័យ​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">ចាប់បាន​សកម្មភាព​សង្ស័យ។ លុប​កម្មវិធី​ទាំងនេះ ដើម្បី​ការពារ​ថេប្លិត​និង​ទិន្នន័យ​របស់​អ្នក។</item>
+        <item quantity="one">ចាប់បាន​សកម្មភាព​សង្ស័យ។ លុប​កម្មវិធី​ខាងក្រោម ដើម្បី​ការពារ​ថេប្លិត​និង​ទិន្នន័យ​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">ចាប់​បាន​ការគំរាមកំហែង %d</item>
+        <item quantity="one">ចាប់​បាន​ការគំរាមកំហែង 1</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">ការគំរាមកំហែង %d</item>
+        <item quantity="one">ការគំរាមកំហែង 1</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">កម្មវិធី​ខាងក្រោម​កំពុង​បង្ក​កំហុស​ធ្ងន់ធ្ងរ​លើ​ទូរសព្ទ​របស់​អ្នក។ ការលុប​កម្មវិធី​ទាំងនេះ​ត្រូវ​បាន​ឲ្យ​យោបល់​យ៉ាង​ខ្លាំង។ បន្ទាប់​ពី​លុប អ្នក​ប្រហែល​ជា​អាច​ដំឡើង​កំណែ​ថ្មី​នៃ​កម្មវិធី​នីមួយៗ​ពី​ហាង​កម្មវិធី។</item>
+        <item quantity="one">កម្មវិធី​ខាងក្រោម​កំពុង​បង្ក​កំហុស​ធ្ងន់ធ្ងរ​លើ​ទូរសព្ទ​របស់​អ្នក។ ការលុប​កម្មវិធី​នេះ​ត្រូវ​បាន​ឲ្យ​យោបល់​យ៉ាង​ខ្លាំង។ បន្ទាប់​ពី​លុប អ្នក​ប្រហែល​ជា​អាច​ដំឡើង​កំណែ​ថ្មី​ពី​ហាង​កម្មវិធី។</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/SMWinset.AppToolBarStyle" />
+    <com.samsung.android.sm.view.SwitchBar android:id="@id/battery_optimize_settings_switch_bar" style="@style/SwitchBarTheme" />
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/battery_optimize_settings_fragment_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ImageView android:background="?winsetLightThemeBgColor" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d مشکل شناسایی شد</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مشکل شناسایی شد</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">مراقب دستگاه شناسایی کرده است که %d برنامه ممکن است اشکالاتی از قبیل بدافزار، خرابی برنامه یا تخلیه باتری ایجاد کند.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">مراقب دستگاه شناسایی کرده است که %d برنامه ممکن است اشکالاتی از قبیل بدافزار، خرابی برنامه یا تخلیه باتری ایجاد کنند.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d روز</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d روز</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">صفحه نمایش بعد از %d ثانیه غیرفعال بودن، خاموش می‌شود.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">صفحه نمایش بعد از %d ثانیه غیرفعال بودن، خاموش می‌شود.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d برنامه در حالت خواب قرار داده شد.</item>
+        <item quantity="one">۱ برنامه در حالت خواب قرار داده شد.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">قرار دادن %d برنامه در حالت خواب…</item>
+        <item quantity="one">قرار دادن ۱ برنامه در حالت خواب…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d تهدید شناسایی شد. برای رفع آنها در %2$s، اینجا ضربه بزنید.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d تهدید شناسایی شد. برای رفع آن در %2$s، اینجا ضربه بزنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d برنامه خطای جدی در تلفن شما ایجاد می‌کنند. اکیداً توصیه می‌شود این برنامه‌ها را حذف کنید.</item>
+        <item quantity="one">۱ برنامه خطای جدی در تلفن شما ایجاد می‌کند. اکیداً توصیه می‌شود این برنامه را حذف کنید.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d برنامه</item>
+        <item quantity="one">۱ برنامه</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">برنامه‌های پس‌زمینه بسته شدند</item>
+        <item quantity="one">برنامه پس‌زمینه بسته شد</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d برنامه مصرف باتری بالایی دارند. برای ذخیره نیرو، آنها را در حالت خواب قرار دهید. در این صورت، تا زمانی که آنها را دوباره باز نکرده‌اید، به‌روزرسانی دریافت نکرده یا اعلانی ارسال نمی‌کنند.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d برنامه مصرف باتری بالایی دارد. برای ذخیره نیرو، آن را در حالت خواب قرار دهید. در این صورت، تا زمانی که آن را دوباره باز نکرده‌اید، به‌روزرسانی دریافت نکرده یا اعلانی ارسال نمی‌کند.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d برنامه خراب یافت شد. برای افزایش سرعت تلفن، آنها را در حالت خواب قرار دهید. در این صورت، تا زمانی که آنها را دوباره باز نکرده‌اید، به‌روزرسانی دریافت نکرده یا اعلانی ارسال نمی‌کنند.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d برنامه خراب یافت شد. برای افزایش سرعت تلفن، آن را در حالت خواب قرار دهید. در این صورت، تا زمانی که آن را دوباره باز نکرده‌اید، به‌روزرسانی دریافت نکرده یا اعلانی ارسال نمی‌کند.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d برنامه خراب یافت شد. برای افزایش سرعت تبلت خود، آنها را در حالت خواب قرار دهید. در این صورت، تا زمانی که آنها را دوباره باز نکرده‌اید، به‌روزرسانی دریافت نکرده یا اعلانی ارسال نمی‌کنند.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d برنامه خراب یافت شد. برای افزایش سرعت تبلت خود، آن را در حالت خواب قرار دهید. در این صورت، تا زمانی که آن را دوباره باز نکرده‌اید، به‌روزرسانی دریافت نکرده یا اعلانی ارسال نمی‌کند.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d برنامه بدافزار شناسایی شد. برای امنیت تلفن، آنها را حذف کنید.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d برنامه بدافزار شناسایی شد. برای امنیت تلفن، آن را حذف کنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d برنامه بدافزار شناسایی شد. برای امنیت تبلت، آنها را حذف کنید.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d برنامه بدافزار شناسایی شد. برای امنیت تبلت، آن را حذف کنید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">فعالیت مشکوک شناسایی شده است. برای محافظت از تلفن و اطلاعاتتان، این برنامه‌ها را حذف کنید.</item>
+        <item quantity="one">فعالیت مشکوک شناسایی شده است. برای حفظ ایمنی تلفن و اطلاعاتتان، برنامه‌های زیر را حذف کنید.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">فعالیت مشکوک شناسایی شده است. برای حفظ ایمنی تبلت و اطلاعاتتان، این برنامه‌ها را حذف کنید.</item>
+        <item quantity="one">فعالیت مشکوک شناسایی شده است. برای حفظ ایمنی تبلت و اطلاعاتتان، برنامه‌های زیر را حذف کنید.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">فعالیت مشکوک شناسایی شده است. برای محافظت از تلفن و اطلاعاتتان، این برنامه‌ها را حذف کنید.</item>
+        <item quantity="one">فعالیت مشکوک شناسایی شده است. برای حفظ ایمنی تلفن و اطلاعاتتان، برنامه‌های زیر را حذف کنید.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">فعالیت مشکوک شناسایی شده است. برای حفظ ایمنی تبلت و اطلاعاتتان، این برنامه‌ها را حذف کنید.</item>
+        <item quantity="one">فعالیت مشکوک شناسایی شده است. برای حفظ ایمنی تبلت و اطلاعاتتان، برنامه‌های زیر را حذف کنید.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">‎%d تهدید شناسایی شد</item>
+        <item quantity="one">۱ تهدید شناسایی شد</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d تهدید</item>
+        <item quantity="one">۱ تهدید</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">برنامه‌های زیر خطای جدی در تلفن شما ایجاد می‌کنند. اکیداً توصیه می‌شود این برنامه‌ها را حذف کنید. پس از حذف، می‌توانید نسخه جدیدی از هر برنامه را از یک فروشگاه برنامه نصب کنید.</item>
+        <item quantity="one">برنامه زیر خطای جدی در تلفن شما ایجاد می‌کند. اکیداً توصیه می‌شود این برنامه را حذف کنید. پس از حذف، می‌توانید نسخه جدید آن را از یک فروشگاه برنامه نصب کنید.</item>
+    </plurals>
+</resources>

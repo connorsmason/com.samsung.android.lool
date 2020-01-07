@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="horizontal" android:id="@id/security_list_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/list_item_multi_line_height" android:layout_marginHorizontal="@dimen/activity_horizontal_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/security_list_icon" android:layout_width="@dimen/list_item_multi_line_icon_size" android:layout_height="@dimen/list_item_multi_line_icon_size" android:layout_marginEnd="@dimen/security_vi_list_margin_end" />
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/security_threat_app_title_text_size" android:id="@id/security_list_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/SMWinset.ListItemTextViewStyle" />
+        <ImageView android:id="@id/divider_line" android:layout_toEndOf="@id/app_icon" style="@style/SMWinset.DividerStyle.TextAlignStart" />
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

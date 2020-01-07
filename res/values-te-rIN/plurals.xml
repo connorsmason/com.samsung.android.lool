@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d సమస్యలు గుర్తించబడ్డాయి</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d సమస్య గుర్తించబడింది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">పరికర సంరక్షణ మాల్వేర్, అప్లికేషన్ క్రాష్‌లు లేదా అధిక బ్యాటరీ వినియోగంతో సహా సమస్యలను ఏర్పరిచే %d అప్లికేషన్‌లను గుర్తించింది.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">పరికర సంరక్షణ మాల్వేర్, అప్లికేషన్ క్రాష్‌లు లేదా అధిక బ్యాటరీ వినియోగంతో సహా సమస్యలను ఏర్పరిచే %d అప్లికేషన్‌ని గుర్తించింది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d రోజులు</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d రోజు</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">స్క్రీన్ నిష్క్రియం అయిన %d సెకన్ల తర్వాత ఆఫ్ అవుతుంది.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">స్క్రీన్ నిష్క్రియం అయిన %d సెకను తర్వాత ఆఫ్ అవుతుంది.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d అప్లికేషన్‌లు నిద్ర స్థితిలో ఉంచబడ్డాయి.</item>
+        <item quantity="one">1 అప్లికేషన్ నిద్ర స్థితిలో ఉంచబడింది.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d అప్లికేషన్‌లను నిద్ర స్థితిలో ఉంచుతోంది…</item>
+        <item quantity="one">1 అప్లికేషన్‌ని నిద్ర స్థితిలో ఉంచుతోంది…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d థ్రెడ్‌లు గుర్తించబడ్డాయి. %2$sలో వాటిని పరిష్కరించడానికి ఇక్కడ నొక్కండి.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d థ్రెడ్ గుర్తించబడింది. %2$sలో దీన్ని పరిష్కరించడం కోసం ఇక్కడ నొక్కండి.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d అప్లికేషన్‌లు మీ ఫోన్‌లో క్లిష్టమైన దోషాలను కలిగిస్తున్నాయి. ఈ అప్లికేషన్‌లను అన్ఇన్‌స్టాల్ చేయడం దృఢంగా సిఫార్సు చేయబడింది.</item>
+        <item quantity="one">1 అప్లికేషన్ మీ ఫోన్‌లో క్లిష్టమైన దోషాలను కలిగిస్తోంది. ఈ అప్లికేషన్‌ను అన్ఇన్‌స్టాల్ చేయడం దృఢంగా సిఫార్సు చేయబడింది.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d అప్లికేషన్‌లు</item>
+        <item quantity="one">1 అప్లికేషన్</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">నేపథ్య అప్లికేషన్‌లు మూసివేయబడ్డాయి</item>
+        <item quantity="one">నేపథ్య అప్లికేషన్ మూసివేయబడింది</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d అప్లికేషన్‌లు అధిక బ్యాటరీని ఉపయోగిస్తున్నాయి. శక్తిని ఆదా చేయడానికి వాటిని నిద్రాణ స్థితిలో ఉంచండి. మీరు వాటిని మళ్లీ తెరిచే వరకు అవి అప్‌డేట్‌లను పొందలేవు లేదా నోటిఫికేషన్‌లను పంపలేవు.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d అప్లికేషన్ అధిక బ్యాటరీని ఉపయోగిస్తోంది. శక్తిని ఆదా చేయడానికి దాన్ని నిద్రాణ స్థితిలో ఉంచండి. మీరు దాన్ని మళ్లీ తెరిచే వరకు అది అప్‌డేట్‌లను పొందలేదు లేదా నోటిఫికేషన్‌లను పంపలేదు.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d క్రాష్ అయిన అప్లికేషన్‌లు కనుగొనబడ్డాయి. మీ ఫోన్ వేగాన్ని పెంచడానికి వాటిని నిద్రాణ స్థితిలో ఉంచండి. మీరు వాటిని మళ్లీ తెరిచే వరకు అవి అప్‌డేట్‌లను పొందలేవు లేదా నోటిఫికేషన్‌లను పంపలేవు.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d క్రాష్ అయిన అప్లికేషన్ కనుగొనబడింది. మీ ఫోన్ వేగాన్ని పెంచడానికి దాన్ని నిద్రాణ స్థితిలో ఉంచండి. మీరు దాన్ని మళ్లీ తెరిచే వరకు అది అప్‌డేట్‌లను పొందలేదు లేదా నోటిఫికేషన్‌లను పంపలేదు.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d క్రాష్ అయిన అప్లికేషన్‌లు కనుగొనబడ్డాయి. మీ టాబ్లెట్ వేగాన్ని పెంచడానికి వాటిని నిద్రాణ స్థితిలో ఉంచండి. మీరు వాటిని మళ్లీ తెరిచే వరకు అవి అప్‌డేట్‌లను పొందలేవు లేదా నోటిఫికేషన్‌లను పంపలేవు.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d క్రాష్ అయిన అప్లికేషన్ కనుగొనబడింది. మీ టాబ్లెట్ వేగాన్ని పెంచడానికి దాన్ని నిద్రాణ స్థితిలో ఉంచండి. మీరు దాన్ని మళ్లీ తెరిచే వరకు అది అప్‌డేట్‌లను పొందలేదు లేదా నోటిఫికేషన్‌లను పంపలేదు.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d మాల్వేర్ అప్లికేషన్‌లు గుర్తించబడ్డాయి. మీ ఫోన్‌ని సురక్షితంగా ఉంచడానికి వాటిని అన్ఇన్‌స్టాల్ చేయండి.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d మాల్వేర్ అప్లికేషన్ గుర్తించబడింది. మీ ఫోన్‌ని సురక్షితంగా ఉంచడానికి దాన్ని అన్ఇన్‌స్టాల్ చేయండి.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d మాల్వేర్ అప్లికేషన్‌లు గుర్తించబడ్డాయి. మీ టాబ్లెట్‌ని సురక్షితంగా ఉంచడానికి వాటిని అన్ఇన్‌స్టాల్ చేయండి.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d మాల్వేర్ అప్లికేషన్ గుర్తించబడింది. మీ టాబ్లెట్‌ని సురక్షితంగా ఉంచడానికి దాన్ని అన్ఇన్‌స్టాల్ చేయండి.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">అనుమానాస్పద కార్యాచరణ గుర్తించబడింది. మీ ఫోన్ మరియు డేటాని రక్షించడానికి ఈ అప్లికేషన్‌లను అన్ఇన్‌స్టాల్ చేయండి.</item>
+        <item quantity="one">అనుమానాస్పద కార్యాచరణ గుర్తించబడింది. మీ ఫోన్ మరియు డేటాని రక్షించడానికి దిగువ అప్లికేషన్‌లను అన్ఇన్‌స్టాల్ చేయండి.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">అనుమానాస్పద కార్యాచరణ గుర్తించబడింది. మీ టాబ్లెట్ మరియు డేటాని రక్షించడానికి ఈ అప్లికేషన్‌లను అన్ఇన్‌స్టాల్ చేయండి.</item>
+        <item quantity="one">అనుమానాస్పద కార్యాచరణ గుర్తించబడింది. మీ టాబ్లెట్ మరియు డేటాని రక్షించడానికి దిగువ అప్లికేషన్‌లను అన్ఇన్‌స్టాల్ చేయండి.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">అనుమానాస్పద కార్యాచరణ గుర్తించబడింది. మీ ఫోన్ మరియు డేటాని రక్షించడానికి ఈ అప్లికేషన్‌లను అన్ఇన్‌స్టాల్ చేయండి.</item>
+        <item quantity="one">అనుమానాస్పద కార్యాచరణ గుర్తించబడింది. మీ ఫోన్ మరియు డేటాని రక్షించడానికి దిగువ అప్లికేషన్‌లను అన్ఇన్‌స్టాల్ చేయండి.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">అనుమానాస్పద కార్యాచరణ గుర్తించబడింది. మీ టాబ్లెట్ మరియు డేటాని రక్షించడానికి ఈ అప్లికేషన్‌లను అన్ఇన్‌స్టాల్ చేయండి.</item>
+        <item quantity="one">అనుమానాస్పద కార్యాచరణ గుర్తించబడింది. మీ టాబ్లెట్ మరియు డేటాని రక్షించడానికి దిగువ అప్లికేషన్‌లను అన్ఇన్‌స్టాల్ చేయండి.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d నష్టాలు కనుగొనబడ్డాయి</item>
+        <item quantity="one">1 నష్టం గుర్తించబడింది</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d ప్రమాదాలు</item>
+        <item quantity="one">1 ప్రమాదం</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">దిగువ ఉన్న అప్లికేషన్ మీ ఫోన్‌లో క్లిష్టమైన దోషాలను కలిగిస్తోంది. ఈ అప్లికేషన్‌లను అన్ఇన్‌స్టాల్ చేయమని దృఢంగా సిఫార్సు చేయబడింది. అన్ఇన్‌స్టాల్ చేసిన తర్వాత, మీరు అప్లికేషన్ స్టోర్ నుండి ప్రతి అప్లికేషన్ కొత్త వెర్షన్‌ని ఇన్‌స్టాల్ చేయవచ్చు.</item>
+        <item quantity="one">దిగువ ఉన్న అప్లికేషన్ మీ ఫోన్‌లో క్లిష్టమైన దోషాలను కలిగిస్తోంది. ఈ అప్లికేషన్‌ను అన్ఇన్‌స్టాల్ చేయమని దృఢంగా సిఫార్సు చేయబడింది. అన్ఇన్‌స్టాల్ చేసిన తర్వాత, మీరు అప్లికేషన్ స్టోర్ నుండి కొత్త వెర్షన్‌ని ఇన్‌స్టాల్ చేయవచ్చు.</item>
+    </plurals>
+</resources>

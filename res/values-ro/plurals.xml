@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d probleme detectate</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d problemă detectată</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d probleme detectate</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Funcția Întreținere dispozitiv a detectat %d aplicații care pot provoca probleme, inclusiv programe malware, erori ale aplicațiilor sau consum mare al bateriei.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Funcția Întreținere dispozitiv a detectat %d aplicație care poate provoca probleme, inclusiv programe malware, erori ale aplicației sau consum mare al bateriei.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Funcția Întreținere dispozitiv a detectat %d aplicații care pot provoca probleme, inclusiv programe malware, erori ale aplicațiilor sau consum mare al bateriei.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d zile</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d zi</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d zile</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Ecranul se va opri după %d secunde de inactivitate.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ecranul se va opri după %d secundă de inactivitate.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ecranul se va opri după %d secunde de inactivitate.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d aplicații au fost trecute la inactive.</item>
+        <item quantity="one">1 aplicație a fost trecută la inactive.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Se trec %d aplicații la inactive…</item>
+        <item quantity="one">Se trece 1 aplicație la inactive…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d amenințări detectate. Atingeți aici pentru a le rezolva în %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d amenințare detectată. Atingeți aici pentru a o rezolva în %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%1$d amenințări detectate. Atingeți aici pentru a le rezolva în %2$s.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d aplicații provoacă erori critice pe telefonul dvs. Vă recomandăm insistent să dezinstalați aceste aplicații.</item>
+        <item quantity="one">1 aplicație provoacă erori critice pe telefonul dvs. Vă recomandăm insistent să dezinstalați această aplicație.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d aplicații</item>
+        <item quantity="one">1 aplicație</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Aplicații de fundal închise</item>
+        <item quantity="one">Aplicație de fundal închisă</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d aplicații cu consum al bateriei ridicat. Pentru a economisi energie, treceți-le la inactive. Este posibil ca acestea să nu primească actualizări sau să nu vă trimită notificări până când nu le deschideți din nou.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplicație cu consum al bateriei ridicat. Pentru a economisi energie, treceți-o la inactive. Este posibil ca aceasta să nu primească actualizări sau să nu vă trimită notificări până când nu o deschideți din nou.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplicații cu consum al bateriei ridicat. Pentru a economisi energie, treceți-le la inactive. Este posibil ca acestea să nu primească actualizări sau să nu vă trimită notificări până când nu le deschideți din nou.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d aplicații cu erori găsite. Pentru a vă accelera telefonul, treceți-le la inactive. Este posibil ca acestea să nu primească actualizări sau să nu vă trimită notificări până când nu le deschideți din nou.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplicație cu erori găsită. Pentru a vă accelera telefonul, treceți-o la inactive. Este posibil ca aceasta să nu primească actualizări sau să nu vă trimită notificări până când nu o deschideți din nou.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplicații cu erori găsite. Pentru a vă accelera telefonul, treceți-le la inactive. Este posibil ca acestea să nu primească actualizări sau să nu vă trimită notificări până când nu le deschideți din nou.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d aplicații cu erori găsite. Pentru a vă accelera tableta, treceți-le la inactive. Este posibil ca acestea să nu primească actualizări sau să nu vă trimită notificări până când nu le deschideți din nou.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplicație cu erori găsită. Pentru a vă accelera tableta, treceți-o la inactive. Este posibil ca aceasta să nu primească actualizări sau să nu vă trimită notificări până când nu o deschideți din nou.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplicații cu erori găsite. Pentru a vă accelera tableta, treceți-le la inactive. Este posibil ca acestea să nu primească actualizări sau să nu vă trimită notificări până când nu le deschideți din nou.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d aplicații malware detectate. Dezinstalați-le pentru a vă menține telefonul în siguranță.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplicație malware detectată. Dezinstalați-o pentru a vă menține telefonul în siguranță.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplicații malware detectate. Dezinstalați-le pentru a vă menține telefonul în siguranță.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d aplicații malware detectate. Dezinstalați-le pentru a vă menține tableta în siguranță.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplicație malware detectată. Dezinstalați-o pentru a vă menține tableta în siguranță.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplicații malware detectate. Dezinstalați-le pentru a vă menține tableta în siguranță.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">A fost detectată o activitate suspectă. Pentru a vă proteja telefonul și datele, dezinstalați aceste aplicații.</item>
+        <item quantity="one">A fost detectată o activitate suspectă. Pentru a vă proteja telefonul și datele, dezinstalați aplicațiile de mai jos.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">A fost detectată o activitate suspectă. Pentru a vă proteja tableta și datele, dezinstalați aceste aplicații.</item>
+        <item quantity="one">A fost detectată o activitate suspectă. Pentru a vă proteja tableta și datele, dezinstalați aplicațiile de mai jos.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">A fost detectată o activitate suspectă. Pentru a vă proteja telefonul și datele, dezinstalați aceste aplicații.</item>
+        <item quantity="one">A fost detectată o activitate suspectă. Pentru a vă proteja telefonul și datele, dezinstalați aplicațiile de mai jos.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">A fost detectată o activitate suspectă. Pentru a vă proteja tableta și datele, dezinstalați aceste aplicații.</item>
+        <item quantity="one">A fost detectată o activitate suspectă. Pentru a vă proteja tableta și datele, dezinstalați aplicațiile de mai jos.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d amenințări detectate</item>
+        <item quantity="one">1 amenințare detectată</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d amenințări</item>
+        <item quantity="one">1 amenințare</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Aplicațiile de mai jos provoacă erori critice pe telefonul dvs. Vă recomandăm insistent să dezinstalați aceste aplicații. După dezinstalare, este posibil să puteți instala o versiune nouă a fiecărei aplicații dintr-un magazin de aplicații.</item>
+        <item quantity="one">Aplicația de mai jos provoacă erori critice pe telefonul dvs. Vă recomandăm insistent să dezinstalați această aplicație. După dezinstalare, este posibil să puteți instala o versiune nouă a fiecărei aplicații dintr-un magazin de aplicații.</item>
+    </plurals>
+</resources>

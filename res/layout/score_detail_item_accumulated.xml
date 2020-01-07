@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="horizontal" android:tag="layout/score_detail_item_accumulated_0" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:gravity="center_vertical" android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/item_accumulated_text_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/SMWinset.ListItemTextViewStyle.2Line.TextContainer">
+        <TextView android:textSize="@dimen/sb_detail_list_auto_primary_text_size" android:textColor="@color/score_state_good_color_theme" android:ellipsize="end" android:gravity="start" android:id="@id/item_accumulated_text_primary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+        <TextView android:ellipsize="end" android:gravity="start" android:id="@id/item_accumulated_text_secondary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sb_detail_accumulated_desc" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

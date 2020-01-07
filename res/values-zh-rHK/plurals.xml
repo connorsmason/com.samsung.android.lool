@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">已偵測到 %d 個問題</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">裝置維護已偵測到 %d 個可能導致問題的應用程式，包括惡意軟件、應用程式損毀或高電池使用量。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d 天</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">螢幕處於非使用狀態 %d 秒後關閉。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d 個應用程式已進入休眠。</item>
+        <item quantity="one">1 個應用程式已進入休眠。</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">正在使 %d 個應用程式進入休眠…</item>
+        <item quantity="one">正在使 1 個應用程式進入休眠…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">已偵測到 %1$d 個威脅。輕觸此處以在 %2$s 中解決。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d 個應用程式正在您的手機上導致嚴重錯誤。強烈建議解除安裝這些應用程式。</item>
+        <item quantity="one">1 個應用程式正在您的手機上導致嚴重錯誤。強烈建議解除安裝此應用程式。</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d 個應用程式</item>
+        <item quantity="one">1 個應用程式</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">已關閉背景應用程式</item>
+        <item quantity="one">已關閉背景應用程式</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d 個具有高電池使用量的應用程式。使其進入休眠以省電。其可能不會接收更新或發送通知，直至您再次開啟。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">已找到 %d 個損毀的應用程式。使其進入休眠以加快您的手機速度。其可能不會接收更新或發送通知，直至您再次開啟。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">已找到 %d 個損毀的應用程式。使其進入休眠以加快您的平板電腦速度。其可能不會接收更新或發送通知，直至您再次開啟。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">已偵測到 %d 個惡意應用程式。請解除安裝這些應用程式以保持手機的安全。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">已偵測到 %d 個惡意應用程式。請解除安裝這些應用程式以保持平板電腦的安全。</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">已偵測到可疑活動。請解除安裝這些應用程式以保護您的手機與數據。</item>
+        <item quantity="one">已偵測到可疑活動。請解除安裝下方的應用程式以保護您的手機與數據。</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">已偵測到可疑活動。請解除安裝這些應用程式以保護您的平板電腦與數據。</item>
+        <item quantity="one">已偵測到可疑活動。請解除安裝下方的應用程式以保護您的平板電腦與數據。</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">已偵測到可疑活動。請解除安裝這些應用程式以保護您的手機與數據。</item>
+        <item quantity="one">已偵測到可疑活動。請解除安裝下方的應用程式以保護您的手機與數據。</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">已偵測到可疑活動。請解除安裝這些應用程式以保護您的平板電腦與數據。</item>
+        <item quantity="one">已偵測到可疑活動。請解除安裝下方的應用程式以保護您的平板電腦與數據。</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">已偵測到 %d 個威脅</item>
+        <item quantity="one">已偵測到 1 個威脅</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d 個威脅</item>
+        <item quantity="one">1 個威脅</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">以下應用程式正在您的手機上導致嚴重錯誤。強烈建議解除安裝這些應用程式。解除安裝後，您也許可以從應用程式商店安裝新版本的每個應用程式。</item>
+        <item quantity="one">以下應用程式正在您的手機上導致嚴重錯誤。強烈建議解除安裝此應用程式。解除安裝後，您也許可以從應用程式商店安裝新版本的應用程式。</item>
+    </plurals>
+</resources>

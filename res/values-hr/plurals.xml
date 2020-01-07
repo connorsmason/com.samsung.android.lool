@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Otkriveno %d problema</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Otkriven %d problem</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Otkrivena %d problema</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Podrška za uređaj otkrila je %d aplikacija koje možda uzrokuju probleme, uključujući zlonamjerni softver, rušenja aplikacije ili visoku potrošnju baterije.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Podrška za uređaj otkrila je %d aplikaciju koja možda uzrokuje probleme, uključujući zlonamjerni softver, rušenja aplikacije ili visoku potrošnju baterije.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Podrška za uređaj otkrila je %d aplikacije koje možda uzrokuju probleme, uključujući zlonamjerni softver, rušenja aplikacije ili visoku potrošnju baterije.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dana</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d dan</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d dana</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Zaslon će se isključiti nakon %d sekundi neaktivnosti.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zaslon će se isključiti nakon %d sekunde neaktivnosti.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zaslon će se isključiti nakon %d sekunde neaktivnosti.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">Više aplikacija (njih %d) stavljeno je u stanje mirovanja.</item>
+        <item quantity="one">1 aplikacija stavljena je u stanje mirovanja.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Stavljanje više aplikacija (njih %d) u stanje mirovanja…</item>
+        <item quantity="one">Stavljanje 1 aplikacije u stanje mirovanja…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Otkriveno je %1$d prijetnji. Dodirnite ovdje za rješavanje u aplikaciji %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Otkrivena je %1$d prijetnja. Dodirnite ovdje za rješavanje u aplikaciji %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Otkrivene su %1$d prijetnje. Dodirnite ovdje za rješavanje u aplikaciji %2$s.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">Više aplikacija (njih %d) uzrokuje kritične pogreške na vašem telefonu. Preporučujemo da deinstalirate ove aplikacije.</item>
+        <item quantity="one">1 aplikacija uzrokuje kritične pogreške na vašem telefonu. Preporučujemo da deinstalirate ovu aplikaciju.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">Aplikacije (njih %d)</item>
+        <item quantity="one">1 aplikacija</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Zatvorene pozadinske aplikacije</item>
+        <item quantity="one">Zatvorena pozadinska aplikacija</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">Visoku potrošnju baterije ima %d aplikacija. Stavite ih u stanje mirovanja za uštedu energije. Možda neće primati aktualizacije ili slati obavijesti dok ih ponovno ne otvorite.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Visoku potrošnju baterije ima %d aplikacija. Stavite je u stanje mirovanja za uštedu energije. Možda neće primati aktualizacije ili slati obavijesti dok je ponovno ne otvorite.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Visoku potrošnju baterije imaju %d aplikacije. Stavite ih u stanje mirovanja za uštedu energije. Možda neće primati aktualizacije ili slati obavijesti dok ih ponovno ne otvorite.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Pronađeno je %d srušenih aplikacija. Stavite ih u stanje mirovanja za ubrzavanje telefona. Možda neće primati aktualizacije ili slati obavijesti dok ih ponovno ne otvorite.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pronađena je %d srušena aplikacija. Stavite je u stanje mirovanja za ubrzavanje telefona. Možda neće primati aktualizacije ili slati obavijesti dok je ponovno ne otvorite.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pronađene su %d srušene aplikacije. Stavite ih u stanje mirovanja za ubrzavanje telefona. Možda neće primati aktualizacije ili slati obavijesti dok ih ponovno ne otvorite.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Pronađeno je %d srušenih aplikacija. Stavite ih u stanje mirovanja za ubrzavanje tableta. Možda neće primati aktualizacije niti slati obavijesti dok ih ponovno ne otvorite.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pronađena je %d srušena aplikacija. Stavite je u stanje mirovanja za ubrzavanje tableta. Možda neće primati aktualizacije niti slati obavijesti dok je ponovno ne otvorite.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pronađene su %d srušene aplikacije. Stavite ih u stanje mirovanja za ubrzavanje tableta. Možda neće primati aktualizacije niti slati obavijesti dok ih ponovno ne otvorite.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Otkriveno je %d zlonamjernih aplikacija. Deinstalirajte ih kako biste zaštitili telefon.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Otkrivena je %d zlonamjerna aplikacija. Deinstalirajte je kako biste zaštitili telefon.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Otkrivene su %d zlonamjerne aplikacije. Deinstalirajte ih kako biste zaštitili telefon.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Otkriveno je %d zlonamjernih aplikacija. Deinstalirajte ih kako biste zaštitili tablet.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Otkrivena je %d zlonamjerna aplikacija. Deinstalirajte je kako biste zaštitili tablet.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Otkrivene su %d zlonamjerne aplikacije. Deinstalirajte ih kako biste zaštitili tablet.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Otkrivena je sumnjiva aktivnost. Deinstalirajte ove aplikacije da biste zaštitili svoj telefon i podatke.</item>
+        <item quantity="one">Otkrivena je sumnjiva aktivnost. Deinstalirajte niže navedene aplikacije da biste zaštitili svoj telefon i podatke.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Otkrivena je sumnjiva aktivnost. Deinstalirajte te aplikacije da biste zaštitili svoj tablet i podatke.</item>
+        <item quantity="one">Otkrivena je sumnjiva aktivnost. Deinstalirajte niže navedene aplikacije da biste zaštitili svoj tablet i podatke.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Otkrivena je sumnjiva aktivnost. Deinstalirajte ove aplikacije da biste zaštitili svoj telefon i podatke.</item>
+        <item quantity="one">Otkrivena je sumnjiva aktivnost. Deinstalirajte niže navedene aplikacije da biste zaštitili svoj telefon i podatke.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Otkrivena je sumnjiva aktivnost. Deinstalirajte te aplikacije da biste zaštitili svoj tablet i podatke.</item>
+        <item quantity="one">Otkrivena je sumnjiva aktivnost. Deinstalirajte niže navedene aplikacije da biste zaštitili svoj tablet i podatke.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Prepoznato prijetnji: %d</item>
+        <item quantity="one">Otkrivena 1 prijetnja</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">Više prijetnji (njih %d)</item>
+        <item quantity="one">1 prijetnja</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Aplikacije u nastavku uzrokuju kritične pogreške na vašem telefonu. Preporučamo da deinstalirate ove aplikacije. Nakon deinstalacije možda ćete moći instalirati novu verziju svake aplikacije iz trgovine aplikacijama.</item>
+        <item quantity="one">Aplikacija u nastavku uzrokuje kritične pogreške na vašem telefonu. Preporučamo da deinstalirate ovu aplikaciju. Nakon deinstalacije možda ćete moći instalirati novu verziju iz trgovine aplikacijama.</item>
+    </plurals>
+</resources>

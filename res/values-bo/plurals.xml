@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">གནད་དོན་%d་རྙེད་བྱུང་།</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">སྒྲིག་ཆས་བདེ་འཇགས་ཀྱིས་ཉེར་སྤྱོད་%d་གནད་དོན་བཟོ་སྲིད་པ་ཚོར་བྱུང་།དེར་ཞེ་ནག་མཉེན་ཆས་དང་ཉེར་སྤྱོད་ཐོར་བའམ་གློག་སྨན་བེད་སྤྱོད་ཚད་མཐོ་བ་འདུས།</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">ཉིན་%d</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">སྐར་ཆ་%d་ནང་དུ་འཆར་ཡོལ་དུ་བྱ་འགུལ་མི་འདུག</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">ཉེར་སྤྱོད་བྱ་རིམ་%dམལ་འདུག་རྣམ་པར་ཞུགས་ཟིན།</item>
+        <item quantity="one">ཉེར་སྤྱོད་བྱ་རིམ་1མལ་འདུག་རྣམ་པར་ཞུགས་ཟིན།</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">ད་ལྟ་ཉེར་སྤྱོད་བྱ་རིམ་%dམལ་འདུག་རྣམ་པར་འཇུག་བཞིན་ཡོད།</item>
+        <item quantity="one">ད་ལྟ་ཉེར་སྤྱོད་བྱ་རིམ་1མལ་འདུག་རྣམ་པར་འཇུག་བཞིན་ཡོད།</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">ཉེན་ཁ་%1$d་ཚོར་བྱུང་།གནས་འདིར་བརྡེབས་ནས་%2$s་ནང་དུ་ཉེན་ཁ་ཐག་གཅོད་བྱེད།</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">ཉེར་སྤྱོད་%d་ཡིས་ཁྱེད་ཀྱི་ཁ་པར་སྟེང་དུ་ནོར་འཛོལ་ཚབ་ཆེན་སློང་བཞིན་འདུག ཉེར་སྤྱོད་འདི་བཤིག་འདོར་བྱེད་པར་གྲོས་གཞི་ནན་མོ་འདོན།</item>
+        <item quantity="one">ཉེར་སྤྱོད་1་གིས་ཁྱེད་ཀྱི་ཁ་པར་སྟེང་དུ་ནོར་འཛོལ་ཚབ་ཆེན་སློང་བཞིན་འདུག ཉེར་སྤྱོད་འདི་བཤིག་འདོར་བྱེད་པར་གྲོས་གཞི་ནན་མོ་འདོན།</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">ཉེར་སྤྱོད་བྱ་རིམ་%d</item>
+        <item quantity="one">ཉེར་སྤྱོད་བྱ་རིམ་1</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">རྒྱབ་སྟེགས་ཉེར་སྤྱོད་ཀྱི་སྒོ་སྟེམ་ཟིན།</item>
+        <item quantity="one">རྒྱབ་སྟེགས་ཉེར་སྤྱོད་ཀྱི་སྒོ་སྟེམ་ཟིན།</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">ཉེར་སྤྱོད་%d་ཡི་གློག་སྨན་སྤྱད་ཚད་མཐོ།ཉེར་སྤྱོད་འདི་དག་ནི་མལ་གསོར་སྒྲིག་འགོད་བྱས་པ་ན་ཁ་པར་གྱི་མྱུར་ཚད་མགྱོགས་སུ་གཏོང་ཐུབ།སླར་ཁ་འབྱེད་པའི་སྔོན་དུ་མལ་གསོའི་ཉེར་སྤྱོད་ལ་གསར་སྒྱུར་རམ་བརྡ་སྦྱོར་འབྱོར་མི་སྲིད།</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">ཐོར་སོང་བའི་ཉེར་སྤྱོད་%d་ཚོར་བྱུང་།ཉེར་སྤྱོད་འདི་དག་ནི་མལ་གསོར་སྒྲིག་འགོད་བྱས་པ་ན་ད་གཟོད་ཁ་པར་གྱི་མྱུར་ཚད་མཐོར་འདེགས་ཐུབ།སླར་ཁ་འབྱེད་པའི་སྔོན་དུ་མལ་གསོའི་ཉེར་སྤྱོད་ལ་གསར་སྒྱུར་རམ་བརྡ་སྦྱོར་འབྱོར་མི་སྲིད།</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">ཆག་སྐྱོན་བྱུང་བའི་ཉེར་སྤྱོད་%d་རྙེད།ཉེར་སྤྱོད་འདི་ནི་མལ་གསོར་སྒྲིག་འགོད་བྱས་པ་ན་སྙོམ་ལེབ་གློག་ཀླད་རིམ་འཕར་གྱི་འགྲོས་ཚད་མཐོར་འདེགས།སླར་ཁ་འབྱེད་པའི་སྔོན་དུ་མལ་གསོའི་ཉེར་སྤྱོད་ལ་གསར་སྒྱུར་འབྱོར་མི་སྲིད་ལ་བརྡ་སྦྱོར་སྐུར་མི་སྲིད།</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">ཞེ་ནག་ཉེར་སྤྱོད་%d་རྙེད་བྱུང་།ཁ་པར་བདེ་འཇགས་ཀྱི་ཆེད་དུ་ཉེར་སྤྱོད་འདི་དག་བཤིག་འདོར་བྱེད་རོགས།</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">ཞེ་ནག་ཉེར་སྤྱོད་%d་ཚོར་བྱུང་།སྙོམ་ལེབ་གློག་ཀླད་ཀྱི་བདེ་འཇགས་ཀྱི་ཆེད་དུ་ཉེར་སྤྱོད་འདི་དག་བཤིག་འདོར་བྱེད་རོགས།</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">དོགས་གཞིའི་བྱ་འགུལ་ཚོར།ཉེར་སྤྱོད་འདི་དག་བཤིག་འདོར་བྱས་ཏེ་ཁྱེད་ཀྱི་ཁ་པར་དང་དན་གྲངས་སྲུང་སྐྱོང་བྱེད།</item>
+        <item quantity="one">དོགས་ཡོད་བྱ་འགུལ་ཚོར་རྟོགས་བྱུང་ཟིན།གཤམ་གྱི་ཉེར་སྤྱོད་བྱ་རིམ་ཕབ་དོར་བྱས་ནས་ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་དང་གཞི་གྲངས་བདག་སྐྱོང་བྱེད་ཐུབ།</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">དོགས་གཞིའི་བྱ་འགུལ་ཚོར་བྱུང་།ཉེར་སྤྱོད་འདི་དག་བཤིག་འདོར་བྱས་ཏེ་ཁྱེད་ཀྱི་སྙོམ་ལེབ་གློག་ཀླད་དང་དན་གྲངས་སྲུང་སྐྱོང་བྱེད།</item>
+        <item quantity="one">དོགས་ཡོད་བྱ་འགུལ་ཚོར་རྟོགས་བྱུང་ཟིན།གཤམ་གྱི་ཉེར་སྤྱོད་བྱ་རིམ་ཕབ་དོར་བྱས་ནས་ཁྱེད་ཀྱི་ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་དང་གཞི་གྲངས་བདག་སྐྱོང་བྱེད་ཐུབ།</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">དོགས་གཞིའི་བྱ་འགུལ་ཚོར།ཉེར་སྤྱོད་འདི་དག་བཤིག་འདོར་བྱས་ཏེ་ཁྱེད་ཀྱི་ཁ་པར་དང་དན་གྲངས་སྲུང་སྐྱོང་བྱེད།</item>
+        <item quantity="one">དོགས་ཡོད་བྱ་འགུལ་ཚོར་རྟོགས་བྱུང་ཟིན།གཤམ་གྱི་ཉེར་སྤྱོད་བྱ་རིམ་ཕབ་དོར་བྱས་ནས་ཁྱེད་ཀྱི་ལག་ཐོག་ཁ་པར་དང་གཞི་གྲངས་བདག་སྐྱོང་བྱེད་ཐུབ།</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">དོགས་གཞིའི་བྱ་འགུལ་ཚོར་བྱུང་།ཉེར་སྤྱོད་འདི་དག་བཤིག་འདོར་བྱས་ཏེ་ཁྱེད་ཀྱི་སྙོམ་ལེབ་གློག་ཀླད་དང་དན་གྲངས་སྲུང་སྐྱོང་བྱེད།</item>
+        <item quantity="one">དོགས་ཡོད་བྱ་འགུལ་ཚོར་རྟོགས་བྱུང་ཟིན།གཤམ་གྱི་ཉེར་སྤྱོད་བྱ་རིམ་ཕབ་དོར་བྱས་ནས་ཁྱེད་ཀྱི་ཁྱེད་ཀྱི་ངོས་པང་གློག་ཀླད་དང་གཞི་གྲངས་བདག་སྐྱོང་བྱེད་ཐུབ།</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">གཏོར་སྐྱོན་%dའཚོལ་རྟོགས་ཐུབ།</item>
+        <item quantity="one">གཏོར་སྐྱོན་1ཚོར་རྟགས་བྱུང་བ།</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">འཇིགས་ཉེན་%d</item>
+        <item quantity="one">འཇིགས་ཉེན་1</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">གཤམ་གྱི་ཉེར་སྤྱོད་ཀྱིས་ཁྱེད་ཀྱི་ཁ་པར་སྟེང་དུ་ནོར་འཛོལ་ཚབ་ཆེན་སློང་།ཉེར་འདི་དག་བཤིག་འདོར་བྱེད་པར་གྲོས་གཞི་ནན་མོ་འདོན།བཤིག་འདོར་བྱས་རྗེས།ཁྱེད་ཀྱི་ཉེར་སྤྱོད་ཚོང་ཁང་ནས་ཉེར་སྤྱོད་དག་གི་པར་གཞི་གསར་བ་སྒྲིག་འཇུག་བྱས་ཆོག</item>
+        <item quantity="one">གཤམ་གྱི་ཉེར་སྤྱོད་ཀྱིས་ཁྱེད་ཀྱི་ཁ་པར་སྟེང་དུ་ནོར་འཛོལ་ཚབ་ཆེན་སློང་།ཉེར་འདི་བཤིག་འདོར་བྱེད་པར་གྲོས་གཞི་ནན་མོ་འདོན།བཤིག་འདོར་བྱས་རྗེས།ཁྱེད་ཀྱི་ཉེར་སྤྱོད་ཚོང་ཁང་ནས་ཉེར་སྤྱོད་པར་གཞི་གསར་བ་སྒྲིག་འཇུག་བྱས་ཆོག</item>
+    </plurals>
+</resources>

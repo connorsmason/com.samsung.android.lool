@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d ката аныкталды</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ката аныкталды</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Түзмөктөргө кам көрүү кызматы зыяндуу программалар, колдонмо бузуулары же жогорку батарея керектөөсү кошулган көйгөйлөрдү камтыган %d колдонмону аныктады.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Түзмөктөргө кам көрүү кызматы зыяндуу программалар, колдонмо бузуулары же жогорку батарея керектөөсү кошулган көйгөйлөрдү камтыган %d колдонмону аныктады.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d күн</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d күн</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">%d секунда бою иштетилбесе, экран өчүрүлөт.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d секунда бою иштетилбесе, экран өчүрүлөт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d колдонмо уктатылды.</item>
+        <item quantity="one">1 колдонмо уктатылды.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d колдонмону уктатууда…</item>
+        <item quantity="one">1 колдонмону уктатууда…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d коркунуч аныкталды. Аларды %2$s ичинде чечүү үчүн бул жерди басыңыз.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d коркунуч аныкталды. Аны %2$s ичинде чечүү үчүн бул жерди басыңыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d колдонмо телефонуңузда олуттуу каталарды жаратууда. Бул колдонмолорду өчүрүү абдан сунуш кылынат.</item>
+        <item quantity="one">1 колдонмо телефонуңузда олуттуу каталарды жаратууда. Бул колдонмону өчүрүү абдан сунуш кылынат.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d колдонмо</item>
+        <item quantity="one">1 колдонмо</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Фондук колдонмолор жабылды</item>
+        <item quantity="one">Фондук колдонмо жабылды</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">Батареяңызды түгөтүп жаткан %d колдонмо. Кубатты сактоо үчүн аларды уктоо режимине коюңуз. Сиз аларды кайра ачмайынча, алар жаңыртууларды кабыл алып же эскертүүлөрдү жөнөтпөйт.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Батареяңызды түгөтүп жаткан %d колдонмо. Кубатты сактоо үчүн аны уктоо режимине коюңуз. Сиз аны кайра ачмайынча, ал жаңыртууларды кабыл алып же эскертүүлөрдү жөнөтпөйт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d бузулган колдонмо табылды. Телефонуңузду тездетүү үчүн аларды уктатыңыз. Сиз аларды кайра ачмайынча, алар жаңыртууларды кабыл алып же эскертүүлөрдү жөнөтпөйт.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d бузулган колдонмо табылды. Телефонуңузду тездетүү үчүн аны уктатыңыз. Сиз аны кайра ачмайынча, ал жаңыртууларды кабыл алып же эскертүүлөрдү жөнөтпөйт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d бузулган колдонмо табылды. Аларды уйкуга коюп, планшетиңизди тездетиңиз. Кайра ачмайынча, алар жаңыртууларды кабыл алып же билдирүүлөрдү жөнөтө алышпайт.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d бузулган колдонмо табылды. Аны уйкуга коюп, планшетиңизди тездетиңиз. Кайра ачмайынча, ал жаңыртууларды кабыл алып же билдирүүлөрдү жөнөтө алышпайт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d зыяндуу колдонмо аныкталды. Телефонуңузду коопсуз сактоого, аларды өчүрүңүз.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d зыяндуу колдонмо аныкталды. Телефонуңузду коопсуз сактоого, аны өчүрүңүз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d зыяндуу колдонмо аныкталды. Планшетиңизди коопсуз сактоо үчүн, аларды өчүрүңүз.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d зыяндуу колдонмо аныкталды. Планшетиңизди коопсуз сактоо үчүн, аны өчүрүңүз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Шектүү иш-аракет аныкталды. Телефонуңузду жана маалыматтарыңызды коргоо үчүн төмөндөгү колдонмолорду өчүрүңүз.</item>
+        <item quantity="one">Күмөндүү иш-аракет аныкталды. Телефонуңузду жана маалыматтарыңызды коргоо үчүн төмөндөгү колдонмолорду өчүрүңүз.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Шектүү иш-аракеттер аныкталды. Бул колдонмолорду өчүрүп, планшетиңиз жана маалыматтарыңызды коргоңуз.</item>
+        <item quantity="one">Күмөндүү иш-аракет аныкталды. Планшетиңизди жана маалыматтарыңызды коргоо үчүн төмөндөгү колдонмолорду өчүрүңүз.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Шектүү иш-аракет аныкталды. Телефонуңузду жана маалыматтарыңызды коргоо үчүн төмөндөгү колдонмолорду өчүрүңүз.</item>
+        <item quantity="one">Күмөндүү иш-аракет аныкталды. Телефонуңузду жана маалыматтарыңызды коргоо үчүн төмөндөгү колдонмолорду өчүрүңүз.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Шектүү иш-аракеттер аныкталды. Бул колдонмолорду өчүрүп, планшетиңиз жана маалыматтарыңызды коргоңуз.</item>
+        <item quantity="one">Күмөндүү иш-аракет аныкталды. Планшетиңизди жана маалыматтарыңызды коргоо үчүн төмөндөгү колдонмолорду өчүрүңүз.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d коркунуч аныкталды</item>
+        <item quantity="one">1 коркунуч аныкталды</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d коркунуч</item>
+        <item quantity="one">1 коркунуч</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Төмөндөгү колдонмо телефонуңузда олуттуу каталарды жаратууда. Бул колдонмолорду өчүрүү абдан сунуш кылынат. Өчүргөндөн кийин, ар бир колдонмонун жаңы нускасын колдонмо дүкөнүнөн орното аласыз.</item>
+        <item quantity="one">Төмөндөгү бул колдонмо телефонуңузда олуттуу каталарды жаратууда. Бул колдонмону өчүрүү абдан сунуш кылынат. Өчүргөндөн кийин, жаңы нускасын колдонмо дүкөнүнөн орното аласыз.</item>
+    </plurals>
+</resources>

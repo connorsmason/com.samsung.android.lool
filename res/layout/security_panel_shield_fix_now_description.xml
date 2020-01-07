@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerRelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/second_depth_circle_normal_padding_horizontal" android:paddingVertical="@dimen/second_depth_fix_now_desc_padding_vertical"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/second_depth_fix_now_desc_text_size" android:textColor="@color/second_depth_fix_now_desc_text_color_theme" android:gravity="center" android:id="@id/fix_now_description_tv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/fix_now_description_security_text" />
+</com.samsung.android.sm.view.RoundedCornerRelativeLayout>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d સમસ્યાઓ મળી</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d સમસ્યા મળી</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">ઉપકરણ કેરને %d એપ્સ મળી છે જે માલવેર, એપ ક્રેશીસ અથવા ઉચ્ચ બેટરી વપરાશ સહિતની સમસ્યાઓનું કારણ હોઈ શકે છે.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ઉપકરણ કેરને %d એપ મળી છે જે માલવેર, એપ ક્રેશીસ અથવા ઉચ્ચ બેટરી વપરાશ સહિતની સમસ્યાઓનું કારણ હોઈ શકે છે.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d દિવસો</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d દિવસ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">%d સેકંડ સુધી નિષ્ક્રિય રહ્યા બાદ સ્ક્રીન બંધ થઈ જશે.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d સેકંડ સુધી નિષ્ક્રિય રહ્યા બાદ સ્ક્રીન બંધ થઈ જશે.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d એપ્સ નિદ્રા અવસ્થામાં મૂકી.</item>
+        <item quantity="one">1 એપને નિદ્રા અવસ્થામાં મૂકી છે.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d એપ્સને નિદ્રામાં મૂકી રહ્યાં છે…</item>
+        <item quantity="one">1 એપને નિદ્રામાં મૂકી રહ્યાં છે…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d જોખમો મળ્યાં. તેમને %2$s માં ઉકેલવા માટે અહીં ટૅપ કરો.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d જોખમ મળ્યું. તેને %2$s માં ઉકેલવા માટે અહીં ટૅપ કરો.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d ઍપ્સ તમારા ફોન પર ગંભીર ભૂલોનું કારણ બની છે. આ ઍપ્સને અનઇન્સ્ટૉલ કરવું એ સખત ભલામણ કરવામાં આવે છે.</item>
+        <item quantity="one">1 ઍપ તમારા ફોન પર ગંભીર ભૂલોનું કારણ બની છે. આ ઍપને અનઇન્સ્ટૉલ કરવું એ ભલામણ કરેલ છે.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d એપ્સ</item>
+        <item quantity="one">1 એપ</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">બૅકગ્રાઉન્ડ ઍપ્સ બંધ કરેલ છે</item>
+        <item quantity="one">બૅકગ્રાઉન્ડ ઍપ બંધ કરેલ છે</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">ઉચ્ચ બેટરી વપરાશ સાથે %d એપ્સ. પાવર બચાવવા તેને નિષ્ક્રિય કરો. તમે તેને ફરીથી ખોલશો નહીં ત્યાં સુધી તેને અપડેટ્સ પ્રાપ્ત થશે નહીં અથવા તે સૂચનાઓ મોકલી શકશે નહીં.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ઉચ્ચ બેટરી વપરાશ સાથેની %d એપ. પાવર બચાવવા તેને નિષ્ક્રિય પર મૂકો. તમે તેને ફરીથી ખોલશો નહીં ત્યાં સુધી તેને અપડેટ્સ પ્રાપ્ત થશે નહીં અથવા તે સૂચનાઓ મોકલી શકશે નહીં.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d ક્રેશ એપ્સ મળી. તમારા ફોનની ઝડપ વધારવા તેને નિષ્ક્રિય કરો. તમે તેને ફરીથી ખોલશો નહીં ત્યાં સુધી તેને અપડેટ્સ પ્રાપ્ત થશે નહીં અથવા તે સૂચનાઓ મોકલી શકશે નહીં.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ક્રેશ થયેલ એપ મળી. તમારા ફોનની ઝડપ વધારવા તેને નિષ્ક્રિય પર મૂકો. તમે તેને ફરીથી ખોલશો નહીં ત્યાં સુધી તેને અપડેટ્સ પ્રાપ્ત થશે નહીં અથવા તે સૂચનાઓ મોકલી શકશે નહીં.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d ક્રૅશ થયેલ એપ્સ મળી. તમારા ટૅબ્લેટની ઝડપ વધારવા તેમને નિષ્ક્રિય કરો. તમે તેમને ફરીથી ખોલશો નહીં ત્યાં સુધી તેમને અપડેટ્સ પ્રાપ્ત થશે નહીં અથવા તે સૂચનાઓ મોકલી શકશે નહીં.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ક્રૅશ થયેલ એપ મળી. તમારા ટૅબ્લેટની ઝડપ વધારવા તેને નિષ્ક્રિય કરો. તમે તેને ફરીથી ખોલશો નહીં ત્યાં સુધી તેને અપડેટ્સ પ્રાપ્ત થશે નહીં અથવા તે સૂચનાઓ મોકલી શકશે નહીં.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d માલવેર ઍપ્સ મળી. તમારા ફોનને સુરક્ષિત રાખવા માટે તેમને અનઇન્સ્ટૉલ કરો.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d માલવેર ઍપ મળી. તમારા ફોનને સુરક્ષિત રાખવા માટે તેને અનઇન્સ્ટૉલ કરો.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d માલવેર ઍપ્સ મળી. તમારા ટૅબ્લેટને સુરક્ષિત રાખવા માટે તેમને અનઇન્સ્ટૉલ કરો.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d માલવેર ઍપ મળી. તમારા ટૅબ્લેટને સુરક્ષિત રાખવા માટે તેને અનઇન્સ્ટૉલ કરો.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">શંકાસ્પદ પ્રવૃત્તિ શોધવામાં આવી છે. તમારા ફોન અને ડેટાનું રક્ષણ કરવા માટે આ ઍપ્સ અનઇન્સ્ટૉલ કરો.</item>
+        <item quantity="one">શંકાસ્પદ પ્રવૃત્તિ શોધાઈ. તમારા ફોન અને ડેટાનું રક્ષણ કરવા માટે નીચેની ઍપ્સ અનઇન્સ્ટૉલ કરો.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">શંકાસ્પદ પ્રવૃત્તિ શોધવામાં આવી છે. તમારા ટેબ્લેટ અને ડેટાનું રક્ષણ કરવા માટે આ ઍપ્સ અનઇન્સ્ટૉલ કરો.</item>
+        <item quantity="one">શંકાસ્પદ પ્રવૃત્તિ શોધાઈ. તમારા ટેબ્લેટ અને ડેટાનું રક્ષણ કરવા માટે નીચેની ઍપ્સ અનઇન્સ્ટૉલ કરો.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">શંકાસ્પદ પ્રવૃત્તિ શોધવામાં આવી છે. તમારા ફોન અને ડેટાનું રક્ષણ કરવા માટે આ ઍપ્સ અનઇન્સ્ટૉલ કરો.</item>
+        <item quantity="one">શંકાસ્પદ પ્રવૃત્તિ શોધાઈ. તમારા ફોન અને ડેટાનું રક્ષણ કરવા માટે નીચેની ઍપ્સ અનઇન્સ્ટૉલ કરો.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">શંકાસ્પદ પ્રવૃત્તિ શોધવામાં આવી છે. તમારા ટેબ્લેટ અને ડેટાનું રક્ષણ કરવા માટે આ ઍપ્સ અનઇન્સ્ટૉલ કરો.</item>
+        <item quantity="one">શંકાસ્પદ પ્રવૃત્તિ શોધાઈ. તમારા ટેબ્લેટ અને ડેટાનું રક્ષણ કરવા માટે નીચેની ઍપ્સ અનઇન્સ્ટૉલ કરો.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d જોખમો શોધાયાં</item>
+        <item quantity="one">1 જોખમ શોધ્યું</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d જોખમો</item>
+        <item quantity="one">1 જોખમ</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">નીચે આપેલ ઍપ્સ તમારા ફોન પર ગંભીર ભૂલોનું કારણ બની છે. આ ઍપ્સને અનઇન્સ્ટૉલ કરવું એ સખત ભલામણ કરવામાં આવે છે. અનઇન્સ્ટૉલ કર્યા પછી, ઍપ સ્ટોર માંથી તમે દરેક ઍપનું નવું વર્ઝન ઇન્સ્ટૉલ કરી શકશો.</item>
+        <item quantity="one">નીચે આપેલ ઍપ તમારા ફોન પર ગંભીર ભૂલોનું કારણ બની છે. આ ઍપને અનઇન્સ્ટૉલ કરવું એ ભલામણ કરેલ છે. અનઇન્સ્ટૉલ કર્યા પછી, ઍપ સ્ટોર માંથી નવું વર્ઝન ઇન્સ્ટૉલ કરી શકશો.</item>
+    </plurals>
+</resources>

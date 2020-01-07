@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:background="?winsetLightThemeBgColor" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/SMWinset.AppToolBarStyle" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true">
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/security_main_container" android:background="?android:windowBackground" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <FrameLayout android:name="com.samsung.android.sm.security.PanelShieldFragment" android:id="@id/panel_shield_fragment_container" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <FrameLayout android:name="com.samsung.android.sm.security.SecurityInformationFragment" android:id="@id/security_information_fragment_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    </ScrollView>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

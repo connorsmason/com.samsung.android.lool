@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d мәселе анықталды</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d мәселе анықталды</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">“Құрылғы күтімі” қызметі мәселелерді, оның ішінде зиянды бағдарламаны, қолданба ақауларын немесе батарея қуатын көп тұтынуды қоса туындатуы мүмкін %d қолданбаны анықтады.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">“Құрылғы күтімі” қызметі мәселелерді, оның ішінде зиянды бағдарламаны, қолданба ақауларын немесе батарея қуатын көп тұтынуды қоса туындатуы мүмкін %d қолданбаны анықтады.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d күн</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d күн</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Экран %d секунд әрекетсіздіктен кейін өшіріледі.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Экран %d секунд әрекетсіздіктен кейін өшіріледі.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d қолданба ұйқылық күйге ауыстырылды.</item>
+        <item quantity="one">1 қолданба ұйқылық күйге ауыстырылды.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d қолданба ұйқылық күйге ауыстырылуда…</item>
+        <item quantity="one">1 қолданба ұйқылық күйге ауыстырылуда…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d қауіп анықталды. Оларды %2$s қызметінде шешу үшін осы жерді түртіңіз.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d қауіп анықталды. Оны %2$s қызметінде шешу үшін осы жерді түртіңіз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d қолданба телефоныңызда өте қауіпті қателерді туындатып жатыр. Осы қолданбаларды жоюға қатаң түрде кеңес беріледі.</item>
+        <item quantity="one">1 қолданба телефоныңызда өте қауіпті қателерді туындатып жатыр. Осы қолданбаны жоюға қатаң түрде кеңес беріледі.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d қолданба</item>
+        <item quantity="one">1 қолданба</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Фондық қолданбалар жабылды</item>
+        <item quantity="one">Фондық қолданба жабылды</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d қолданба батарея қуатын көп тұтынуда. Қуатты үнемдеу мақсатында оларды ұйқылық күйге ауыстырыңыз. Сіз оларды қайтадан ашпайынша, олар жаңартуларды алмауы немесе хабарландыруларды жібермеуі мүмкін.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d қолданба батарея қуатын көп тұтынуда. Қуатты үнемдеу мақсатында оны ұйқылық күйге ауыстырыңыз. Сіз оны қайтадан ашпайынша, ол жаңартуларды алмауы немесе хабарландыруларды жібермеуі мүмкін.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d бүлінген қолданба табылды. Телефоныңыздың жұмысын жылдамдату мақсатында оларды ұйқылық күйге ауыстырыңыз. Сіз оларды қайтадан ашпайынша, олар жаңартуларды алмауы немесе хабарландыруларды жібермеуі мүмкін.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d бүлінген қолданба табылды. Телефоныңыздың жұмысын жылдамдату мақсатында оны ұйқылық күйге ауыстырыңыз. Сіз оны қайтадан ашпайынша, ол жаңартуларды алмауы немесе хабарландыруларды жібермеуі мүмкін.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d бүлінген қолданба табылды. Планшетіңіздің жұмысын жылдамдату мақсатында оларды ұйқылық күйге ауыстырыңыз. Сіз оларды қайтадан ашпайынша, олар жаңартуларды алмауы немесе хабарландыруларды жібермеуі мүмкін.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d бүлінген қолданба табылды. Планшетіңіздің жұмысын жылдамдату мақсатында оны ұйқылық күйге ауыстырыңыз. Сіз оны қайтадан ашпайынша, ол жаңартуларды алмауы немесе хабарландыруларды жібермеуі мүмкін.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d зиянды қолданба анықталды. Телефоныңыздың қауіпсіздігін сақтау мақсатында оларды жойыңыз.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d зиянды қолданба анықталды. Телефоныңыздың қауіпсіздігін сақтау мақсатында оны жойыңыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d зиянды қолданба анықталды. Планшетіңіздің қауіпсіздігін сақтау мақсатында оларды жойыңыз.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d зиянды қолданба анықталды. Планшетіңіздің қауіпсіздігін сақтау мақсатында оны жойыңыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Күдікті әрекет анықталды. Телефоныңыз бен деректеріңізді қорғау мақсатында осы қолданбаларды жойыңыз.</item>
+        <item quantity="one">Күдікті әрекет анықталды. Телефонды және деректерді қорғау үшін төмендегі қолданбаларды жойыңыз.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Күдікті әрекет анықталды. Планшетті және деректерді қорғау үшін осы қолданбаларды жойыңыз.</item>
+        <item quantity="one">Күдікті әрекет анықталды. Планшетті және деректерді қорғау үшін төмендегі қолданбаларды жойыңыз.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Күдікті әрекет анықталды. Телефоныңыз бен деректеріңізді қорғау мақсатында осы қолданбаларды жойыңыз.</item>
+        <item quantity="one">Күдікті әрекет анықталды. Телефонды және деректерді қорғау үшін төмендегі қолданбаларды жойыңыз.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Күдікті әрекет анықталды. Планшетті және деректерді қорғау үшін осы қолданбаларды жойыңыз.</item>
+        <item quantity="one">Күдікті әрекет анықталды. Планшетті және деректерді қорғау үшін төмендегі қолданбаларды жойыңыз.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d қате анықталды</item>
+        <item quantity="one">1 қате анықталды</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d қауіп</item>
+        <item quantity="one">1 қауіп</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Төмендегі қолданбалар телефоныңызда өте қауіпті қателерді туындатып жатыр. Осы қолданбаларды жоюға қатаң түрде кеңес беріледі. Жойғаннан кейін, әрбір қолданбаның жаңа нұсқасын қолданба дүкенінен орната аласыз.</item>
+        <item quantity="one">Төмендегі қолданба телефоныңызда өте қауіпті қателерді туындатып жатыр. Осы қолданбаны жоюға қатаң түрде кеңес беріледі. Жойғаннан кейін, жаңа нұсқаны қолданба дүкенінен орната аласыз.</item>
+    </plurals>
+</resources>

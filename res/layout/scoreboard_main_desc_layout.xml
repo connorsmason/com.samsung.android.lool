@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/score_description_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/fix_now_container" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/SMWinset.DescriptionStyle">
+        <TextView android:textAppearance="@style/SMWinset.Font.Roboto" android:textSize="@dimen/scoreboard_score_guide_text_size" android:textColor="@color/scoreboard_guide_text_color_theme" android:ellipsize="end" android:gravity="center" android:id="@id/score_guide_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="0.5" android:lineSpacingExtra="?winsetDescriptionTextLineSpace" android:layout_marginVertical="@dimen/scoreboard_container_space_vertical" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="0.5" android:layout_marginVertical="@dimen/scoreboard_optimise_button_margin_vertical">
+            <com.samsung.android.sm.view.FixButtonView android:layout_gravity="center" android:id="@id/fix_now_button" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/FixNowButtonTextStyle" />
+        </FrameLayout>
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/loading_text_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginVertical="@dimen/scoreboard_container_space_vertical" style="@style/SMWinset.DescriptionStyle">
+        <TextView android:textSize="@dimen/scoreboard_score_guide_text_size" android:textColor="@color/scoreboard_guide_text_color_theme" android:id="@id/scan_progress_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textSize="@dimen/scoreboard_score_guide_text_size" android:textColor="@color/scoreboard_guide_text_color_theme" android:gravity="center" android:id="@id/loading_text" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</FrameLayout>

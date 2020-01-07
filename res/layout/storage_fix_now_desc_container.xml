@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.AutoResizeTextView android:textSize="@dimen/second_depth_fix_now_desc_text_size" android:textColor="@color/second_depth_fix_now_desc_text_color_theme" android:ellipsize="end" android:gravity="center" android:id="@id/fix_now_description_tv" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:paddingHorizontal="@dimen/second_depth_circle_normal_padding_horizontal" android:paddingVertical="@dimen/second_depth_fix_now_desc_padding_vertical"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

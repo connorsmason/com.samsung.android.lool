@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">ပြဿနာ %d ခု ရှာတွေ့ထားသည်</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">ကိရိယာစောင့်ရှောက်နည်းသည် မဲဝဲလ်၊ အက်ပ်ဖျက်ဆီးခြင်းများ၊ (သို့) နှုန်းမြင့်ဘက်ထရီအား အသုံးပြုမှုတို့ အပါအဝင် ပြဿနာများ ဖြစ်စေနိုင်သည့် အက်ပ် %d ခုကို ရှာတွေ့ထားသည်။</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d ရက်</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">အသုံးမပြုချိန် %d စက္ကန့်ကြာပြီးနောက် ဖန်သားပြင် ပိတ်သွားပါမည်။</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">အက်ပ် %d ခုကို အနားပေးမှုတွင် ထားရှိပြီးပါပြီ။</item>
+        <item quantity="one">အက်ပ် ၁ ခုကို အနားပေးမှုသို့ ထည့်ပြီးပါပြီ။</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">အက်ပ် %d ခုကို ရပ်နားမှုသို့ ထားရှိနေဆဲ…</item>
+        <item quantity="one">အက်ပ် ၁ ခုကို ရပ်နားမှုသို့ ထားရှိနေဆဲ…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d အန္တရာယ်ပေးမှုများကို ရှာတွေ့ထားသည်။ ၎င်းတို့အား %2$s တွင် ဖြေရှင်းရန် ဒီမှာ နှိပ်ပါ။</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">အက်ပ် %d ခုက သင့်ဖုန်းတွင် အရေးကြီးသော ချွတ်ယွင်းချက်များကို ဖြစ်စေသည်။ ဤအက်ပ်များအား ဖြုတ်ပစ်ရန် အပြင်းအထန်အကြံပြုပါသည်။</item>
+        <item quantity="one">အက်ပ် ၁ ခုသည် သင့်ဖုန်းတွင် အလွန်အရေးကြီးသော ချွတ်ယွင်းချက်များကို ပေါ်ပေါက်စေသည်။ ဤအက်ပ်အားဖြုတ်ပစ်ရန် အပြင်းအထန်အကြံပြုပါသည်။</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">အက်ပ် %d ခု</item>
+        <item quantity="one">အက်ပ် ၁ ခု</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">နောက်ခံအက်ပ်များကို ပိတ်ထားသည်</item>
+        <item quantity="one">နောက်ခံအက်ပ်ကို ပိတ်ထားသည်</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">နှုန်းမြင့်ဘက်ထရီအား အသုံးပြုမှုရှိသော အက်ပ် %d ခု။ ပါဝါချွေတာရန် ၎င်းတို့ကို အနားပေးပုံစံတွင် ထားရှိပါ။ ၎င်းတို့ကို ပြန်မဖွင့်မချင်း ၎င်းတို့က အပ်ဒိတ်များကို လက်ခံမည်မဟုတ်ပါ (သို့) အသိပေးချက်များ ပေးပို့မည်မဟုတ်ပါ။</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">ပျက်နေသော အက်ပ် %d ခုကို တွေ့ထားသည်။ သင့်ဖုန်း မြန်နှုန်းမြှင့်တင်ရန် ၎င်းတို့ကို အနားပေးပုံစံတွင် ထားရှိပါ။ ၎င်းတို့ကို ပြန်မဖွင့်မချင်း ၎င်းတို့က အပ်ဒိတ်များကို လက်ခံမည်မဟုတ်ပါ (သို့) အသိပေးချက်များ ပေးပို့မည်မဟုတ်ပါ။</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">ပျက်နေသော အက်ပ် %d ခုကို တွေ့ထားသည်။ သင့်တက်ဘလက် ပိုမြန်စေရန် ၎င်းတို့ကို အနားပေးမှုတွင် ထားရှိပါ။ ၎င်းတို့ကို ပြန်မဖွင့်မချင်း ၎င်းတို့က အပ်ဒိတ်များကို လက်ခံမည်မဟုတ်ပါ (သို့) အသိပေးချက်များ ပေးပို့မည်မဟုတ်ပါ။</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">မဲဝဲလ်အက်ပ် %d ခု ရှာတွေ့ထားသည်။ သင့်ဖုန်း လုံခြုံစိတ်ချစွာ ထားရှိရန် ၎င်းတို့ကို ဖြုတ်ထုတ်ပါ။</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">မဲဝဲလ်အက်ပ် %d ခု ရှာတွေ့ထားသည်။ သင့်တက်ဘလက် လုံခြုံစိတ်ချစွာ ထားရှိရန် ၎င်းတို့ကို ဖြုတ်ထုတ်ပါ။</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">မသင်္ကာဖွယ် လုပ်ဆောင်မှုကို တွေ့ရှိထားပါသည်။ သင့်ဖုန်းနှင့် ဒေတာကိုကာကွယ်ရန် ဤအက်ပ်များကို ဖြုတ်ပါ။</item>
+        <item quantity="one">မသင်္ကာဖွယ် လုပ်ဆောင်မှုကို တွေ့ရှိထားပါသည်။ သင့်ဖုန်းနှင့် ဒေတာကိုကာကွယ်ရန် အောက်ပါအက်ပ်များကို ဖြုတ်ပါ။</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">မသင်္ကာဖွယ် လုပ်ဆောင်မှုကို တွေ့ရှိထားပါသည်။ သင့်တက်ဘလက်နှင့် ဒေတာကိုကာကွယ်ရန် ဤအက်ပ်များကို ဖြုတ်ပါ။</item>
+        <item quantity="one">မသင်္ကာဖွယ် လုပ်ဆောင်မှုကို တွေ့ရှိထားပါသည်။ သင့်တက်ဘလက်နှင့် ဒေတာကိုကာကွယ်ရန် အောက်ပါအက်ပ်များကို ဖြုတ်ပါ။</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">မသင်္ကာဖွယ် လုပ်ဆောင်မှုကို တွေ့ရှိထားပါသည်။ သင့်ဖုန်းနှင့် ဒေတာကိုကာကွယ်ရန် ဤအက်ပ်များကို ဖြုတ်ပါ။</item>
+        <item quantity="one">မသင်္ကာဖွယ် လုပ်ဆောင်မှုကို တွေ့ရှိထားပါသည်။ သင့်ဖုန်းနှင့် ဒေတာကိုကာကွယ်ရန် အောက်ပါအက်ပ်များကို ဖြုတ်ပါ။</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">မသင်္ကာဖွယ် လုပ်ဆောင်မှုကို တွေ့ရှိထားပါသည်။ သင့်တက်ဘလက်နှင့် ဒေတာကိုကာကွယ်ရန် ဤအက်ပ်များကို ဖြုတ်ပါ။</item>
+        <item quantity="one">မသင်္ကာဖွယ် လုပ်ဆောင်မှုကို တွေ့ရှိထားပါသည်။ သင့်တက်ဘလက်နှင့် ဒေတာကိုကာကွယ်ရန် အောက်ပါအက်ပ်များကို ဖြုတ်ပါ။</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">အန္တရာယ် %d ခုတို့ ရှာသိထားသည်</item>
+        <item quantity="one">အန္တရာယ် ၁ ခု ရှာသိထားသည်</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">ခြိမ်းခြောက်မှု %d ခု</item>
+        <item quantity="one">ခြိမ်းခြောက်မှု ၁ ခု</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">အောက်ပါ အက်ပ်များက သင့်ဖုန်းတွင် အရေးကြီးသော ချွတ်ယွင်းချက်များကို ဖြစ်စေသည်။ ဤအက်ပ်များအား ဖြုတ်ပစ်ရန် အပြင်းအထန်အကြံပြုပါသည်။ ဖြုတ်ပြီးနောက်တွင် အက်ပ်စတိုးတစ်ခုမှ အက်ပ်တစ်ခုစီအတွက် ဗားရှင်းအသစ်တစ်ခုကို သင် ထည့်သွင်း၍ ရနိုင်ပါသည်။</item>
+        <item quantity="one">အောက်ပါ အက်ပ်က သင့်ဖုန်းတွင် အရေးကြီးသောချွတ်ယွင်းချက်များ ဖြစ်စေသည်။ ဤအက်ပ်အားဖြုတ်ပစ်ရန် အပြင်းအထန်အကြံပြုပါသည်။ ဖြုတ်ပြီးနောက်တွင် အက်ပ်စတိုးတစ်ခုမှ ဗားရှင်းအသစ်တစ်ခုကို သင် ထည့်သွင်း၍ ရနိုင်ပါသည်။</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center_horizontal" android:layout_width="@dimen/grid_image_item_width" android:layout_height="wrap_content" android:layoutDirection="locale"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center_horizontal" android:id="@id/thumbnail_layout" android:paddingTop="@dimen/grid_image_item_padding" android:layout_width="@dimen/grid_image_item_width" android:layout_height="@dimen/grid_image_item_height" android:paddingStart="@dimen/grid_image_item_padding" android:paddingEnd="@dimen/grid_image_item_padding">
+        <ImageView android:id="@id/thumbnail" android:background="@color/image_loading_color" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/image" />
+        <ImageView android:id="@id/checkbox_bg" android:background="@drawable/gallery_btn_uncheck_bg" android:layout_width="@dimen/gallery_btn_uncheck_bg_size" android:layout_height="@dimen/gallery_btn_uncheck_bg_size" />
+        <CheckBox android:theme="@style/GridViewCheckBoxTheme" android:id="@id/checkbox" android:focusable="false" android:clickable="false" android:layout_width="@dimen/checkbox_height_width" android:layout_height="@dimen/checkbox_height_width" android:checkable="true" />
+        <ImageView android:layout_gravity="end|bottom|center" android:id="@id/btnFullImage" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gallery_ic_time_selected" android:adjustViewBounds="true" android:contentDescription="@string/full_image_button" />
+    </FrameLayout>
+    <TextView android:id="@id/file_name" android:layout_below="@id/thumbnail_layout" android:layout_centerHorizontal="true" android:paddingStart="@dimen/grid_image_item_padding" android:paddingEnd="@dimen/grid_image_item_padding" style="@style/GridItemTextStyle" />
+</RelativeLayout>

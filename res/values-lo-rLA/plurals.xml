@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">ກວດພົບ %d ບັນຫາແລ້ວ</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">ການດູແລອຸປະກອນໄດ້ກວດພົບ %d ແອັບທີ່ອາດຈະເຮັດເກີດມີບັນຫາ, ລວມເຖິງ ມາລແວ, ແອັບຂັດຂ້ອງ, ຫຼື ການໃຊ້ແບັດເຕີຣີສູງ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d ວັນ</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">ໜ້າຈໍຈະປິດຫຼັງຈາກບໍ່ມີການໃຊ້ງານ %d ວິນາທີ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d ແອັບໄດ້ຖືກເຮັດໃຫ້ນອນຫຼັບ.</item>
+        <item quantity="one">1 ແອັບໄດ້ຖືກເຮັດໃຫ້ນອນຫຼັບ.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">ກຳລັງເຮັດໃຫ້ %d ແອັບນອນຫຼັບ…</item>
+        <item quantity="one">ກຳລັງເຮັດໃຫ້ 1 ແອັບນອນຫຼັບ…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">ກວດພົບ %1$d ອັນຕະລາຍແລ້ວ. ແຕະທີ່ນີ້ເພື່ອແກ້ໄຂພວກມັນໃນ %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d ແອັບກຳລັງເຮັດໃຫ້ເກີດຂໍ້ຂັດຂ້ອງທີ່ສຳຄັນໃນໂທລະສັບຂອງທ່ານ. ຂໍ້ແນະນຳຢ່າງຈິງຈັງໃຫ້ມີການຖອນຕິດຕັ້ງແອັບເຫຼົ່ານີ້.</item>
+        <item quantity="one">1 ແອັບກຳລັງເຮັດໃຫ້ເກີດຂໍ້ຂັດຂ້ອງທີ່ສຳຄັນໃນໂທລະສັບຂອງທ່ານ. ຂໍ້ແນະນຳຢ່າງຈິງຈັງໃຫ້ມີການຖອນຕິດຕັ້ງແອັບນີ້.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d ແອັບ</item>
+        <item quantity="one">1 ແອັບ</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">ປິດແອັບພື້ນຫຼັງແລ້ວ</item>
+        <item quantity="one">ປິດແອັບພື້ນຫຼັງແລ້ວ</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d ແອັບທີ່ມີການໃຊ້ແບັດເຕີຣີສູງ. ເຮັດໃຫ້ພວກມັນຫຼັບເພື່ອປະຢັດໄຟ. ພວກມັນອາດຈະບໍ່ໄດ້ຮັບການອັບເດດ ຫຼື ສົ່ງການແຈ້ງເຕືອນຈົນກວ່າທ່ານເປີດພວກມັນອີກຄັ້ງ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">ພົບ %d ແອັບທີ່ຂັດຂ້ອງແລ້ວ. ເຮັດໃຫ້ພວກມັນຫຼັບເພື່ອເພີ່ມຄວາມໄວໂທລະສັບຂອງທ່ານ. ພວກມັນອາດຈະບໍ່ໄດ້ຮັບການອັບເດດ ຫຼື ສົ່ງການແຈ້ງເຕືອນຈົນກວ່າທ່ານເປີດພວກມັນອີກຄັ້ງ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">ພົບ %d ແອັບທີ່ຂັດຂ້ອງແລ້ວ. ເຮັດໃຫ້ພວກມັນຫຼັບເພື່ອເພີ່ມຄວາມໄວແທັບເລັດຂອງທ່ານ. ພວກມັນອາດຈະບໍ່ໄດ້ຮັບການອັບເດດ ຫຼື ສົ່ງການແຈ້ງເຕືອນຈົນກວ່າທ່ານເປີດພວກມັນອີກຄັ້ງ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">ກວດພົບ %d ແອັບມາລແວແລ້ວ. ຖອນຕິດຕັ້ງພວກມັນເພື່ອເຮັດໃຫ້ໂທລະສັບຂອງທ່ານປອດໄພ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">ກວດພົບ %d ແອັບມາລແວແລ້ວ. ຖອນຕິດຕັ້ງພວກມັນເພື່ອເຮັດໃຫ້ແທັບເລັດຂອງທ່ານປອດໄພ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">ມີການກວດພົບກິດຈະກຳທີ່ໜ້າສົງໄສແລ້ວ. ຖອນຕິດຕັ້ງແອັບເຫຼົ່ານີ້ເພື່ອປົກປ້ອງໂທລະສັບແລະຂໍ້ມູນຂອງທ່ານ.</item>
+        <item quantity="one">ກວດພົບກິດຈະກຳທີ່ໜ້າສົງໄສແລ້ວ. ຖອນຕິດຕັ້ງແອັບລຸ່ມນີ້ເພື່ອປ້ອງກັນໂທລະສັບແລະຂໍ້ມູນຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">ມີການກວດພົບກິດຈະກຳທີ່ໜ້າສົງໄສແລ້ວ. ຖອນຕິດຕັ້ງແອັບເຫຼົ່ານີ້ ເພື່ອປົກປ້ອງແທັບເລັດ ແລະ ຂໍ້ມູນຂອງທ່ານ.</item>
+        <item quantity="one">ກວດພົບກິດຈະກຳທີ່ໜ້າສົງໄສແລ້ວ. ຖອນຕິດຕັ້ງແອັບລຸ່ມນີ້ເພື່ອປ້ອງກັນແທັບເລັດແລະຂໍ້ມູນຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">ມີການກວດພົບກິດຈະກຳທີ່ໜ້າສົງໄສແລ້ວ. ຖອນຕິດຕັ້ງແອັບເຫຼົ່ານີ້ເພື່ອປົກປ້ອງໂທລະສັບແລະຂໍ້ມູນຂອງທ່ານ.</item>
+        <item quantity="one">ກວດພົບກິດຈະກຳທີ່ໜ້າສົງໄສແລ້ວ. ຖອນຕິດຕັ້ງແອັບລຸ່ມນີ້ເພື່ອປ້ອງກັນໂທລະສັບແລະຂໍ້ມູນຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">ມີການກວດພົບກິດຈະກຳທີ່ໜ້າສົງໄສແລ້ວ. ຖອນຕິດຕັ້ງແອັບເຫຼົ່ານີ້ ເພື່ອປົກປ້ອງແທັບເລັດ ແລະ ຂໍ້ມູນຂອງທ່ານ.</item>
+        <item quantity="one">ກວດພົບກິດຈະກຳທີ່ໜ້າສົງໄສແລ້ວ. ຖອນຕິດຕັ້ງແອັບລຸ່ມນີ້ເພື່ອປ້ອງກັນແທັບເລັດແລະຂໍ້ມູນຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">​ກວດ​ພົບ​ %d ອັນ​ຕະ​ລາຍແລ້ວ</item>
+        <item quantity="one">ກວດ​ພົບ 1 ອັນ​ຕະ​ລາຍ​ແລ້ວ</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d ໄພຄຸກຄາມ</item>
+        <item quantity="one">1 ໄພຄຸກຄາມ</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">ແອັບລຸ່ມນີ້ກຳລັງເຮັດໃຫ້ເກີດຂໍ້ຂັດຂ້ອງທີ່ສຳຄັນໃນໂທລະສັບຂອງທ່ານ. ຂໍ້ແນະນຳຢ່າງຈິງຈັງໃຫ້ມີການຖອນຕິດຕັ້ງແອັບເຫຼົ່ານີ້. ຫຼັງຈາກຖອນຕິດຕັ້ງແລ້ວ, ທ່ານອາດຈະສາມາດຕິດຕັ້ງລຸ້ນໃໝ່ຂອງແຕ່ລະແອັບໄດ້ຈາກຮ້ານຄ້າແອັບ.</item>
+        <item quantity="one">ແອັບລຸ່ມນີ້ກຳລັງເຮັດໃຫ້ເກີດຂໍ້ຂັດຂ້ອງທີ່ສຳຄັນໃນໂທລະສັບຂອງທ່ານ. ຂໍ້ແນະນຳຢ່າງຈິງຈັງໃຫ້ມີການຖອນຕິດຕັ້ງແອັບນີ້. ຫຼັງຈາກຖອນຕິດຕັ້ງແລ້ວ, ທ່ານອາດຈະສາມາດຕິດຕັ້ງລຸ້ນໃໝ່ໄດ້ຈາກຮ້ານຄ້າແອັບ.</item>
+    </plurals>
+</resources>

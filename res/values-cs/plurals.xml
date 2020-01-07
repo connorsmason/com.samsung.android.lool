@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Zjištěno %d problémů</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zjištěn %d problém</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zjištěny %d problémy</item>
+        <item quantity="many">Zjištěno %d problémů</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Péče o zařízení zjistila %d aplikací, které mohou způsobovat problémy, včetně malwaru, chyb aplikace nebo vysokého využití baterie.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Péče o zařízení zjistila %d aplikaci, která může způsobovat problémy, včetně malwaru, chyb aplikace nebo vysokého využití baterie.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Péče o zařízení zjistila %d aplikace, které mohou způsobovat problémy, včetně malwaru, chyb aplikace nebo vysokého využití baterie.</item>
+        <item quantity="many">Péče o zařízení zjistila %d aplikací, které mohou způsobovat problémy, včetně malwaru, chyb aplikace nebo vysokého využití baterie.</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dnů</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d den</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d dny</item>
+        <item quantity="many">%d dnů</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Obrazovka se vypne po %d sekundách nečinnosti.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Obrazovka se vypne po %d sekundě nečinnosti.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Obrazovka se vypne po %d sekundách nečinnosti.</item>
+        <item quantity="many">Obrazovka se vypne po %d sekundách nečinnosti.</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d aplikací bylo přepnuto do režimu spánku.</item>
+        <item quantity="one">1 aplikace byla přepnuta do režimu spánku.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Přepínání %d aplikací do režimu spánku…</item>
+        <item quantity="one">Přepínání 1 aplikace do režimu spánku…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Bylo zjištěno %1$d hrozeb. Klepnutím sem vyřešíte problém pomocí %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Byla zjištěna %1$d hrozba. Klepnutím sem vyřešíte problém pomocí %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Byly zjištěny %1$d hrozby. Klepnutím sem vyřešíte problém pomocí %2$s.</item>
+        <item quantity="many">Bylo zjištěno %1$d hrozeb. Klepnutím sem vyřešíte problém pomocí %2$s.</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d aplikací způsobuje v telefonu kritické chyby. Důrazně doporučujeme aplikace odinstalovat.</item>
+        <item quantity="one">1 aplikace způsobuje v telefonu kritické chyby. Důrazně doporučujeme aplikaci odinstalovat.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d aplikací</item>
+        <item quantity="one">1 aplikace</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Aplikací na pozadí ukončeny</item>
+        <item quantity="one">Aplikace na pozadí ukončena</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d aplikací s vysokým využitím baterie. Přepněte je do režimu spánku, abyste šetřili energii. Aplikace zřejmě nebudou přijímat aktualizace nebo zasílat oznámení, dokud je znovu neotevřete.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikace s vysokým využitím baterie. Přepněte ji do režimu spánku, abyste šetřili energii. Aplikace zřejmě nebude přijímat aktualizace nebo zasílat oznámení, dokud ji znovu neotevřete.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplikace s vysokým využitím baterie. Přepněte je do režimu spánku, abyste šetřili energii. Aplikace zřejmě nebudou přijímat aktualizace nebo zasílat oznámení, dokud je znovu neotevřete.</item>
+        <item quantity="many">%d aplikací s vysokým využitím baterie. Přepněte je do režimu spánku, abyste šetřili energii. Aplikace zřejmě nebudou přijímat aktualizace nebo zasílat oznámení, dokud je znovu neotevřete.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d aplikací se zhroutilo. Přepněte je do režimu spánku, abyste zrychlili telefon. Aplikace zřejmě nebudou přijímat aktualizace nebo zasílat oznámení, dokud je znovu neotevřete.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikace se zhroutila. Přepněte ji do režimu spánku, abyste zrychlili telefon. Aplikace zřejmě nebude přijímat aktualizace nebo zasílat oznámení, dokud ji znovu neotevřete.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplikace se zhroutily. Přepněte je do režimu spánku, abyste zrychlili telefon. Aplikace zřejmě nebudou přijímat aktualizace nebo zasílat oznámení, dokud je znovu neotevřete.</item>
+        <item quantity="many">%d aplikací se zhroutilo. Přepněte je do režimu spánku, abyste zrychlili telefon. Aplikace zřejmě nebudou přijímat aktualizace nebo zasílat oznámení, dokud je znovu neotevřete.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d aplikací se zhroutilo. Přepněte je do režimu spánku, abyste zrychlili tablet. Aplikace zřejmě nebudou přijímat aktualizace nebo zasílat oznámení, dokud je znovu neotevřete.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikace se zhroutila. Přepněte ji do režimu spánku, abyste zrychlili tablet. Aplikace zřejmě nebude přijímat aktualizace nebo zasílat oznámení, dokud ji znovu neotevřete.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplikace se zhroutily. Přepněte je do režimu spánku, abyste zrychlili tablet. Aplikace zřejmě nebudou přijímat aktualizace nebo zasílat oznámení, dokud je znovu neotevřete.</item>
+        <item quantity="many">%d aplikací se zhroutilo. Přepněte je do režimu spánku, abyste zrychlili tablet. Aplikace zřejmě nebudou přijímat aktualizace nebo zasílat oznámení, dokud je znovu neotevřete.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Bylo zjištěno %d aplikací malwaru. Odinstalujte je, aby byl telefon v bezpečí.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Byla zjištěna %d aplikace malwaru. Odinstalujte ji, aby byl telefon v bezpečí.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Byly zjištěny %d aplikace malwaru. Odinstalujte je, aby byl telefon v bezpečí.</item>
+        <item quantity="many">Bylo zjištěno %d aplikací malwaru. Odinstalujte je, aby byl telefon v bezpečí.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Bylo zjištěno %d aplikací malwaru. Odinstalujte je, aby byl tablet v bezpečí.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Byla zjištěna %d aplikace malwaru. Odinstalujte ji, aby byl tablet v bezpečí.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Byly zjištěny %d aplikace malwaru. Odinstalujte je, aby byl tablet v bezpečí.</item>
+        <item quantity="many">Bylo zjištěno %d aplikací malwaru. Odinstalujte je, aby byl tablet v bezpečí.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Byla zjištěna podezřelá aktivita. Odinstalováním těchto aplikací ochráníte telefon a data.</item>
+        <item quantity="one">Byla zjištěna podezřelá aktivita. Klepnutím na následující aplikace ochráníte telefon a data.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Byla zjištěna podezřelá aktivita. Odinstalováním těchto aplikací ochráníte tablet a data.</item>
+        <item quantity="one">Byla zjištěna podezřelá aktivita. Klepnutím na následující aplikace ochráníte tablet a data.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Byla zjištěna podezřelá aktivita. Odinstalováním těchto aplikací ochráníte telefon a data.</item>
+        <item quantity="one">Byla zjištěna podezřelá aktivita. Klepnutím na následující aplikace ochráníte telefon a data.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Byla zjištěna podezřelá aktivita. Odinstalováním těchto aplikací ochráníte tablet a data.</item>
+        <item quantity="one">Byla zjištěna podezřelá aktivita. Klepnutím na následující aplikace ochráníte tablet a data.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Bylo detekováno %d hrozeb</item>
+        <item quantity="one">Detekována 1 hrozba</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d hrozeb</item>
+        <item quantity="one">1 hrozba</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Následující aplikace způsobují v telefonu kritické chyby. Důrazně doporučujeme aplikace odinstalovat. Po odinstalování budete moci nainstalovat novou verzi jednotlivých aplikací z obchodu s aplikacemi.</item>
+        <item quantity="one">Následující aplikace způsobuje v telefonu kritické chyby. Důrazně doporučujeme aplikaci odinstalovat. Po odinstalování budete moci nainstalovat novou verzi z obchodu s aplikacemi.</item>
+    </plurals>
+</resources>

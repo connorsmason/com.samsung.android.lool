@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">تم اكتشاف %d مشكلة</item>
+        <item quantity="zero">تم اكتشاف %d مشكلة</item>
+        <item quantity="one">تم اكتشاف مشكلة واحدة</item>
+        <item quantity="two">تم اكتشاف مشكلتَين</item>
+        <item quantity="few">تم اكتشاف %d مشاكل</item>
+        <item quantity="many">تم اكتشاف %d مشكلة</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">اكتشفت وظيفة العناية بالجهاز %d تطبيق قد يسبب مشاكل، بما في ذلك التطبيقات الضارة أو أعطالها أو الاستخدام الكبير للطاقة.</item>
+        <item quantity="zero">اكتشفت وظيفة العناية بالجهاز %d تطبيق قد يسبب مشاكل، بما في ذلك التطبيقات الضارة أو أعطالها أو الاستخدام الكبير للطاقة.</item>
+        <item quantity="one">اكتشفت وظيفة العناية بالجهاز تطبيقاً واحداً قد يسبب مشاكل، بما في ذلك التطبيقات الضارة أو أعطالها أو الاستخدام الكبير للطاقة.</item>
+        <item quantity="two">اكتشفت وظيفة العناية بالجهاز تطبيقَين قد يسببان مشاكل، بما في ذلك التطبيقات الضارة أو أعطالها أو الاستخدام الكبير للطاقة.</item>
+        <item quantity="few">اكتشفت وظيفة العناية بالجهاز %d تطبيقات قد تسبب مشاكل، بما في ذلك التطبيقات الضارة أو أعطالها أو الاستخدام الكبير للطاقة.</item>
+        <item quantity="many">اكتشفت وظيفة العناية بالجهاز %d تطبيقاً قد تسبب مشاكل، بما في ذلك التطبيقات الضارة أو أعطالها أو الاستخدام الكبير للطاقة.</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d يوم</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">يوم واحد</item>
+        <item quantity="two">يومان</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يوماً</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">سيتم إيقاف تشغيل الشاشة بعد %d ثانية من عدم النشاط.</item>
+        <item quantity="zero">سيتم إيقاف تشغيل الشاشة بعد %d ثانية من عدم النشاط.</item>
+        <item quantity="one">سيتم إيقاف تشغيل الشاشة بعد ثانية واحدة من عدم النشاط.</item>
+        <item quantity="two">ثانيتان</item>
+        <item quantity="few">سيتم إيقاف تشغيل الشاشة بعد %d ثوانٍ من عدم النشاط.</item>
+        <item quantity="many">سيتم إيقاف تشغيل الشاشة بعد %d ثانية من عدم النشاط.</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">تم وضع %d من التطبيقات في حالة السكون.</item>
+        <item quantity="one">تم وضع تطبيق واحد في حالة السكون.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">جارِ وضع %d من التطبيقات في وضع السكون…</item>
+        <item quantity="one">جارِ وضع تطبيق واحد في وضع السكون…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">تم اكتشاف %1$d تهديد. انقر هنا لحلها في %2$s.</item>
+        <item quantity="zero">تم اكتشاف %1$d تهديد. انقر هنا لحله في %2$s.</item>
+        <item quantity="one">تم اكتشاف تهديد واحد. انقر هنا لحله في %2$s.</item>
+        <item quantity="two">تم اكتشاف تهديدَين. انقر هنا لحلهما في %2$s.</item>
+        <item quantity="few">تم اكتشاف %1$d تهديدات. انقر هنا لحلها في %2$s.</item>
+        <item quantity="many">تم اكتشاف %1$d تهديداً. انقر هنا لحلها في %2$s.</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">تسبب %d من التطبيقات أخطاءً فادحةً على هاتفك. يوصى بإلغاء تثبيت تلك التطبيقات بشدة.</item>
+        <item quantity="one">يسبب تطبيق واحد أخطاءً فادحةً على هاتفك. يوصى بإلغاء تثبيت هذا التطبيق بشدة.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d من التطبيقات</item>
+        <item quantity="one">تطبيق واحد</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">تم إغلاق تطبيقات الخلفية</item>
+        <item quantity="one">تم إغلاق تطبيق الخلفية</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">ثمة %d تطبيق يستخدم البطارية بشكلٍ كبير. ضعها في وضع السكون لتوفير الطاقة. قد لا تتلقى تحديثات أو ترسل إشعارات إلى أن تفتحها مجدداً.</item>
+        <item quantity="zero">ثمة %d تطبيق يستخدم البطارية بشكلٍ كبير. ضعه في وضع السكون لتوفير الطاقة. قد لا يتلقى تحديثات أو يرسل إشعارات إلى أن تفتحه مجدداً.</item>
+        <item quantity="one">ثمة تطبيق واحد يستخدم البطارية بشكلٍ كبير. ضعه في وضع السكون لتوفير الطاقة. قد لا يتلقى تحديثات أو يرسل إشعارات إلى أن تفتحه مجدداً.</item>
+        <item quantity="two">ثمة تطبيقان يستخدمان البطارية بشكلٍ كبير. ضعهما في وضع السكون لتوفير الطاقة. قد لا يتلقيان تحديثات أو يرسلان إشعارات إلى أن تفتحهما مجدداً.</item>
+        <item quantity="few">ثمة %d تطبيقات تستخدم البطارية بشكلٍ كبير. ضعها في وضع السكون لتوفير الطاقة. قد لا تتلقى تحديثات أو ترسل إشعارات إلى أن تفتحها مجدداً.</item>
+        <item quantity="many">ثمة %d تطبيقاً يستخدم البطارية بشكلٍ كبير. ضعها في وضع السكون لتوفير الطاقة. قد لا تتلقى تحديثات أو ترسل إشعارات إلى أن تفتحها مجدداً.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">تم العثور على %d تطبيق معطل. ضعها في وضع السكون لتسريع هاتفك. قد لا تتلقى تحديثات أو ترسل إشعارات إلى أن تفتحها مجدداً.</item>
+        <item quantity="zero">تم العثور على %d تطبيق معطل. ضعه في وضع السكون لتسريع هاتفك. قد لا يتلقى تحديثات أو يرسل إشعارات إلى أن تفتحه مجدداً.</item>
+        <item quantity="one">تم العثور على تطبيق واحد معطل. ضعه في وضع السكون لتسريع هاتفك. قد لا يتلقى تحديثات أو يرسل إشعارات إلى أن تفتحه مجدداً.</item>
+        <item quantity="two">تم العثور على تطبيقَين معطلَين. ضعهما في وضع السكون لتسريع هاتفك. قد لا يتلقيان تحديثات أو يرسلان إشعارات إلى أن تفتحهما مجدداً.</item>
+        <item quantity="few">تم العثور على %d تطبيقات معطلة. ضعها في وضع السكون لتسريع هاتفك. قد لا تتلقى تحديثات أو ترسل إشعارات إلى أن تفتحها مجدداً.</item>
+        <item quantity="many">تم العثور على %d تطبيقاً معطلاً. ضعها في وضع السكون لتسريع هاتفك. قد لا تتلقى تحديثات أو ترسل إشعارات إلى أن تفتحها مجدداً.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">تم العثور على %d تطبيق معطل. ضعها في وضع السكون لتسريع جهازك اللوحي. قد لا تتلقى تحديثات أو ترسل إشعارات إلى أن تفتحها مجدداً.</item>
+        <item quantity="zero">تم العثور على %d تطبيق معطل. ضعه في وضع السكون لتسريع جهازك اللوحي. قد لا يتلقى تحديثات أو يرسل إشعارات إلى أن تفتحه مجدداً.</item>
+        <item quantity="one">تم العثور على تطبيق واحد معطل. ضعه في وضع السكون لتسريع جهازك اللوحي. قد لا يتلقى تحديثات أو يرسل إشعارات إلى أن تفتحه مجدداً.</item>
+        <item quantity="two">تم العثور على تطبيقَين معطلَين. ضعهما في وضع السكون لتسريع جهازك اللوحي. قد لا يتلقيان تحديثات أو يرسلان إشعارات إلى أن تفتحهما مجدداً.</item>
+        <item quantity="few">تم العثور على %d تطبيقات معطلة. ضعها في وضع السكون لتسريع جهازك اللوحي. قد لا تتلقى تحديثات أو ترسل إشعارات إلى أن تفتحها مجدداً.</item>
+        <item quantity="many">تم العثور على %d تطبيقاً معطلاً. ضعها في وضع السكون لتسريع جهازك اللوحي. قد لا تتلقى تحديثات أو ترسل إشعارات إلى أن تفتحها مجدداً.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">تم اكتشاف %d تطبيق ضار. قم بإلغاء تثبيتها لإبقاء هاتفك آمناً.</item>
+        <item quantity="zero">تم اكتشاف %d تطبيق ضار. قم بإلغاء تثبيته لإبقاء هاتفك آمناً.</item>
+        <item quantity="one">تم اكتشاف تطبيق واحد ضار. قم بإلغاء تثبيته لإبقاء هاتفك آمناً.</item>
+        <item quantity="two">تم اكتشاف تطبيقَين ضارَين. قم بإلغاء تثبيتهما لإبقاء هاتفك آمناً.</item>
+        <item quantity="few">تم اكتشاف %d تطبيقات ضارة. قم بإلغاء تثبيتها لإبقاء هاتفك آمناً.</item>
+        <item quantity="many">تم اكتشاف %d تطبيقاً ضاراً. قم بإلغاء تثبيتها لإبقاء هاتفك آمناً.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">تم اكتشاف %d تطبيق ضار. قم بإلغاء تثبيتها للحفاظ على جهازك اللوحي آمناً.</item>
+        <item quantity="zero">تم اكتشاف %d تطبيق ضار. قم بإلغاء تثبيته للحفاظ على جهازك اللوحي آمناً.</item>
+        <item quantity="one">تم اكتشاف تطبيق واحد ضار. قم بإلغاء تثبيته للحفاظ على جهازك اللوحي آمناً.</item>
+        <item quantity="two">تم اكتشاف تطبيقَين ضارَين. قم بإلغاء تثبيتهما للحفاظ على جهازك اللوحي آمناً.</item>
+        <item quantity="few">تم اكتشاف %d تطبيقات ضارة. قم بإلغاء تثبيتها للحفاظ على جهازك اللوحي آمناً.</item>
+        <item quantity="many">تم اكتشاف %d تطبيقاً ضاراً. قم بإلغاء تثبيتها للحفاظ على جهازك اللوحي آمناً.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">تم اكتشاف نشاط مشبوه. ألغِ تثبيت هذه التطبيقات لحماية هاتفك وبياناتك.</item>
+        <item quantity="one">تم اكتشاف نشاط مشبوه. ألغِ تثبيت التطبيقات المبينة أدناه لحماية هاتفك وبياناتك.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">تم اكتشاف نشاط مشبوه. ألغِ تثبيت هذه التطبيقات لحماية جهازك اللوحي وبياناتك.</item>
+        <item quantity="one">تم اكتشاف نشاط مشبوه. ألغِ تثبيت التطبيقات أدناه لحماية جهازك اللوحي وبياناتك.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">تم اكتشاف نشاط مشبوه. ألغِ تثبيت هذه التطبيقات لحماية هاتفك وبياناتك.</item>
+        <item quantity="one">تم اكتشاف نشاط مشبوه. ألغِ تثبيت التطبيقات المبينة أدناه لحماية هاتفك وبياناتك.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">تم اكتشاف نشاط مشبوه. ألغِ تثبيت هذه التطبيقات لحماية جهازك اللوحي وبياناتك.</item>
+        <item quantity="one">تم اكتشاف نشاط مشبوه. ألغِ تثبيت التطبيقات أدناه لحماية جهازك اللوحي وبياناتك.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">تم اكتشاف %d من التهديدات</item>
+        <item quantity="one">تم اكتشاف تهديد واحد</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d من التهديدات</item>
+        <item quantity="one">تهديد واحد</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">تسبب التطبيقات أدناه أخطاءً فادحةً على هاتفك. يوصى بإلغاء تثبيت تلك التطبيقات بشدة. بعد إلغاء التثبيت، قد تتمكن من تثبيت إصدار جديد لكل تطبيق من متجر تطبيقات.</item>
+        <item quantity="one">يسبب التطبيق أدناه أخطاءً فادحةً على هاتفك. يوصى بإلغاء تثبيت هذا التطبيق بشدة. بعد إلغاء التثبيت، قد تتمكن من تثبيت إصدار جديد من متجر التطبيقات.</item>
+    </plurals>
+</resources>

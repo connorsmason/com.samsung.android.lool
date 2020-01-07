@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d problem aşkar edildi</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d problem aşkar edildi</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Cihaza qayğı nasazlıq, proqramın korlanması və ya yüksək batareya istifadəsi daxil olan problemlər yaradan %d proqram aşkar etdi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Cihaza qayğı nasazlıq, proqramın korlanması və ya yüksək batareya istifadəsi daxil olan problemlər yaradan %d proqram aşkar etdi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d gün</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d gün</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Ekran %d saniyə fəaliyyətsizlikdən sonra sönəcək.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ekran %d saniyə fəaliyyətsizlikdən sonra sönəcək.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d proqram yuxu rejiminə keçirildi.</item>
+        <item quantity="one">1 proqram yuxu rejiminə keçirildi.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d proqram yuxu rejiminə keçirilir…</item>
+        <item quantity="one">1 proqram yuxu rejiminə keçirilir…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d təhlükə aşkar edildi. Onları %2$s-da həll etmək üçün bura vurun.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d təhlükə aşkar edildi. Onu %2$s-da həll etmək üçün bura vurun.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d proqram telefonda ciddi xətaya səbəb olur. Bu proqramları silmək tövsiyə edilir.</item>
+        <item quantity="one">1 proqram telefonda ciddi xətaya səbəb olur. Bu proqramı silmək tövsiyə edilir.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d proqram</item>
+        <item quantity="one">1 proqram</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Fon proqramları bağlandı</item>
+        <item quantity="one">Fon proqramı bağlandı</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">Yüksək batareya istifadəsi ilə %d proqram. Enerjiyə qənaət etmək üçün onları yuxu rejiminə keçirin. Onları yenidən açanadək onlar yeniləmə almaya və ya bildiriş göndərməyə bilər.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Yüksək batareya istifadəsi ilə %d proqram. Enerjiyə qənaət etmək üçün onu yuxu rejiminə keçirin. Onu yenidən açanadək o, yeniləmə almaya və ya bildiriş göndərməyə bilər.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d korlanmış proqram tapıldı. Telefonu sürətləndirmək üçün onları yuxu rejiminə keçirin. Onları yenidən açanadək onlar yeniləmə almaya və ya bildiriş göndərməyə bilər.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d korlanmış proqram tapıldı. Telefonu sürətləndirmək üçün onu yuxu rejiminə keçirin. Onu yenidən açanadək o, yeniləmə almaya və ya bildiriş göndərməyə bilər.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d korlanmış proqram tapıldı. Tableti sürətləndirmək üçün onları yuxu rejiminə keçirin. Onlar yenidən açanadək onlar yeniləmələr almaya və ya bildirişlər göndərməyə bilər.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d korlanmış proqram tapıldı. Tableti sürətləndirmək üçün onu yuxu rejiminə keçirin. Onu yenidən açanadək o, yeniləmələr almaya və ya bildirişlər göndərməyə bilər.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d nasaz proqram aşkar edildi. Telefonu qorumaq üçün onları pozun.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d nasaz proqram aşkar edildi. Telefonu qorumaq üçün onu pozun.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d təhlükəli proqram aşkar edildi. Tableti qorumaq üçün onları pozun.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d təhlükəli proqram aşkar edildi. Tableti qorumaq üçün onu pozun.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Şübhəli fəaliyyət aşkar edildi. Telefon və məlumatı qorumaq üçün bu proqramları pozun.</item>
+        <item quantity="one">Şübhəli fəaliyyət aşkarlandı. Telefonu və məlumatınızı qorumaq üçün aşağıdakı proqramları pozun.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Şübhəli fəaliyyət aşkar edildi. Tablet və məlumatınızı qorumaq üçün bu proqramları pozun.</item>
+        <item quantity="one">Şübhəli fəaliyyət aşkarlandı. Tableti və məlumatınızı qorumaq üçün aşağıdakı proqramları pozun.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Şübhəli fəaliyyət aşkar edildi. Telefon və məlumatı qorumaq üçün bu proqramları pozun.</item>
+        <item quantity="one">Şübhəli fəaliyyət aşkarlandı. Telefonu və məlumatınızı qorumaq üçün aşağıdakı proqramları pozun.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Şübhəli fəaliyyət aşkar edildi. Tablet və məlumatınızı qorumaq üçün bu proqramları pozun.</item>
+        <item quantity="one">Şübhəli fəaliyyət aşkarlandı. Tableti və məlumatınızı qorumaq üçün aşağıdakı proqramları pozun.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d təhlükə müəyyən edildi</item>
+        <item quantity="one">1 təhlükə müəyyən edildi</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d təhlükə</item>
+        <item quantity="one">1 təhlükə</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Aşağıdakı proqramlar telefonda ciddi xətaya səbəb olur. Bu proqramları silmək tövsiyə edilir. Pozduqdan sonra proqram mağazasından hər proqramın yeni versiyasını yükləyə bilərsiniz.</item>
+        <item quantity="one">Aşağıdakı proqram telefonda ciddi xətaya səbəb olur. Bu proqramı silmək tövsiyə edilir. Pozduqdan sonra proqram mağazasından yeni versiyasını yükləyə bilərsiniz.</item>
+    </plurals>
+</resources>

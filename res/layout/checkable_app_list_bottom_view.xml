@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/checkable_app_list_bottom_view_0" android:background="?winsetLightThemeBgColor" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:layout_gravity="center" android:id="@id/add_btn" android:background="?android:selectableItemBackground" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight" style="@style/SMWinset.BottomBarTextViewStyle" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/sub_btn" android:layout_width="fill_parent" android:layout_height="?android:listPreferredItemHeight" android:weightSum="1.0">
+        <Button android:id="@id/cancel_btn" android:background="?android:selectableItemBackground" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/cancel" android:layout_weight="0.5" style="@style/SMWinset.BottomBarTextViewStyle" />
+        <Button android:id="@id/done_btn" android:background="?android:selectableItemBackground" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5" style="@style/SMWinset.BottomBarTextViewStyle" />
+    </LinearLayout>
+</FrameLayout>

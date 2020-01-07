@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/grid_image_bg_selector" android:layout_width="fill_parent" android:layout_height="@dimen/grid_image_item_height" android:layoutDirection="locale"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/thumbnail" android:background="@drawable/image_backgound_default" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_margin="@dimen/grid_image_padding" android:scaleType="centerCrop" android:adjustViewBounds="true" android:contentDescription="@string/image" />
+    <ImageView android:id="@id/checkbox_bg" android:background="@drawable/gallery_btn_uncheck_bg" android:layout_width="@dimen/gallery_btn_uncheck_bg_size" android:layout_height="@dimen/gallery_btn_uncheck_bg_size" />
+    <CheckBox android:theme="@style/GridViewCheckBoxTheme" android:id="@id/checkbox" android:focusable="false" android:clickable="false" android:layout_width="@dimen/checkbox_height_width" android:layout_height="@dimen/checkbox_height_width" android:checkable="true" />
+    <ImageView android:layout_gravity="end|bottom|center" android:id="@id/btnFullImage" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gallery_ic_time_selected" android:adjustViewBounds="true" android:contentDescription="@string/full_image_button" />
+    <View android:background="?android:selectableItemBackground" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/user_category_list_residual_apk" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/category_icon_residual_apk" android:background="@drawable/sm_storage_ic_apkfiles" android:backgroundTint="@color/storage_icon_color_app_theme" style="@style/StorageCategoryIconStyle" />
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/category_icon_residual_apk">
+        <TextView android:id="@id/category_memory_size_residual_apk" style="@style/StorageCategoryMemorySizeTextStyle" />
+        <TextView android:id="@id/category_name_residual_apk" android:text="@string/memorysaver_residual_apk" android:layout_toStartOf="@id/category_memory_size_residual_apk" style="@style/StorageCategoryTitleTextStyle" />
+    </RelativeLayout>
+</RelativeLayout>

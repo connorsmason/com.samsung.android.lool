@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.SubHeaderDotLineView android:ellipsize="end" android:id="@id/msg_clean_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/title_messenger_cleaner" style="@style/SMWinset.ListSubHeader" />
+    <include android:id="@id/msg_1_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/msg_cleaner_category_item" />
+    <include android:id="@id/msg_2_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/msg_cleaner_category_item" />
+    <include android:id="@id/msg_3_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/msg_cleaner_category_item" />
+    <include android:id="@id/msg_4_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/msg_cleaner_category_item" />
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

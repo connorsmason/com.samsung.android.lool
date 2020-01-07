@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="layout/fragment_app_history_list_layout_0" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/app_history_description_layout" android:background="?winsetLightThemeBgColor" style="@style/SMWinset.DescriptionStyle">
+        <TextView android:id="@id/app_history_description_text" style="@style/SMWinset.DescriptionTextStyle" />
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:id="@id/listContainer" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/app_history_description_layout">
+        <com.samsung.android.sm.view.RoundedCornerRecyclerView android:id="@id/app_history_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+    <android.support.percent.PercentRelativeLayout android:id="@id/emptyContainer" android:background="?winsetLightThemeBgColor" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="yes">
+        <TextView android:textSize="?winsetNoItemTextViewTextSize" android:textColor="?winsetNoItemTextViewTextColor" android:id="@android:id/empty" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/no_apps_with_issues" android:layout_centerInParent="true" android:layout_centerHorizontal="true" android:fontFamily="sec-roboto-light" android:textAlignment="center" app:layout_widthPercent="75.0%" />
+    </android.support.percent.PercentRelativeLayout>
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:gravity="center" android:id="@id/app_history_empty_progress_layout" android:background="?winsetLightThemeBgColor" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:theme="@android:style/Widget.DeviceDefault.ProgressBar" android:id="@id/app_history_empty_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</RelativeLayout>

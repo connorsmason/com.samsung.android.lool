@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="30.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/app_history_detail_list_container" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+        <TextView android:ellipsize="end" android:id="@id/apps_history_detail_list_tv_description" android:layout_width="@dimen/zero_dp_width" android:layout_height="wrap_content" android:maxLines="1" android:layout_weight="4.0" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+        <View android:layout_width="@dimen/zero_dp_width" android:layout_height="@dimen/zero_dp_height" android:layout_weight="0.5" />
+        <TextView android:textSize="@dimen/app_history_detail_text_size" android:ellipsize="end" android:gravity="end|center" android:id="@id/apps_history_detail_list_tv_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="SMWinset.ListItemTextViewStyle.2Line.SecondaryTextExplanation" />
+    </LinearLayout>
+    <include android:id="@id/divider_line" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/divider_line_layout" />
+    <View android:id="@id/app_history_detail_list_item_dummy" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/app_history_list_item_padding" android:layout_above="@id/app_history_detail_list_container" />
+</RelativeLayout>

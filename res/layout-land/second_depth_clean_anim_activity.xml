@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:tag="layout-land/second_depth_clean_anim_activity_0" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="fill_parent" android:layout_height="?actionBarSize" style="@style/SMWinset.AppToolBarStyle" />
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="horizontal" android:id="@id/second_depth_clean_anim_activity" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/start_container" android:tag="binding_1" android:clipChildren="false" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginTop="@dimen/second_depth_circle_cleaning_screen_layout_margin_top" android:layout_weight="0.5">
+            <include android:id="@id/top_circle" layout="@layout/second_depth_clean_anim_circle" />
+            <include android:gravity="center_vertical" android:id="@id/description" layout="@layout/second_depth_clean_anim_description" />
+            <include android:id="@id/powered_by" android:visibility="invisible" layout="@layout/powered_by_360" />
+        </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+        <ImageView android:id="@id/divider" android:background="?winsetDividerColor" android:layout_width="?winsetDividerHeight" android:layout_height="fill_parent" android:layout_marginVertical="@dimen/activity_vertical_margin" />
+        <com.samsung.android.sm.view.RoundedCornerRecyclerView android:id="@id/recycler_view" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.5" />
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

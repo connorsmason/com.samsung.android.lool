@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d समस्याओं का पता चला</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d समस्या का पता चला</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">डिवाइस केयर ने %d एप्स का पता लगाया है जो कि मालवेयर, एप क्रैश होने, या उच्च बैटरी उपयोग सहित समस्याओं का कारण हो सकता है।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">डिवाइस केयर ने %d एप का पता लगाया है जो कि मालवेयर, एप क्रैश होने, या उच्च बैटरी उपयोग सहित समस्याओं का कारण हो सकता है।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d दिन</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d दिन</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">%d सेकंड की निष्क्रियता के बाद स्क्रीन बंद हो जाएगी।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d सेकंड की निष्क्रियता के बाद स्क्रीन बंद हो जाएगी।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d एप्स निष्क्रिय किए गए हैं।</item>
+        <item quantity="one">1 एप निष्क्रिय की जा चुकी है।</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d एप्स निष्क्रिय किए जा रहे हैं…</item>
+        <item quantity="one">1 एप निष्क्रिय किया जा रहा है…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d खतरों का पता चला है। %2$s में इनका समाधान करने के लिए यहां टैप करें।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d खतरे का पता चला है। %2$s में इसका समाधान करने के लिए यहां टैप करें।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d एप्स आपके फोन पर गंभीर त्रुटियाँ उत्पन्न कर रहे हैं। इन एप्स की स्थापना रद्द करने की सशक्त रूप से अनुशंसा की जाती है।</item>
+        <item quantity="one">1 एप आपके फोन पर गंभीर त्रुटियाँ उत्पन्न कर रही है। इस एप की स्थापना रद्द करने की सशक्त रूप से अनुशंसा की जाती है।</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d एप्स</item>
+        <item quantity="one">1 एप</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">बैकग्राउंड एप्स बंद किए गए</item>
+        <item quantity="one">बैकग्राउंड एप बंद किया गया</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">उच्च बैटरी उपयोग वाले %d एप्स। पॉवर की बचत करने के लिए इन्हें निष्क्रिय करें। जब तक आप इन्हें फिर से नहीं खोलते हैं तब तक ये अपडेट्स प्राप्त नहीं करेंगे या सूचनाएँ नहीं भेजेंगे।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">उच्च बैटरी उपयोग वाले %d एप। पॉवर की बचत करने के लिए इसे निष्क्रिय करें। जब तक आप इसे फिर से नहीं खोलते हैं तब तक ये अपडेट्स प्राप्त नहीं करेंगे या सूचनाएँ नहीं भेजेंगे।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d क्रैश एप्स मिले। अपने फोन की गति बढ़ाने के लिए इन्हें निष्क्रिय करें। जब तक आप इन्हें फिर से नहीं खोलते हैं तब तक ये अपडेट्स प्राप्त नहीं करेंगे या सूचनाएँ नहीं भेजेंगे।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d क्रैश एप मिला। अपने फोन की गति बढ़ाने के लिए इसे निष्क्रिय करें। जब तक आप इसे फिर से नहीं खोलते हैं तब तक ये अपडेट्स प्राप्त नहीं करेंगे या सूचनाएँ नहीं भेजेंगे।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d क्रैश एप्स मिले। अपने टैबलेट की गति बढ़ाने के लिए उन्हें निष्क्रिय करें। जब तक आप उन्हें फिर से नहीं खोलते हैं तब तक वे अपडेट्स प्राप्त नहीं करेंगे या सूचनाएँ नहीं भेजेंगे।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d क्रैश एप मिला। अपने टैबलेट की गति बढ़ाने के लिए इसे निष्क्रिय करें। जब तक आप इसे फिर से नहीं खोलते हैं तब तक ये अपडेट्स प्राप्त नहीं करेंगे या सूचनाएँ नहीं भेजेंगे।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d मालवेयर एप्स का पता चला। अपने फोन को सुरक्षित रखने के लिए इनकी स्थापना रद्द करें।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d मालवेयर एप का पता चला। अपने फोन को सुरक्षित रखने के लिए इसकी स्थापना रद्द करें।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d मालवेयर एप्स का पता चला। अपने टैबलेट को सुरक्षित रखने के लिए इनकी स्थापना रद्द करें।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d मालवेयर एप का पता चला। अपने टैबलेट को सुरक्षित रखने के लिए इसकी स्थापना रद्द करें।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">संदिग्ध गतिविधि का पता चला है। अपने फोन और डाटा को सुरक्षित रखने के लिए इन एप्स की स्थापना रद्द करें।</item>
+        <item quantity="one">संदिग्ध गतिविधि का पता चला है। अपने फोन और डाटा को सुरक्षित रखने के लिए निम्न एप्स की स्थापना रद्द करें।</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">संदिग्ध गतिविधि का पता चला है। अपने टैबलेट और डाटा को सुरक्षित रखने के लिए इन एप्स की स्थापना रद्द करें।</item>
+        <item quantity="one">संदिग्ध गतिविधि का पता चला है। अपने टैबलेट और डाटा को सुरक्षित रखने के लिए निम्न एप्स की स्थापना रद्द करें।</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">संदिग्ध गतिविधि का पता चला है। अपने फोन और डाटा को सुरक्षित रखने के लिए इन एप्स की स्थापना रद्द करें।</item>
+        <item quantity="one">संदिग्ध गतिविधि का पता चला है। अपने फोन और डाटा को सुरक्षित रखने के लिए निम्न एप्स की स्थापना रद्द करें।</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">संदिग्ध गतिविधि का पता चला है। अपने टैबलेट और डाटा को सुरक्षित रखने के लिए इन एप्स की स्थापना रद्द करें।</item>
+        <item quantity="one">संदिग्ध गतिविधि का पता चला है। अपने टैबलेट और डाटा को सुरक्षित रखने के लिए निम्न एप्स की स्थापना रद्द करें।</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d खतरे का पता चला</item>
+        <item quantity="one">1 खतरे का पता चला</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d खतरे</item>
+        <item quantity="one">1 खतरा</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">नीचे दिए गए एप्स आपके फोन पर गंभीर त्रुटियाँ उत्पन्न कर रहे हैं। इन एप्स की स्थापना रद्द करने की सशक्त रूप से अनुशंसा की जाती है। स्थापना रद्द करने के बाद, हो सकता है कि आप एप स्टोर से प्रत्येक एप का एक नया संस्करण डाउनलोड करने में समर्थ हों।</item>
+        <item quantity="one">नीचे दिया गया एप आपके फोन पर गंभीर त्रुटियाँ उत्पन्न कर रहा है। इस एप की स्थापना रद्द करने की सशक्त रूप से अनुशंसा की जाती है। स्थापना रद्द करने के बाद, हो सकता है कि आप किसी एप स्टोर से एक नया संस्करण स्थापित करने में समर्थ हों।</item>
+    </plurals>
+</resources>

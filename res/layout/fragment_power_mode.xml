@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/power_mode_container" android:tag="layout/fragment_power_mode_0" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/divider_line" android:layout_marginHorizontal="@dimen/activity_horizontal_margin" style="@style/SMWinset.DividerStyle" />
+    <LinearLayout android:orientation="vertical" android:id="@id/power_mode_layout" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="?winsetListItemTextViewPaddingTop">
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/battery_mode_title" android:layout_marginHorizontal="@dimen/activity_horizontal_margin" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+        <TextView android:id="@id/current_mode" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/optimized" android:layout_marginHorizontal="@dimen/activity_horizontal_margin" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextSetting" />
+    </LinearLayout>
+</LinearLayout>

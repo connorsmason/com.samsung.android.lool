@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:background="?android:selectableItemBackground" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.SubHeaderDotLineView android:id="@id/divider_line_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListSubHeaderNoItem" />
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/sd_card_item" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SMWinset.ListItemStyle">
+        <ImageView android:id="@id/category_icon_sdcard" android:background="@drawable/myfiles_ic_storage" android:backgroundTint="@color/storage_icon_color_sdcard_theme" style="@style/SMWinset.ListItemIconStyle" />
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@id/category_icon_sdcard">
+            <TextView android:id="@id/sd_card_detail" style="@style/StorageCategoryMemorySizeTextStyle" />
+            <TextView android:id="@id/sd_card_title" android:text="@string/sd_card_title" android:layout_toStartOf="@id/sd_card_detail" style="@style/StorageCategoryTitleTextStyle" />
+        </RelativeLayout>
+    </RelativeLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

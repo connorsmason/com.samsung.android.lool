@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/battery_seek_bar_interval_height" android:width="@dimen/battery_seek_bar_interval_width" />
+    <solid android:color="@color/interval_seek_bar_color_theme" />
+</shape>

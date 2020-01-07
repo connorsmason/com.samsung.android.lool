@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Đã phát hiện %d sự cố</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Tính năng Chăm sóc thiết bị đã phát hiện %d ứng dụng có thể gây ra các sự cố bao gồm phần mềm độc hại, ứng dụng bị lỗi hoặc mức sử dụng pin cao.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d ngày</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Màn hình sẽ tắt sau %d giây không hoạt động.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">Đã đặt %d ứng dụng vào chế độ nghỉ.</item>
+        <item quantity="one">Đã đặt 1 ứng dụng vào chế độ nghỉ.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Đang đặt %d ứng dụng vào chế độ nghỉ…</item>
+        <item quantity="one">Đang đặt 1 ứng dụng vào chế độ nghỉ…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Đã phát hiện %1$d mối đe dọa. Hãy chạm vào đây để xử lý chúng trong %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d ứng dụng đang gây ra lỗi nghiêm trọng trên điện thoại của bạn. Bạn nên gỡ cài đặt các ứng dụng này.</item>
+        <item quantity="one">1 ứng dụng đang gây ra lỗi nghiêm trọng trên điện thoại của bạn. Bạn nên gỡ cài đặt ứng dụng này.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d ứng dụng</item>
+        <item quantity="one">1 ứng dụng</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Các ứng dụng chạy ngầm đã đóng</item>
+        <item quantity="one">Ứng dụng chạy ngầm đã đóng</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d ứng dụng với mức sử dụng pin cao. Hãy đặt chúng vào chế độ nghỉ để tiết kiệm pin. Các ứng dụng đó có thể không nhận cập nhật hoặc gửi thông báo cho đến khi bạn mở lại chúng.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Đã tìm thấy %d ứng dụng bị lỗi. Hãy đặt chúng vào chế độ nghỉ để tăng tốc độ điện thoại. Các ứng dụng đó có thể không nhận cập nhật hoặc gửi thông báo cho đến khi bạn mở lại chúng.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Đã tìm thấy %d ứng dụng bị lỗi. Hãy đặt chúng vào chế độ nghỉ để tăng tốc độ máy tính bảng. Các ứng dụng đó có thể không nhận cập nhật hoặc gửi thông báo cho đến khi bạn mở lại chúng.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Đã phát hiện %d ứng dụng độc hại. Hãy gỡ cài đặt các ứng dụng này để bảo vệ điện thoại.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Đã phát hiện %d ứng dụng độc hại. Hãy gỡ cài đặt các ứng dụng này để bảo vệ máy tính bảng.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Đã phát hiện hoạt động đáng ngờ. Hãy gỡ cài đặt các ứng dụng này để bảo vệ điện thoại và dữ liệu của bạn.</item>
+        <item quantity="one">Đã phát hiện hoạt động khả nghi. Hãy gỡ cài đặt các ứng dụng bên dưới để bảo vệ điện thoại và dữ liệu của bạn.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Đã phát hiện hoạt động đáng ngờ. Hãy gỡ cài đặt các ứng dụng này để bảo vệ máy tính bảng và dữ liệu của bạn.</item>
+        <item quantity="one">Đã phát hiện hoạt động khả nghi. Hãy gỡ cài đặt các ứng dụng bên dưới để bảo vệ máy tính bảng và dữ liệu của bạn.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Đã phát hiện hoạt động đáng ngờ. Hãy gỡ cài đặt các ứng dụng này để bảo vệ điện thoại và dữ liệu của bạn.</item>
+        <item quantity="one">Đã phát hiện hoạt động khả nghi. Hãy gỡ cài đặt các ứng dụng bên dưới để bảo vệ điện thoại và dữ liệu của bạn.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Đã phát hiện hoạt động đáng ngờ. Hãy gỡ cài đặt các ứng dụng này để bảo vệ máy tính bảng và dữ liệu của bạn.</item>
+        <item quantity="one">Đã phát hiện hoạt động khả nghi. Hãy gỡ cài đặt các ứng dụng bên dưới để bảo vệ máy tính bảng và dữ liệu của bạn.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Đã phát hiện %d mối đe dọa</item>
+        <item quantity="one">Đã phát hiện 1 mối đe dọa</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d mối đe dọa</item>
+        <item quantity="one">1 mối đe dọa</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Các ứng dụng bên dưới đang gây ra lỗi nghiêm trọng trên điện thoại của bạn. Bạn nên gỡ cài đặt các ứng dụng này. Sau khi gỡ cài đặt, bạn có thể cài đặt phiên bản mới của mỗi ứng dụng từ cửa hàng ứng dụng.</item>
+        <item quantity="one">Ứng dụng bên dưới đang gây ra lỗi nghiêm trọng trên điện thoại của bạn. Bạn nên gỡ cài đặt ứng dụng này. Sau khi gỡ cài đặt, bạn có thể cài đặt phiên bản mới từ cửa hàng ứng dụng.</item>
+    </plurals>
+</resources>

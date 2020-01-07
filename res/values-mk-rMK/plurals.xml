@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Откриени се %d проблеми</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Откриен е %d проблем</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Грижата на уредот откри %d апликации што може да предизвикуваат проблеми, вклучително и злонамерен софтвер, падови на апликации или големо користење на батеријата.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Грижата на уредот откри %d апликација што може да предизвикува проблеми, вклучително и злонамерен софтвер, падови на апликации или големо користење на батеријата.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d дена</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ден</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Екранот ќе се исклучи по %d секунди неактивност.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Екранот ќе се исклучи по %d секунда неактивност.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d апликации се ставени во спиење.</item>
+        <item quantity="one">1 апликација е ставена во спиење.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Се ставаат %d апликации во спиење…</item>
+        <item quantity="one">Се става 1 апликација во спиење…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d закани се откриени. Допрете тука за да ги решите во %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d закана е откриена. Допрете тука за да ја решите во %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d апликации предизвикуваат критични грешки на телефонот. Силно се препорачува одинсталирање на овие апликации.</item>
+        <item quantity="one">1 апликација предизвикува критични грешки на телефонот. Силно се препорачува одинсталирање на оваа апликација.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d апликации</item>
+        <item quantity="one">1 апликација</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Апликациите во заднина се затворени</item>
+        <item quantity="one">Апликацијата во заднина е затворена</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d апликации со големо користење на батеријата. Ставете ги во спиење за да заштедите енергија. Можеби нема да примаат ажурирања или да испраќаат известувања сѐ додека не ги отворите повторно.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d апликација со големо користење на батеријата. Ставете ја во спиење за да заштедите енергија. Можеби нема да прима ажурирања или да испраќа известувања сѐ додека не ја отворите повторно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Најдени се %d паднати апликации. Ставете ги во спиење за да го забрзате Вашиот телефон. Можеби нема да примаат ажурирања или да испраќаат известувања сѐ додека не ги отворите повторно.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Најдена е %d падната апликација. Ставете ја во спиење за да го забрзате Вашиот телефон. Можеби нема да прима ажурирања или да испраќа известувања сѐ додека не ја отворите повторно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Најдени се %d паднати апликации. Ставете ги на спиење за да го забрзате Вашиот таблет. Можеби нема да примаат ажурирања или да испраќаат известувања сѐ додека не ги отворите повторно.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Најдена е %d падната апликација. Ставете ја во спиење за да го забрзате Вашиот таблет. Можеби нема да прима ажурирања или да испраќа известувања сѐ додека не ја отворите повторно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Откриени се %d злонамерни апликации. Одинсталирајте ги за да го чувате Вашиот телефон безбеден.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Откриена е %d злонамерна апликација. Одинсталирајте ја за да го чувате Вашиот телефон безбеден.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Откриени се %d злонамерни апликации. Одинсталирајте ги за да го чувате Вашиот таблет безбеден.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Откриена е %d злонамерна апликација. Одинсталирајте ја за да го чувате Вашиот таблет безбеден.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Откриена е сомнителна активност. Одинсталирајте ги овие апликации за да ги заштитите телефонот и податоците.</item>
+        <item quantity="one">Откриена е сомнителна активност. Одинсталирајте ги апликациите подолу за да ги заштитите телефонот и податоците.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Откриена е сомнителна активност. Одинсталирајте ги овие апликации за да ги заштитите таблетот и податоците.</item>
+        <item quantity="one">Откриена е сомнителна активност. Одинсталирајте ги апликациите подолу за да ги заштитите таблетот и податоците.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Откриена е сомнителна активност. Одинсталирајте ги овие апликации за да ги заштитите телефонот и податоците.</item>
+        <item quantity="one">Откриена е сомнителна активност. Одинсталирајте ги апликациите подолу за да ги заштитите телефонот и податоците.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Откриена е сомнителна активност. Одинсталирајте ги овие апликации за да ги заштитите таблетот и податоците.</item>
+        <item quantity="one">Откриена е сомнителна активност. Одинсталирајте ги апликациите подолу за да ги заштитите таблетот и податоците.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Откриени се %d закани</item>
+        <item quantity="one">Откриена е 1 закана</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d закани</item>
+        <item quantity="one">1 закана</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Апликациите подолу предизвикуваат критични грешки на телефонот. Силно се препорачува одинсталирање на овие апликации. По одинсталирањето, можеби ќе можете да инсталирате нова верзија од секоја апликација од продавница за апликации.</item>
+        <item quantity="one">Апликацијата подолу предизвикува критични грешки на телефонот. Силно се препорачува одинсталирање на оваа апликација. По одинсталирањето, можеби ќе можете да инсталирате нова верзија од продавница за апликации.</item>
+    </plurals>
+</resources>

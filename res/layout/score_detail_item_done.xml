@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/score_detail_item_done_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.FixButtonView android:layout_gravity="bottom|center" android:id="@id/item_done" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sb_detail_list_done_margin_top" android:layout_marginBottom="@dimen/sb_detail_list_done_margin_bottom" android:text="@string/sb_detail_done" style="@style/DoneButtonTextStyle" />
+</FrameLayout>

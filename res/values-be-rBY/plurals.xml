@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Выяўлена %d праблем</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Выяўлена %d праблема</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Выяўлены %d праблемы</item>
+        <item quantity="many">Выяўлена %d праблем</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Сродак дапамогі з прыладай выявіў %d праграм, якія, магчыма, выклікаюць праблемы, у тым ліку шкоднасныя праграмы, збоі праграмы або актыўнае выкарыстанне акумулятара.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Сродак дапамогі з прыладай выявіў %d праграму, якая, магчыма, выклікае праблемы, у тым ліку шкоднасныя праграмы, збоі праграмы або актыўнае выкарыстанне акумулятара.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Сродак дапамогі з прыладай выявіў %d праграмы, якія, магчыма, выклікаюць праблемы, у тым ліку шкоднасныя праграмы, збоі праграмы або актыўнае выкарыстанне акумулятара.</item>
+        <item quantity="many">Сродак дапамогі з прыладай выявіў %d праграм, якія, магчыма, выклікаюць праблемы, у тым ліку шкоднасныя праграмы, збоі праграмы або актыўнае выкарыстанне акумулятара.</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d дзён</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d дзень</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d дзён</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Экран выключыцца праз %d секунд бяздзейнасці.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Экран выключыцца праз %d секунду бяздзейнасці.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Экран выключыцца праз %d секунды бяздзейнасці.</item>
+        <item quantity="many">Экран выключыцца праз %d секунд бяздзейнасці.</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">Праграмы (%d) былі пераведзены ў рэжым сну.</item>
+        <item quantity="one">1 праграма была пераведзена ў рэжым сну.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Перавод праграм (%d) у рэжым сну…</item>
+        <item quantity="one">Перавод 1 праграмы ў рэжым сну…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Выяўлена %1$d пагроз. Націсніце тут, каб вырашыць праблемы ў %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Выяўлена %1$d пагроза. Націсніце тут, каб вырашыць праблему ў %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Выяўлены %1$d пагрозы. Націсніце тут, каб вырашыць праблемы ў %2$s.</item>
+        <item quantity="many">Выяўлена %1$d пагроз. Націсніце тут, каб вырашыць праблемы ў %2$s.</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">Праграмы (%d) выклікаюць крытычныя памылкі на тэлефоне. Настойліва рэкамендуем выдаліць гэтыя праграмы.</item>
+        <item quantity="one">1 праграма выклікае крытычныя памылкі на тэлефоне. Настойліва рэкамендуем выдаліць гэту праграму.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">Праграм: %d</item>
+        <item quantity="one">1 праграма</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Фонавыя праграмы закрыты</item>
+        <item quantity="one">Фонавая праграма закрыта</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d праграм, якія актыўна выкарыстоўваюць акумулятар. Каб зэканоміць энергію, перавядзіце іх у рэжым сну. Яны могуць не атрымліваць абнаўленні або не адпраўляць апавяшчэнні, пакуль вы не адкрыеце іх зноў.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d праграма, якая актыўна выкарыстоўвае акумулятар. Каб зэканоміць энергію, перавядзіце яе ў рэжым сну. Яна можа не атрымліваць абнаўленні або не адпраўляць апавяшчэнні, пакуль вы не адкрыеце яе зноў.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d праграмы, якія актыўна выкарыстоўваюць акумулятар. Каб зэканоміць энергію, перавядзіце іх у рэжым сну. Яны могуць не атрымліваць абнаўленні або не адпраўляць апавяшчэнні, пакуль вы не адкрыеце іх зноў.</item>
+        <item quantity="many">%d праграм, якія актыўна выкарыстоўваюць акумулятар. Каб зэканоміць энергію, перавядзіце іх у рэжым сну. Яны могуць не атрымліваць абнаўленні або не адпраўляць апавяшчэнні, пакуль вы не адкрыеце іх зноў.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Знойдзена %d праграм са збоямі. Перавядзіце іх у рэжым сну, каб паскорыць працу тэлефона. Яны могуць не атрымліваць абнаўленні або не адпраўляць апавяшчэнні, пакуль вы не адкрыеце іх зноў.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Знойдзена %d праграма са збоямі. Перавядзіце яе ў рэжым сну, каб паскорыць працу тэлефона. Яна можа не атрымліваць абнаўленні або не адпраўляць апавяшчэнні, пакуль вы не адкрыеце яе зноў.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Знойдзена %d праграмы са збоямі. Перавядзіце іх у рэжым сну, каб паскорыць працу тэлефона. Яны могуць не атрымліваць абнаўленні або не адпраўляць апавяшчэнні, пакуль вы не адкрыеце іх зноў.</item>
+        <item quantity="many">Знойдзена %d праграм са збоямі. Перавядзіце іх у рэжым сну, каб паскорыць працу тэлефона. Яны могуць не атрымліваць абнаўленні або не адпраўляць апавяшчэнні, пакуль вы не адкрыеце іх зноў.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Знойдзена %d праграм са збоямі. Перавядзіце гэтыя праграмы ў рэжым сну, каб паскорыць працу планшэта. Яны могуць не атрымліваць абнаўленні або не адпраўляць апавяшчэнні, пакуль вы не адкрыеце іх зноў.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Знойдзена %d праграма са збоямі. Перавядзіце яе ў рэжым сну, каб паскорыць працу планшэта. Яна можа не атрымліваць абнаўленні або не адпраўляць апавяшчэнні, пакуль вы не адкрыеце яе зноў.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Знойдзены %d праграмы са збоямі. Перавядзіце гэтыя праграмы ў рэжым сну, каб паскорыць працу планшэта. Яны могуць не атрымліваць абнаўленні або не адпраўляць апавяшчэнні, пакуль вы не адкрыеце іх зноў.</item>
+        <item quantity="many">Знойдзена %d праграм са збоямі. Перавядзіце гэтыя праграмы ў рэжым сну, каб паскорыць працу планшэта. Яны могуць не атрымліваць абнаўленні або не адпраўляць апавяшчэнні, пакуль вы не адкрыеце іх зноў.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Выяўлена %d шкоднасных праграм. Выдаліце іх, каб падтрымліваць бяспеку тэлефона.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Выяўлена %d шкоднасная праграма. Выдаліце яе, каб падтрымліваць бяспеку тэлефона.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Выяўлены %d шкоднасныя праграмы. Выдаліце іх, каб падтрымліваць бяспеку тэлефона.</item>
+        <item quantity="many">Выяўлена %d шкоднасных праграм. Выдаліце іх, каб падтрымліваць бяспеку тэлефона.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Выяўлена %d шкоднасных праграм. Выдаліце іх, каб падтрымліваць бяспеку планшэта.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Выяўлена %d шкоднасная праграма. Выдаліце яе, каб падтрымліваць бяспеку планшэта.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Выяўлены %d шкоднасныя праграмы. Выдаліце іх, каб падтрымліваць бяспеку планшэта.</item>
+        <item quantity="many">Выяўлена %d шкоднасных праграм. Выдаліце іх, каб падтрымліваць бяспеку планшэта.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Была выяўлена падазроная актыўнасць. Выдаліце гэтыя праграмы, каб абараніць свой тэлефон і даныя.</item>
+        <item quantity="one">Была выяўлена падазроная дзейнасць. Выдаліце праграмы ніжэй, каб абараніць свой тэлефон і даныя.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Была выяўлена падазроная дзейнасць. Выдаліце гэтыя праграмы, каб абараніць свой планшэт і даныя.</item>
+        <item quantity="one">Была выяўлена падазроная дзейнасць. Выдаліце праграмы ніжэй, каб абараніць свой планшэт і даныя.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Была выяўлена падазроная актыўнасць. Выдаліце гэтыя праграмы, каб абараніць свой тэлефон і даныя.</item>
+        <item quantity="one">Была выяўлена падазроная дзейнасць. Выдаліце праграмы ніжэй, каб абараніць свой тэлефон і даныя.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Была выяўлена падазроная дзейнасць. Выдаліце гэтыя праграмы, каб абараніць свой планшэт і даныя.</item>
+        <item quantity="one">Была выяўлена падазроная дзейнасць. Выдаліце праграмы ніжэй, каб абараніць свой планшэт і даныя.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d пагроз выяўлена</item>
+        <item quantity="one">1 пагроза выяўлена</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d пагроз(-ы)</item>
+        <item quantity="one">1 пагроза</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Праграмы ніжэй выклікаюць крытычныя памылкі на тэлефоне. Настойліва рэкамендуем выдаліць гэтыя праграмы. Пасля выдалення вы, магчыма, зможаце ўсталяваць новую версію кожнай праграмы з крамы праграм.</item>
+        <item quantity="one">Праграма ніжэй выклікае крытычныя памылкі на тэлефоне. Настойліва рэкамендуем выдаліць гэту праграму. Пасля выдалення вы, магчыма, зможаце ўсталяваць новую версію з крамы праграм.</item>
+    </plurals>
+</resources>

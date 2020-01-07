@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">U pikasën %d probleme</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">U pikas %d problem</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Kujdesi për pajisjen ka pikasur %d app-e që mund të jetë duke krijuar probleme, përfshi maluerin, crash-e të app-eve ose përdorim të lartë të baterisë.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kujdesi për pajisjen ka pikasur %d app që mund të jetë duke krijuar probleme, përfshi maluerin, crash-e të app-eve ose përdorim të lartë të baterisë.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d ditë</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ditë</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Ekrani do të fiket pas %d sekondash inaktivitet.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ekrani do të fiket pas %d sekonde inaktivitet.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d app-e janë vënë në gjumë.</item>
+        <item quantity="one">1 app është vënë në gjumë.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Duke vënë %d app-e në gjumë…</item>
+        <item quantity="one">Duke vënë 1 app në gjumë…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">U pikasën %1$d rreziqe. Trokit këtu për t’i mënjanuar në %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">U pikas %1$d rrezik. Trokit këtu për ta mënjanuar në %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d app-e po shkaktojnë gabime kritike në telefon. Rekomandojmë me forcë që t’i çinstalosh.</item>
+        <item quantity="one">1 app po shkakton gabime kritike në telefon. Rekomandojmë me forcë që ta çinstalosh.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d app-e</item>
+        <item quantity="one">1 app</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">App-et në sfond u mbyllën</item>
+        <item quantity="one">App-i në sfond u mbyll</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d app-e me përdorim të lartë të baterisë. Vëri në gjumë për të kursyer energji. App-et mund të mos marrin përditësime ose të dërgojnë njoftime, derisa t’i hapësh sërish.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d app me përdorim të lartë të baterisë. Vëre në gjumë për të kursyer energji. App-i mund të mos marrë përditësime ose të dërgojë njoftime, derisa ta hapësh sërish.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">U gjetën %d app-e që kanë bërë crash. Vëri në gjumë për ta shpejtuar telefonin. App-et mund të mos marrin përditësime ose të dërgojnë njoftime, derisa t’i hapësh sërish.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">U gjet %d app që ka bërë crash. Vëre në gjumë për ta shpejtuar telefonin. App-i mund të mos marrë përditësime ose të dërgojë njoftime, derisa ta hapësh sërish.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">U gjetën %d app-e që kanë bërë crash. Vëri në gjumë për ta shpejtuar tabletën. App-et mund të mos marrin përditësime ose të dërgojnë njoftime, derisa t’i hapësh sërish.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">U gjet %d app që ka bërë crash. Vëre në gjumë për ta shpejtuar tabletën. App-i mund të mos marrë përditësime ose të dërgojë njoftime, derisa ta hapësh sërish.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">U pikasën %d app-e maluer. Çinstaloji, për ta mbajtur telefonin të sigurt.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">U pikas %d app maluer. Çinstaloje, për ta mbajtur telefonin të sigurt.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">U pikasën %d app-e maluer. Çinstaloji, për ta mbajtur tabletën të sigurt.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">U pikas %d app maluer. Çinstaloje, për ta mbajtur tabletën të sigurt.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">U vërejt aktivitet i dyshimtë. Çinstalo këto app-e për të mbrojtur telefonin dhe të dhënat.</item>
+        <item quantity="one">U vërejt aktivitet i dyshimtë. Çinstalo app-et më poshtë për të mbrojtur telefonin dhe të dhënat.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">U vërejt aktivitet i dyshimtë. Çinstaloji këto app-e për të mbrojtur tabletën dhe të dhënat.</item>
+        <item quantity="one">U vërejt aktivitet i dyshimtë. Çinstalo app-et më poshtë për të mbrojtur tabletën dhe të dhënat.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">U vërejt aktivitet i dyshimtë. Çinstalo këto app-e për të mbrojtur telefonin dhe të dhënat.</item>
+        <item quantity="one">U vërejt aktivitet i dyshimtë. Çinstalo app-et më poshtë për të mbrojtur telefonin dhe të dhënat.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">U vërejt aktivitet i dyshimtë. Çinstaloji këto app-e për të mbrojtur tabletën dhe të dhënat.</item>
+        <item quantity="one">U vërejt aktivitet i dyshimtë. Çinstalo app-et më poshtë për të mbrojtur tabletën dhe të dhënat.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">U pikasën %d rreziqe</item>
+        <item quantity="one">U pikas 1 rrezik</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d rreziqe</item>
+        <item quantity="one">1 rrezik</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">App-et më poshtë po shkaktojnë gabime kritike në telefonin tënd. Rekomandojmë me forcë që t’i çinstalosh. Pas çinstalimit, mund të instalosh një version të ri të çdo app-i nga një dyqan app-esh.</item>
+        <item quantity="one">App-i më poshtë po shkakton gabime kritike në telefonin tënd. Rekomandojmë me forcë që ta çinstalosh. Pas çinstalimit, mund të instalosh një version të ri nga një dyqan app-esh.</item>
+    </plurals>
+</resources>

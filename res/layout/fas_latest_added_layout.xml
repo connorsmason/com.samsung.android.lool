@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/layout" android:tag="layout/fas_latest_added_layout_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.SubHeaderDotLineView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/battery_settings_new" style="@style/SMWinset.ListSubHeader" />
+    <android.support.v7.widget.RecyclerView android:id="@id/latest_added_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" android:nestedScrollingEnabled="false" />
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

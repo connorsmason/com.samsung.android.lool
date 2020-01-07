@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Aptikta %d problemų</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aptikta %d problema</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Aptiktos %d problemos</item>
+        <item quantity="many">Aptikta %d problemų</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">„Device care“ aptiko %d programų, kurios gali kelti problemų, įskaitant kenkėjiškas programas, programų gedimus ar dideles akumuliatoriaus energijos sąnaudas.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">„Device care“ aptiko %d programą, kuri gali kelti problemų, įskaitant kenkėjiškas programas, programų gedimus ar dideles akumuliatoriaus energijos sąnaudas.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">„Device care“ aptiko %d programas, kurios gali kelti problemų, įskaitant kenkėjiškas programas, programų gedimus ar dideles akumuliatoriaus energijos sąnaudas.</item>
+        <item quantity="many">„Device care“ aptiko %d programų, kurios gali kelti problemų, įskaitant kenkėjiškas programas, programų gedimus ar dideles akumuliatoriaus energijos sąnaudas.</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dienų</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d diena</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d dienos</item>
+        <item quantity="many">%d dienos</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Ekranas bus išjungtas po %d sek. neaktyvumo.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ekranas bus išjungtas po %d sek. neaktyvumo.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ekranas bus išjungtas po %d sek. neaktyvumo.</item>
+        <item quantity="many">Ekranas bus išjungtas po %d sek. neaktyvumo.</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">Užmigdyta programų: %d.</item>
+        <item quantity="one">Užmigdyta 1 programa.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Užmigdoma programų: %d…</item>
+        <item quantity="one">Užmigdoma 1 programa…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Aptikta %1$d grėsmių. Bakstelėkite čia ir pašalinkite jas %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aptikta %1$d grėsmė. Bakstelėkite čia ir pašalinkite ją %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Aptiktos %1$d grėsmės. Bakstelėkite čia ir pašalinkite jas %2$s.</item>
+        <item quantity="many">Aptikta %1$d grėsmių. Bakstelėkite čia ir pašalinkite jas %2$s.</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">Dėl %d programų telefone vyksta kritinės klaidos. Primygtinai rekomenduojama šias programas išdiegti.</item>
+        <item quantity="one">Dėl 1 programos telefone vyksta kritinės klaidos. Primygtinai rekomenduojama šią programą išdiegti.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">Programų: %d</item>
+        <item quantity="one">1 programa</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Foninės programos uždarytos</item>
+        <item quantity="one">Foninė programa uždaryta</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d programų vartoja daug akumuliatoriaus energijos. Užmigdykite jas ir taupykite energiją. Jos gali negauti naujinių arba nesiųsti pranešimų, kol jų neatidarysite dar kartą.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d programa vartoja daug akumuliatoriaus energijos. Užmigdykite ją ir taupykite energiją. Ji gali negauti naujinių arba nesiųsti pranešimų, kol jos neatidarysite dar kartą.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d programos vartoja daug akumuliatoriaus energijos. Užmigdykite jas ir taupykite energiją. Jos gali negauti naujinių arba nesiųsti pranešimų, kol jų neatidarysite dar kartą.</item>
+        <item quantity="many">%d programų vartoja daug akumuliatoriaus energijos. Užmigdykite jas ir taupykite energiją. Jos gali negauti naujinių arba nesiųsti pranešimų, kol jų neatidarysite dar kartą.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Rasta %d užstrigusių programų. Užmigdykite jas ir paspartinkite telefoną. Jos gali negauti naujinių arba nesiųsti pranešimų, kol jų neatidarysite dar kartą.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Rasta %d užstrigusi programa. Užmigdykite ją ir paspartinkite telefoną. Ji gali negauti naujinių arba nesiųsti pranešimų, kol jos neatidarysite dar kartą.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Rastos %d užstrigusios programos. Užmigdykite jas ir paspartinkite telefoną. Jos gali negauti naujinių arba nesiųsti pranešimų, kol jų neatidarysite dar kartą.</item>
+        <item quantity="many">Rasta %d užstrigusių programų. Užmigdykite jas ir paspartinkite telefoną. Jos gali negauti naujinių arba nesiųsti pranešimų, kol jų neatidarysite dar kartą.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Rasta %d užstrigusių programų. Užmigdykite jas, kad paspartintumėte savo planšetinį kompiuterį. Jos gali negauti naujinių arba nesiųsti pranešimų, kol jų neatidarysite dar kartą.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Rasta %d užstrigusi programa. Užmigdykite ją, kad paspartintumėte savo planšetinį kompiuterį. Ji gali negauti naujinių arba nesiųsti pranešimų, kol jos neatidarysite dar kartą.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Rastos %d užstrigusios programos. Užmigdykite jas, kad paspartintumėte savo planšetinį kompiuterį. Jos gali negauti naujinių arba nesiųsti pranešimų, kol jų neatidarysite dar kartą.</item>
+        <item quantity="many">Rasta %d užstrigusių programų. Užmigdykite jas, kad paspartintumėte savo planšetinį kompiuterį. Jos gali negauti naujinių arba nesiųsti pranešimų, kol jų neatidarysite dar kartą.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Aptikta %d kenkėjiškų programų. Išdiekite jas, kad telefonas būtų saugus.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aptikta %d kenkėjiška programa. Išdiekite ją, kad telefonas būtų saugus.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Aptiktos %d kenkėjiškos programos. Išdiekite jas, kad telefonas būtų saugus.</item>
+        <item quantity="many">Aptikta %d kenkėjiškų programų. Išdiekite jas, kad telefonas būtų saugus.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Aptikta %d kenkėjiškų programų. Išdiekite jas, kad planšetinis kompiuteris būtų saugus.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aptikta %d kenkėjiška programa. Išdiekite ją, kad planšetinis kompiuteris būtų saugus.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Aptiktos %d kenkėjiškos programos. Išdiekite jas, kad planšetinis kompiuteris būtų saugus.</item>
+        <item quantity="many">Aptikta %d kenkėjiškų programų. Išdiekite jas, kad planšetinis kompiuteris būtų saugus.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Aptikta įtartina veikla. Išdiekite šias programas ir apsaugokite savo telefoną bei duomenis.</item>
+        <item quantity="one">Aptikta įtartina veikla. Kad apsaugotumėte telefoną ir duomenis, išdiekite toliau nurodytas programas.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Aptikta įtartina veikla. Išdiekite šias programas ir apsaugokite savo planšetinį kompiuterį bei duomenis.</item>
+        <item quantity="one">Aptikta įtartina veikla. Kad apsaugotumėte planšetinį kompiuterį ir duomenis, išdiekite toliau nurodytas programas.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Aptikta įtartina veikla. Išdiekite šias programas ir apsaugokite savo telefoną bei duomenis.</item>
+        <item quantity="one">Aptikta įtartina veikla. Kad apsaugotumėte telefoną ir duomenis, išdiekite toliau nurodytas programas.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Aptikta įtartina veikla. Išdiekite šias programas ir apsaugokite savo planšetinį kompiuterį bei duomenis.</item>
+        <item quantity="one">Aptikta įtartina veikla. Kad apsaugotumėte planšetinį kompiuterį ir duomenis, išdiekite toliau nurodytas programas.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Aptikta grėsmių: %d</item>
+        <item quantity="one">Aptikta 1 grėsmė</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d grėsmės</item>
+        <item quantity="one">1 grėsmė</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Dėl toliau nurodytų programų telefone įvyksta kritinės klaidos. Primygtinai rekomenduojama šias programas išdiegti. Išdiegę naują kiekvienos programos versiją galėsite įdiegti iš programų parduotuvės.</item>
+        <item quantity="one">Dėl toliau nurodytos programos telefone vyksta kritinės klaidos. Primygtinai rekomenduojama šią programą išdiegti. Išdiegę naują programos versiją galėsite įdiegti iš programų parduotuvės.</item>
+    </plurals>
+</resources>

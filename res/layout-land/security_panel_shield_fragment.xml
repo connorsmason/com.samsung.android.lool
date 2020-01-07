@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include layout="@layout/security_panel_shield_top_container" />
+        <include layout="@layout/security_panel_shield_fix_now_description" />
+        <include layout="@layout/security_panel_shield_fix_now_btn" />
+        <include android:id="@id/panel_powered_by" layout="@layout/security_powered_by_layout" />
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</ScrollView>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d சிக்கல்கள் கண்டறியப்பட்டுள்ளன</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d சிக்கல் கண்டறியப்பட்டுள்ளது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">சாதன பராமரிப்பானது மால்வேர், பயன்பாட்டு சிதைவுகள் அல்லது அதிக மின்கல பயன்பாடு போன்றவை உட்பட்ட சிக்கல்களை ஏற்படுத்த வாய்ப்புள்ள %d பயன்பாடுகளைக் கண்டறிந்துள்ளது.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">சாதன பராமரிப்பானது மால்வேர், பயன்பாட்டு சிதைவுகள் அல்லது அதிக மின்கல பயன்பாடு போன்றவை உட்பட்ட சிக்கல்களை ஏற்படுத்த வாய்ப்புள்ள %d பயன்பாட்டைக் கண்டறிந்துள்ளது.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d நாட்கள்</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d நாள்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">%d வினாடிகள் செயல்படா நிலையில் உள்ள போது திரை ஆஃப் செய்யப்படும்.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d வினாடி செயல்படா நிலையில் உள்ள போது திரை ஆஃப் செய்யப்படும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d பயன்பாடுகள் உறக்க நிலையில் வைக்கப்படுள்ளன.</item>
+        <item quantity="one">1 பயன்பாடு உறக்க நிலையில் வைக்கப்பட்டுள்ளது.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d பயன்பாடுகளை உறக்கத்தில் வைக்கின்றது…</item>
+        <item quantity="one">1 பயன்பாட்டை உறக்கத்தில் வைக்கிறது…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d அச்சுறுத்தல்கள் கண்டறியப்பட்டுள்ளன. %2$s-இல் இதை சரிசெய்ய இங்கே டேப் செய்யவும்.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d அச்சுறுத்தல் கண்டறியப்பட்டுள்ளது. %2$s-இல் இதை சரிசெய்ய இங்கே டேப் செய்யவும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">உங்கள் ஃபோனில் %d பயன்பாடுகள் பிழைகளை ஏற்படுத்துகின்றன. இந்த பயன்பாடுகளை நிறுவல் நீக்குவது கட்டாயமாக பரிந்துரைக்கப்படுகிறது.</item>
+        <item quantity="one">1 பயன்பாடு உங்கள் ஃபோனில் முக்கியப் பிழைகளை ஏற்படுத்துகின்றது. இந்தப் பயன்பாட்டைத் நிறுவல் நீக்குவது கட்டாயமாக பரிந்துரைக்கப்படுகிறது.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d பயன்பாடுகள்</item>
+        <item quantity="one">1 பயன்பாடு</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">பின்னணி பயன்பாடுகள் மூடப்பட்டுள்ளன</item>
+        <item quantity="one">பின்னணி பயன்பாடு மூடப்பட்டுள்ளது</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d பயன்பாடுகள் அதிகமாக மின்கலத்தைப் பயன்படுத்துகின்றன. ஆற்றலைச் சேமிக்க அவற்றை உறக்க நிலையில் வைக்கவும். நீங்கள் அவற்றை மீண்டும் திறக்கும் வரை அவற்றால் புதுப்பிப்புகளைப் பெறவோ அல்லது அறிவிப்புகளை அனுப்பவோ இயலாமல் போகலாம்.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d பயன்பாடு அதிகமாக மின்கலத்தைப் பயன்படுத்துகிறது. ஆற்றலைச் சேமிக்க அதனை உறக்க நிலையில் வைக்கவும். நீங்கள் அதை மீண்டும் திறக்கும் வரை அதனால் புதுப்பிப்புகளைப் பெறவோ அல்லது அறிவிப்புகளை அனுப்பவோ இயலாமல் போகலாம்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d சிதைந்துள்ள பயன்பாடுகள் கண்டறியப்பட்டுள்ளன. ஃபோனை வேகப்படுத்த, அவற்றை உறக்க நிலையில் வைக்கவும். நீங்கள் அவற்றை மீண்டும் திறக்கும் வரை அவற்றால் புதுப்பிப்புகளைப் பெறவோ அல்லது அறிவிப்புகளை அனுப்பவோ இயலாமல் போகலாம்.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d சிதைந்துள்ள பயன்பாடு கண்டறியப்பட்டுள்ளது. ஃபோனை வேகப்படுத்த, அதனை உறக்க நிலையில் வைக்கவும். நீங்கள் அதை மீண்டும் திறக்கும் வரை அதனால் புதுப்பிப்புகளைப் பெறவோ அல்லது அறிவிப்புகளை அனுப்பவோ இயலாமல் போகலாம்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d சிதைந்துள்ள பயன்பாடுகள் கண்டறியப்பட்டுள்ளன. டேப்லெட்டை வேகப்படுத்த, அவற்றை உறக்க நிலையில் வைக்கவும். நீங்கள் அவற்றை மீண்டும் திறக்கும் வரை அவற்றால் புதுப்பிப்புகளைப் பெறவோ அல்லது அறிவிப்புகளை அனுப்பவோ இயலாமல் போகலாம்.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d சிதைந்துள்ள பயன்பாடு கண்டறியப்பட்டுள்ளது. டேப்லெட்டை வேகப்படுத்த, அதனை உறக்க நிலையில் வைக்கவும். நீங்கள் அதனை மீண்டும் திறக்கும் வரை அதனால் புதுப்பிப்புகளைப் பெறவோ அல்லது அறிவிப்புகளை அனுப்பவோ இயலாமல் போகலாம்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d மால்வேர் பயன்பாடுகள் கண்டறியப்பட்டுள்ளன. உங்கள் ஃபோனை பாதுகாப்பாக வைத்திருக்க அவற்றை நிறுவல் நீக்கவும்.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d மால்வேர் பயன்பாடு கண்டறியப்பட்டுள்ளது. உங்கள் ஃபோனை பாதுகாப்பாக வைத்திருக்க அதனை நிறுவல் நீக்கவும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d மால்வேர் பயன்பாடுகள் கண்டறியப்பட்டுள்ளன. உங்கள் டேப்லெட்டைப் பாதுகாப்பாக வைத்திருக்க அவற்றை நிறுவல் நீக்கவும்.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d மால்வேர் பயன்பாடு கண்டறியப்பட்டுள்ளது. உங்கள் டேப்லெட்டைப் பாதுகாப்பாக வைத்திருக்க அதனை நிறுவல் நீக்கவும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">சந்தேகத்திற்குரிய செயல்பாடு கண்டறியப்பட்டுள்ளது. உங்கள் ஃபோன் மற்றும் தரவை பாதுகாக்க, இந்தப் பயன்பாடுகளை நிறுவல் நீக்கவும்.</item>
+        <item quantity="one">சந்தேகத்திற்குரிய செயல் கண்டறியப்பட்டுள்ளது. உங்கள் ஃபோன் மற்றும் தரவை பாதுகாக்க, கீழே உள்ள பயன்பாடுகளை நிறுவல் நீக்கவும்.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">சந்தேகத்திற்குரிய செயல்பாடு கண்டறியப்பட்டுள்ளது. உங்கள் டேப்லெட் மற்றும் தரவை பாதுகாக்க, இந்தப் பயன்பாடுகளை நிறுவல் நீக்கவும்.</item>
+        <item quantity="one">சந்தேகத்திற்குரிய செயல் கண்டறியப்பட்டுள்ளது. உங்கள் டேப்லெட் மற்றும் தரவை பாதுகாக்க, கீழே உள்ள பயன்பாடுகளை நிறுவல் நீக்கவும்.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">சந்தேகத்திற்குரிய செயல்பாடு கண்டறியப்பட்டுள்ளது. உங்கள் ஃபோன் மற்றும் தரவை பாதுகாக்க, இந்தப் பயன்பாடுகளை நிறுவல் நீக்கவும்.</item>
+        <item quantity="one">சந்தேகத்திற்குரிய செயல் கண்டறியப்பட்டுள்ளது. உங்கள் ஃபோன் மற்றும் தரவை பாதுகாக்க, கீழே உள்ள பயன்பாடுகளை நிறுவல் நீக்கவும்.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">சந்தேகத்திற்குரிய செயல்பாடு கண்டறியப்பட்டுள்ளது. உங்கள் டேப்லெட் மற்றும் தரவை பாதுகாக்க, இந்தப் பயன்பாடுகளை நிறுவல் நீக்கவும்.</item>
+        <item quantity="one">சந்தேகத்திற்குரிய செயல் கண்டறியப்பட்டுள்ளது. உங்கள் டேப்லெட் மற்றும் தரவை பாதுகாக்க, கீழே உள்ள பயன்பாடுகளை நிறுவல் நீக்கவும்.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d அச்சுறுத்தல்கள் கண்டறியப்பட்டன</item>
+        <item quantity="one">1 அச்சுறுத்தல் கண்டறியப்பட்டது</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d அச்சுறுத்தல்கள்</item>
+        <item quantity="one">1 அச்சுறுத்தல்</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">உங்கள் ஃபோனில் கீழேயுள்ள பயன்பாடுகள் முக்கிய பிழைகளை ஏற்படுத்துகின்றன. இந்த பயன்பாடுகளை நிறுவல் நீக்குவது கட்டாயமாக பரிந்துரைக்கப்படுகிறது. நிறுவல் நீக்கிய பிறகு, பயன்பாட்டு ஸ்டோரிலிருந்து ஒவ்வொரு பயன்பாட்டின் புதிய பதிப்பை நீங்கள் நிறுவலாம்.</item>
+        <item quantity="one">உங்கள் ஃபோனில் கீழேயுள்ள பயன்பாடுகள் முக்கிய பிழைகளை ஏற்படுத்துகின்றன. இந்தப் பயன்பாட்டை நிறுவல் நீக்குவது கட்டாயமாக பரிந்துரைக்கப்படுகின்றது. நிறுவல் நீக்கிய பிறகு, பயன்பாட்டு ஸ்டோரிலிருந்து நீங்கள் புதிய பதிப்பை நிறுவ இயலலாம்.</item>
+    </plurals>
+</resources>

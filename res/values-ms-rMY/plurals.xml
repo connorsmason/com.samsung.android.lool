@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d isu dikesan</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Penjagaan peranti telah mengesan %d aplikasi yang mungkin menyebabkan isu termasuklah perisian hasad, keruntuhan aplikasi atau penggunaan bateri yang tinggi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d hari</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Skrin akan dimatikan selepas tidak aktif selama %d saat.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d aplikasi telah ditidurkan.</item>
+        <item quantity="one">1 aplikasi telah ditidurkan.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Menidurkan %d aplikasi…</item>
+        <item quantity="one">Menidurkan 1 aplikasi…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d ancaman dikesan. Ketik di sini untuk menyelesaikannya dalam %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d aplikasi sedang menyebabkan ralat kritikal pada telefon anda. Menyahpasang aplikasi ini amat disyorkan.</item>
+        <item quantity="one">1 aplikasi sedang menyebabkan ralat kritikal pada telefon anda. Menyahpasang aplikasi ini amat disyorkan.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d aplikasi</item>
+        <item quantity="one">1 aplikasi</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Aplikasi latar belakang ditutup</item>
+        <item quantity="one">Aplikasi latar belakang ditutup</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d aplikasi dengan penggunaan bateri yang tinggi. Tidurkan aplikasi untuk menjimatkan kuasa. Aplikasi mungkin tidak menerima kemas kini atau menghantar pemberitahuan sehingga anda membukannya semula.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d aplikasi runtuh ditemui. Tidurkannya untuk mempercepat telefon anda. Aplikasi mungkin tidak menerima kemas kini atau menghantar pemberitahuan sehingga anda membukannya semula.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d aplikasi runtuh ditemui. Tidurkannya untuk mempercepat tablet anda. Aplikasi mungkin tidak menerima kemas kini atau menghantar pemberitahuan sehingga anda membukanya semula.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d aplikasi hasad dikesan. Nyahpasangnya untuk melindungi telefon anda.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d aplikasi hasad dikesan. Nyahpasangnya untuk melindungi tablet anda.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Aktiviti yang mencurigakan telah dikesan. Nyahpasang aplikasi ini untuk melindungi telefon dan data anda.</item>
+        <item quantity="one">Aktiviti yang mencurigakan telah dikesan. Nyahpasang aplikasi di bawah untuk melindungi telefon dan data anda.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Aktiviti yang mencurigakan telah dikesan. Nyahpasang aplikasi ini untuk melindungi tablet dan data anda.</item>
+        <item quantity="one">Aktiviti yang mencurigakan telah dikesan. Nyahpasang aplikasi di bawah untuk melindungi tablet dan data anda.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Aktiviti yang mencurigakan telah dikesan. Nyahpasang aplikasi ini untuk melindungi telefon dan data anda.</item>
+        <item quantity="one">Aktiviti yang mencurigakan telah dikesan. Nyahpasang aplikasi di bawah untuk melindungi telefon dan data anda.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Aktiviti yang mencurigakan telah dikesan. Nyahpasang aplikasi ini untuk melindungi tablet dan data anda.</item>
+        <item quantity="one">Aktiviti yang mencurigakan telah dikesan. Nyahpasang aplikasi di bawah untuk melindungi tablet dan data anda.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d ancaman dikesan</item>
+        <item quantity="one">1 ancaman dikesan</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d ancaman</item>
+        <item quantity="one">1 ancaman</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Aplikasi di bawah sedang menyebabkan ralat kritikal pada telefon anda. Menyahpasang aplikasi ini amat disyorkan. Selepas menyahpasang, anda mungkin dapat memasang versi baru setiap aplikasi daripada kedai aplikasi.</item>
+        <item quantity="one">Aplikasi di bawah sedang menyebabkan ralat kritikal pada telefon anda. Menyahpasang aplikasi ini amat disyorkan. Selepas menyahpasang, anda mungkin dapat memasang versi baru daripada kedai aplikasi.</item>
+    </plurals>
+</resources>

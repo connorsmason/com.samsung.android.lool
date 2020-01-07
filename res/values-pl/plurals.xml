@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Wykryto %d problemów</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wykryto %d problem</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wykryto %d problemy</item>
+        <item quantity="many">Wykryto %d problemów</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Ochrona urządzenia wykryła %d aplikacji, które mogą powodować problemy, w tym złośliwe oprogramowanie, awarie aplikacji lub duże użycie baterii.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ochrona urządzenia wykryła %d aplikację, która może powodować problemy, w tym złośliwe oprogramowanie, awarie aplikacji lub duże użycie baterii.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ochrona urządzenia wykryła %d aplikacje, które mogą powodować problemy, w tym złośliwe oprogramowanie, awarie aplikacji lub duże użycie baterii.</item>
+        <item quantity="many">Ochrona urządzenia wykryła %d aplikacji, które mogą powodować problemy, w tym złośliwe oprogramowanie, awarie aplikacji lub duże użycie baterii.</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d dni</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d dzień</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dni</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Ekran wyłączy się po %d sekundach nieaktywności.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ekran wyłączy się po %d sekundzie nieaktywności.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ekran wyłączy się po %d sekundach nieaktywności.</item>
+        <item quantity="many">Ekran wyłączy się po %d sekundach nieaktywności.</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">Wprowadzono w tryb uśpienia aplikacji: %d.</item>
+        <item quantity="one">Wprowadzono w tryb uśpienia 1 aplikację.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Wprowadzanie %d aplikacji w tryb uśpienia…</item>
+        <item quantity="one">Wprowadzanie 1 aplikacji w tryb uśpienia…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Wykryto %1$d zagrożeń. Dotknij tutaj, aby zaradzić im w aplikacji %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wykryto %1$d zagrożenie. Dotknij tutaj, aby zaradzić mu w aplikacji %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wykryto %1$d zagrożenia. Dotknij tutaj, aby zaradzić im w aplikacji %2$s.</item>
+        <item quantity="many">Wykryto %1$d zagrożeń. Dotknij tutaj, aby zaradzić im w aplikacji %2$s.</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">Aplikacji: %d powoduje krytyczne błędy w telefonie. Odinstalowanie tych aplikacji jest stanowczo zalecane.</item>
+        <item quantity="one">1 aplikacja powoduje krytyczne błędy w telefonie. Dezinstalacja tej aplikacji jest stanowczo zalecana.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">Aplikacji: %d</item>
+        <item quantity="one">1 aplikacja</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Zamknięto aplikacje w tle</item>
+        <item quantity="one">Zamknięto aplikację w tle</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d aplikacji z dużym użyciem baterii. Wprowadź je w tryb uśpienia, aby zaoszczędzić energię. Mogą one nie odbierać aktualizacji ani nie wysyłać powiadomień do czasu ponownego otwarcia.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikacja z dużym użyciem baterii. Wprowadź ją w tryb uśpienia, aby zaoszczędzić energię. Może ona nie odbierać aktualizacji ani nie wysyłać powiadomień do czasu ponownego otwarcia.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplikacje z dużym użyciem baterii. Wprowadź je w tryb uśpienia, aby zaoszczędzić energię. Mogą one nie odbierać aktualizacji ani nie wysyłać powiadomień do czasu ponownego otwarcia.</item>
+        <item quantity="many">%d aplikacji z dużym użyciem baterii. Wprowadź je w tryb uśpienia, aby zaoszczędzić energię. Mogą one nie odbierać aktualizacji ani nie wysyłać powiadomień do czasu ponownego otwarcia.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Znaleziono %d uszkodzonych aplikacji. Wprowadź je w tryb uśpienia, aby przyspieszyć działanie telefonu. Mogą one nie odbierać aktualizacji ani nie wysyłać powiadomień do czasu ponownego otwarcia.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Znaleziono %d uszkodzoną aplikację. Wprowadź ją w tryb uśpienia, aby przyspieszyć działanie telefonu. Może ona nie odbierać aktualizacji ani nie wysyłać powiadomień do czasu ponownego otwarcia.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Znaleziono %d uszkodzone aplikacje. Wprowadź je w tryb uśpienia, aby przyspieszyć działanie telefonu. Mogą one nie odbierać aktualizacji ani nie wysyłać powiadomień do czasu ponownego otwarcia.</item>
+        <item quantity="many">Znaleziono %d uszkodzonych aplikacji. Wprowadź je w tryb uśpienia, aby przyspieszyć działanie telefonu. Mogą one nie odbierać aktualizacji ani nie wysyłać powiadomień do czasu ponownego otwarcia.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Znaleziono %d uszkodzonych aplikacji. Wprowadź je w tryb uśpienia, aby przyspieszyć działanie tabletu. Mogą one nie odbierać aktualizacji ani nie wysyłać powiadomień do czasu ponownego otwarcia.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Znaleziono %d uszkodzoną aplikację. Wprowadź ją w tryb uśpienia, aby przyspieszyć działanie tabletu. Może ona nie odbierać aktualizacji ani nie wysyłać powiadomień do czasu ponownego otwarcia.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Znaleziono %d uszkodzone aplikacje. Wprowadź je w tryb uśpienia, aby przyspieszyć działanie tabletu. Mogą one nie odbierać aktualizacji ani nie wysyłać powiadomień do czasu ponownego otwarcia.</item>
+        <item quantity="many">Znaleziono %d uszkodzonych aplikacji. Wprowadź je w tryb uśpienia, aby przyspieszyć działanie tabletu. Mogą one nie odbierać aktualizacji ani nie wysyłać powiadomień do czasu ponownego otwarcia.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Wykryto %d złośliwych aplikacji. Odinstaluj je, aby zachować bezpieczeństwo telefonu.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wykryto %d złośliwą aplikację. Odinstaluj ją, aby zachować bezpieczeństwo telefonu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wykryto %d złośliwe aplikacje. Odinstaluj je, aby zachować bezpieczeństwo telefonu.</item>
+        <item quantity="many">Wykryto %d złośliwych aplikacji. Odinstaluj je, aby zachować bezpieczeństwo telefonu.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Wykryto %d złośliwych aplikacji. Odinstaluj je, aby zachować bezpieczeństwo tabletu.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Wykryto %d złośliwą aplikację. Odinstaluj ją, aby zachować bezpieczeństwo tabletu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Wykryto %d złośliwe aplikacje. Odinstaluj je, aby zachować bezpieczeństwo tabletu.</item>
+        <item quantity="many">Wykryto %d złośliwych aplikacji. Odinstaluj je, aby zachować bezpieczeństwo tabletu.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Wykryto podejrzaną aktywność. Odinstaluj te aplikacje, aby chronić telefon i dane.</item>
+        <item quantity="one">Wykryto podejrzaną czynność. Odinstaluj poniższe aplikacje, aby chronić telefon i dane.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Wykryto podejrzaną aktywność. Odinstaluj te aplikacje, aby chronić tablet i dane.</item>
+        <item quantity="one">Wykryto podejrzaną czynność. Odinstaluj poniższe aplikacje, aby chronić tablet i dane.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Wykryto podejrzaną aktywność. Odinstaluj te aplikacje, aby chronić telefon i dane.</item>
+        <item quantity="one">Wykryto podejrzaną czynność. Odinstaluj poniższe aplikacje, aby chronić telefon i dane.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Wykryto podejrzaną aktywność. Odinstaluj te aplikacje, aby chronić tablet i dane.</item>
+        <item quantity="one">Wykryto podejrzaną czynność. Odinstaluj poniższe aplikacje, aby chronić tablet i dane.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Wykryto zagrożeń: %d</item>
+        <item quantity="one">Wykryto 1 zagrożenie</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">zagrożeń: %d</item>
+        <item quantity="one">1 zagrożenie</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Poniższe aplikacje powodują krytyczne błędy w telefonie. Odinstalowanie tych aplikacji jest stanowczo zalecane. Po odinstalowaniu możesz zainstalować nowe wersje poszczególnych aplikacji ze sklepu z aplikacjami.</item>
+        <item quantity="one">Poniższa aplikacja powoduje krytyczne błędy w telefonie. Odinstalowanie tej aplikacji jest stanowczo zalecane. Po odinstalowaniu możesz zainstalować nową wersję ze sklepu z aplikacjami.</item>
+    </plurals>
+</resources>

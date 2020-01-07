@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/second_container" android:tag="layout/battery_clean_anim_description_0" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/fixing_desc_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/second_depth_space_between_description_and_list" android:paddingHorizontal="@dimen/second_depth_fix_now_desc_padding_horizontal">
+        <TextView android:textSize="@dimen/second_depth_circle_cleaning_description_text_size" android:textColor="@color/second_depth_circle_cleaning_description_text_color_theme" android:gravity="center" android:id="@id/clean_desc_tv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        <TextView android:textSize="@dimen/second_depth_circle_cleaning_description_text_size" android:textColor="@color/second_depth_status_good_text_color_theme" android:gravity="center" android:id="@id/clean_desc_secondary_tv" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/second_depth_circle_cleaning_description_secondary_text_margin_top" android:layout_below="@id/clean_desc_tv" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <ImageView android:id="@id/divider_line" android:visibility="gone" android:layout_marginStart="?winsetListItemPaddingStart" android:layout_marginEnd="?winsetListItemPaddingEnd" style="@style/SMWinset.DividerStyle" />
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

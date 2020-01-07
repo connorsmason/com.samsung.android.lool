@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.SwitchBar android:id="@id/auto_opt_switch_bar" style="@style/SwitchBarTheme" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/auto_opt_layout" android:background="?winsetLightThemeBgColor" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="vertical" android:id="@id/auto_opt_description" android:importantForAccessibility="yes" style="@style/SMWinset.DescriptionStyle">
+                    <TextView android:id="@id/auto_opt_description_text" style="@style/SMWinset.DescriptionTextStyle" />
+                    <TextView android:id="@id/auto_opt_description_condition_text" android:paddingTop="@dimen/zero_dp_width" style="@style/SMWinset.DescriptionTextStyle" />
+                </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+            <TextView android:id="@id/auto_opt_subheader_text" android:layout_below="@id/auto_opt_layout" style="?android:listSeparatorTextViewStyle" />
+            <com.samsung.android.sm.view.RoundedCornerLinearLayout android:id="@id/auto_opt_schedule_times" android:background="?android:selectableItemBackground" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/auto_opt_subheader_text" style="@style/SMWinset.ListItemStyle.2Line">
+                <com.samsung.android.sm.view.RoundedCornerLinearLayout android:id="@id/auto_opt_time_layout" style="@style/SMWinset.ListItemTextViewStyle.2Line.TextContainer">
+                    <TextView android:id="@id/auto_opt_setting_time_title" android:text="@string/auto_cleaner_setting_time" style="@style/SMWinset.ListItemTextViewStyle.2Line.PrimaryText" />
+                    <TextView android:id="@id/auto_opt_settings_time_content" android:layout_width="wrap_content" android:text="@string/sort_none" style="@style/SMWinset.ListItemTextViewStyle.2Line.SecondaryTextSetting" />
+                </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+            </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+            <View android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/auto_opt_schedule_times" style="@style/VacantSpaceForCorners" />
+        </RelativeLayout>
+    </ScrollView>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.sm.view.RoundedCornerLinearLayout android:orientation="horizontal" android:id="@id/ram_fragment2" android:background="?winsetLightThemeBgColor" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.sm.view.RoundedCornerLinearLayout android:background="?android:windowBackground" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginTop="@dimen/second_depth_layout_vertical_margin" android:layout_weight="0.5" layout="@layout/ram_fragment_header" />
+        <ImageView android:id="@id/divider" android:background="?winsetDividerColor" android:layout_width="?winsetDividerHeight" android:layout_height="fill_parent" android:layout_marginVertical="@dimen/activity_vertical_margin" />
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.5">
+            <LinearLayout android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginHorizontal="@dimen/ram_other_section_divider_expand_text_margin_horizontal">
+                <TextView android:textSize="@dimen/ram_no_item_text_size" android:textColor="@color/dc_winset_sep10_no_item_textview_text_color" android:gravity="center" android:id="@id/no_apps_land" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/ram_no_item_text_view_height" android:text="@string/no_recently_used_apps" />
+            </LinearLayout>
+            <android.widget.SemExpandableListView android:id="@android:id/list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:divider="@null" />
+        </LinearLayout>
+    </com.samsung.android.sm.view.RoundedCornerLinearLayout>
+</com.samsung.android.sm.view.RoundedCornerLinearLayout>

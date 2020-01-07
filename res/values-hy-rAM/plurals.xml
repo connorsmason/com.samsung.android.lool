@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d խնդիր է հայտնաբերվել</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d խնդիր է հայտնաբերվել</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Սարքի խնամքը հայտնաբերել է %d ծրագիր, որոնք կարող են խնդիրներ առաջացնել, ներառյալ վնասարար ծրագրակազմերը, ծրագրի խափանումները կամ մարտկոցի օգտագործման բարձր մակարդակը:</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Սարքի խնամքը հայտնաբերել է %d ծրագիր, որը կարող է խնդիրներ առաջացնել, ներառյալ վնասարար ծրագրակազմերը, ծրագրի խափանումները կամ մարտկոցի օգտագործման բարձր մակարդակը:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d օր</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d օր</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Էկրանը կանջատվի %d վայրկյան անգործությունից հետո:</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Էկրանը կանջատվի %d վայրկյան անգործությունից հետո:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d ծրագիր դրվել է նիրհման ռեժիմում:</item>
+        <item quantity="one">1 ծրագիր դրվել է նիրհման ռեժիմում:</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d ծրագիր դրվում է նիրհման ռեժիմում…</item>
+        <item quantity="one">1 ծրագիր դրվում է նիրհման ռեժիմում…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d սպառնալիք է հայտնաբերվել: Թակեք այստեղ՝ սպառնալիքների խնդիրը %2$s-ում լուծելու համար:</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d սպառնալիք է հայտնաբերվել: Թակեք այստեղ՝ սպառնալիքի խնդիրը %2$s-ում լուծելու համար:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d ծրագրեր կրիտիկական սխալներ են առաջացնում հեռախոսում: Անպայմանորեն խորհուրդ է տրվում ապատեղադրել այդ ծրագրերը:</item>
+        <item quantity="one">1 ծրագիր կրիտիկական սխալներ է առաջացնում հեռախոսում: Անպայմանորեն խորհուրդ է տրվում ապատեղադրել այդ ծրագիրը:</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d ծրագիր</item>
+        <item quantity="one">1 ծրագիր</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Ֆոնային ծրագրերը փակ են</item>
+        <item quantity="one">Ֆոնային ծրագիրը փակ է</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d ծրագիր՝ մարտկոցի օգտագործման բարձր մակարդակով: Դրանք դրեք նիրհման ռեժիմում՝ էներգիան խնայելու համար: Հնարավոր է, որ դրանք չստանան թարմացումներ կամ ծանուցումներ, քանի դեռ չեք բացել:</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ծրագիր՝ մարտկոցի օգտագործման բարձր մակարդակով: Այն դրեք նիրհման ռեժիմում՝ էներգիան խնայելու համար: Հնարավոր է, որ այն չստանա թարմացումներ կամ ծանուցումներ, քանի դեռ չեք բացել:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d խափանված ծրագիր է գտնվել: Դրանք դրեք նիրհման ռեժիմում՝ հեռախոսի աշխատանքն արագացնելու համար: Հնարավոր է, որ դրանք չստանան թարմացումներ կամ ծանուցումներ, քանի դեռ չեք բացել:</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d խափանված ծրագիր է գտնվել: Այն դրեք նիրհման ռեժիմում՝ հեռախոսի աշխատանքն արագացնելու համար: Հնարավոր է, որ այն չստանա թարմացումներ կամ ծանուցումներ, քանի դեռ չեք բացել:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">%d խափանված ծրագիր է գտնվել: Դրանք դրեք նիրհման ռեժիմում՝ պլանշետի աշխատանքն արագացնելու համար: Հնարավոր է, որ դրանք չստանան թարմացումներ կամ ծանուցումներ, քանի դեռ չեք բացել:</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d խափանված ծրագիր է գտնվել: Այն դրեք նիրհման ռեժիմում՝ պլանշետի աշխատանքն արագացնելու համար: Հնարավոր է, որ այն չստանա թարմացումներ կամ ծանուցումներ, քանի դեռ չեք բացել:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d վնասարար ծրագիր է հայտնաբերվել: Ապատեղադրեք դրանք՝ Ձեր հեռախոսն անվտանգ պահելու համար:</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d վնասարար ծրագիր է հայտնաբերվել: Ապատեղադրեք այն՝ Ձեր հեռախոսն անվտանգ պահելու համար:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d վնասարար ծրագիր է հայտնաբերվել: Ապատեղադրեք դրանք՝ Ձեր պլանշետն անվտանգ պահելու համար:</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d վնասարար ծրագիր է հայտնաբերվել: Ապատեղադրեք այն՝ Ձեր պլանշետն անվտանգ պահելու համար:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Կասկածելի գործունեություն է հայտնաբերվել: Ապատեղադրեք այդ ծրագրերը՝ հեռախոսը և տվյալները պաշտպանելու համար:</item>
+        <item quantity="one">Կասկածելի գործունեություն է հայտնաբերվել: Ապատեղադրեք ներքևի ծրագրերը՝ հեռախոսը և տվյալները պաշտպանելու համար:</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Կասկածելի գործունեություն է հայտնաբերվել: Ապատեղադրեք այդ ծրագրերը՝ պլանշետը և տվյալները պաշտպանելու համար:</item>
+        <item quantity="one">Կասկածելի գործունեություն է հայտնաբերվել: Ապատեղադրեք ներքևի ծրագրերը՝ պլանշետը և տվյալները պաշտպանելու համար:</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Կասկածելի գործունեություն է հայտնաբերվել: Ապատեղադրեք այդ ծրագրերը՝ հեռախոսը և տվյալները պաշտպանելու համար:</item>
+        <item quantity="one">Կասկածելի գործունեություն է հայտնաբերվել: Ապատեղադրեք ներքևի ծրագրերը՝ հեռախոսը և տվյալները պաշտպանելու համար:</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Կասկածելի գործունեություն է հայտնաբերվել: Ապատեղադրեք այդ ծրագրերը՝ պլանշետը և տվյալները պաշտպանելու համար:</item>
+        <item quantity="one">Կասկածելի գործունեություն է հայտնաբերվել: Ապատեղադրեք ներքևի ծրագրերը՝ պլանշետը և տվյալները պաշտպանելու համար:</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d սպառնալիք է հայտնաբերվել</item>
+        <item quantity="one">1 սպառնալիք է հայտնաբերվել</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d սպառնալիք</item>
+        <item quantity="one">1 սպառնալիք</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Ստորև նշված ծրագրերը կրիտիկական սխալներ են առաջացնում հեռախոսում: Անպայմանորեն խորհուրդ է տրվում ապատեղադրել այդ ծրագրերը: Ապատեղադրումից հետո կկարողանաք ծրագրերի խանութից տեղադրել յուրաքանչյուր ծրագրի մի նոր վարկած:</item>
+        <item quantity="one">Ստորև նշված ծրագիրը կրիտիկական սխալներ է առաջացնում հեռախոսում: Անպայմանորեն խորհուրդ է տրվում ապատեղադրել այդ ծրագիրը: Ապատեղադրումից հետո կկարողանաք ծրագրերի խանութից տեղադրել նոր վարկած:</item>
+    </plurals>
+</resources>

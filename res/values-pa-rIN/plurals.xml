@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">%d ਸਮੱਸਿਆਵਾਂ ਦਾ ਪਤਾ ਲੱਗਿਆ</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ਸਮੱਸਿਆ ਦਾ ਪਤਾ ਲੱਗਿਆ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">ਡਿਵਾਈਸ ਦੇਖਭਾਲ ਨੇ %d ਐਪਸ ਦਾ ਪਤਾ ਲਗਾਇਆ ਹੈ ਜਿਸ ਵਿੱਚ ਮਾਲਵੇਅਰ, ਐਪ ਕ੍ਰੈਸ਼ ਜਾਂ ਉੱਚ ਬੈਟਰੀ ਉਪਯੋਗ ਸਮੇਤ ਸਮੱਸਿਆਵਾਂ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਡਿਵਾਈਸ ਦੇਖਭਾਲ ਨੇ %d ਐਪ ਦਾ ਪਤਾ ਲਗਾਇਆ ਹੈ ਜਿਸ ਵਿੱਚ ਮਾਲਵੇਅਰ, ਐਪ ਕ੍ਰੈਸ਼ ਜਾਂ ਉੱਚ ਬੈਟਰੀ ਉਪਯੋਗ ਸਮੇਤ ਸਮੱਸਿਆਵਾਂ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d ਦਿਨ</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ਦਿਨ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">%d ਸਕਿੰਟ ਦੀ ਨਿਸ਼ਕ੍ਰਿਅਤਾ ਤੋਂ ਬਾਅਦ ਸਕ੍ਰੀਨ ਬੰਦ ਹੋ ਜਾਵੇਗੀ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ਸਕਿੰਟ ਦੀ ਨਿਸ਼ਕ੍ਰਿਅਤਾ ਤੋਂ ਬਾਅਦ ਸਕ੍ਰੀਨ ਬੰਦ ਹੋ ਜਾਵੇਗੀ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d ਐਪਸ ਨੂੰ ਸਲੀਪ ਵਿੱਚ ਪਾਇਆ ਗਿਆ।</item>
+        <item quantity="one">1 ਐਪ ਨੂੰ ਸਲੀਪ ਵਿੱਚ ਪਾਇਆ ਗਿਆ।</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">%d ਐਪਸ ਨੂੰ ਸਲੀਪ ਵਿੱਚ ਪਾਇਆ ਜਾ ਰਿਹਾ ਹੈ…</item>
+        <item quantity="one">1 ਐਪ ਨੂੰ ਸਲੀਪ ਵਿੱਚ ਪਾਇਆ ਜਾ ਰਿਹਾ ਹੈ…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">%1$d ਖਤਰਿਆਂ ਦਾ ਪਤਾ ਲੱਗਿਆ। %2$s ਵਿੱਚ ਉਨ੍ਹਾਂ ਨੂੰ ਹੱਲ ਕਰਨ ਲਈ ਇੱਥੇ ਟੈਪ ਕਰੋ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$d ਖਤਰੇ ਦਾ ਪਤਾ ਲੱਗਿਆ। %2$s ਵਿੱਚ ਉਸ ਨੂੰ ਹੱਲ ਕਰਨ ਲਈ ਇੱਥੇ ਟੈਪ ਕਰੋ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d ਐਪਸ ਤੁਹਾਡੇ ਫ਼ੋਨ ਵਿੱਚ ਗੰਭੀਰ ਤਰੁੱਟੀਆਂ ਉਤਪੰਨ ਕਰ ਰਹੀਆਂ ਹਨ। ਇਨ੍ਹਾਂ ਐਪਸ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰਨ ਦੀ ਸਿਫਾਰਿਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।</item>
+        <item quantity="one">1 ਐਪ ਤੁਹਾਡੇ ਫ਼ੋਨ ਵਿੱਚ ਗੰਭੀਰ ਤਰੁੱਟੀਆਂ ਉਤਪੰਨ ਕਰ ਰਹੀ ਹੈ। ਇਸ ਐਪ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰਨ ਦੀ ਸਿਫਾਰਿਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d ਐਪਸ</item>
+        <item quantity="one">1 ਐਪ</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">ਬੈਕਗ੍ਰਾਉਂਡ ਐਪਸ ਨੂੰ ਬੰਦ ਕੀਤਾ ਗਿਆ</item>
+        <item quantity="one">ਬੈਕਗ੍ਰਾਉਂਡ ਐਪ ਨੂੰ ਬੰਦ ਕੀਤਾ ਗਿਆ</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d ਉੱਚ ਬੈਟਰੀ ਉਪਯੋਗ ਵਾਲੇ ਐਪਸ। ਪਾਵਰ ਬਚਾਉਣ ਲਈ ਉਸ ਨੂੰ ਸਲੀਪ ਵਿੱਚ ਪਾਉ। ਇਹ ਅਪਡੇਟ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ ਜਾਂ ਸੂਚਨਾਵਾਂ ਨਹੀਂ ਭੇਜ ਸਕਦਾ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਉਸ ਨੂੰ ਦੁਬਾਰਾ ਨਹੀਂ ਖੋਲ੍ਹਦੇ ਹੋ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ਉੱਚ ਬੈਟਰੀ ਉਪਯੋਗ ਵਾਲਾ ਐਪ। ਪਾਵਰ ਬਚਾਉਣ ਲਈ ਉਸ ਨੂੰ ਸਲੀਪ ਵਿੱਚ ਪਾਉ। ਇਹ ਅਪਡੇਟ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ ਜਾਂ ਸੂਚਨਾਵਾਂ ਨਹੀਂ ਭੇਜ ਸਕਦਾ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਉਸ ਨੂੰ ਦੁਬਾਰਾ ਨਹੀਂ ਖੋਲ੍ਹਦੇ ਹੋ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">%d ਕ੍ਰੈਸ਼ ਕੀਤੇ ਐਪਸ ਲੱਭੇ। ਆਪਣੇ ਫ਼ੋਨ ਦੀ ਗਤੀ ਵਧਾਉਣ ਲਈ ਉਸ ਨੂੰ ਸਲੀਪ ਵਿੱਚ ਪਾਉ। ਇਹ ਅਪਡੇਟ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ ਜਾਂ ਸੂਚਨਾਵਾਂ ਨਹੀਂ ਭੇਜ ਸਕਦਾ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਉਸ ਨੂੰ ਦੁਬਾਰਾ ਨਹੀਂ ਖੋਲ੍ਹਦੇ ਹੋ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ਕ੍ਰੈਸ਼ ਕੀਤੀ ਐਪ ਲੱਭੀ। ਆਪਣੇ ਫ਼ੋਨ ਦੀ ਗਤੀ ਵਧਾਉਣ ਲਈ ਉਸ ਨੂੰ ਸਲੀਪ ਵਿੱਚ ਪਾਉ। ਇਹ ਅਪਡੇਟ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ ਜਾਂ ਸੂਚਨਾਵਾਂ ਨਹੀਂ ਭੇਜ ਸਕਦਾ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਉਸ ਨੂੰ ਦੁਬਾਰਾ ਨਹੀਂ ਖੋਲ੍ਹਦੇ ਹੋ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">ਕ੍ਰੈਸ਼ ਹੋਈਆਂ %d ਐਪਸ ਲੱਭੀਆਂ ਹਨ। ਆਪਣੇ ਟੈਬਲੇਟ ਦੀ ਗਤੀ ਵਧਾਉਣ ਲਈ ਉਨ੍ਹਾਂ ਨੂੰ ਸਲੀਪ ਵਿੱਚ ਪਾਉ। ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਉਨ੍ਹਾਂ ਐਪਸ ਨੂੰ ਦੁਬਾਰਾ ਨਹੀਂ ਖੋਲ੍ਹੋਗੇ ਉਦੋਂ ਤੱਕ ਉਨ੍ਹਾਂ ਨੂੰ ਅਪਡੇਟਸ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋਣਗੀਆਂ ਜਾਂ ਉਹ ਸੂਚਨਾਵਾਂ ਨਹੀਂ ਭੇਜ ਸਕਣਗੀਆਂ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਕ੍ਰੈਸ਼ ਹੋਈ %d ਐਪ ਲੱਭੀ ਹੈ। ਆਪਣੇ ਟੈਬਲੇਟ ਦੀ ਗਤੀ ਵਧਾਉਣ ਲਈ ਉਸ ਨੂੰ ਸਲੀਪ ਵਿੱਚ ਪਾਉ। ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ ਉਸ ਐਪ ਨੂੰ ਦੁਬਾਰਾ ਨਹੀਂ ਖੋਲ੍ਹੋਗੇ ਉਦੋਂ ਤੱਕ ਉਸ ਨੂੰ ਅਪਡੇਟਸ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋਣਗੀਆਂ ਜਾਂ ਉਹ ਸੂਚਨਾਵਾਂ ਨਹੀਂ ਭੇਜ ਸਕੇਗੀ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">%d ਮਾਲਵੇਅਰ ਐਪਸ ਦਾ ਪਤਾ ਲੱਗਿਆ। ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਉਸ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰੋ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ਮਾਲਵੇਅਰ ਐਪ ਦਾ ਪਤਾ ਲੱਗਿਆ। ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਉਸ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰੋ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">%d ਮਾਲਵੇਅਰ ਐਪਸ ਦਾ ਪਤਾ ਲੱਗਿਆ ਹੈ। ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਉਨ੍ਹਾਂ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰੋ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ਮਾਲਵੇਅਰ ਐਪ ਦਾ ਪਤਾ ਲੱਗਿਆ ਹੈ। ਆਪਣੇ ਟੈਬਲੇਟ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਉਸ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰੋ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">ਸ਼ੱਕੀ ਗਤੀਵਿਧੀ ਦਾ ਪਤਾ ਲੱਗਿਆ ਹੈ। ਆਪਣੇ ਫ਼ੋਨ ਅਤੇ ਡੈਟਾ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਇਹ ਐਪਸ ਅਣਸਥਾਪਿਤ ਕਰੋ।</item>
+        <item quantity="one">ਸ਼ੱਕੀ ਗਤੀਵਿਧੀ ਦਾ ਪਤਾ ਲੱਗਾ ਹੈ। ਆਪਣੇ ਫ਼ੋਨ ਅਤੇ ਡੈਟਾ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਐਪਸ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">ਸ਼ੱਕੀ ਗਤੀਵਿਧੀ ਦਾ ਪਤਾ ਲੱਗਿਆ ਹੈ। ਆਪਣੇ ਟੈਬਲੇਟ ਅਤੇ ਡੈਟਾ ਦੀ ਰੱਖਿਆ ਕਰਨ ਇਨ੍ਹਾਂ ਐਪਸ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰੋ।</item>
+        <item quantity="one">ਸ਼ੱਕੀ ਗਤੀਵਿਧੀ ਦਾ ਪਤਾ ਲੱਗਾ ਹੈ। ਆਪਣੇ ਟੈਬਲੇਟ ਅਤੇ ਡੈਟਾ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਐਪਸ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">ਸ਼ੱਕੀ ਗਤੀਵਿਧੀ ਦਾ ਪਤਾ ਲੱਗਿਆ ਹੈ। ਆਪਣੇ ਫ਼ੋਨ ਅਤੇ ਡੈਟਾ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਇਹ ਐਪਸ ਅਣਸਥਾਪਿਤ ਕਰੋ।</item>
+        <item quantity="one">ਸ਼ੱਕੀ ਗਤੀਵਿਧੀ ਦਾ ਪਤਾ ਲੱਗਾ ਹੈ। ਆਪਣੇ ਫ਼ੋਨ ਅਤੇ ਡੈਟਾ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਐਪਸ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">ਸ਼ੱਕੀ ਗਤੀਵਿਧੀ ਦਾ ਪਤਾ ਲੱਗਿਆ ਹੈ। ਆਪਣੇ ਟੈਬਲੇਟ ਅਤੇ ਡੈਟਾ ਦੀ ਰੱਖਿਆ ਕਰਨ ਇਨ੍ਹਾਂ ਐਪਸ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰੋ।</item>
+        <item quantity="one">ਸ਼ੱਕੀ ਗਤੀਵਿਧੀ ਦਾ ਪਤਾ ਲੱਗਾ ਹੈ। ਆਪਣੇ ਟੈਬਲੇਟ ਅਤੇ ਡੈਟਾ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਐਪਸ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰੋ।</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">%d ਖਤਰਿਆਂ ਦਾ ਪਤਾ ਲਗਾਇਆ ਗਿਆ</item>
+        <item quantity="one">1 ਖਤਰੇ ਦਾ ਪਤਾ ਲਗਾਇਆ ਗਿਆ</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d ਖਤਰੇ</item>
+        <item quantity="one">1 ਖਤਰਾ</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">ਹੇਠਾਂ ਦਿੱਤੀਆਂ ਐਪਸ ਤੁਹਾਡੇ ਫ਼ੋਨ ਵਿੱਚ ਗੰਭੀਰ ਤਰੁੱਟੀਆਂ ਉਤਪੰਨ ਕਰ ਰਹੀਆਂ ਹਨ। ਇਨ੍ਹਾਂ ਐਪਸ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰਨ ਦੀ ਸਿਫਾਰਿਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ। ਅਣਸਥਾਪਿਤ ਕਰਨ ਤੋਂ ਬਾਅਦ, ਤੁਸੀਂ ਕਿਸੇ ਐਪ ਸਟੋਰ ਤੋਂ ਹਰ ਇੱਕ ਐਪ ਦਾ ਨਵਾਂ ਸੰਸਕਰਣ ਸਥਾਪਿਤ ਕਰ ਸਕਦੇ ਹੋ।</item>
+        <item quantity="one">ਹੇਠਾਂ ਦਿੱਤੀ ਐਪ ਤੁਹਾਡੇ ਫ਼ੋਨ ਵਿੱਚ ਗੰਭੀਰ ਤਰੁੱਟੀਆਂ ਉਤਪੰਨ ਕਰ ਰਹੀ ਹੈ। ਇਸ ਐਪ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰਨ ਦੀ ਸਿਫਾਰਿਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ। ਅਣਸਥਾਪਿਤ ਕਰਨ ਤੋਂ ਬਾਅਦ, ਤੁਸੀਂ ਕਿਸੇ ਐਪ ਸਟੋਰ ਤੋਂ ਇਸ ਦਾ ਨਵਾਂ ਸੰਸਕਰਣ ਸਥਾਪਿਤ ਕਰ ਸਕਦੇ ਹੋ।</item>
+    </plurals>
+</resources>

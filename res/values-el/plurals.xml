@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_history_detail_list_times">
+        <item quantity="other">Εντοπίστηκαν %d προβλήματα</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Εντοπίστηκε %d πρόβλημα</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_history_list_description">
+        <item quantity="other">Η φροντίδα συσκευής εντόπισε %d εφαρμογές που μπορεί να προκαλούν προβλήματα, όπως κακόβουλο λογισμικό, σφάλματα εφαρμογών ή υψηλή κατανάλωση μπαταρίας.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Η φροντίδα συσκευής εντόπισε %d εφαρμογή που μπορεί να προκαλεί προβλήματα, όπως κακόβουλο λογισμικό, σφάλματα εφαρμογών ή υψηλή κατανάλωση μπαταρίας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_app_power_saving_period_other_day">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ημέρα</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_optimize_settings_screen_timeout_summary">
+        <item quantity="other">Η οθόνη θα απενεργοποιηθεί μετά από %d δευτερόλεπτα αδράνειας.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Η οθόνη θα απενεργοποιηθεί μετά από %d δευτερόλεπτο αδράνειας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="battery_put_app_to_sleep">
+        <item quantity="other">%d εφαρμογές τέθηκαν σε αδράνεια.</item>
+        <item quantity="one">1 εφαρμογή έχει τεθεί σε αδράνεια.</item>
+    </plurals>
+    <plurals name="battery_putting_app_to_sleep">
+        <item quantity="other">Τοποθέτηση %d εφαρμογών σε αδράνεια…</item>
+        <item quantity="one">Τοποθέτηση 1 εφαρμογής σε αδράνεια…</item>
+    </plurals>
+    <plurals name="notification_security_result_manual_message">
+        <item quantity="other">Εντοπίστηκαν %1$d απειλές. Πατήστε εδώ για την επίλυσή τους στην εφαρμογή %2$s.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Εντοπίστηκε %1$d απειλή. Πατήστε εδώ για την επίλυσή της στην εφαρμογή %2$s.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="notification_sysabnormal_description">
+        <item quantity="other">%d εφαρμογές προκαλούν κρίσιμα σφάλματα στο τηλέφωνό σας. Συνιστάται η κατάργηση της εγκατάστασης αυτών των εφαρμογών.</item>
+        <item quantity="one">1 εφαρμογή προκαλεί κρίσιμα σφάλματα στο τηλέφωνό σας. Συνιστάται η κατάργηση της εγκατάστασης αυτής της εφαρμογής.</item>
+    </plurals>
+    <plurals name="sb_detail_auto_pd_apps">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">1 εφαρμογή</item>
+    </plurals>
+    <plurals name="sb_detail_auto_summary_ram">
+        <item quantity="other">Έκλεισαν οι εφαρμογές παρασκηνίου</item>
+        <item quantity="one">Έκλεισε η εφαρμογή παρασκηνίου</item>
+    </plurals>
+    <plurals name="sb_detail_manual_abnormal_battery_category">
+        <item quantity="other">%d εφαρμογές παρουσιάζουν υψηλή κατανάλωση μπαταρίας. Θέστε τις σε αδράνεια για εξοικονόμηση ισχύος. Οι εφαρμογές ενδέχεται να μην λαμβάνουν ενημερώσεις ή να στέλνουν ειδοποιήσεις μέχρι να τις ανοίξετε ξανά.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d εφαρμογή παρουσιάζει υψηλή κατανάλωση μπαταρίας. Θέστε την σε αδράνεια για εξοικονόμηση ισχύος. Η εφαρμογή ενδέχεται να μην λαμβάνει ενημερώσεις ή να στέλνει ειδοποιήσεις μέχρι να την ανοίξετε ξανά.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category">
+        <item quantity="other">Εντοπίστηκαν %d εφαρμογές που παρουσίασαν σφάλμα. Θέστε τις σε αδράνεια για να επιταχύνετε τη λειτουργία του τηλεφώνου. Οι εφαρμογές ενδέχεται να μην λαμβάνουν ενημερώσεις ή να στέλνουν ειδοποιήσεις μέχρι να τις ανοίξετε ξανά.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Εντοπίστηκε %d εφαρμογή που παρουσίασε σφάλμα. Θέστε την σε αδράνεια για να επιταχύνετε τη λειτουργία του τηλεφώνου. Η εφαρμογή ενδέχεται να μην λαμβάνει ενημερώσεις ή να στέλνει ειδοποιήσεις μέχρι να την ανοίξετε ξανά.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_crash_category_tablet">
+        <item quantity="other">Εντοπίστηκαν %d εφαρμογές που παρουσίασαν σφάλμα. Θέστε τις σε αδράνεια για να επιταχύνετε τη λειτουργία του tablet. Οι εφαρμογές ενδέχεται να μην λαμβάνουν ενημερώσεις ή να στέλνουν ειδοποιήσεις μέχρι να τις ανοίξετε ξανά.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Εντοπίστηκε %d εφαρμογή που παρουσίασε σφάλμα. Θέστε την σε αδράνεια για να επιταχύνετε τη λειτουργία του tablet. Η εφαρμογή ενδέχεται να μην λαμβάνει ενημερώσεις ή να στέλνει ειδοποιήσεις μέχρι να την ανοίξετε ξανά.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category">
+        <item quantity="other">Εντοπίστηκαν %d κακόβουλες εφαρμογές. Καταργήστε την εγκατάστασή τους για να διατηρήσετε ασφαλές το τηλέφωνό σας.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Εντοπίστηκε %d κακόβουλη εφαρμογή. Καταργήστε την εγκατάστασή της για να διατηρήσετε ασφαλές το τηλέφωνό σας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_malware_category_tablet">
+        <item quantity="other">Εντοπίστηκαν %d κακόβουλες εφαρμογές. Καταργήστε την εγκατάστασή τους για να διατηρήσετε ασφαλές το tablet σας.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Εντοπίστηκε %d κακόβουλη εφαρμογή. Καταργήστε την εγκατάστασή της για να διατηρήσετε ασφαλές το tablet σας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category">
+        <item quantity="other">Εντοπίστηκε ύποπτη δραστηριότητα. Καταργήστε την εγκατάσταση αυτών των εφαρμογών για να προστατέψετε το τηλέφωνο και τα δεδομένα σας.</item>
+        <item quantity="one">Εντοπίστηκε ύποπτη δραστηριότητα. Καταργήστε την εγκατάσταση των παρακάτω εφαρμογών για να προστατέψετε το τηλέφωνο και τα δεδομένα σας.</item>
+    </plurals>
+    <plurals name="sb_detail_manual_suspicious_category_tablet">
+        <item quantity="other">Εντοπίστηκε ύποπτη δραστηριότητα. Καταργήστε την εγκατάσταση αυτών των εφαρμογών για να προστατέψετε το tablet και τα δεδομένα σας.</item>
+        <item quantity="one">Εντοπίστηκε ύποπτη δραστηριότητα. Καταργήστε την εγκατάσταση των παρακάτω εφαρμογών για να προστατέψετε το tablet και τα δεδομένα σας.</item>
+    </plurals>
+    <plurals name="security_aasa_description_phone">
+        <item quantity="other">Εντοπίστηκε ύποπτη δραστηριότητα. Καταργήστε την εγκατάσταση αυτών των εφαρμογών για να προστατέψετε το τηλέφωνο και τα δεδομένα σας.</item>
+        <item quantity="one">Εντοπίστηκε ύποπτη δραστηριότητα. Καταργήστε την εγκατάσταση των παρακάτω εφαρμογών για να προστατέψετε το τηλέφωνο και τα δεδομένα σας.</item>
+    </plurals>
+    <plurals name="security_aasa_description_tablet">
+        <item quantity="other">Εντοπίστηκε ύποπτη δραστηριότητα. Καταργήστε την εγκατάσταση αυτών των εφαρμογών για να προστατέψετε το tablet και τα δεδομένα σας.</item>
+        <item quantity="one">Εντοπίστηκε ύποπτη δραστηριότητα. Καταργήστε την εγκατάσταση των παρακάτω εφαρμογών για να προστατέψετε το tablet και τα δεδομένα σας.</item>
+    </plurals>
+    <plurals name="security_result_message">
+        <item quantity="other">Εντοπίστηκαν %d απειλές</item>
+        <item quantity="one">Εντοπίστηκε 1 απειλή</item>
+    </plurals>
+    <plurals name="security_scan_result_threat">
+        <item quantity="other">%d απειλές</item>
+        <item quantity="one">1 απειλή</item>
+    </plurals>
+    <plurals name="uninstall_dialog_sysabnormal_description">
+        <item quantity="other">Οι παρακάτω εφαρμογές προκαλούν κρίσιμα σφάλματα στο τηλέφωνό σας. Συνιστάται η κατάργηση της εγκατάστασης αυτών των εφαρμογών. Μετά την κατάργηση της εγκατάστασης, μπορεί να έχετε τη δυνατότητα να εγκαταστήσετε νέες εκδόσεις των εφαρμογών από κάποιο κατάστημα εφαρμογών.</item>
+        <item quantity="one">Η παρακάτω εφαρμογή προκαλεί κρίσιμα σφάλματα στο τηλέφωνό σας. Συνιστάται η κατάργηση της εγκατάστασης αυτής της εφαρμογής. Μετά την κατάργηση της εγκατάστασης, μπορεί να έχετε τη δυνατότητα να εγκαταστήσετε μια νέα έκδοση από κάποιο κατάστημα εφαρμογών.</item>
+    </plurals>
+</resources>

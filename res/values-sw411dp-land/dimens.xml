@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_body_margin_start">26.0dip</dimen>
+    <dimen name="widget_inner_image_dimension">26.0dip</dimen>
+    <dimen name="widget_optimize_layout_width">187.0dip</dimen>
+    <dimen name="widget_optimize_layout_margin_end">13.0dip</dimen>
+    <dimen name="widget_optimize_text_margin">6.0dip</dimen>
+    <dimen name="widget_used_total_text_margin">6.0dip</dimen>
+</resources>
